@@ -1,0 +1,28 @@
+114. Assessment. 2017 Mar;24(2):157-172. doi: 10.1177/1073191115602551. Epub 2016 Jul 
+28.
+
+Automated Assessment of Patients' Self-Narratives for Posttraumatic Stress 
+Disorder Screening Using Natural Language Processing and Text Mining.
+
+He Q(1), Veldkamp BP(1), Glas CA(1), de Vries T(1).
+
+Author information:
+(1)1 University of Twente, Enschede, Netherlands.
+
+Patients' narratives about traumatic experiences and symptoms are useful in 
+clinical screening and diagnostic procedures. In this study, we presented an 
+automated assessment system to screen patients for posttraumatic stress disorder 
+via a natural language processing and text-mining approach. Four 
+machine-learning algorithms-including decision tree, naive Bayes, support vector 
+machine, and an alternative classification approach called the product score 
+model-were used in combination with n-gram representation models to identify 
+patterns between verbal features in self-narratives and psychiatric diagnoses. 
+With our sample, the product score model with unigrams attained the highest 
+prediction accuracy when compared with practitioners' diagnoses. The addition of 
+multigrams contributed most to balancing the metrics of sensitivity and 
+specificity. This article also demonstrates that text mining is a promising 
+approach for analyzing patients' self-expression behavior, thus helping 
+clinicians identify potential patients from an early stage.
+
+DOI: 10.1177/1073191115602551
+PMID: 26358713 [Indexed for MEDLINE]

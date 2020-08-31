@@ -1,0 +1,38 @@
+121. BMC Bioinformatics. 2007 Aug 7;8:293. doi: 10.1186/1471-2105-8-293.
+
+Automatic reconstruction of a bacterial regulatory network using Natural 
+Language Processing.
+
+Rodríguez-Penagos C(1), Salgado H, Martínez-Flores I, Collado-Vides J.
+
+Author information:
+(1)Programa de Genómica Computacional, Centro de Ciencias Genómicas, Universidad 
+Nacional Autónoma de México, Apdo, Postal 565-A, Avenida Universidad, 
+Cuernavaca, Morelos, 62100, Mexico. crodrigp@ccg.unam.mx.
+
+BACKGROUND: Manual curation of biological databases, an expensive and 
+labor-intensive process, is essential for high quality integrated data. In this 
+paper we report the implementation of a state-of-the-art Natural Language 
+Processing system that creates computer-readable networks of regulatory 
+interactions directly from different collections of abstracts and full-text 
+papers. Our major aim is to understand how automatic annotation using 
+Text-Mining techniques can complement manual curation of biological databases. 
+We implemented a rule-based system to generate networks from different sets of 
+documents dealing with regulation in Escherichia coli K-12.
+RESULTS: Performance evaluation is based on the most comprehensive 
+transcriptional regulation database for any organism, the manually-curated 
+RegulonDB, 45% of which we were able to recreate automatically. From our 
+automated analysis we were also able to find some new interactions from papers 
+not already curated, or that were missed in the manual filtering and review of 
+the literature. We also put forward a novel Regulatory Interaction Markup 
+Language better suited than SBML for simultaneously representing data of 
+interest for biologists and text miners.
+CONCLUSION: Manual curation of the output of automatic processing of text is a 
+good way to complement a more detailed review of the literature, either for 
+validating the results of what has been already annotated, or for discovering 
+facts and information that might have been overlooked at the triage or curation 
+stages.
+
+DOI: 10.1186/1471-2105-8-293
+PMCID: PMC1964768
+PMID: 17683642 [Indexed for MEDLINE]

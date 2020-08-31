@@ -1,0 +1,29 @@
+116. Stud Health Technol Inform. 2015;212:9-14.
+
+Semantic retrieval and navigation in clinical document collections.
+
+Kreuzthaler M(1), Daumke P(2), Schulz S(1).
+
+Author information:
+(1)Institute for Medical Informatics, Statistics and Documentation, Medical 
+University of Graz, Austria.
+(2)Averbis GmbH, Freiburg, Germany.
+
+Patients with chronic diseases undergo numerous in- and outpatient treatment 
+periods, and therefore many documents accumulate in their electronic records. We 
+report on an on-going project focussing on the semantic enrichment of medical 
+texts, in order to support recall-oriented navigation across a patient's 
+complete documentation. A document pool of 1,696 de-identified discharge 
+summaries was used for prototyping. A natural language processing toolset for 
+document annotation (based on the text-mining framework UIMA) and indexing 
+(Solr) was used to support a browser-based platform for document import, search 
+and navigation. The integrated search engine combines free text and 
+concept-based querying, supported by dynamically generated facets (diagnoses, 
+procedures, medications, lab values, and body parts). The prototype demonstrates 
+the feasibility of semantic document enrichment within document collections of a 
+single patient. Originally conceived as an add-on for the clinical workplace, 
+this technology could also be adapted to support personalised health record 
+platforms, as well as cross-patient search for cohort building and other 
+secondary use scenarios.
+
+PMID: 26063251 [Indexed for MEDLINE]

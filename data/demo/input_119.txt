@@ -1,0 +1,33 @@
+119. J Cheminform. 2011 May 16;3(1):17. doi: 10.1186/1758-2946-3-17.
+
+ChemicalTagger: A tool for semantic text-mining in chemistry.
+
+Hawizy L(1), Jessop DM, Adams N, Murray-Rust P.
+
+Author information:
+(1)Unilever Centre for Molecular Science Informatics, Department of Chemistry, 
+Lensfield Road, Cambridge, CB2 1EW, UK. lh359@cam.ac.uk.
+
+BACKGROUND: The primary method for scientific communication is in the form of 
+published scientific articles and theses which use natural language combined 
+with domain-specific terminology. As such, they contain free owing unstructured 
+text. Given the usefulness of data extraction from unstructured literature, we 
+aim to show how this can be achieved for the discipline of chemistry. The highly 
+formulaic style of writing most chemists adopt make their contributions well 
+suited to high-throughput Natural Language Processing (NLP) approaches.
+RESULTS: We have developed the ChemicalTagger parser as a medium-depth, 
+phrase-based semantic NLP tool for the language of chemical experiments. Tagging 
+is based on a modular architecture and uses a combination of OSCAR, 
+domain-specific regex and English taggers to identify parts-of-speech. The ANTLR 
+grammar is used to structure this into tree-based phrases. Using a metric that 
+allows for overlapping annotations, we achieved machine-annotator agreements of 
+88.9% for phrase recognition and 91.9% for phrase-type identification (Action 
+names).
+CONCLUSIONS: It is possible parse to chemical experimental text using rule-based 
+techniques in conjunction with a formal grammar parser. ChemicalTagger has been 
+deployed for over 10,000 patents and has identified solvents from their 
+linguistic context with >99.5% precision.
+
+DOI: 10.1186/1758-2946-3-17
+PMCID: PMC3117806
+PMID: 21575201

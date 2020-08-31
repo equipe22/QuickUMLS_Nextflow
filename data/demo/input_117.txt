@@ -1,0 +1,23 @@
+117. Methods Mol Biol. 2014;1159:269-86. doi: 10.1007/978-1-4939-0709-0_15.
+
+Mining the electronic health record for disease knowledge.
+
+Chen ES(1), Sarkar IN.
+
+Author information:
+(1)Center for Clinical and Translational Science, University of Vermont, 
+Burlington, VT, USA, liz.chen@uvm.edu.
+
+The growing amount and availability of electronic health record (EHR) data 
+present enhanced opportunities for discovering new knowledge about diseases. In 
+the past decade, there has been an increasing number of data and text mining 
+studies focused on the identification of disease associations (e.g., 
+disease-disease, disease-drug, and disease-gene) in structured and unstructured 
+EHR data. This chapter presents a knowledge discovery framework for mining the 
+EHR for disease knowledge and describes each step for data selection, 
+preprocessing, transformation, data mining, and interpretation/validation. 
+Topics including natural language processing, standards, and data privacy and 
+security are also discussed in the context of this framework.
+
+DOI: 10.1007/978-1-4939-0709-0_15
+PMID: 24788272 [Indexed for MEDLINE]

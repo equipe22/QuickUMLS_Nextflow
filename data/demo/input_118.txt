@@ -1,0 +1,28 @@
+118. Pac Symp Biocomput. 2018;23:602-613.
+
+Annotating gene sets by mining large literature collections with protein 
+networks.
+
+Wang S(1), Ma J, Yu MK, Zheng F, Huang EW, Han J, Peng J, Ideker T.
+
+Author information:
+(1)Department of Computer Science, University of Illinois at Urbana-Champaign, 
+Urbana, IL, USA.
+
+Analysis of patient genomes and transcriptomes routinely recognizes new gene 
+sets associated with human disease. Here we present an integrative natural 
+language processing system which infers common functions for a gene set through 
+automatic mining of the scientific literature with biological networks. This 
+system links genes with associated literature phrases and combines these links 
+with protein interactions in a single heterogeneous network. Multiscale 
+functional annotations are inferred based on network distances between phrases 
+and genes and then visualized as an ontology of biological concepts. To evaluate 
+this system, we predict functions for gene sets representing known pathways and 
+find that our approach achieves substantial improvement over the conventional 
+text-mining baseline method. Moreover, our system discovers novel annotations 
+for gene sets or pathways without previously known functions. Two case studies 
+demonstrate how the system is used in discovery of new cancer-related pathways 
+with ontological annotations.
+
+PMCID: PMC5806628
+PMID: 29218918 [Indexed for MEDLINE]

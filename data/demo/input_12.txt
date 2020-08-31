@@ -1,0 +1,60 @@
+12. J Telemed Telecare. 2015 Sep;21(6):323-30. doi: 10.1177/1357633X15582108. Epub 
+2015 May 20.
+
+Electronic consultations (e-consults) to improve access to specialty care: a 
+systematic review and narrative synthesis.
+
+Vimalananda VG(1), Gupte G(2), Seraj SM(2), Orlander J(3), Berlowitz D(4), 
+Fincke BG(5), Simon SR(6).
+
+Author information:
+(1)Center for Healthcare Organization and Implementation Research (CHOIR), US 
+Department of Veterans Affairs, Bedford, Massachusetts, USA Section of 
+Endocrinology, Diabetes, and Nutrition, Boston University School of Medicine, 
+Boston, Massachusetts, USA varsha.vimalananda@va.gov.
+(2)Department of Health Policy and Management, Boston University School of 
+Public Health, Boston, Massachusetts, USA.
+(3)VA Boston Healthcare System, Boston, Massachusetts, USA Section of General 
+Internal Medicine, Boston University School of Medicine, Boston, Massachusetts, 
+USA.
+(4)Center for Healthcare Organization and Implementation Research (CHOIR), US 
+Department of Veterans Affairs, Bedford, Massachusetts, USA Department of Health 
+Policy and Management, Boston University School of Public Health, Boston, 
+Massachusetts, USA.
+(5)Center for Healthcare Organization and Implementation Research (CHOIR), US 
+Department of Veterans Affairs, Bedford, Massachusetts, USA.
+(6)Center for Healthcare Organization and Implementation Research (CHOIR), US 
+Department of Veterans Affairs, Bedford, Massachusetts, USA VA Boston Healthcare 
+System, Boston, Massachusetts, USA Division of General Internal Medicine, 
+Brigham and Women's Hospital, Boston Massachusetts, USA Harvard Medical School, 
+Massachusetts, USA.
+
+BACKGROUND: We define electronic consultations ("e-consults") as asynchronous, 
+consultative, provider-to-provider communications within a shared electronic 
+health record (EHR) or web-based platform. E-consults are intended to improve 
+access to specialty expertise for patients and providers without the need for a 
+face-to-face visit. Our goal was to systematically review and summarize the 
+literature describing the use and effects of e-consults.
+METHODS: We searched PubMed, EMBASE, the Cochrane Library, and CINAHL for 
+studies related to e-consults published between 1990 through December 2014. 
+Three reviewers identified empirical studies and system descriptions, including 
+articles on systems that used a shared EHR or web-based platform, connected 
+providers in the same health system, were used for two-way provider 
+communication, and were text-based.
+RESULTS: Our final review included 27 articles. Twenty-two were research studies 
+and five were system descriptions. Eighteen originated from one of three sites 
+with well-developed e-consult programs. Most studies reported on workflow 
+impact, timeliness of specialty input, and/or provider perceptions of 
+e-consults. E-consultations are used in a variety of ways within and across 
+medical centers. They provide timely access to specialty care and are 
+well-received by primary care providers.
+DISCUSSION: E-consults are feasible in a variety of settings, flexible in their 
+application, and facilitate timely specialty advice. More extensive and rigorous 
+studies are needed to inform the e-consult process and describe its effect on 
+access to specialty visits, cost and clinical outcomes.
+
+© The Author(s) 2015.
+
+DOI: 10.1177/1357633X15582108
+PMCID: PMC4561452
+PMID: 25995331 [Indexed for MEDLINE]

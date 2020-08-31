@@ -1,0 +1,52 @@
+1. Int J Med Inform. 2019 May;125:37-46. doi: 10.1016/j.ijmedinf.2019.02.008. Epub 
+2019 Feb 20.
+
+A systematic review of natural language processing and text mining of symptoms 
+from electronic patient-authored text data.
+
+Dreisbach C(1), Koleck TA(2), Bourne PE(3), Bakken S(4).
+
+Author information:
+(1)University of Virginia, School of Nursing, Charlottesville, VA, USA; 
+University of Virginia, Data Science Institute, Charlottesville, VA, USA.
+(2)Columbia University, School of Nursing, New York, NY, USA.
+(3)University of Virginia, Data Science Institute, Charlottesville, VA, USA; 
+University of Virginia, Department of Biomedical Engineering, Charlottesville, 
+VA, USA.
+(4)Columbia University, School of Nursing, New York, NY, USA; Columbia 
+University, Department of Biomedical Informatics, New York, NY, USA; Columbia 
+University, Data Science Institute, New York, NY, USA. Electronic address: 
+sbh22@cumc.columbia.edu.
+
+OBJECTIVE: In this systematic review, we aim to synthesize the literature on the 
+use of natural language processing (NLP) and text mining as they apply to 
+symptom extraction and processing in electronic patient-authored text (ePAT).
+MATERIALS AND METHODS: A comprehensive literature search of 1964 articles from 
+PubMed and EMBASE was narrowed to 21 eligible articles. Data related to purpose, 
+text source, number of users and/or posts, evaluation metrics, and quality 
+indicators were recorded.
+RESULTS: Pain (n = 18) and fatigue and sleep disturbance (n = 18) were the most 
+frequently evaluated symptom clinical content categories. Studies accessed ePAT 
+from sources such as Twitter and online community forums or patient portals 
+focused on diseases, including diabetes, cancer, and depression. Fifteen studies 
+used NLP as a primary methodology. Studies reported evaluation metrics including 
+the precision, recall, and F-measure for symptom-specific research questions.
+DISCUSSION: NLP and text mining have been used to extract and analyze 
+patient-authored symptom data in a wide variety of online communities. Though 
+there are computational challenges with accessing ePAT, the depth of information 
+provided directly from patients offers new horizons for precision medicine, 
+characterization of sub-clinical symptoms, and the creation of personal health 
+libraries as outlined by the National Library of Medicine.
+CONCLUSION: Future research should consider the needs of patients expressed 
+through ePAT and its relevance to symptom science. Understanding the role that 
+ePAT plays in health communication and real-time assessment of symptoms, through 
+the use of NLP and text mining, is critical to a patient-centered health system.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijmedinf.2019.02.008
+PMCID: PMC6438188
+PMID: 30914179 [Indexed for MEDLINE]
+
+Conflict of interest statement: CONFLICT OF INTEREST We have no conflicts of 
+interest to disclose.

@@ -1,0 +1,38 @@
+120. J Biomed Inform. 2013 Apr;46(2):200-11. doi: 10.1016/j.jbi.2012.10.007. Epub 
+2012 Nov 15.
+
+Biomedical text mining and its applications in cancer research.
+
+Zhu F(1), Patumcharoenpol P, Zhang C, Yang Y, Chan J, Meechai A, Vongsangnak W, 
+Shen B.
+
+Author information:
+(1)Center for Systems Biology, Soochow University, Suzhou 215006, China.
+
+Cancer is a malignant disease that has caused millions of human deaths. Its 
+study has a long history of well over 100years. There have been an enormous 
+number of publications on cancer research. This integrated but unstructured 
+biomedical text is of great value for cancer diagnostics, treatment, and 
+prevention. The immense body and rapid growth of biomedical text on cancer has 
+led to the appearance of a large number of text mining techniques aimed at 
+extracting novel knowledge from scientific text. Biomedical text mining on 
+cancer research is computationally automatic and high-throughput in nature. 
+However, it is error-prone due to the complexity of natural language processing. 
+In this review, we introduce the basic concepts underlying text mining and 
+examine some frequently used algorithms, tools, and data sets, as well as 
+assessing how much these algorithms have been utilized. We then discuss the 
+current state-of-the-art text mining applications in cancer research and we also 
+provide some resources for cancer text mining. With the development of systems 
+biology, researchers tend to understand complex biomedical systems from a 
+systems biology viewpoint. Thus, the full utilization of text mining to 
+facilitate cancer systems biology research is fast becoming a major concern. To 
+address this issue, we describe the general workflow of text mining in cancer 
+systems biology and each phase of the workflow. We hope that this review can (i) 
+provide a useful overview of the current work of this field; (ii) help 
+researchers to choose text mining tools and datasets; and (iii) highlight how to 
+apply text mining to assist cancer systems biology research.
+
+Copyright © 2012 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jbi.2012.10.007
+PMID: 23159498 [Indexed for MEDLINE]
