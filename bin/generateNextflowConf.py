@@ -3,7 +3,7 @@ import os
 
 
 nextflowConfig="""
-process.$quickumls_1.container = 'quickumls-client-hegp'
+process.$quickumls_1.container = 'quickumls-democlient-hegp'
  docker {
   enabled = true
   runOptions = '--network annotations --user 1000:1000'

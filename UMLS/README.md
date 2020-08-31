@@ -1,1 +1,1 @@
-iput MRCONSO.RRF and MRSTY.RRF here
+put MRCONSO.RRF and MRSTY.RRF here
