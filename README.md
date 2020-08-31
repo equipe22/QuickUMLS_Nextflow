@@ -103,8 +103,20 @@ The user need to install nexflow as required
 
     make runnf 
     #or
-    nextflow run nfscript/demo_nlp.nf -c config/nextflow.config                                                                                                                                                                                                                                  ─╯
+    nextflow run nfscript/demo_nlp.nf -c config/nextflow.config                                                                                                                                                                                                                                  
 ```
 
 results will be output on the result folder
 
+
+# Customization:
+
+If the user wants to custom the script :
+
+```bash
+nfscript/demo_nlp.nf  # for the nextflow script
+config/nextflow.config #nexflow config
+src/client.py # quickumls client 
+
+
+```
