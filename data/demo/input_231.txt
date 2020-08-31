@@ -1,0 +1,35 @@
+231. ScientificWorldJournal. 2014;2014:560296. doi: 10.1155/2014/560296. Epub 2014 
+Apr 1.
+
+OntoTrader: an ontological Web trading agent approach for environmental 
+information retrieval.
+
+Iribarne L(1), Padilla N(1), Ayala R(1), Asensio JA(1), Criado J(1).
+
+Author information:
+(1)Applied Computing Group, Department of Informatics, University of Almeria, 
+04120 Almería, Spain.
+
+Modern Web-based Information Systems (WIS) are becoming increasingly necessary 
+to provide support for users who are in different places with different types of 
+information, by facilitating their access to the information, decision making, 
+workgroups, and so forth. Design of these systems requires the use of 
+standardized methods and techniques that enable a common vocabulary to be 
+defined to represent the underlying knowledge. Thus, mediation elements such as 
+traders enrich the interoperability of web components in open distributed 
+systems. These traders must operate with other third-party traders and/or agents 
+in the system, which must also use a common vocabulary for communication between 
+them. This paper presents the OntoTrader architecture, an Ontological Web 
+Trading agent based on the OMG ODP trading standard. It also presents the 
+ontology needed by some system agents to communicate with the trading agent and 
+the behavioral framework for the SOLERES OntoTrader agent, an Environmental 
+Management Information System (EMIS). This framework implements a 
+"Query-Searching/Recovering-Response" information retrieval model using a 
+trading service, SPARQL notation, and the JADE platform. The paper also presents 
+reflection, delegation and, federation mediation models and describes 
+formalization, an experimental testing environment in three scenarios, and a 
+tool which allows our proposal to be evaluated and validated.
+
+DOI: 10.1155/2014/560296
+PMCID: PMC3995108
+PMID: 24977211 [Indexed for MEDLINE]

@@ -1,0 +1,59 @@
+563. Online J Public Health Inform. 2015 Dec 30;7(3):e227. doi: 
+10.5210/ojphi.v7i3.6282. eCollection 2015.
+
+Characterizing the Access of Clinical Decision Support Offered by Immunization 
+Information System in Minnesota.
+
+Rajamani S(1), Bieringer A(2), Muscoplat M(2).
+
+Author information:
+(1)Public Health Informatics Program, School of Public Health, University of 
+Minnesota, Minneapolis, Minnesota.
+(2)Minnesota Immunization Information Connection (MIIC), Immunization Program, 
+Minnesota Department of Health, St. Paul, Minnesota.
+
+BACKGROUND: Healthy People 2020 aims to improve population health by increasing 
+immunization rates to decrease vaccine-preventable infectious diseases. Amongst 
+the many strategies, role of immunization information systems (IIS) are 
+recognized by studies and taskforce reports. IIS are unique in their offering of 
+clinical decision support for immunizations (CDSi) which are utilized by 
+healthcare providers. Federal initiatives such as Meaningful Use (MU) and 
+Affordable Care Act (ACA) aim to improve immunization rates through use of 
+technology and expanding access to immunization services respectively. MU, the 
+Electronic Health Record (EHR) incentive program includes use of IIS CDSi 
+functionality as part of Stage 3. It is essential to understand access and use 
+patterns of IIS CDSi, so as to utilize it better to improve immunization 
+services.
+OBJECTIVES: To understand the utilization of clinical decision support for 
+immunizations (CDSi) offered by immunization information system in Minnesota and 
+to analyze the variability of its use across providers and EHR implementations.
+METHODS: IIS in Minnesota (Minnesota Immunization Information Connection: MIIC) 
+offers CDSi that is accessed through EHRs and branded as Alternate Access (AA). 
+Data from MIIC and technical documents were reviewed to create details on 
+organizations which implemented AA functionality. Data on EHR adoption in 
+clinics and local health departments was obtained from Minnesota eHealth 
+assessment reports. Data on access were tracked from January 2015 through 
+mid-October 2015 through weekly specialized reports to track the queries by 
+organization, volume and day of the week. Data were analyzed, findings were 
+synthesized and reviewed with subject matter experts.
+RESULTS: Currently 25 healthcare systems/organizations which represent 599 
+individual provider sites have implemented the AA functionality. Analysis of 
+their EHR platform pointed to two EHRs (Epic and PH-Doc) as dominant products in 
+Minnesota for private and public providers respectively. Use of this function 
+was even across study time period. The query volume correlated to size of the 
+organization, with the exception of an outlier organization with huge query 
+count. Query was able to successfully locate a single matching record for 59% of 
+searches, could not find a record for 5% and 31% resulted in blank/error and the 
+match rates varied across health systems.
+CONCLUSION: High EHR adoption offers a great opportunity to promote use of IIS 
+CDSi at point of care. Analysis did not track use at individual clinic level and 
+how the queries were being generated. Additional research is needed to 
+understand the provider level use of this CDSi and other organizational and 
+technical factors which influence access to IIS. This is essential for IIS as 
+they execute projects to improve population-level immunization rates, plan 
+provider outreach and prioritize their system enhancements to meet federal 
+requirements.
+
+DOI: 10.5210/ojphi.v7i3.6282
+PMCID: PMC4874725
+PMID: 27252795

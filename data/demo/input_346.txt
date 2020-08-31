@@ -1,0 +1,54 @@
+346. Medinfo. 1995;8 Pt 2:1657.
+
+Current trends with natural language processing.
+
+Rassinoux AM(1), Michel PA, Wagner J, Baud R.
+
+Author information:
+(1)Faculty of Medicine, Geneva University Hospital, Switzerland.
+
+Natural Language Processing in the medical domain becomes more and more 
+powerful, efficient, and ready to be used in daily practice. The needs for such 
+tools are enormous in the medical field, due to the vast amount of written texts 
+for medical records. In the authors' point of view, the Electronic Patient 
+Record (EPR) is achieved neither with Information Systems of all kinds nor with 
+commercially available word processing systems. Natural Language Processing 
+(NLP) is one dimension of the EPR, as well as Image Processing and Decision 
+Support Systems. Analysis of medical texts to facilitate indexing and retrieval 
+is well known. The need for a generation tool is to produce progress notes from 
+menu driven systems. The computer systems of tomorrow cannot miss any single 
+dimension. Since 1988, we've been developing an NLP system; it is supported by 
+the European program AIM (Advanced Informatics in Medicine) within the GALEN and 
+HELIOS consortium and the CERS (Commission d'Encouragement á la Recherche 
+Scientifique) in Switzerland. The main directions of development are: a medical 
+language analyzer, a language generator, a query processor, and dictionary 
+building tools to support the Medical Linguistic Knowledge Base (MLKB). The 
+knowledge representation schema is essentially based on Sowa's conceptual 
+graphs, and the MLKB is multilingual from its design phase; it currently 
+incorporates the English and the French languages; it will also continue using 
+German. The goal of this demonstration is to provide evidence of what exists 
+today, what will be soon available, and what is planned for the long term. 
+Complete sentences will be processed in real time, and the browsing capabilities 
+of the MLKB will be exercised. In particular, the following features will be 
+presented: Analysis of complete sentences with verbs and relatives, as extracted 
+from clinical narratives, with special attention to the method of "proximity 
+processing" as developed in our group and the rule based approach to language 
+description to resolve the specific surface language problems as well as the 
+language independent semantic situations. Comparison of results for English, 
+French, and German sentences, showing the commonalities between these languages 
+and, therefore, the re-usable features and the language specific aspects. 
+Generation of noun phrases in English and French, showing the opportunities for 
+translation between these two languages. Application of the analyzer to build a 
+knowledge representation of ICD under the form of conceptual graphs and 
+presentation of the possibilities of a natural language encoding of diagnosis. 
+Strategies for query processing through a sample of abdominal ultrasonography 
+reports, which have been analyzed and stored under the form of conceptual 
+graphs. Feeding in and browsing of the Medical Linguistic Knowledge Base and 
+other Dictionary Building Tools, using the perspective of an international 
+initiative to converge towards a multilingual universal solution, valid for the 
+medical domain. The demonstration platform is Microsoft Windows 4 on a PC, with 
+Microsoft Visual Basic as the GUI and Quintus Prolog as NLP tools language. The 
+same programs were originally developed for Unix-based workstations and are 
+available on multiple platforms under Motif and X11. .
+
+PMID: 8591530 [Indexed for MEDLINE]

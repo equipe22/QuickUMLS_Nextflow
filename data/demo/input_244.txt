@@ -1,0 +1,25 @@
+244. Stud Health Technol Inform. 2013;190:115-7.
+
+Including other system in E-Care telemonitoring platform.
+
+Ahmed Benyahia A(1), Hajjam A, Andres E, Hajjam M, Hilaire V.
+
+Author information:
+(1)UTBM/IRTES-SET 90010 Belfort, France.
+
+Nowadays, telemonitoring systems are increasingly used, due to the increasing of 
+life expectancy and chronic diseases. Indeed, chronic diseases and disabilities 
+due to advancing age are responsible for health care costs increasingly growing. 
+Telemonitoring systems provide a low cost way to monitor patients and their 
+needs in the comfort of their own homes. In first systems, the data were 
+collected then sent directly to physicians to be interpreted. Nowadays, thanks 
+to technological advancements, software and systems have been developed to 
+process data, on a simple computer or even smartphone. In this paper, we present 
+e-Care telemonitoring system that combines the semantic web and expert system. 
+E-Care is based on generic ontologies and a decision support system. The 
+decision support system uses ontologies as knowledge base and an inference 
+engine to detect abnormal situations. E-Care platform has a generic open 
+architecture, which cans include other knowledge coming from other systems. 
+We'll show how to integrate data of auscultation sounds in this architecture.
+
+PMID: 23823394 [Indexed for MEDLINE]

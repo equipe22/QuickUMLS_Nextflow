@@ -1,0 +1,34 @@
+86. J Cheminform. 2019 Jan 21;11(1):7. doi: 10.1186/s13321-018-0326-3.
+
+OGER++: hybrid multi-type entity recognition.
+
+Furrer L(1), Jancso A(1), Colic N(1), Rinaldi F(2)(3).
+
+Author information:
+(1)Institute of Computational Linguistics, University of Zurich, Andreasstr. 15, 
+8050, Zürich, Switzerland.
+(2)Institute of Computational Linguistics, University of Zurich, Andreasstr. 15, 
+8050, Zürich, Switzerland. fabio.rinaldi@uzh.ch.
+(3)Fondazione Bruno Kessler, Via Sommarive, 18, 38123, Trento, Italy. 
+fabio.rinaldi@uzh.ch.
+
+BACKGROUND: We present a text-mining tool for recognizing biomedical entities in 
+scientific literature. OGER++ is a hybrid system for named entity recognition 
+and concept recognition (linking), which combines a dictionary-based annotator 
+with a corpus-based disambiguation component. The annotator uses an efficient 
+look-up strategy combined with a normalization method for matching spelling 
+variants. The disambiguation classifier is implemented as a feed-forward neural 
+network which acts as a postfilter to the previous step.
+RESULTS: We evaluated the system in terms of processing speed and annotation 
+quality. In the speed benchmarks, the OGER++ web service processes 9.7 abstracts 
+or 0.9 full-text documents per second. On the CRAFT corpus, we achieved 71.4% 
+and 56.7% F1 for named entity recognition and concept recognition, respectively.
+CONCLUSIONS: Combining knowledge-based and data-driven components allows 
+creating a system with competitive performance in biomedical text mining.
+
+DOI: 10.1186/s13321-018-0326-3
+PMCID: PMC6689863
+PMID: 30666476
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

@@ -1,0 +1,75 @@
+628. J Clin Epidemiol. 2020 Feb;118:100-106. doi: 10.1016/j.jclinepi.2019.11.006. 
+Epub 2019 Nov 12.
+
+Data mining information from electronic health records produced high yield and 
+accuracy for current smoking status.
+
+Groenhof TKJ(1), Koers LR(2), Blasse E(3), de Groot M(3), Grobbee DE(2), Bots 
+ML(2), Asselbergs FW(4), Lely AT(5), Haitjema S(3); UPOD; UCC-CVRM Study Groups.
+
+Collaborators: van Solinge W, Hoefer I, Haitjema S, de Groot M, Blasse E, 
+Asselbergs FW(6), Nathoe HM(6), de Borst GJ(7), Bots ML(8), Geerlings MI(8), 
+Emmelot MH(9), de Jong PA(10), Leiner T(10), Lely AT(11), van der Kaaij NP(12), 
+Kappelle LJ(13), Ruigrok YM(13), Verhaar MC(14), Visseren FLJ(15), Westerink 
+J(15).
+
+Author information:
+(1)Julius Center for Health Sciences and Primary Care, University Medical Center 
+Utrecht, Utrecht University, Utrecht, The Netherlands. Electronic address: 
+t.k.j.groenhof@umcutrecht.nl.
+(2)Julius Center for Health Sciences and Primary Care, University Medical Center 
+Utrecht, Utrecht University, Utrecht, The Netherlands.
+(3)Laboratory of Clinical Chemistry and Hematology, University Medical Center 
+Utrecht, Utrecht University, Utrecht, The Netherlands.
+(4)Health Data Research UK, Institute of Health Informatics, University College 
+London, London, UK; Department of Cardiology, Division Heart & Lungs, University 
+Medical Center Utrecht, Utrecht University, Utrecht, The Netherlands; Institute 
+of Cardiovascular Science, Faculty of Population Health Sciences, University 
+College London, London, UK.
+(5)Department of Obstetrics, Wilhelmina Children's Hospital, University Medical 
+Center Utrecht, Utrecht University, Utrecht, The Netherlands.
+(6)Department of Cardiology, University Medical Center Utrecht, Utrecht 
+University, Utrecht, The Netherlands.
+(7)Department of Vascular Surgery, University Medical Center Utrecht, Utrecht 
+University, Utrecht, The Netherlands.
+(8)Department of Epidemiology, University Medical Center Utrecht, Utrecht 
+University, Utrecht, The Netherlands.
+(9)Department of Geriatrics, University Medical Center Utrecht, Utrecht 
+University, Utrecht, The Netherlands.
+(10)Department of Radiology, University Medical Center Utrecht, Utrecht 
+University, Utrecht, The Netherlands.
+(11)Department of Obstetrics/Gynecology, University Medical Center Utrecht, 
+Utrecht University, Utrecht, The Netherlands.
+(12)Department of Cardiothoracic Surgery, University Medical Center Utrecht, 
+Utrecht University, Utrecht, The Netherlands.
+(13)Department of Neurology, University Medical Center Utrecht, Utrecht 
+University, Utrecht, The Netherlands.
+(14)Department of Nephrology, University Medical Center Utrecht, Utrecht 
+University, Utrecht, The Netherlands.
+(15)Department of Vascular Medicine, University Medical Center Utrecht, Utrecht 
+University, Utrecht, The Netherlands.
+
+OBJECTIVES: Researchers are increasingly using routine clinical data for care 
+evaluations and feedback to patients and clinicians. The quality of these 
+evaluations depends on the quality and completeness of the input data.
+STUDY DESIGN AND SETTING: We assessed the performance of an electronic health 
+record (EHR)-based data mining algorithm, using the example of the smoking 
+status in a cardiovascular population. As a reference standard, we used the 
+questionnaire from the Utrecht Cardiovascular Cohort (UCC). To assess diagnostic 
+accuracy, we calculated sensitivity, specificity, negative predictive value 
+(NPV), and positive predictive value (PPV).
+RESULTS: We analyzed 1,661 patients included in the UCC to January 18, 2019. Of 
+those, 14% (n = 238) had missing information on smoking status in the UCC 
+questionnaire. Data mining provided information on smoking status in 99% of the 
+1,661 participants. Diagnostic accuracy for current smoking was sensitivity 88%, 
+specificity 92%, NPV 98%, and PPV 63%. From false positives, 85% reported they 
+had quit smoking at the time of the UCC.
+CONCLUSION: Data mining showed great potential in retrieving information on 
+smoking (a near complete yield). Its diagnostic performance is good for negative 
+smoking statuses. The implications of misclassification with data mining are 
+dependent on the application of the data.
+
+Copyright © 2019 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jclinepi.2019.11.006
+PMID: 31730918

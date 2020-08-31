@@ -1,0 +1,42 @@
+590. Prev Chronic Dis. 2016 Dec 29;13:E178. doi: 10.5888/pcd13.160445.
+
+Using Health Information Technology and Data to Improve Chronic Disease Outcomes 
+in Federally Qualified Health Centers in Maryland.
+
+Smith EA(1), Lapinski J(2), Lichty-Hess J(2), Pier K(3).
+
+Author information:
+(1)Maryland Department of Health and Mental Hygiene, 201 W. Preston St, 
+Baltimore, MD 21201. Email: erica.smith@maryland.gov.
+(2)Mid-Atlantic Association of Community Health Centers, Lanham, Maryland.
+(3)Maryland Department of Health and Mental Hygiene, Baltimore, Maryland.
+
+Federally Qualified Health Centers provide health care services to underserved 
+communities and vulnerable populations. In Maryland, the burden of chronic 
+disease is high among Federally Qualified Health Center patients. Electronic 
+health records (EHRs) are becoming more widely used, and effective use of EHR 
+data may improve chronic disease outcomes. This article describes the process of 
+developing a data aggregation and analytics platform to support health centers 
+in using population health data based on standardized clinical quality measures. 
+This data warehouse, capable of aggregating EHR data across multiple health 
+centers, provides opportunities for benchmarking and elicits a discussion of 
+quality improvement, including identifying and sharing clinical best practices. 
+Phase 1 of the project involved the strategic engagement of health center 
+leadership and staff to get buy-in and to assess readiness. Phase 2 established 
+the technological infrastructure and processes to support data warehouse 
+implementation and began the process of information sharing and collaboration 
+among 4 early adopters. Phase 3 will expand the project to additional health 
+centers and continue quality improvement efforts. The health information 
+technology marketplace is rapidly changing, and staying current will be a 
+priority so that the data warehouse remains a useful quality improvement tool 
+that continues to meet the demands of Maryland health centers. Ongoing efforts 
+will also focus on ways to further add value to the system, such as 
+incorporating new metrics to better inform health center decision making and 
+allocation of resources. The data warehouse can inform and transform the quality 
+of health care delivered to Maryland's most vulnerable populations, and future 
+research should focus on the ability of health centers to translate this 
+potential into actual improvements.
+
+DOI: 10.5888/pcd13.160445
+PMCID: PMC5201151
+PMID: 28033091 [Indexed for MEDLINE]

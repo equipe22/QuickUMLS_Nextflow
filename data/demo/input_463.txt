@@ -1,0 +1,36 @@
+463. Bioinformatics. 2008 Aug 15;24(16):i126-132. doi: 10.1093/bioinformatics/btn299.
+
+Inter-species normalization of gene mentions with GNAT.
+
+Hakenberg J(1), Plake C, Leaman R, Schroeder M, Gonzalez G.
+
+Author information:
+(1)Department of Computer Science and Engineering, Arizona State University, 
+Tempe, AZ 85287, USA. joerg.hakenberg@asu.edu
+
+MOTIVATION: Text mining in the biomedical domain aims at helping researchers to 
+access information contained in scientific publications in a faster, easier and 
+more complete way. One step towards this aim is the recognition of named 
+entities and their subsequent normalization to database identifiers. 
+Normalization helps to link objects of potential interest, such as genes, to 
+detailed information not contained in a publication; it is also key for 
+integrating different knowledge sources. From an information retrieval 
+perspective, normalization facilitates indexing and querying. Gene mention 
+normalization (GN) is particularly challenging given the high ambiguity of gene 
+names: they refer to orthologous or entirely different genes, are named after 
+phenotypes and other biomedical terms, or they resemble common English words.
+RESULTS: We present the first publicly available system, GNAT, reported to 
+handle inter-species GN. Our method uses extensive background knowledge on genes 
+to resolve ambiguous names to EntrezGene identifiers. It performs comparably to 
+single-species approaches proposed by us and others. On a benchmark set derived 
+from BioCreative 1 and 2 data that contains genes from 13 species, GNAT achieves 
+an F-measure of 81.4% (90.8% precision at 73.8% recall). For the single-species 
+task, we report an F-measure of 85.4% on human genes.
+AVAILABILITY: A web-frontend is available at http://cbioc.eas.asu.edu/gnat/. 
+GNAT will also be available within the BioCreativeMetaService project, see 
+http://bcms.bioinfo.cnio.es.
+SUPPLEMENTARY INFORMATION: The test data set, lexica, and links toexternal data 
+are available at http://cbioc.eas.asu.edu/gnat/
+
+DOI: 10.1093/bioinformatics/btn299
+PMID: 18689813 [Indexed for MEDLINE]

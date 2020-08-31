@@ -1,0 +1,40 @@
+397. Sci Rep. 2020 Jul 23;10(1):12365. doi: 10.1038/s41598-020-68649-0.
+
+MAGPEL: an autoMated pipeline for inferring vAriant-driven Gene PanEls from the 
+full-length biomedical literature.
+
+Saberian N(1), Shafi A(1), Peyvandipour A(1), Draghici S(2)(3).
+
+Author information:
+(1)Department of Computer Science, Wayne State University, Detroit, MI, USA.
+(2)Department of Computer Science, Wayne State University, Detroit, MI, USA. 
+Sorin@wayne.edu.
+(3)Department of Obstetrics and Gynecology, Wayne State University, Detroit, MI, 
+USA. Sorin@wayne.edu.
+
+In spite of the efforts in developing and maintaining accurate variant 
+databases, a large number of disease-associated variants are still hidden in the 
+biomedical literature. Curation of the biomedical literature in an effort to 
+extract this information is a challenging task due to: (i) the complexity of 
+natural language processing, (ii) inconsistent use of standard recommendations 
+for variant description, and (iii) the lack of clarity and consistency in 
+describing the variant-genotype-phenotype associations in the biomedical 
+literature. In this article, we employ text mining and word cloud analysis 
+techniques to address these challenges. The proposed framework extracts the 
+variant-gene-disease associations from the full-length biomedical literature and 
+designs an evidence-based variant-driven gene panel for a given condition. We 
+validate the identified genes by showing their diagnostic abilities to predict 
+the patients' clinical outcome on several independent validation cohorts. As 
+representative examples, we present our results for acute myeloid leukemia 
+(AML), breast cancer and prostate cancer. We compare these panels with other 
+variant-driven gene panels obtained from Clinvar, Mastermind and others from 
+literature, as well as with a panel identified with a classical differentially 
+expressed genes (DEGs) approach. The results show that the panels obtained by 
+the proposed framework yield better results than the other gene panels currently 
+available in the literature.
+
+DOI: 10.1038/s41598-020-68649-0
+PMCID: PMC7378213
+PMID: 32703994
+
+Conflict of interest statement: The authors declare no competing interests.

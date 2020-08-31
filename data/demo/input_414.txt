@@ -1,0 +1,33 @@
+414. IEEE Trans Image Process. 2007 Apr;16(4):1168-81. doi: 10.1109/tip.2006.891352.
+
+Semantic-based surveillance video retrieval.
+
+Hu W(1), Xie D, Fu Z, Zeng W, Maybank S.
+
+Author information:
+(1)National Laboratory of Pattern Recognition, Institute of Automation, Chinese 
+Academy of Sciences, Beijing 100080, China. wmhu@nlpr.ia.ac.cn
+
+Visual surveillance produces large amounts of video data. Effective indexing and 
+retrieval from surveillance video databases are very important. Although there 
+are many ways to represent the content of video clips in current video retrieval 
+algorithms, there still exists a semantic gap between users and retrieval 
+systems. Visual surveillance systems supply a platform for investigating 
+semantic-based video retrieval. In this paper, a semantic-based video retrieval 
+framework for visual surveillance is proposed. A cluster-based tracking 
+algorithm is developed to acquire motion trajectories. The trajectories are then 
+clustered hierarchically using the spatial and temporal information, to learn 
+activity models. A hierarchical structure of semantic indexing and retrieval of 
+object activities, where each individual activity automatically inherits all the 
+semantic descriptions of the activity model to which it belongs, is proposed for 
+accessing video clips and individual objects at the semantic level. The proposed 
+retrieval framework supports various queries including queries by keywords, 
+multiple object queries, and queries by sketch. For multiple object queries, 
+succession and simultaneity restrictions, together with depth and breadth first 
+orders, are considered. For sketch-based queries, a method for matching 
+trajectories drawn by users to spatial trajectories is proposed. The 
+effectiveness and efficiency of our framework are tested in a crowded traffic 
+scene.
+
+DOI: 10.1109/tip.2006.891352
+PMID: 17405446 [Indexed for MEDLINE]

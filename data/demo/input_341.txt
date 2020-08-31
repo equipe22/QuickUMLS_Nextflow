@@ -1,0 +1,50 @@
+341. J Biomed Semantics. 2016 May 11;7:27. doi: 10.1186/s13326-016-0070-4. 
+eCollection 2016.
+
+Filtering large-scale event collections using a combination of supervised and 
+unsupervised learning for event trigger classification.
+
+Mehryary F(1), Kaewphan S(2), Hakala K(1), Ginter F(3).
+
+Author information:
+(1)Department of Information Technology, University of Turku, Turku, Finland ; 
+The University of Turku Graduate School (UTUGS), University of Turku, Turku, 
+Finland.
+(2)Department of Information Technology, University of Turku, Turku, Finland ; 
+The University of Turku Graduate School (UTUGS), University of Turku, Turku, 
+Finland ; Turku Centre for Computer Science (TUCS), Turku, Finland.
+(3)Department of Information Technology, University of Turku, Turku, Finland.
+
+BACKGROUND: Biomedical event extraction is one of the key tasks in biomedical 
+text mining, supporting various applications such as database curation and 
+hypothesis generation. Several systems, some of which have been applied at a 
+large scale, have been introduced to solve this task. Past studies have shown 
+that the identification of the phrases describing biological processes, also 
+known as trigger detection, is a crucial part of event extraction, and notable 
+overall performance gains can be obtained by solely focusing on this sub-task. 
+In this paper we propose a novel approach for filtering falsely identified 
+triggers from large-scale event databases, thus improving the quality of 
+knowledge extraction.
+METHODS: Our method relies on state-of-the-art word embeddings, event statistics 
+gathered from the whole biomedical literature, and both supervised and 
+unsupervised machine learning techniques. We focus on EVEX, an event database 
+covering the whole PubMed and PubMed Central Open Access literature containing 
+more than 40 million extracted events. The top most frequent EVEX trigger words 
+are hierarchically clustered, and the resulting cluster tree is pruned to 
+identify words that can never act as triggers regardless of their context. For 
+rarely occurring trigger words we introduce a supervised approach trained on the 
+combination of trigger word classification produced by the unsupervised 
+clustering method and manual annotation.
+RESULTS: The method is evaluated on the official test set of BioNLP Shared Task 
+on Event Extraction. The evaluation shows that the method can be used to improve 
+the performance of the state-of-the-art event extraction systems. This 
+successful effort also translates into removing 1,338,075 of potentially 
+incorrect events from EVEX, thus greatly improving the quality of the data. The 
+method is not solely bound to the EVEX resource and can be thus used to improve 
+the quality of any event extraction system or database.
+AVAILABILITY: The data and source code for this work are available at: 
+http://bionlp-www.utu.fi/trigger-clustering/.
+
+DOI: 10.1186/s13326-016-0070-4
+PMCID: PMC4864999
+PMID: 27175227 [Indexed for MEDLINE]

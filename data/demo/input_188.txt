@@ -1,0 +1,43 @@
+188. J Pathol Inform. 2013 Jul 31;4:20. doi: 10.4103/2153-3539.115880. eCollection 
+2013.
+
+Automated extraction of precise protein expression patterns in lymphoma by text 
+mining abstracts of immunohistochemical studies.
+
+Chang JF(1), Popescu M, Arthur GL.
+
+Author information:
+(1)MU Informatics Institute, University of Missouri, Columbia, USA.
+
+BACKGROUND: In general, surgical pathology reviews report protein expression by 
+tumors in a semi-quantitative manner, that is, -, -/+, +/-, +. At the same time, 
+the experimental pathology literature provides multiple examples of precise 
+expression levels determined by immunohistochemical (IHC) tissue examination of 
+populations of tumors. Natural language processing (NLP) techniques enable the 
+automated extraction of such information through text mining. We propose 
+establishing a database linking quantitative protein expression levels with 
+specific tumor classifications through NLP.
+MATERIALS AND METHODS: Our method takes advantage of typical forms of 
+representing experimental findings in terms of percentages of protein expression 
+manifest by the tumor population under study. Characteristically, percentages 
+are represented straightforwardly with the % symbol or as the number of positive 
+findings of the total population. Such text is readily recognized using regular 
+expressions and templates permitting extraction of sentences containing these 
+forms for further analysis using grammatical structures and rule-based 
+algorithms.
+RESULTS: Our pilot study is limited to the extraction of such information 
+related to lymphomas. We achieved a satisfactory level of retrieval as reflected 
+in scores of 69.91% precision and 57.25% recall with an F-score of 62.95%. In 
+addition, we demonstrate the utility of a web-based curation tool for confirming 
+and correcting our findings.
+CONCLUSIONS: The experimental pathology literature represents a rich source of 
+pathobiological information, which has been relatively underutilized. There has 
+been a combinatorial explosion of knowledge within the pathology domain as 
+represented by increasing numbers of immunophenotypes and disease 
+subclassifications. NLP techniques support practical text mining techniques for 
+extracting this knowledge and organizing it in forms appropriate for pathology 
+decision support systems.
+
+DOI: 10.4103/2153-3539.115880
+PMCID: PMC3746413
+PMID: 23967385

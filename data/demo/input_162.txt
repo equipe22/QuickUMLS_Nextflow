@@ -1,0 +1,48 @@
+162. Front Psychiatry. 2019 Aug 7;10:546. doi: 10.3389/fpsyt.2019.00546. eCollection 
+2019.
+
+Improving Reading in Adolescents and Adults With High-Functioning Autism Through 
+an Assistive Technology Tool: A Cross-Over Multinational Study.
+
+Cerga-Pashoja A(1)(2), Gaete J(3)(4), Shishkova A(5), Jordanova V(6)(7).
+
+Author information:
+(1)Faculty of Population Health, London School of Hygiene and Tropical Medicine, 
+London, United Kingdom.
+(2)Central and North West London NHS Foundation Trust, London, United Kingdom.
+(3)Department of Public Health and Epidemiology, Faculty of Medicine, 
+Universidad de los Andes, Santiago, Chile.
+(4)Millennium Nucleus to Improve the Mental Health of Adolescents and Youths 
+(Imhay), Santiago, Chile.
+(5)Parallel World Association, Plovdiv, Bulgaria.
+(6)Institute of Psychiatry, Neurology and Neurosciences, King's College London, 
+London, United Kingdom.
+(7)Neurodevelopmental Services, South London and Maudsley NHS Foundation Trust, 
+London, United Kingdom.
+
+People with autism spectrum disorder (ASD) experience reading comprehension 
+difficulties, often misinterpreting complex texts, metaphors, and idioms. We 
+have developed and tested a new assistive technology tool for adaptive, 
+personalized text simplification, called Open Book. This tool is an 
+open-sourced, online platform that uses Natural Language Processing with the 
+specific aim of assisting reading and aiding understanding of written text for 
+people with ASD. The accessibility and effectiveness of Open Book was tested by 
+examining the differences in text comprehension scores between the original 
+texts and texts that were simplified by Open Book tool, randomly allocated to 
+study participants. Two hundred forty-three participants (153 adults and 90 
+adolescents) with high-functioning ASD were recruited in the UK, Spain, and 
+Bulgaria. Regarding the primary outcome, results showed that both adults and 
+adolescents with ASD gave more correct answers for the simplified (M = 11.2, SD 
+= 4.1) than original texts (M = 10, SD = 4.1; p < 0.001). This finding was 
+consistent across age groups and countries. Regarding the secondary outcome, 
+when participants were asked to blindly rate how easy was to understand each 
+text, simplified texts were rated as easier (M = 7.6, SD = 2.4) to understand 
+than the original texts (M = 8.7, SD = 2.6; p < 0.001). The Open Book software 
+seems to have the potential to be a useful tool in assisting reading among 
+people with ASD. Our findings support our primary hypothesis that texts 
+simplified through Open Book were easier to comprehend compared to original 
+texts.
+
+DOI: 10.3389/fpsyt.2019.00546
+PMCID: PMC6692437
+PMID: 31447711

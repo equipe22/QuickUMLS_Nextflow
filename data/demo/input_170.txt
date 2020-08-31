@@ -1,0 +1,26 @@
+170. Stud Health Technol Inform. 2010;160(Pt 2):954-8.
+
+Text Mining approaches for automated literature knowledge extraction and 
+representation.
+
+Nuzzo A(1), Mulas F, Gabetta M, Arbustini E, Zupan B, Larizza C, Bellazzi R.
+
+Author information:
+(1)Center for Tissue Engineering University of Pavia, Italy. 
+angelo.nuzzo@unipv.it
+
+Due to the overwhelming volume of published scientific papers, information tools 
+for automated literature analysis are essential to support current biomedical 
+research. We have developed a knowledge extraction tool to help researcher in 
+discovering useful information which can support their reasoning process. The 
+tool is composed of a search engine based on Text Mining and Natural Language 
+Processing techniques, and an analysis module which process the search results 
+in order to build annotation similarity networks. We tested our approach on the 
+available knowledge about the genetic mechanism of cardiac diseases, where the 
+target is to find both known and possible hypothetical relations between 
+specific candidate genes and the trait of interest. We show that the system i) 
+is able to effectively retrieve medical concepts and genes and ii) plays a 
+relevant role assisting researchers in the formulation and evaluation of novel 
+literature-based hypotheses.
+
+PMID: 20841825 [Indexed for MEDLINE]

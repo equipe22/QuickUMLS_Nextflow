@@ -1,0 +1,34 @@
+472. Bioinformatics. 2006 Jun 1;22(11):1383-90. doi: 10.1093/bioinformatics/btl081. 
+Epub 2006 Mar 13.
+
+Graph-based analysis and visualization of experimental results with ONDEX.
+
+Köhler J(1), Baumbach J, Taubert J, Specht M, Skusa A, Rüegg A, Rawlings C, 
+Verrier P, Philippi S.
+
+Author information:
+(1)Division of Biomathematics and Bioinformatics, Rothamsted Research, AL5 2JQ 
+Harpenden, UK. Jacob.Koehler@bbsrc.ac.uk
+
+MOTIVATION: Assembling the relevant information needed to interpret the output 
+from high-throughput, genome scale, experiments such as gene expression 
+microarrays is challenging. Analysis reveals genes that show statistically 
+significant changes in expression levels, but more information is needed to 
+determine their biological relevance. The challenge is to bring these genes 
+together with biological information distributed across hundreds of databases or 
+buried in the scientific literature (millions of articles). Software tools are 
+needed to automate this task which at present is labor-intensive and requires 
+considerable informatics and biological expertise.
+RESULTS: This article describes ONDEX and how it can be applied to the task of 
+interpreting gene expression results. ONDEX is a database system that combines 
+the features of semantic database integration and text mining with methods for 
+graph-based analysis. An overview of the ONDEX system is presented, 
+concentrating on recently developed features for graph-based analysis and 
+visualization. A case study is used to show how ONDEX can help to identify 
+causal relationships between stress response genes and metabolic pathways from 
+gene expression data. ONDEX also discovered functional annotations for most of 
+the genes that emerged as significant in the microarray experiment, but were 
+previously of unknown function.
+
+DOI: 10.1093/bioinformatics/btl081
+PMID: 16533819 [Indexed for MEDLINE]

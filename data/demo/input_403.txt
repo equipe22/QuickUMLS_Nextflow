@@ -1,0 +1,85 @@
+403. BMC Immunol. 2014 Dec 9;15:61. doi: 10.1186/s12865-014-0061-0.
+
+In silico analysis of autoimmune diseases and genetic relationships to 
+vaccination against infectious diseases.
+
+McGarvey PB(1)(2), Suzek BE(3)(4)(5), Baraniuk JN(6), Rao S(7), Conkright B(8), 
+Lababidi S(9), Sutherland A(10)(11), Forshee R(12), Madhavan S(13).
+
+Author information:
+(1)Innovation Center for Biomedical Informatics, Georgetown University Medical 
+Center, 2115 Wisconsin Ave NW, Suite 110, Washington, DC, 20007, USA. 
+pbm9@georgetown.edu.
+(2)Protein Information Resource, Department of Biochemistry and Molecular & 
+Cellular Biology, Georgetown University Medical Center, 3300 Whitehaven Street 
+NW, Suite 1200, Washington, DC, 20007, USA. pbm9@georgetown.edu.
+(3)Innovation Center for Biomedical Informatics, Georgetown University Medical 
+Center, 2115 Wisconsin Ave NW, Suite 110, Washington, DC, 20007, USA. 
+bes23@georgetown.edu.
+(4)Protein Information Resource, Department of Biochemistry and Molecular & 
+Cellular Biology, Georgetown University Medical Center, 3300 Whitehaven Street 
+NW, Suite 1200, Washington, DC, 20007, USA. bes23@georgetown.edu.
+(5)Department of Computer Engineering, Muğla Sıtkı Koçman University, Muğla, 
+Turkey. bes23@georgetown.edu.
+(6)Division of Rheumatology, Immunology and Allergy, Department of Medicine, 
+Georgetown University Medical Center, 3800 Reservoir Road, NW, Washington, DC, 
+20007, USA. baraniuj@georgetown.edu.
+(7)Innovation Center for Biomedical Informatics, Georgetown University Medical 
+Center, 2115 Wisconsin Ave NW, Suite 110, Washington, DC, 20007, USA. 
+sr879@georgetown.edu.
+(8)Innovation Center for Biomedical Informatics, Georgetown University Medical 
+Center, 2115 Wisconsin Ave NW, Suite 110, Washington, DC, 20007, USA. 
+btc37@georgetown.edu.
+(9)Office of Biostatistics and Epidemiology, Center for Biologics Evaluation and 
+Research, US Food and Drug Administration, 10903 New Hampshire Avenue, Silver 
+Spring, MD, 20993, USA. Samir.Lababidi@fda.hhs.gov.
+(10)Office of Biostatistics and Epidemiology, Center for Biologics Evaluation 
+and Research, US Food and Drug Administration, 10903 New Hampshire Avenue, 
+Silver Spring, MD, 20993, USA. asutherl@jhsph.edul.
+(11)Department of International Health, Johns Hopkins School of Public Health, 
+615 North Wolfe Street, Baltimore, MD, 21205, USA. asutherl@jhsph.edul.
+(12)Office of Biostatistics and Epidemiology, Center for Biologics Evaluation 
+and Research, US Food and Drug Administration, 10903 New Hampshire Avenue, 
+Silver Spring, MD, 20993, USA. Richard.Forshee@fda.hhs.gov.
+(13)Innovation Center for Biomedical Informatics, Georgetown University Medical 
+Center, 2115 Wisconsin Ave NW, Suite 110, Washington, DC, 20007, USA. 
+sm696@georgetown.edu.
+
+BACKGROUND: Near universal administration of vaccines mandates intense 
+pharmacovigilance for vaccine safety and a stringently low tolerance for adverse 
+events. Reports of autoimmune diseases (AID) following vaccination have been 
+challenging to evaluate given the high rates of vaccination, background 
+incidence of autoimmunity, and low incidence and variable times for onset of AID 
+after vaccinations. In order to identify biologically plausible pathways to 
+adverse autoimmune events of vaccine-related AID, we used a systems biology 
+approach to create a matrix of innate and adaptive immune mechanisms active in 
+specific diseases, responses to vaccine antigens, adjuvants, preservatives and 
+stabilizers, for the most common vaccine-associated AID found in the Vaccine 
+Adverse Event Reporting System.
+RESULTS: This report focuses on Guillain-Barre Syndrome (GBS), Rheumatoid 
+Arthritis (RA), Systemic Lupus Erythematosus (SLE), and Idiopathic (or immune) 
+Thrombocytopenic Purpura (ITP). Multiple curated databases and automated text 
+mining of PubMed literature identified 667 genes associated with RA, 448 with 
+SLE, 49 with ITP and 73 with GBS. While all data sources provided valuable and 
+unique gene associations, text mining using natural language processing (NLP) 
+algorithms provided the most information but required curation to remove 
+incorrect associations. Six genes were associated with all four AIDs. 
+Thirty-three pathways were shared by the four AIDs. Classification of genes into 
+twelve immune system related categories identified more "Th17 T-cell subtype" 
+genes in RA than the other AIDs, and more "Chemokine plus Receptors" genes 
+associated with RA than SLE. Gene networks were visualized and clustered into 
+interconnected modules with specific gene clusters for each AID, including one 
+in RA with ten C-X-C motif chemokines. The intersection of genes associated with 
+GBS, GBS peptide auto-antigens, influenza A infection, and influenza vaccination 
+created a subnetwork of genes that inferred a possible role for the MAPK 
+signaling pathway in influenza vaccine related GBS.
+CONCLUSIONS: Results showing unique and common gene sets, pathways, immune 
+system categories and functional clusters of genes in four autoimmune diseases 
+suggest it is possible to develop molecular classifications of autoimmune and 
+inflammatory events. Combining this information with cellular and other disease 
+responses should greatly aid in the assessment of potential immune-mediated 
+adverse events following vaccination.
+
+DOI: 10.1186/s12865-014-0061-0
+PMCID: PMC4266212
+PMID: 25486901 [Indexed for MEDLINE]

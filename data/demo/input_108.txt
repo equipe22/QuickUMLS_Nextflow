@@ -1,0 +1,32 @@
+108. Healthc Inform Res. 2018 Oct;24(4):376-380. doi: 10.4258/hir.2018.24.4.376. Epub 
+2018 Oct 31.
+
+Design and Construction of a NLP Based Knowledge Extraction Methodology in the 
+Medical Domain Applied to Clinical Information.
+
+Cedeño Moreno D(1), Vargas-Lombardo M(1).
+
+Author information:
+(1)Technological University of Panama, Panama City, Panama.
+
+OBJECTIVES: This research presents the design and development of a software 
+architecture using natural language processing tools and the use of an ontology 
+of knowledge as a knowledge base.
+METHODS: The software extracts, manages and represents the knowledge of a text 
+in natural language. A corpus of more than 200 medical domain documents from the 
+general medicine and palliative care areas was validated, demonstrating relevant 
+knowledge elements for physicians.
+RESULTS: Indicators for precision, recall and F-measure were applied. An 
+ontology was created called the knowledge elements of the medical domain to 
+manipulate patient information, which can be read or accessed from any other 
+software platform.
+CONCLUSIONS: The developed software architecture extracts the medical knowledge 
+of the clinical histories of patients from two different corpora. The 
+architecture was validated using the metrics of information extraction systems.
+
+DOI: 10.4258/hir.2018.24.4.376
+PMCID: PMC6230532
+PMID: 30443426
+
+Conflict of interest statement: Conflict of Interest: No potential conflict of 
+interest relevant to this article was reported.

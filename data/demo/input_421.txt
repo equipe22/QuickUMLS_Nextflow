@@ -1,0 +1,22 @@
+421. Stud Health Technol Inform. 2014;205:985-9.
+
+Protocol feasibility workflow using an automated multi-country patient cohort 
+system.
+
+Soto-Rey I(1), Trinczek B(1), Karakoyun T(2), Dugas M(1), Fritz F(1).
+
+Author information:
+(1)Institute of Medical Informatics, University of Münster, Germany.
+(2)Coordination Centre for Clinical Trials, Medical Faculty at the 
+Heinrich-Heine-University Hospital Düsseldorf, Germany.
+
+The Electronic Health Record for Clinical Research (EHR4CR) project aims to 
+improve the current process of clinical trials, providing a technological 
+platform that supports the design and execution of trials. For the protocol 
+feasibility scenario, the system currently allows the user to create a set of 
+in-/exclusion criteria to find patients matching these criteria across sites 
+located in several countries. The automated multi-country patient cohort system 
+developed in EHR4CR implies substantial changes on the current protocol 
+feasibility process, which will be reflected in this study.
+
+PMID: 25160335 [Indexed for MEDLINE]

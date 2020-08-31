@@ -1,0 +1,30 @@
+599. AMIA Annu Symp Proc. 2014 Nov 14;2014:719-28. eCollection 2014.
+
+Piloting a deceased subject integrated data repository and protecting privacy of 
+relatives.
+
+Huser V(1), Kayaalp M(2), Dodd ZA(2), Cimino JJ(3).
+
+Author information:
+(1)Laboratory for Informatics Development; National Institutes of Health, 
+Clinical Center.
+(2)National Library of Medicine, Bethesda, MD, USA.
+(3)Laboratory for Informatics Development; National Institutes of Health, 
+Clinical Center ; National Library of Medicine, Bethesda, MD, USA.
+
+Use of deceased subject Electronic Health Records can be an important piloting 
+platform for informatics or biomedical research. Existing legal framework allows 
+such research under less strict de-identification criteria; however, privacy of 
+non-decedent must be protected. We report on creation of the decease subject 
+Integrated Data Repository (dsIDR) at National Institutes of Health, Clinical 
+Center and a pilot methodology to remove secondary protected health information 
+or identifiable information (secondary PxI; information about persons other than 
+the primary patient). We characterize available structured coded data in dsIDR 
+and report the estimated frequencies of secondary PxI, ranging from 12.9% 
+(sensitive token presence) to 1.1% (using stricter criteria). Federating 
+decedent EHR data from multiple institutions can address sample size limitations 
+and our pilot study provides lessons learned and methodology that can be adopted 
+by other institutions.
+
+PMCID: PMC4420001
+PMID: 25954378 [Indexed for MEDLINE]

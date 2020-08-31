@@ -1,0 +1,42 @@
+174. BMC Bioinformatics. 2011 Mar 1;12:65. doi: 10.1186/1471-2105-12-65.
+
+CSI-OMIM--Clinical Synopsis Search in OMIM.
+
+Cohen R(1), Gefen A, Elhadad M, Birk OS.
+
+Author information:
+(1)The Morris Kahn Laboratory of Human Genetics, National Institute for 
+Biotechnology in the Negev, Ben-Gurion University, Beer-Sheva, Israel. 
+cohenrap@bgu.ac.il
+
+BACKGROUND: The OMIM database is a tool used daily by geneticists. Syndrome 
+pages include a Clinical Synopsis section containing a list of known phenotypes 
+comprising a clinical syndrome. The phenotypes are in free text and different 
+phrases are often used to describe the same phenotype, the differences 
+originating in spelling variations or typing errors, varying sentence structures 
+and terminological variants.These variations hinder searching for syndromes or 
+using the large amount of phenotypic information for research purposes. In 
+addition, negation forms also create false positives when searching the textual 
+description of phenotypes and induce noise in text mining applications.
+DESCRIPTION: Our method allows efficient and complete search of OMIM phenotypes 
+as well as improved data-mining of the OMIM phenome. Applying natural language 
+processing, each phrase is tagged with additional semantic information using 
+UMLS and MESH. Using a grammar based method, annotated phrases are clustered 
+into groups denoting similar phenotypes. These groups of synonymous expressions 
+enable precise search, as query terms can be matched with the many variations 
+that appear in OMIM, while avoiding over-matching expressions that include the 
+query term in a negative context. On the basis of these clusters, we computed 
+pair-wise similarity among syndromes in OMIM. Using this new similarity measure, 
+we identified 79,770 new connections between syndromes, an average of 16 new 
+connections per syndrome. Our project is Web-based and available at 
+http://fohs.bgu.ac.il/s2g/csiomim
+CONCLUSIONS: The resulting enhanced search functionality provides clinicians 
+with an efficient tool for diagnosis. This search application is also used for 
+finding similar syndromes for the candidate gene prioritization tool S2G.The 
+enhanced OMIM database we produced can be further used for bioinformatics 
+purposes such as linking phenotypes and genes based on syndrome similarities and 
+the known genes in Morbidmap.
+
+DOI: 10.1186/1471-2105-12-65
+PMCID: PMC3053257
+PMID: 21362185 [Indexed for MEDLINE]

@@ -1,0 +1,40 @@
+456. WMJ. 2010 Dec;109(6):335-40.
+
+A demonstration project for using the electronic health record to identify and 
+treat tobacco users.
+
+Lindholm C(1), Adsit R, Bain P, Reber PM, Brein T, Redmond L, Smith SS, Fiore 
+MC.
+
+Author information:
+(1)University of Wisconsin, Center for Tobacco Research and Intervention, 
+Madison, WI 53711-2027, USA.
+
+BACKGROUND: While the majority of smokers visit a primary care physician each 
+year, only a small proportion of them receive evidence-based tobacco dependence 
+treatment. The electronic health record (EHR) provides an opportunity to prompt 
+clinicians to deliver tobacco dependence treatment in primary care.
+METHODS: Over 1 year, Dean Health Systems worked with the University of 
+Wisconsin School of Medicine and Public Health to modify the existing Dean EHR 
+system (Epic Systems Corp, Verona, Wisconsin) to improve identification and 
+treatment of adult smokers visiting primary care clinics. Modifications included 
+evidence-based prompts that helped guide medical assistants to identify smokers 
+and clinicians to deliver a brief tobacco cessation intervention (medication and 
+Wisconsin Tobacco Quit Line referral). Eighteen primary care clinics provided 
+data 1 year before and 1 year after implementing the EHR modifications.
+RESULTS: A higher percentage of adult patients had their tobacco use status 
+identified after EHR modification compared to pre-implementation (71.6% versus 
+78.4%, P < .001). During the post-implementation year, 6.3% of adult smokers 
+were prescribed tobacco cessation medication, 2.5% of adult smokers had 
+documentation of counseling, and 1.5% of adult smokers had counseling billed 
+(pre-implementation data not available).
+CONCLUSIONS: This demonstration project showed that a large health care system 
+can increase the delivery of tobacco dependence treatment interventions 
+(increased identification of smokers and relatively high rates of delivering 
+specific tobacco dependence clinical interventions) building on an existing EHR 
+platform. The project demonstrated that brief, evidence-based tobacco dependence 
+interventions can be incorporated into primary care, especially when the EHR is 
+used to improve clinic workflow.
+
+PMCID: PMC3587763
+PMID: 21287886 [Indexed for MEDLINE]

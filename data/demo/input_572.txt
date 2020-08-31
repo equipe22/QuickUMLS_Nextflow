@@ -1,0 +1,48 @@
+572. J Am Board Fam Med. 2014 Nov-Dec;27(6):804-10. doi: 
+10.3122/jabfm.2014.06.140029.
+
+Using geographic information systems (GIS) to identify communities in need of 
+health insurance outreach: An OCHIN practice-based research network (PBRN) 
+report.
+
+Angier H(1), Likumahuwa S(2), Finnegan S(2), Vakarcs T(2), Nelson C(2), Bazemore 
+A(2), Carrozza M(2), DeVoe JE(2).
+
+Author information:
+(1)From the Department of Family Medicine, Oregon Health & Science University, 
+Portland (HA, SL, JED); the Robert Graham Center, Washington, DC (SF, AB); 
+OCHIN, Inc., Portland, OR (TV, CN, JED); and the Health Foundation of Greater 
+Cincinnati, Cincinnati, OH (MC). angierh@ohsu.edu.
+(2)From the Department of Family Medicine, Oregon Health & Science University, 
+Portland (HA, SL, JED); the Robert Graham Center, Washington, DC (SF, AB); 
+OCHIN, Inc., Portland, OR (TV, CN, JED); and the Health Foundation of Greater 
+Cincinnati, Cincinnati, OH (MC).
+
+BACKGROUND: Our practice-based research network (PBRN) is conducting an outreach 
+intervention to increase health insurance coverage for patients seen in the 
+network. To assist with outreach site selection, we sought an understandable way 
+to use electronic health record (EHR) data to locate uninsured patients.
+METHODS: Health insurance information was displayed within a web-based mapping 
+platform to demonstrate the feasibility of using geographic information systems 
+(GIS) to visualize EHR data. This study used EHR data from 52 clinics in the 
+OCHIN PBRN. We included cross-sectional coverage data for patients aged 0 to 64 
+years with at least 1 visit to a study clinic during 2011 (n = 228,284).
+RESULTS: Our PBRN was successful in using GIS to identify intervention sites. 
+Through use of the maps, we found geographic variation in insurance rates of 
+patients seeking care in OCHIN PBRN clinics. Insurance rates also varied by age: 
+The percentage of adults without insurance ranged from 13.2% to 86.8%; rates of 
+children lacking insurance ranged from 1.1% to 71.7%. GIS also showed some areas 
+of households with median incomes that had low insurance rates.
+DISCUSSION: EHR data can be imported into a web-based GIS mapping tool to 
+visualize patient information. Using EHR data, we were able to observe smaller 
+areas than could be seen using only publicly available data. Using this 
+information, we identified appropriate OCHIN PBRN clinics for dissemination of 
+an EHR-based insurance outreach intervention. GIS could also be used by clinics 
+to visualize other patient-level characteristics to target clinic outreach 
+efforts or interventions.
+
+© Copyright 2014 by the American Board of Family Medicine.
+
+DOI: 10.3122/jabfm.2014.06.140029
+PMCID: PMC4920044
+PMID: 25381078 [Indexed for MEDLINE]

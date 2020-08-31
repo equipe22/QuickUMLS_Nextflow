@@ -1,0 +1,44 @@
+314. PLoS Comput Biol. 2013;9(2):e1002854. doi: 10.1371/journal.pcbi.1002854. Epub 
+2013 Feb 7.
+
+Getting more out of biomedical documents with GATE's full lifecycle open source 
+text analytics.
+
+Cunningham H(1), Tablan V, Roberts A, Bontcheva K.
+
+Author information:
+(1)Department of Computer Science, University of Sheffield, Sheffield, UK. 
+hamish@gate.ac.uk
+
+This software article describes the GATE family of open source text analysis 
+tools and processes. GATE is one of the most widely used systems of its type 
+with yearly download rates of tens of thousands and many active users in both 
+academic and industrial contexts. In this paper we report three examples of 
+GATE-based systems operating in the life sciences and in medicine. First, in 
+genome-wide association studies which have contributed to discovery of a head 
+and neck cancer mutation association. Second, medical records analysis which has 
+significantly increased the statistical power of treatment/outcome models in the 
+UK's largest psychiatric patient cohort. Third, richer constructs in 
+drug-related searching. We also explore the ways in which the GATE family 
+supports the various stages of the lifecycle present in our examples. We 
+conclude that the deployment of text mining for document abstraction or rich 
+search and navigation is best thought of as a process, and that with the right 
+computational tools and data collection strategies this process can be made 
+defined and repeatable. The GATE research programme is now 20 years old and has 
+grown from its roots as a specialist development tool for text processing to 
+become a rather comprehensive ecosystem, bringing together software developers, 
+language engineers and research staff from diverse fields. GATE now has a strong 
+claim to cover a uniquely wide range of the lifecycle of text analysis systems. 
+It forms a focal point for the integration and reuse of advances that have been 
+made by many people (the majority outside of the authors' own group) who work in 
+text processing for biomedicine and other areas. GATE is available online <1> 
+under GNU open source licences and runs on all major operating systems. Support 
+is available from an active user and developer community and also on a 
+commercial basis.
+
+DOI: 10.1371/journal.pcbi.1002854
+PMCID: PMC3567135
+PMID: 23408875 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

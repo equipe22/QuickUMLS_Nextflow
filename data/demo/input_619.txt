@@ -1,0 +1,30 @@
+619. J Subst Abuse Treat. 2013 Aug;45(2):190-5. doi: 10.1016/j.jsat.2013.02.001. Epub 
+2013 Mar 19.
+
+Italy's electronic health record system for opioid agonist treatment.
+
+Serpelloni G(1), Gomma M, Genetti B, Zermiani M, Rimondo C, Mollica R, 
+Gryczynski J, O'Grady KE, Schwartz RP.
+
+Author information:
+(1)Dipartimento Politiche Antidroga, Presidenza del Consiglio dei Ministri, 
+Rome, Italy.
+
+Electronic health record systems (EHRs) play an increasingly important role in 
+opioid agonist treatment. In Italy, an EHR called the Multi Functional Platform 
+(MFP) is in use in 150 opioid-agonist treatment facilities in 8 of Italy's 23 
+regions. This report describes MFP and presents 2010 data from 65 sites that 
+treated 8145 patients, of whom 72.3% were treated with methadone and 27.7% with 
+buprenorphine. Patients treated with buprenorphine compared to methadone were 
+more likely to be male (p < .01) and younger (p < .001). Methadone compared to 
+buprenorphine patients had a higher percentage of opioid-positive urine tests (p 
+< .001) and longer mean length of stay (p = .004). MFP has been implemented 
+widely in Italy and has been able to track patient outcomes across treatment 
+facilities. In the future, this EHR system can be used for performance 
+improvement initiatives.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jsat.2013.02.001
+PMCID: PMC3690466
+PMID: 23518287 [Indexed for MEDLINE]

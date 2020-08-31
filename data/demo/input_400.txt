@@ -1,0 +1,27 @@
+400. Conf Proc IEEE Eng Med Biol Soc. 2006;2006:5779-82. doi: 
+10.1109/IEMBS.2006.259838.
+
+BioProber: software system for biomedical relation discovery from PubMed.
+
+Jang H(1), Lim J, Lim JH, Park SJ, Lee KC.
+
+Author information:
+(1)Bioinformatics Team, Electron. & Telecommun. Res. Inst., Daejeon, Korea.
+
+The numbers of articles and journals that are published are increasing at a 
+considerable rate, and the published information is growing continuously and 
+fast. Because of this, researches to acquire knowledge automatically have been 
+carried out in the areas of information retrieval, information extraction and 
+text mining. Information retrieval approaches are good for specific topics that 
+the number of related articles is small. But, if the number is bigger, searching 
+skill and knowledge acquisition ability are useless. Though many efforts have 
+been made to extract information from literature, many approaches have 
+concentrated on specific entities, such as proteins, genes and their 
+interactions, and much information is still remained in unstructured text. So, 
+we have developed a system that discovers relations between various categories 
+of biomedical entities. Our system collects abstracts from PubMed by queries 
+representing a topic and visualizes relationship from the collection by 
+automatic information extraction.
+
+DOI: 10.1109/IEMBS.2006.259838
+PMID: 17946334 [Indexed for MEDLINE]

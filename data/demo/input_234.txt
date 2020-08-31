@@ -1,0 +1,53 @@
+234. J Biomed Inform. 2014 Feb;47:139-52. doi: 10.1016/j.jbi.2013.10.002. Epub 2013 
+Oct 20.
+
+Identifying non-elliptical entity mentions in a coordinated NP with ellipses.
+
+Chae J(1), Jung Y(2), Lee T(3), Jung S(4), Huh C(5), Kim G(6), Kim H(7), Oh 
+H(8).
+
+Author information:
+(1)Department of Computer Science Education, Korea University, Republic of 
+Korea. Electronic address: onacloud@gmail.com.
+(2)Department of Computer Science Education, Korea University, Republic of 
+Korea. Electronic address: coolof@korea.ac.kr.
+(3)Department of Computer Science Education, Korea University, Republic of 
+Korea. Electronic address: taeminlee@korea.ac.kr.
+(4)Department of Computer Science Education, Korea University, Republic of 
+Korea. Electronic address: jsy@korea.ac.kr.
+(5)Department of Computer Science Education, Korea University, Republic of 
+Korea. Electronic address: gjcks@korea.ac.kr.
+(6)Department of Computer Science Education, Korea University, Republic of 
+Korea. Electronic address: gillty@korea.ac.kr.
+(7)Department of Computer Science Education, Korea University, Republic of 
+Korea. Electronic address: harrykim@korea.ac.kr.
+(8)Department of Laboratory Medicine, Asan Medical Center and University of 
+Ulsan, College of Medicine, Republic of Korea. Electronic address: 
+hboh@amc.seoul.kr.
+
+Named entities in the biomedical domain are often written using a Noun Phrase 
+(NP) along with a coordinating conjunction such as 'and' and 'or'. In addition, 
+repeated words among named entity mentions are frequently omitted. It is often 
+difficult to identify named entities. Although various Named Entity Recognition 
+(NER) methods have tried to solve this problem, these methods can only deal with 
+relatively simple elliptical patterns in coordinated NPs. We propose a new NER 
+method for identifying non-elliptical entity mentions with simple or complex 
+ellipses using linguistic rules and an entity mention dictionary. The GENIA and 
+CRAFT corpora were used to evaluate the performance of the proposed system. The 
+GENIA corpus was used to evaluate the performance of the system according to the 
+quality of the dictionary. The GENIA corpus comprises 3434 non-elliptical entity 
+mentions in 1585 coordinated NPs with ellipses. The system achieves 92.11% 
+precision, 95.20% recall, and 93.63% F-score in identification of non-elliptical 
+entity mentions in coordinated NPs. The accuracy of the system in resolving 
+simple and complex ellipses is 94.54% and 91.95%, respectively. The CRAFT corpus 
+was used to evaluate the performance of the system under realistic conditions. 
+The system achieved 78.47% precision, 67.10% recall, and 72.34% F-score in 
+coordinated NPs. The performance evaluations of the system show that it 
+efficiently solves the problem caused by ellipses, and improves NER performance. 
+The algorithm is implemented in PHP and the code can be downloaded from 
+https://code.google.com/p/medtextmining/.
+
+Copyright © 2013. Published by Elsevier Inc.
+
+DOI: 10.1016/j.jbi.2013.10.002
+PMID: 24153413 [Indexed for MEDLINE]

@@ -1,0 +1,29 @@
+554. Stud Health Technol Inform. 2006;121:228-41.
+
+Integrated electronic health records management system.
+
+Di Giacomo P(1), Ricci FL, Bocchi L.
+
+Author information:
+(1)University La Sapienza of Rome-Center for Biomedical Research. 
+Paola.Diacomo@uniroma1.it
+
+Computer systems and communication technologies are making a strong and 
+influential presence in the different fields of medicine. The cornerstone of a 
+functional medical information system represents the electronic health records 
+management system. Due to a very sensitive nature of medical information, such 
+systems are faced with a number of stringent requirements, like security and 
+confidentiality of patients' related data, different media type's management, 
+diversity of medical data that need to be processed etc. At present most 
+clinical software systems are closed with little or no operability between them, 
+and the medical information are locked in a variety of different incompatible 
+databases. As the result of these facts, it is very hard for the developers to 
+provide the solution for an integrated health computing environment, which would 
+considerably improve the quality of medical care in general. This paper presents 
+the framework for a functional EHR management system that meets these demands, 
+but also follows the initiative taken by the Next Generation Network (NGN) 
+approach, which includes user mobility, service transparency and common 
+communication platform for transferring and serving different types of 
+information, services and media.
+
+PMID: 17095822 [Indexed for MEDLINE]

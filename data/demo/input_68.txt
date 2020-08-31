@@ -1,0 +1,46 @@
+68. F1000Res. 2017 May 2;6:612. doi: 10.12688/f1000research.11389.2. eCollection 
+2017.
+
+PubRunner: A light-weight framework for updating text mining results.
+
+Anekalla KR(1), Courneya JP(2), Fiorini N(3), Lever J(4), Muchow M(5), Busby 
+B(6).
+
+Author information:
+(1)Northwestern University, Chicago, IL, 60611, USA.
+(2)Health Sciences and Human Services Library, University of Maryland, 
+Baltimore, MD, 21201, USA.
+(3)National Center for Biotechnology Information, National Institutes of Health, 
+Bethesda, MD, 20894, USA.
+(4)Canada's Michael Smith Genome Sciences Centre, University of British 
+Columbia, Vancouver, BC, V5Z 4S6, Canada.
+(5)National Institute of Standards and Technology, Gaithersburg, MD, 20899, USA.
+(6)National Center for Biotechnology Information, National Library of Medicine, 
+National Institutes of Health, Bethesda, MD, 20894, USA.
+
+Biomedical text mining promises to assist biologists in quickly navigating the 
+combined knowledge in their domain. This would allow improved understanding of 
+the complex interactions within biological systems and faster hypothesis 
+generation. New biomedical research articles are published daily and text mining 
+tools are only as good as the corpus from which they work. Many text mining 
+tools are underused because their results are static and do not reflect the 
+constantly expanding knowledge in the field. In order for biomedical text mining 
+to become an indispensable tool used by researchers, this problem must be 
+addressed. To this end, we present PubRunner, a framework for regularly running 
+text mining tools on the latest publications. PubRunner is lightweight, simple 
+to use, and can be integrated with an existing text mining tool. The workflow 
+involves downloading the latest abstracts from PubMed, executing a user-defined 
+tool, pushing the resulting data to a public FTP or Zenodo dataset, and 
+publicizing the location of these results on the public PubRunner website. We 
+illustrate the use of this tool by re-running the commonly used word2vec tool on 
+the latest PubMed abstracts to generate up-to-date word vector representations 
+for the biomedical domain. This shows a proof of concept that we hope will 
+encourage text mining developers to build tools that truly will aid biologists 
+in exploring the latest publications.
+
+DOI: 10.12688/f1000research.11389.2
+PMCID: PMC5664974
+PMID: 29152221
+
+Conflict of interest statement: Competing interests: No competing interests were 
+disclosed.

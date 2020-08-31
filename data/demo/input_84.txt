@@ -1,0 +1,51 @@
+84. J Biomed Inform. 2018 Oct;86:49-58. doi: 10.1016/j.jbi.2018.08.007. Epub 2018 
+Aug 14.
+
+Risk prediction using natural language processing of electronic mental health 
+records in an inpatient forensic psychiatry setting.
+
+Le DV(1), Montgomery J(2), Kirkby KC(3), Scanlan J(2).
+
+Author information:
+(1)School of Technology, Environments and Design, College of Sciences and 
+Engineering, University of Tasmania, Private Bag 87, Hobart 7001, TAS, 
+Australia. Electronic address: duyvan.le@utas.edu.au.
+(2)School of Technology, Environments and Design, College of Sciences and 
+Engineering, University of Tasmania, Private Bag 87, Hobart 7001, TAS, 
+Australia.
+(3)School of Medicine, College of Health and Medicine, University of Tasmania, 
+Private Bag 87, Hobart 7001, TAS, Australia.
+
+OBJECTIVE: Instruments rating risk of harm to self and others are widely used in 
+inpatient forensic psychiatry settings. A potential alternate or supplementary 
+means of risk prediction is from the automated analysis of case notes in 
+Electronic Health Records (EHRs) using Natural Language Processing (NLP). This 
+exploratory study rated presence or absence and frequency of words in a forensic 
+EHR dataset, comparing four reference dictionaries. Seven machine learning 
+algorithms and different time periods of EHR analysis were used to probe which 
+dictionary and which time period were most predictive of risk assessment scores 
+on validated instruments.
+MATERIALS AND METHODS: The EHR dataset comprised de-identified forensic 
+inpatient notes from the Wilfred Lopes Centre in Tasmania. The data comprised 
+unstructured free-text case note entries and serial ratings of three risk 
+assessment scales: Historical Clinical Risk Management-20 (HCR-20), Short-Term 
+Assessment of Risk and Treatability (START) and Dynamic Appraisal of Situational 
+Aggression (DASA). Four NLP dictionary word lists were selected: 6865 mental 
+health symptom words from the Unified Medical Language System (UMLS), 455 DSM-IV 
+diagnoses from UMLS repository, 6790 English positive and negative sentiment 
+words, and 1837 high frequency words from the Corpus of Contemporary American 
+English (COCA). Seven machine learning methods Bagging, J48, Jrip, Logistic 
+Model Trees (LMT), Logistic Regression, Linear Regression and Support Vector 
+Machine (SVM) were used to identify the combination of dictionaries and 
+algorithms that best predicted risk assessment scores.
+RESULTS: The most accurate prediction was attained on the DASA dataset using the 
+sentiment dictionary and the LMT and SVM algorithms.
+CONCLUSIONS: NLP, used in conjunction with NLP dictionaries and machine 
+learning, predicted risk ratings on the HCR-20, START, and DASA, based on EHR 
+content. Further research is required to ascertain the utility of NLP approaches 
+in predicting endpoints of actual self-harm, harm to others or victimisation.
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jbi.2018.08.007
+PMID: 30118855 [Indexed for MEDLINE]

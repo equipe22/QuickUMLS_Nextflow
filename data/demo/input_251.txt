@@ -1,0 +1,62 @@
+251. J Biomed Inform. 2019 Mar;91:103119. doi: 10.1016/j.jbi.2019.103119. Epub 2019 
+Feb 7.
+
+ADEpedia-on-OHDSI: A next generation pharmacovigilance signal detection platform 
+using the OHDSI common data model.
+
+Yu Y(1), Ruddy KJ(2), Hong N(1), Tsuji S(1), Wen A(1), Shah ND(3), Jiang G(4).
+
+Author information:
+(1)Department of Health Sciences Research, Mayo Clinic, Rochester, MN, USA.
+(2)Department of Oncology, Mayo Clinic, Rochester, MN, USA.
+(3)Department of Health Sciences Research, Mayo Clinic, Rochester, MN, USA; 
+Robert D. and Patricia E. Kern Center for the Science of Health Care Delivery, 
+Mayo Clinic, Rochester, MN, USA.
+(4)Department of Health Sciences Research, Mayo Clinic, Rochester, MN, USA. 
+Electronic address: Jiang.Guoqian@mayo.edu.
+
+OBJECTIVE: Supplementing the Spontaneous Reporting System (SRS) with Electronic 
+Health Record (EHR) data for adverse drug reaction detection could augment 
+sample size, increase population heterogeneity and cross-validate results for 
+pharmacovigilance research. The difference in the underlying data structures and 
+terminologies between SRS and EHR data presents challenges when attempting to 
+integrate the two into a single database. The Observational Health Data Sciences 
+and Informatics (OHDSI) collaboration provides a Common Data Model (CDM) for 
+organizing and standardizing EHR data to support large-scale observational 
+studies. The objective of the study is to develop and evaluate an informatics 
+platform known as ADEpedia-on-OHDSI, where spontaneous reporting data from FDA's 
+Adverse Event Reporting System (FAERS) is converted into the OHDSI CDM format 
+towards building a next generation pharmacovigilance signal detection platform.
+METHODS: An extraction, transformation and loading (ETL) tool was designed, 
+developed, and implemented to convert FAERS data into the OHDSI CDM format. A 
+comprehensive evaluation, including overall ETL evaluation, mapping quality 
+evaluation of drug names to RxNorm, and an evaluation of transformation and 
+imputation quality, was then performed to assess the mapping accuracy and 
+information loss using the FAERS data collected between 2012 and 2017. 
+Previously published findings related to vascular safety profile of triptans 
+were validated using ADEpedia-on-OHDSI in pharmacovigilance research. For the 
+triptan-related vascular event detection, signals were detected by Reporting 
+Odds Ratio (ROR) in high-level group terms (HLGT) level, high-level terms (HLT) 
+level and preferred term (PT) level using the original FAERS data and CDM-based 
+FAERS respectively. In addition, six standardized MedDRA queries (SMQs) related 
+to vascular events were applied.
+RESULTS: A total of 4,619,362 adverse event cases were loaded into 8 tables in 
+the OHDSI CDM. For drug name mapping, 93.9% records and 47.0% unique names were 
+matched with RxNorm codes. Mapping accuracy of drug names was 96% based on a 
+manual verification of randomly sampled 500 unique mappings. Information loss 
+evaluation showed that more than 93% of the data is loaded into the OHDSI CDM 
+for most fields, with the exception of drug route data (66%). The replication 
+study detected 5, 18, 47 and 6, 18, 50 triptan-related vascular event signals in 
+MedDRA HLGT level, HLT level, and PT level for the original FAERS data and 
+CDM-based FAERS respectively. The signal detection scores of six standardized 
+MedDRA queries (SMQs) of vascular events in the raw data study were found to be 
+lower than those scores in the CDM study.
+CONCLUSION: The outcome of this work would facilitate seamless integration and 
+combined analyses of both SRS and EHR data for pharmacovigilance in 
+ADEpedia-on-OHDSI, our platform for next generation pharmacovigilance.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jbi.2019.103119
+PMCID: PMC6432939
+PMID: 30738946 [Indexed for MEDLINE]

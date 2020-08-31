@@ -1,0 +1,41 @@
+557. Am J Public Health. 2015 Jun;105(6):1168-73. doi: 10.2105/AJPH.2014.302440. Epub 
+2015 Apr 16.
+
+Improving identification of fall-related injuries in ambulatory care using 
+statistical text mining.
+
+Luther SL(1), McCart JA, Berndt DJ, Hahm B, Finch D, Jarman J, Foulis PR, 
+Lapcevic WA, Campbell RR, Shorr RI, Valencia KM, Powell-Cope G.
+
+Author information:
+(1)Stephen L. Luther, James A. McCart, Bridget Hahm, Dezon Finch, Philip R. 
+Foulis, William A. Lapcevic, Robert R. Campbell, and Gail Powell-Cope are with 
+the HSR&D Center of Innovation on Disability and Rehabilitation Research, James 
+A. Haley Veterans Hospital, Tampa, FL. Donald J. Berndt is with the University 
+of South Florida College of Business Administration, Tampa. Jay Jarman is with 
+the East Tennessee State University Department of Computing, Johnson City. 
+Ronald I. Shorr is with the North Florida/South Georgia Veterans Health System, 
+Gainesville, FL. Keryl Motta Valencia is with the VA Caribbean Healthcare 
+System, San Juan, PR.
+
+OBJECTIVES: We determined whether statistical text mining (STM) can identify 
+fall-related injuries in electronic health record (EHR) documents and the impact 
+on STM models of training on documents from a single or multiple facilities.
+METHODS: We obtained fiscal year 2007 records for Veterans Health Administration 
+(VHA) ambulatory care clinics in the southeastern United States and Puerto Rico, 
+resulting in a total of 26 010 documents for 1652 veterans treated for 
+fall-related injury and 1341 matched controls. We used the results of an STM 
+model to predict fall-related injuries at the visit and patient levels and 
+compared them with a reference standard based on chart review.
+RESULTS: STM models based on training data from a single facility resulted in 
+accuracy of 87.5% and 87.1%, F-measure of 87.0% and 90.9%, sensitivity of 92.1% 
+and 94.1%, and specificity of 83.6% and 77.8% at the visit and patient levels, 
+respectively. Results from training data from multiple facilities were almost 
+identical.
+CONCLUSIONS: STM has the potential to improve identification of fall-related 
+injuries in the VHA, providing a model for wider application in the evolving 
+national EHR system.
+
+DOI: 10.2105/AJPH.2014.302440
+PMCID: PMC4431098
+PMID: 25880936 [Indexed for MEDLINE]

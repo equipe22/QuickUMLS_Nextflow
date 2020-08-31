@@ -1,0 +1,24 @@
+91. Stud Health Technol Inform. 2013;192:1191.
+
+Integrating UIMA annotators in a web-based text processing framework.
+
+Chen X(1), Arnold CW.
+
+Author information:
+(1)Medical Imaging Informatics Group, University of California - Los Angeles, 
+USA.
+
+The Unstructured Information Management Architecture (UIMA) [1] framework is a 
+growing platform for natural language processing (NLP) applications. However, 
+such applications may be difficult for non-technical users deploy. This project 
+presents a web-based framework that wraps UIMA-based annotator systems into a 
+graphical user interface for researchers and clinicians, and a web service for 
+developers. An annotator that extracts data elements from lung cancer radiology 
+reports is presented to illustrate the use of the system. Annotation results 
+from the web system can be exported to multiple formats for users to utilize in 
+other aspects of their research and workflow. This project demonstrates the 
+benefits of a lay-user interface for complex NLP applications. Efforts such as 
+this can lead to increased interest and support for NLP work in the clinical 
+domain.
+
+PMID: 23920965 [Indexed for MEDLINE]

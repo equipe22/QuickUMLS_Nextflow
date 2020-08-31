@@ -1,0 +1,60 @@
+639. J Am Med Inform Assoc. 2016 Jul;23(4):692-700. doi: 10.1093/jamia/ocw008. Epub 
+2016 Mar 23.
+
+CUSTOM-SEQ: a prototype for oncology rapid learning in a comprehensive EHR 
+environment.
+
+Warner JL(1), Wang L(2), Pao W(3), Sosman JA(3), Atreya RV(4), Carney P(2), Levy 
+MA(5).
+
+Author information:
+(1)Department of Medicine, Division of Hematology/Oncology, Vanderbilt 
+University, Nashville, TN, USA. Department of Biomedical Informatics, Vanderbilt 
+University, Nashville, TN, USA. jeremy.warner@vanderbilt.edu.
+(2)Vanderbilt-Ingram Cancer Center, Vanderbilt University, Nashville, TN, USA.
+(3)Department of Medicine, Division of Hematology/Oncology, Vanderbilt 
+University, Nashville, TN, USA.
+(4)Department of Biomedical Informatics, Vanderbilt University, Nashville, TN, 
+USA.
+(5)Department of Medicine, Division of Hematology/Oncology, Vanderbilt 
+University, Nashville, TN, USA. Department of Biomedical Informatics, Vanderbilt 
+University, Nashville, TN, USA. Vanderbilt-Ingram Cancer Center, Vanderbilt 
+University, Nashville, TN, USA.
+
+BACKGROUND: As targeted cancer therapies and molecular profiling become 
+widespread, the era of "precision oncology" is at hand. However, cancer genomes 
+are complex, making mutation-specific outcomes difficult to track. We created a 
+proof-of-principle, CUSTOM-SEQ: Continuously Updating System for Tracking 
+Outcome by Mutation, to Support Evidence-based Querying, to automatically 
+calculate and display mutation-specific survival statistics from electronic 
+health record data.
+METHODS: Patients with cancer genotyping were included, and clinical data was 
+extracted through a variety of algorithms. Results were refreshed regularly and 
+injected into a standard reporting platform. Significant results were 
+highlighted for visual cueing. A subset was additionally stratified by stage, 
+smoking status, and treatment exposure.
+RESULTS: By August 2015, 4310 patients with a median follow-up of 17 months had 
+sufficient data for survival calculation. As expected, epidermal growth factor 
+receptor (EGFR) mutations in lung cancer were associated with superior overall 
+survival, hazard ratio (HR) = 0.53 (P < .001), validating the approach. Guanine 
+nucleotide binding protein (G protein), q polypeptide (GNAQ) mutations in 
+melanoma were associated with inferior overall survival, a novel finding 
+(HR = 3.42, P < .001). Smoking status was not prognostic for epidermal growth 
+factor receptor-mutated lung cancer patients, who also lived significantly 
+longer than their counterparts, even with advanced disease (HR = 0.54, 
+P = .001).
+INTERPRETATION: CUSTOM-SEQ represents a novel rapid learning system for a 
+precision oncology environment. Retrospective studies are often limited by study 
+of specific time periods and can lead to incomplete conclusions. Because data is 
+continuously updated in CUSTOM-SEQ, the evidence base is constantly growing. 
+Future work will allow users to interactively explore populations by 
+demographics and treatment exposure, in order to further investigate significant 
+mutation-specific signals.
+
+© The Author 2016. Published by Oxford University Press on behalf of the 
+American Medical Informatics Association. All rights reserved. For Permissions, 
+please email: journals.permissions@oup.com.
+
+DOI: 10.1093/jamia/ocw008
+PMCID: PMC4926743
+PMID: 27008846 [Indexed for MEDLINE]

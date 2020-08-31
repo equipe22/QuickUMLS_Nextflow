@@ -1,0 +1,39 @@
+37. Healthc Inform Res. 2017 Apr;23(2):77-86. doi: 10.4258/hir.2017.23.2.77. Epub 
+2017 Apr 30.
+
+2016 Year-in-Review of Clinical and Consumer Informatics: Analysis and 
+Visualization of Keywords and Topics.
+
+Park HA(1), Lee JY(1), On J(1), Lee JH(1), Jung H(1), Park SK(1).
+
+Author information:
+(1)College of Nursing, Seoul National University, Seoul, Korea.
+
+OBJECTIVES: The objective of this study was to review and visualize the medical 
+informatics field over the previous 12 months according to the frequencies of 
+keywords and topics in papers published in the top four journals in the field 
+and in Healthcare Informatics Research (HIR), an official journal of the Korean 
+Society of Medical Informatics.
+METHODS: A six-person team conducted an extensive review of the literature on 
+clinical and consumer informatics. The literature was searched using keywords 
+employed in the American Medical Informatics Association year-in-review process 
+and organized into 14 topics used in that process. Data were analyzed using word 
+clouds, social network analysis, and association rules.
+RESULTS: The literature search yielded 370 references and 1,123 unique keywords. 
+'Electronic Health Record' (EHR) (78.6%) was the most frequently appearing 
+keyword in the articles published in the five studied journals, followed by 
+'telemedicine' (2.1%). EHR (37.6%) was also the most frequently studied topic 
+area, followed by clinical informatics (12.0%). However, 'telemedicine' (17.0%) 
+was the most frequently appearing keyword in articles published in HIR, followed 
+by 'telecommunications' (4.5%). Telemedicine (47.1%) was the most frequently 
+studied topic area, followed by EHR (14.7%).
+CONCLUSIONS: The study findings reflect the Korean government's efforts to 
+introduce telemedicine into the Korean healthcare system and reactions to this 
+from the stakeholders associated with telemedicine.
+
+DOI: 10.4258/hir.2017.23.2.77
+PMCID: PMC5435588
+PMID: 28523205
+
+Conflict of interest statement: Conflict of Interest: No potential conflict of 
+interest relevant to this article was reported.

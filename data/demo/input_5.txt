@@ -1,0 +1,39 @@
+5. Pharmacol Res Perspect. 2018 Nov 11;6(6):e00435. doi: 10.1002/prp2.435. 
+eCollection 2018 Dec.
+
+Natural language processing-based assessment of consistency in summaries of 
+product characteristics of generic antimicrobials.
+
+Shimazawa R(1), Kano Y(2), Ikeda M(3).
+
+Author information:
+(1)Department of Clinical Pharmacology Tokai University School of Medicine 
+Isehara Japan.
+(2)Faculty of Informatics Shizuoka University Hamamatsu Shizuoka Japan.
+(3)Department of Medical Informatics Kagawa University Hospital Kagawa Japan.
+
+To investigate consistency in summaries of product characteristics (SmPCs) of 
+generic antimicrobials, we used natural language processing (NLP) to analyze and 
+compare large amounts of text quantifying consistency between original and 
+generic SmPCs. We manually compared each section of generic and original SmPCs 
+for antimicrobials listed in the electronic Medicines Compendium in the United 
+Kingdom, focusing on omissions and additions of clinically significant 
+information (CSI). Independently, we quantified differences between the original 
+and generic SmPCs using Kachako, a fully automatic NLP platform. Among the 137 
+antimicrobials listed in the electronic Medicines Compendium, we identified 193 
+pairs of original and generic antimicrobial SmPCs for the 48 antimicrobials for 
+which generic SmPCs existed. Of these 193 pairs, 157 (81%) were consistent and 
+36 were inconsistent with the original SmPC. When the cut-off value of RATE (the 
+index of similarity between two SmPCs) was set at 0.860, our NLP system 
+effectively discriminated consistent generic SmPCs with a specificity of 100% 
+and a sensitivity of 61%. We observed CSI omissions but not additions in the 
+SmPC subsection related to pharmacokinetic properties. CSI additions but not 
+omissions were found in the subsections dealing with therapeutic indications and 
+fertility, pregnancy and lactation. Despite regulatory guidance, we observed 
+substantial inconsistencies in the information in the United Kingdom SmPCs for 
+antimicrobials. NLP technology proved to be a useful tool for checking large 
+numbers of SmPCs for consistency.
+
+DOI: 10.1002/prp2.435
+PMCID: PMC6230812
+PMID: 30455958 [Indexed for MEDLINE]

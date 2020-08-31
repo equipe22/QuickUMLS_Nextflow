@@ -1,0 +1,43 @@
+185. Methods Inf Med. 2015;54(1):24-31. doi: 10.3414/ME13-02-0025. Epub 2014 Dec 9.
+
+Bridging data models and terminologies to support adverse drug event reporting 
+using EHR data.
+
+Declerck G(1), Hussain S, Daniel C, Yuksel M, Laleci GB, Twagirumukiza M, 
+Jaulent MC.
+
+Author information:
+(1)Gunnar Declerck, Centre de recherche des Cordeliers, 15 rue de l'école de 
+médecine, 75006 Paris, France, E-mail: gunnar.declerck@upmc.fr.
+
+INTRODUCTION: This article is part of the Focus Theme of METHODs of Information 
+in Medicine on "Managing Interoperability and Complexity in Health Systems".
+BACKGROUND: SALUS project aims at building an interoperability platform and a 
+dedicated toolkit to enable secondary use of electronic health records (EHR) 
+data for post marketing drug surveillance. An important component of this 
+toolkit is a drug-related adverse events (AE) reporting system designed to 
+facilitate and accelerate the reporting process using automatic prepopulation 
+mechanisms.
+OBJECTIVE: To demonstrate SALUS approach for establishing syntactic and semantic 
+interoperability for AE reporting.
+METHOD: Standard (e.g. HL7 CDA-CCD) and proprietary EHR data models are mapped 
+to the E2B(R2) data model via SALUS Common Information Model. Terminology 
+mapping and terminology reasoning services are designed to ensure the automatic 
+conversion of source EHR terminologies (e.g. ICD-9-CM, ICD-10, LOINC or 
+SNOMED-CT) to the target terminology MedDRA which is expected in AE reporting 
+forms. A validated set of terminology mappings is used to ensure the reliability 
+of the reasoning mechanisms.
+RESULTS: The percentage of data elements of a standard E2B report that can be 
+completed automatically has been estimated for two pilot sites. In the best 
+scenario (i.e. the available fields in the EHR have actually been filled), only 
+36% (pilot site 1) and 38% (pilot site 2) of E2B data elements remain to be 
+filled manually. In addition, most of these data elements shall not be filled in 
+each report.
+CONCLUSION: SALUS platform's interoperability solutions enable partial 
+automation of the AE reporting process, which could contribute to improve 
+current spontaneous reporting practices and reduce under-reporting, which is 
+currently one major obstacle in the process of acquisition of pharmacovigilance 
+data.
+
+DOI: 10.3414/ME13-02-0025
+PMID: 25487120 [Indexed for MEDLINE]

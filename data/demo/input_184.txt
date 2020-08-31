@@ -1,0 +1,42 @@
+184. J Biomed Inform. 2013 Jun;46(3):410-24. doi: 10.1016/j.jbi.2013.01.005. Epub 
+2013 Feb 9.
+
+The Analytic Information Warehouse (AIW): a platform for analytics using 
+electronic health record data.
+
+Post AR(1), Kurc T, Cholleti S, Gao J, Lin X, Bornstein W, Cantrell D, Levine D, 
+Hohmann S, Saltz JH.
+
+Author information:
+(1)Department of Biomedical Informatics, Emory University, 36 Eagle Row, 
+Atlanta, GA 30322, USA. arpost@emory.edu
+
+OBJECTIVE: To create an analytics platform for specifying and detecting clinical 
+phenotypes and other derived variables in electronic health record (EHR) data 
+for quality improvement investigations.
+MATERIALS AND METHODS: We have developed an architecture for an Analytic 
+Information Warehouse (AIW). It supports transforming data represented in 
+different physical schemas into a common data model, specifying derived 
+variables in terms of the common model to enable their reuse, computing derived 
+variables while enforcing invariants and ensuring correctness and consistency of 
+data transformations, long-term curation of derived data, and export of derived 
+data into standard analysis tools. It includes software that implements these 
+features and a computing environment that enables secure high-performance access 
+to and processing of large datasets extracted from EHRs.
+RESULTS: We have implemented and deployed the architecture in production 
+locally. The software is available as open source. We have used it as part of 
+hospital operations in a project to reduce rates of hospital readmission within 
+30days. The project examined the association of over 100 derived variables 
+representing disease and co-morbidity phenotypes with readmissions in 5years of 
+data from our institution's clinical data warehouse and the UHC Clinical 
+Database (CDB). The CDB contains administrative data from over 200 hospitals 
+that are in academic medical centers or affiliated with such centers.
+DISCUSSION AND CONCLUSION: A widely available platform for managing and 
+detecting phenotypes in EHR data could accelerate the use of such data in 
+quality improvement and comparative effectiveness studies.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jbi.2013.01.005
+PMCID: PMC3660520
+PMID: 23402960 [Indexed for MEDLINE]

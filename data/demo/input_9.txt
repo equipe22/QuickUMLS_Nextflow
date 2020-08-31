@@ -1,0 +1,61 @@
+9. Int J Med Inform. 2019 Aug;128:62-70. doi: 10.1016/j.ijmedinf.2019.04.017. Epub 
+2019 May 25.
+
+Detecting adverse drug reactions in discharge summaries of electronic medical 
+records using Readpeer.
+
+Tang Y(1), Yang J(1), Ang PS(2), Dorajoo SR(2), Foo B(2), Soh S(2), Tan SH(2), 
+Tham MY(2), Ye Q(3), Shek L(4), Sung C(5), Tung A(6).
+
+Author information:
+(1)Department of Computer Science, School of Computing, National University of 
+Singapore, Singapore.
+(2)Vigilance & Compliance Branch, Health Products Regulation Group, Health 
+Sciences Authority, Singapore.
+(3)Vigilance & Compliance Branch, Health Products Regulation Group, Health 
+Sciences Authority, Singapore; Genome Institute of Singapore, Agency for Science 
+and Technology, Singapore.
+(4)Yong Loo Lin School of Medicine, National University of Singapore, National 
+University Health System, Singapore.
+(5)Vigilance & Compliance Branch, Health Products Regulation Group, Health 
+Sciences Authority, Singapore; Health Services and Systems Research, Duke-NUS 
+Medical School, Singapore.
+(6)Department of Computer Science, School of Computing, National University of 
+Singapore, Singapore. Electronic address: anthony@comp.nus.edu.sg.
+
+BACKGROUND: Hospital discharge summaries offer a potentially rich resource to 
+enhance pharmacovigilance efforts to evaluate drug safety in real-world clinical 
+practice. However, it is infeasible for experts to read through all discharge 
+summaries to find cases of drug-adverse event (AE) relations.
+PURPOSE: The objective of this paper is to develop a natural language processing 
+(NLP) framework to detect drug-AE relations from unstructured hospital discharge 
+summaries.
+BASIC PROCEDURES: An NLP algorithm was designed using customized dictionaries of 
+drugs, adverse event (AE) terms, and rules based on trigger phrases, negations, 
+fuzzy logic and word distances to recognize drug, AE terms and to detect drug-AE 
+relations. Furthermore, a customized annotation tool was developed to facilitate 
+expert review of discharge summaries from a tertiary hospital in Singapore in 
+2011.
+MAIN FINDINGS: A total of 33 trial sets with 50 to 100 records per set were 
+evaluated (1620 discharge summaries) by our algorithm and reviewed by 
+pharmacovigilance experts. After every 6 trial sets, drug and AE dictionaries 
+were updated, and rules were modified to improve the system. Excellent 
+performance was achieved for drug and AE entity recognition with over 92% 
+precision and recall. On the final 6 sets of discharge summaries (600 records), 
+our algorithm achieved 75% precision and 59% recall for identification of valid 
+drug-AE relations.
+PRINCIPAL CONCLUSIONS: Adverse drug reactions are a significant contributor to 
+health care costs and utilization. Our algorithm is not restricted to particular 
+drugs, drug classes or specific medical specialties, which is an important 
+attribute for a national regulatory authority to carry out comprehensive safety 
+monitoring of drug products. Drug and AE dictionaries may be updated 
+periodically to ensure that the tool remains relevant for performing 
+surveillance activities. The development of the algorithm, and the ease of 
+reviewing and correcting the results of the algorithm as part of an iterative 
+machine learning process, is an important step towards use of hospital discharge 
+summaries for an active pharmacovigilance program.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijmedinf.2019.04.017
+PMID: 31160013 [Indexed for MEDLINE]

@@ -1,0 +1,45 @@
+133. Bioinformatics. 2019 Nov 1;35(21):4372-4380. doi: 10.1093/bioinformatics/btz227.
+
+Open Agile text mining for bioinformatics: the PubAnnotation ecosystem.
+
+Kim JD(1), Wang Y(1), Fujiwara T(1), Okuda S(2), Callahan TJ(3), Cohen KB(3)(4).
+
+Author information:
+(1)Database Center for Life Science, Research Organization of Information and 
+Systems, Kashiwa, Chiba, Japan.
+(2)Graduate School of Medical and Dental Sciences, Niigata University, Niigata, 
+Japan.
+(3)Computational Bioscience Program, University of Colorado Denver, Anschutz 
+Medical Campus, Aurora, CO, USA.
+(4)Université Paris-Saclay, LIMSI-ILES, France.
+
+MOTIVATION: Most currently available text mining tools share two characteristics 
+that make them less than optimal for use by biomedical researchers: they require 
+extensive specialist skills in natural language processing and they were built 
+on the assumption that they should optimize global performance metrics on 
+representative datasets. This is a problem because most end-users are not 
+natural language processing specialists and because biomedical researchers often 
+care less about global metrics like F-measure or representative datasets than 
+they do about more granular metrics such as precision and recall on their own 
+specialized datasets. Thus, there are fundamental mismatches between the 
+assumptions of much text mining work and the preferences of potential end-users.
+RESULTS: This article introduces the concept of Agile text mining, and presents 
+the PubAnnotation ecosystem as an example implementation. The system approaches 
+the problems from two perspectives: it allows the reformulation of text mining 
+by biomedical researchers from the task of assembling a complete system to the 
+task of retrieving warehoused annotations, and it makes it possible to do very 
+targeted customization of the pre-existing system to address specific end-user 
+requirements. Two use cases are presented: assisted curation of the GlycoEpitope 
+database, and assessing coverage in the literature of pre-eclampsia-associated 
+genes.
+AVAILABILITY AND IMPLEMENTATION: The three tools that make up the ecosystem, 
+PubAnnotation, PubDictionaries and TextAE are publicly available as web 
+services, and also as open source projects. The dictionaries and the annotation 
+datasets associated with the use cases are all publicly available through 
+PubDictionaries and PubAnnotation, respectively.
+
+© The Author(s) 2019. Published by Oxford University Press.
+
+DOI: 10.1093/bioinformatics/btz227
+PMCID: PMC6821251
+PMID: 30937439 [Indexed for MEDLINE]

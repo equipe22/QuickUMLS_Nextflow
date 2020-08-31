@@ -1,0 +1,54 @@
+632. J Med Internet Res. 2020 Jul 6;22(7):e19322. doi: 10.2196/19322.
+
+Rapid Utilization of Telehealth in a Comprehensive Cancer Center as a Response 
+to COVID-19: Cross-Sectional Analysis.
+
+Lonergan PE(#)(1), Washington Iii SL(#)(1), Branagan L(2), Gleason N(3)(4), 
+Pruthi RS(1), Carroll PR(1), Odisho AY(1)(2)(3).
+
+Author information:
+(1)Department of Urology, Helen Diller Family Comprehensive Cancer Center, 
+University of California, San Francisco, San Francisco, CA, United States.
+(2)Telehealth Resource Center, University of California, San Francisco, San 
+Francisco, CA, United States.
+(3)Center for Digital Health Innovation, University of California, San 
+Francisco, San Francisco, CA, United States.
+(4)Division of General Internal Medicine, University of California, San 
+Francisco, San Francisco, CA, United States.
+(#)Contributed equally
+
+BACKGROUND: The emergence of the coronavirus disease (COVID-19) pandemic in 
+March 2020 created unprecedented challenges in the provision of scheduled 
+ambulatory cancer care. As a result, there has been a renewed focus on 
+video-based telehealth consultations as a means to continue ambulatory care.
+OBJECTIVE: The aim of this study is to analyze the change in video visit volume 
+at the University of California, San Francisco (UCSF) Comprehensive Cancer 
+Center in response to COVID-19 and compare patient demographics and appointment 
+data from January 1, 2020, and in the 11 weeks after the transition to video 
+visits.
+METHODS: Patient demographics and appointment data (dates, visit types, and 
+departments) were extracted from the electronic health record reporting 
+database. Video visits were performed using a HIPAA (Health Insurance 
+Portability and Accountability Act)-compliant video conferencing platform with a 
+pre-existing workflow.
+RESULTS: In 17 departments and divisions at the UCSF Cancer Center, 2284 video 
+visits were performed in the 11 weeks before COVID-19 changes were implemented 
+(mean 208, SD 75 per week) and 12,946 video visits were performed in the 11-week 
+post-COVID-19 period (mean 1177, SD 120 per week). The proportion of video 
+visits increased from 7%-18% to 54%-72%, between the pre- and post-COVID-19 
+periods without any disparity based on race/ethnicity, primary language, or 
+payor.
+CONCLUSIONS: In a remarkably brief period of time, we rapidly scaled the 
+utilization of telehealth in response to COVID-19 and maintained access to 
+complex oncologic care at a time of social distancing.
+
+©Peter E Lonergan, Samuel L Washington III, Linda Branagan, Nathaniel Gleason, 
+Raj S Pruthi, Peter R Carroll, Anobel Y Odisho. Originally published in the 
+Journal of Medical Internet Research (http://www.jmir.org), 06.07.2020.
+
+DOI: 10.2196/19322
+PMCID: PMC7340164
+PMID: 32568721 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interest: AYO was a consultant for 
+VSee from December 2019 to January 2020.

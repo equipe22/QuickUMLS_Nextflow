@@ -1,0 +1,21 @@
+391. Stud Health Technol Inform. 2008;137:34-41.
+
+Electronic Health Records (EHR) in PROMED platform in accordance with the 
+Romanian legislative framework.
+
+Antohi R(1), Ogescu C, Bistriceanu D, Stefan L, Dumitru S.
+
+Author information:
+(1)The Company for Research, Development, Engineering and Manufacturing for 
+Automation Equipment an Systems - IPA SA, Bucharest Romania.
+
+The paper describes how the PROMED platform can be used as a Electronic Patient 
+Record (EHR) system and also the platform's contribution to the improvement of 
+the healthcare services in Romania as a solution for the integration of the main 
+stakeholders involved in a National Healthcare System: patients, health care 
+providers and public health authorities. By using the PROMED platform, the 
+Public Health Authorities will be able to view various reports about the 
+population health status and can elaborate timely prevention and warning plans 
+in case of epidemic diseases.
+
+PMID: 18560065 [Indexed for MEDLINE]

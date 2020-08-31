@@ -1,0 +1,47 @@
+111. Front Bioeng Biotechnol. 2019 Jul 3;7:156. doi: 10.3389/fbioe.2019.00156. 
+eCollection 2019.
+
+SemNet: Using Local Features to Navigate the Biomedical Concept Graph.
+
+Sedler AR(1), Mitchell CS(1).
+
+Author information:
+(1)Laboratory for Pathology Dynamics, Department of Biomedical Engineering, 
+Georgia Institute of Technology, Emory University School of Medicine, Atlanta, 
+GA, United States.
+
+Literature-Based Discovery (LBD) aims to connect scientists across silos by 
+assembling models of the literature to reveal previously hidden connections. 
+Unfortunately, LBD systems have been unable to achieve user adoption on a large 
+scale. This work develops opens source software in Python to convert a database 
+of semantic predications of all of PubMed's 27.9 million indexed abstracts into 
+a semantic inference network and biomedical concept graph in Neo4j. The 
+developed software, called SemNet, queries a modified version of the publicly 
+available SemMedDB and computes feature vectors on source-target pairs. Each 
+unique United Medical Language System (UMLS) concept is represented as a node 
+and each predication as an edge. Each node is assigned one of 132 node labels 
+(e.g., Amino Acid, Peptide, or Protein (AAPP); Gene or Genome (GG); etc.) and 
+each edge is labeled with one of 58 predications (e.g. treats, causes, inhibits, 
+etc.). SemNet computes a single feature value for each metapath, or sequence of 
+node types, between a source node and user-specified target node(s). Several 
+different types of metapath-based features (count, degree weighted path count, 
+and HeteSim metric) are computed and vectorized. SemNet employs an unsupervised 
+learning algorithm for rank aggregation (ULARA) to rank identified source nodes 
+that are most relevant to the user-specified target nodes(s). Statistical 
+analysis of correlation among identified source nodes or resultant literature 
+network features are used to identify patterns that can guide future research. 
+Analysis of high residual nodes is used to compare and contrast SemNet rankings 
+between different targets of interest. An example SemNet use case is presented 
+to assess "the differential impact of smoking on cognition in males and females" 
+using the following target nodes: nicotine, learning, memory, 
+tetrahydrocannabinol (THC), cigarette smoke, X chromosome, and Y chromosome. 
+Detailed rankings are discussed. Overall results suggest a hypothesis where 
+smoking negatively impacts cognition to a greater extent in females, but smoking 
+has stronger cardiovascular impacts in males. In summary, SemNet provides an 
+adoptable method for efficient LBD of PubMed that extends beyond omics-only 
+relationships to true multi-scalar connections that can provide actionable 
+insight for predictive medicine, research prioritization, and clinical care.
+
+DOI: 10.3389/fbioe.2019.00156
+PMCID: PMC6616276
+PMID: 31334227

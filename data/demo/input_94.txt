@@ -1,0 +1,39 @@
+94. Adv Exp Med Biol. 2016;939:139-166. doi: 10.1007/978-981-10-1503-8_7.
+
+Text Mining for Precision Medicine: Bringing Structure to EHRs and Biomedical 
+Literature to Understand Genes and Health.
+
+Simmons M(1), Singhal A(1), Lu Z(2).
+
+Author information:
+(1)National Center for Biotechnology Information (NCBI), National Library of 
+Medicine (NLM), 8600 Rockville Pike, Bldg 38A, 10N1003A, Bethesda, MD, 20894, 
+USA.
+(2)National Center for Biotechnology Information (NCBI), National Library of 
+Medicine (NLM), 8600 Rockville Pike, Bldg 38A, 10N1003A, Bethesda, MD, 20894, 
+USA. zhiyong.lu@nih.gov.
+
+The key question of precision medicine is whether it is possible to find 
+clinically actionable granularity in diagnosing disease and classifying patient 
+risk. The advent of next-generation sequencing and the widespread adoption of 
+electronic health records (EHRs) have provided clinicians and researchers a 
+wealth of data and made possible the precise characterization of individual 
+patient genotypes and phenotypes. Unstructured text-found in biomedical 
+publications and clinical notes-is an important component of genotype and 
+phenotype knowledge. Publications in the biomedical literature provide essential 
+information for interpreting genetic data. Likewise, clinical notes contain the 
+richest source of phenotype information in EHRs. Text mining can render these 
+texts computationally accessible and support information extraction and 
+hypothesis generation. This chapter reviews the mechanics of text mining in 
+precision medicine and discusses several specific use cases, including database 
+curation for personalized cancer medicine, patient outcome prediction from 
+EHR-derived cohorts, and pharmacogenomic research. Taken as a whole, these use 
+cases demonstrate how text mining enables effective utilization of existing 
+knowledge sources and thus promotes increased value for patients and healthcare 
+systems. Text mining is an indispensable tool for translating genotype-phenotype 
+data into effective clinical care that will undoubtedly play an important role 
+in the eventual realization of precision medicine.
+
+DOI: 10.1007/978-981-10-1503-8_7
+PMCID: PMC5931382
+PMID: 27807747 [Indexed for MEDLINE]

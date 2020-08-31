@@ -1,0 +1,68 @@
+559. Ann Am Thorac Soc. 2018 Jan;15(1):59-68. doi: 10.1513/AnnalsATS.201706-500OC.
+
+Palliative Care Planner: A Pilot Study to Evaluate Acceptability and Usability 
+of an Electronic Health Records System-integrated, Needs-targeted App Platform.
+
+Cox CE(1)(2), Jones DM(1)(2), Reagan W(1)(2), Key MD(1)(2), Chow V(3), McFarlin 
+J(4)(5), Casarett D(6), Creutzfeldt CJ(7), Docherty SL(8).
+
+Author information:
+(1)1 Department of Medicine, Division of Pulmonary & Critical Care Medicine, 
+Duke University, Durham, North Carolina.
+(2)2 Program to Support People and Enhance Recovery, Duke University, Durham, 
+North Carolina.
+(3)3 Department of Anesthesiology, Duke University, Durham, North Carolina.
+(4)4 Department of Neurology, University of Kentucky, Lexington, Kentucky.
+(5)5 Division of Palliative Care, University of Kentucky, Lexington, Kentucky.
+(6)6 Palliative Care Medicine Program, Duke University, Durham, North Carolina.
+(7)7 Department of Neurology, University of Washington, Seattle, Washington; 
+and.
+(8)8 School of Nursing, Duke University, Durham, North Carolina.
+
+Comment in
+    Ann Am Thorac Soc. 2018 Jan;15(1):18-19.
+
+RATIONALE: The quality and patient-centeredness of intensive care unit 
+(ICU)-based palliative care delivery is highly variable.
+OBJECTIVE: To develop and pilot an app platform for clinicians and ICU patients 
+and their family members that enhances the delivery of needs-targeted palliative 
+care.
+METHODS: In the development phase of the study, we developed an electronic 
+health record (EHR) system-integrated mobile web app system prototype, PCplanner 
+(Palliative Care Planner). PCplanner screens the EHR for ICU patients meeting 
+any of five prompts (triggers) for palliative care consultation, allows families 
+to report their unmet palliative care needs, and alerts clinicians to these 
+needs. The evaluation phase included a prospective before/after study conducted 
+at a large academic medical center. Two control populations were enrolled in the 
+before period to serve as context for the intervention. First, 25 ICU patients 
+who received palliative care consults served as patient-level controls. Second, 
+49 family members of ICU patients who received mechanical ventilation for at 
+least 48 hours served as family-level controls. Afterward, 14 patients, 18 
+family members, and 10 clinicians participated in the intervention evaluation 
+period. Family member outcomes measured at baseline and 4 days later included 
+acceptability (Client Satisfaction Questionnaire [CSQ]), usability (Systems 
+Usability Scale [SUS]), and palliative care needs, assessed with the adapted 
+needs of social nature, existential concerns, symptoms, and therapeutic 
+interaction (NEST) scale; the Patient-Centeredness of Care Scale (PCCS); and the 
+Perceived Stress Scale (PSS). Patient outcomes included frequency of goal 
+concordant treatment, hospital length of stay, and discharge disposition.
+RESULTS: Family members reported high PCplanner acceptability (mean CSQ, 14.1 
+[SD, 1.4]) and usability (mean SUS, 21.1 [SD, 1.7]). PCplanner family member 
+recipients experienced a 12.7-unit reduction in NEST score compared with a 
+3.4-unit increase among controls (P = 0.002), as well as improved mean scores on 
+the PCCS (6.6 [SD, 5.8]) and the PSS (-0.8 [SD, 1.9]). The frequency of 
+goal-concordant treatment increased over the course of the intervention (n = 14 
+[SD, 79%] vs. n = 18 [SD, 100%]). Compared with palliative care controls, 
+intervention patients received palliative care consultation sooner (3.9 [SD, 
+2.7] vs. 6.9 [SD, 7.1] mean days), had a shorter mean hospital length of stay 
+(20.5 [SD, 9.1] vs. 22.3 [SD, 16.0] patient number), and received hospice care 
+more frequently (5 [36%] vs. 5 [20%]), although these differences were not 
+statistically significant.
+CONCLUSIONS: PCplanner represents an acceptable, usable, and clinically 
+promising systems-based approach to delivering EHR-triggered, needs-targeted 
+ICU-based palliative care within a standard clinical workflow. A clinical trial 
+in a larger population is needed to evaluate its efficacy.
+
+DOI: 10.1513/AnnalsATS.201706-500OC
+PMCID: PMC5812235
+PMID: 29121480 [Indexed for MEDLINE]

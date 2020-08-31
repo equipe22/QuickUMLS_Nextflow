@@ -1,0 +1,43 @@
+33. PLoS One. 2016 Apr 13;11(4):e0152725. doi: 10.1371/journal.pone.0152725. 
+eCollection 2016.
+
+DiMeX: A Text Mining System for Mutation-Disease Association Extraction.
+
+Mahmood AS(1), Wu TJ(2), Mazumder R(2)(3), Vijay-Shanker K(1).
+
+Author information:
+(1)Department of Computer and Information Sciences, University of Delaware, 
+Newark, Delaware, United States of America.
+(2)Department of Biochemistry and Molecular Medicine, George Washington 
+University, Washington, District of Columbia, United States of America.
+(3)McCormick Genomic and Proteomic Center, George Washington University, 
+Washington, District of Columbia, United States of America.
+
+The number of published articles describing associations between mutations and 
+diseases is increasing at a fast pace. There is a pressing need to gather such 
+mutation-disease associations into public knowledge bases, but manual curation 
+slows down the growth of such databases. We have addressed this problem by 
+developing a text-mining system (DiMeX) to extract mutation to disease 
+associations from publication abstracts. DiMeX consists of a series of natural 
+language processing modules that preprocess input text and apply syntactic and 
+semantic patterns to extract mutation-disease associations. DiMeX achieves high 
+precision and recall with F-scores of 0.88, 0.91 and 0.89 when evaluated on 
+three different datasets for mutation-disease associations. DiMeX includes a 
+separate component that extracts mutation mentions in text and associates them 
+with genes. This component has been also evaluated on different datasets and 
+shown to achieve state-of-the-art performance. The results indicate that our 
+system outperforms the existing mutation-disease association tools, addressing 
+the low precision problems suffered by most approaches. DiMeX was applied on a 
+large set of abstracts from Medline to extract mutation-disease associations, as 
+well as other relevant information including patient/cohort size and population 
+data. The results are stored in a database that can be queried and downloaded at 
+http://biotm.cis.udel.edu/dimex/. We conclude that this high-throughput 
+text-mining approach has the potential to significantly assist researchers and 
+curators to enrich mutation databases.
+
+DOI: 10.1371/journal.pone.0152725
+PMCID: PMC4830514
+PMID: 27073839 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.

@@ -1,0 +1,36 @@
+637. Vaccine. 2017 Mar 13;35(11):1475-1481. doi: 10.1016/j.vaccine.2017.02.004. Epub 
+2017 Feb 14.
+
+Enhancement of antigen-specific CD4(+) and CD8(+) T cell responses using a 
+self-assembled biologic nanolipoprotein particle vaccine.
+
+Weilhammer D(1), Dunkle AD(1), Blanchette CD(1), Fischer NO(1), Corzett M(1), 
+Lehmann D(2), Boone T(2), Hoeprich P(1), Driks A(2), Rasley A(3).
+
+Author information:
+(1)Biosciences and Biotechnology Division, Lawrence Livermore National 
+Laboratory, United States.
+(2)Department of Microbiology & Immunology, Loyola University Medical Center, 
+United States.
+(3)Biosciences and Biotechnology Division, Lawrence Livermore National 
+Laboratory, United States. Electronic address: Rasley2@llnl.gov.
+
+To address the need for vaccine platforms that induce robust cell-mediated 
+immunity, we investigated the potential of utilizing self-assembling biologic 
+nanolipoprotein particles (NLPs) as an antigen and adjuvant delivery system to 
+induce antigen-specific murine T cell responses. We utilized OT-I and OT-II 
+TCR-transgenic mice to investigate the effects of NLP-mediated delivery of the 
+model antigen ovalbumin (OVA) on T cell activation. Delivery of OVA with the 
+TLR4 agonist monophosphoryl lipid A (MPLA) in the context of NLPs significantly 
+enhanced the activation of both CD4+ and CD8+ T cells in vitro compared to 
+co-administration of free OVA and MPLA. Upon intranasal immunization of mice 
+harboring TCR-transgenic cells, NLPs enhanced the adjuvant effects of MPLA and 
+the in vivo delivery of OVA, leading to significantly increased expansion of 
+CD4+ and CD8+ T cells in lung-draining lymph nodes. Therefore, NLPs are a 
+promising vaccine platform for inducing T cell responses following intranasal 
+administration.
+
+Copyright © 2017. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.vaccine.2017.02.004
+PMID: 28214044 [Indexed for MEDLINE]

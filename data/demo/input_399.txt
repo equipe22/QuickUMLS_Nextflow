@@ -1,0 +1,46 @@
+399. BMC Bioinformatics. 2012 Mar 28;13 Suppl 4(Suppl 4):S5. doi: 
+10.1186/1471-2105-13-S4-S5.
+
+An ICT infrastructure to integrate clinical and molecular data in oncology 
+research.
+
+Segagni D(1), Tibollo V, Dagliati A, Zambelli A, Priori SG, Bellazzi R.
+
+Author information:
+(1)IRCCS Fondazione Salvatore Maugeri, Pavia, 27100, Italy.
+
+BACKGROUND: The ONCO-i2b2 platform is a bioinformatics tool designed to 
+integrate clinical and research data and support translational research in 
+oncology. It is implemented by the University of Pavia and the IRCCS Fondazione 
+Maugeri hospital (FSM), and grounded on the software developed by the 
+Informatics for Integrating Biology and the Bedside (i2b2) research center. I2b2 
+has delivered an open source suite based on a data warehouse, which is 
+efficiently interrogated to find sets of interesting patients through a query 
+tool interface.
+METHODS: Onco-i2b2 integrates data coming from multiple sources and allows the 
+users to jointly query them. I2b2 data are then stored in a data warehouse, 
+where facts are hierarchically structured as ontologies. Onco-i2b2 gathers data 
+from the FSM pathology unit (PU) database and from the hospital biobank and 
+merges them with the clinical information from the hospital information system. 
+Our main effort was to provide a robust integrated research environment, giving 
+a particular emphasis to the integration process and facing different 
+challenges, consecutively listed: biospecimen samples privacy and anonymization; 
+synchronization of the biobank database with the i2b2 data warehouse through a 
+series of Extract, Transform, Load (ETL) operations; development and integration 
+of a Natural Language Processing (NLP) module, to retrieve coded information, 
+such as SNOMED terms and malignant tumors (TNM) classifications, and clinical 
+tests results from unstructured medical records. Furthermore, we have developed 
+an internal SNOMED ontology rested on the NCBO BioPortal web services.
+RESULTS: Onco-i2b2 manages data of more than 6,500 patients with breast cancer 
+diagnosis collected between 2001 and 2011 (over 390 of them have at least one 
+biological sample in the cancer biobank), more than 47,000 visits and 96,000 
+observations over 960 medical concepts.
+CONCLUSIONS: Onco-i2b2 is a concrete example of how integrated Information and 
+Communication Technology architecture can be implemented to support 
+translational research. The next steps of our project will involve the extension 
+of its capabilities by implementing new plug-in devoted to bioinformatics data 
+analysis as well as a temporal query module.
+
+DOI: 10.1186/1471-2105-13-S4-S5
+PMCID: PMC3303735
+PMID: 22536972 [Indexed for MEDLINE]

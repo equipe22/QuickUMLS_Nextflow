@@ -1,0 +1,30 @@
+190. AMIA Jt Summits Transl Sci Proc. 2015 Mar 25;2015:127-31. eCollection 2015.
+
+A Prototype for Executable and Portable Electronic Clinical Quality Measures 
+Using the KNIME Analytics Platform.
+
+Mo H(1), Pacheco JA(2), Rasmussen LV(2), Speltz P(1), Pathak J(3), Denny JC(1), 
+Thompson WK(4).
+
+Author information:
+(1)Vanderbilt University, Nashville, TN.
+(2)Northwestern University, Chicago, IL.
+(3)Mayo Clinic, Rochester, MN.
+(4)NorthShore University HealthSystem, Evanston, IL.
+
+Electronic clinical quality measures (eCQMs) based on the Quality Data Model 
+(QDM) cannot currently be executed against non-standardized electronic health 
+record (EHR) data. To address this gap, we prototyped an implementation of a 
+QDM-based eCQM using KNIME, an open-source platform comprising a wide array of 
+computational workflow tools that are collectively capable of executing 
+QDM-based logic, while also giving users the flexibility to customize mappings 
+from site-specific EHR data. To prototype this capability, we implemented eCQM 
+CMS30 (titled: Statin Prescribed at Discharge) using KNIME. The implementation 
+contains value set modules with connections to the National Library of 
+Medicine's Value Set Authority Center, QDM Data Elements that can query a local 
+EHR database, and logical and temporal operators. We successfully executed the 
+KNIME implementation of CMS30 using data from the Vanderbilt University and 
+Northwestern University EHR systems.
+
+PMCID: PMC4525225
+PMID: 26306254

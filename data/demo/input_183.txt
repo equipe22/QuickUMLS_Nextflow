@@ -1,0 +1,36 @@
+183. Biomed Res Int. 2015;2015:254838. doi: 10.1155/2015/254838. Epub 2015 Oct 1.
+
+METSP: a maximum-entropy classifier based text mining tool for 
+transporter-substrate identification with semistructured text.
+
+Zhao M(1), Chen Y(2), Qu D(2), Qu H(3).
+
+Author information:
+(1)School of Engineering, Faculty of Science, Health, Education and Engineering, 
+University of the Sunshine Coast, Maroochydore DC, QLD 4558, Australia.
+(2)School of Computer Science & Technology, Beijing Institute of Technology, 
+Beijing 100081, China.
+(3)Center for Bioinformatics, State Key Laboratory of Protein and Plant Gene 
+Research, College of Life Sciences, Peking University, Beijing 100871, China.
+
+The substrates of a transporter are not only useful for inferring function of 
+the transporter, but also important to discover compound-compound interaction 
+and to reconstruct metabolic pathway. Though plenty of data has been accumulated 
+with the developing of new technologies such as in vitro transporter assays, the 
+search for substrates of transporters is far from complete. In this article, we 
+introduce METSP, a maximum-entropy classifier devoted to retrieve 
+transporter-substrate pairs (TSPs) from semistructured text. Based on the high 
+quality annotation from UniProt, METSP achieves high precision and recall in 
+cross-validation experiments. When METSP is applied to 182,829 human transporter 
+annotation sentences in UniProt, it identifies 3942 sentences with transporter 
+and compound information. Finally, 1547 confidential human TSPs are identified 
+for further manual curation, among which 58.37% pairs with novel substrates not 
+annotated in public transporter databases. METSP is the first efficient tool to 
+extract TSPs from semistructured annotation text in UniProt. This tool can help 
+to determine the precise substrates and drugs of transporters, thus facilitating 
+drug-target prediction, metabolic network reconstruction, and literature 
+classification.
+
+DOI: 10.1155/2015/254838
+PMCID: PMC4606149
+PMID: 26495291 [Indexed for MEDLINE]

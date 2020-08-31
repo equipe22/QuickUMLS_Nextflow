@@ -1,0 +1,35 @@
+290. J Biomed Inform. 2010 Apr;43(2):218-23. doi: 10.1016/j.jbi.2009.08.016. Epub 
+2009 Sep 3.
+
+An interactive and user-centered computer system to predict physician's disease 
+judgments in discharge summaries.
+
+DeShazo JP(1), Turner AM.
+
+Author information:
+(1)Department of Health Administration, Virginia Commonwealth University, 
+Richmond, VA 23298-0203, USA. jpdeshazo@vcu.edu
+
+PURPOSE: This article describes a formative natural language processing (NLP) 
+system that is grounded in user-centered design, simplification, and 
+transparency of function.
+METHODS: The NLP system was tasked to classify diseases within patient discharge 
+summaries and is evaluated against clinician judgment during the 2008 i2b2 
+Shared Task competition. Text classification is performed by interactive, fully 
+supervised learning using rule-based processes and support vector machines 
+(SVMs).
+RESULTS: The macro-averaged F-score for textual (t) and intuitive (i) 
+classification were 0.614(t) and 0.629(i), while micro-averaged F-scores were 
+recorded at 0.966(t) and 0.954(i) for the competition. These results were 
+comparable to the top 10 performing systems.
+DISCUSSION: The results of this study indicate that an interactive training 
+method, de novo knowledge base with no external data sources, and simplified 
+text mining processes can achieve a comparably high performance in classifying 
+health-related texts. Further research is needed to determine if the 
+user-centered advantages of a NLP system translate into real world benefits.
+
+2009 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jbi.2009.08.016
+PMCID: PMC2839072
+PMID: 19733259 [Indexed for MEDLINE]

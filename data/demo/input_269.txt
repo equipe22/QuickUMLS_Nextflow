@@ -1,0 +1,44 @@
+269. J Am Med Inform Assoc. 2014 Sep-Oct;21(5):902-9. doi: 
+10.1136/amiajnl-2014-002669. Epub 2014 Jun 26.
+
+Induced lexico-syntactic patterns improve information extraction from online 
+medical forums.
+
+Gupta S(1), MacLean DL(1), Heer J(1), Manning CD(1).
+
+Author information:
+(1)Department of Computer Science, Stanford University, Stanford, California, 
+USA.
+
+OBJECTIVE: To reliably extract two entity types, symptoms and conditions (SCs), 
+and drugs and treatments (DTs), from patient-authored text (PAT) by learning 
+lexico-syntactic patterns from data annotated with seed dictionaries.
+BACKGROUND AND SIGNIFICANCE: Despite the increasing quantity of PAT (eg, online 
+discussion threads), tools for identifying medical entities in PAT are limited. 
+When applied to PAT, existing tools either fail to identify specific entity 
+types or perform poorly. Identification of SC and DT terms in PAT would enable 
+exploration of efficacy and side effects for not only pharmaceutical drugs, but 
+also for home remedies and components of daily care.
+MATERIALS AND METHODS: We use SC and DT term dictionaries compiled from online 
+sources to label several discussion forums from MedHelp 
+(http://www.medhelp.org). We then iteratively induce lexico-syntactic patterns 
+corresponding strongly to each entity type to extract new SC and DT terms.
+RESULTS: Our system is able to extract symptom descriptions and treatments 
+absent from our original dictionaries, such as 'LADA', 'stabbing pain', and 
+'cinnamon pills'. Our system extracts DT terms with 58-70% F1 score and SC terms 
+with 66-76% F1 score on two forums from MedHelp. We show improvements over 
+MetaMap, OBA, a conditional random field-based classifier, and a previous 
+pattern learning approach.
+CONCLUSIONS: Our entity extractor based on lexico-syntactic patterns is a 
+successful and preferable technique for identifying specific entity types in 
+PAT. To the best of our knowledge, this is the first paper to extract SC and DT 
+entities from PAT. We exhibit learning of informal terms often used in PAT but 
+missing from typical dictionaries.
+
+Published by the BMJ Publishing Group Limited. For permission to use (where not 
+already granted under a licence) please go to 
+http://group.bmj.com/group/rights-licensing/permissions.
+
+DOI: 10.1136/amiajnl-2014-002669
+PMCID: PMC4147618
+PMID: 24970840 [Indexed for MEDLINE]

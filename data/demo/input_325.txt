@@ -1,0 +1,44 @@
+325. J Digit Imaging. 2020 Apr 21. doi: 10.1007/s10278-020-00342-0. Online ahead of 
+print.
+
+A Hybrid Reporting Platform for Extended RadLex Coding Combining Structured 
+Reporting Templates and Natural Language Processing.
+
+Jungmann F(1), Arnhold G(2), Kämpgen B(3), Jorg T(2), Düber C(2), Mildenberger 
+P(2), Kloeckner R(2).
+
+Author information:
+(1)Department of Diagnostic and Interventional Radiology, University Medical 
+Center of the Johannes Gutenberg University Mainz, Langenbeckst. 1, 55131, 
+Mainz, Germany. florian.jungmann@unimedizin-mainz.de.
+(2)Department of Diagnostic and Interventional Radiology, University Medical 
+Center of the Johannes Gutenberg University Mainz, Langenbeckst. 1, 55131, 
+Mainz, Germany.
+(3)Empolis Information Management GmbH, Kaiserslautern, Germany.
+
+Structured reporting is a favorable and sustainable form of reporting in 
+radiology. Among its advantages are better presentation, clearer nomenclature, 
+and higher quality. By using MRRT-compliant templates, the content of the 
+categorized items (e.g., select fields) can be automatically stored in a 
+database, which allows further research and quality analytics based on 
+established ontologies like RadLex® linked to the items. Additionally, it is 
+relevant to provide free-text input for descriptions of findings and impressions 
+in complex imaging studies or for the information included with the clinical 
+referral. So far, however, this unstructured content cannot be categorized. We 
+developed a solution to analyze and code these free-text parts of the templates 
+in our MRRT-compliant reporting platform, using natural language processing 
+(NLP) with RadLex® terms in addition to the already categorized items. The 
+established hybrid reporting concept is working successfully. The NLP tool 
+provides RadLex® codes with modifiers (affirmed, speculated, negated). 
+Radiologists can confirm or reject codes provided by NLP before finalizing the 
+structured report. Furthermore, users can suggest RadLex® codes from free text 
+that is not correctly coded with NLP or can suggest to change the modifier. 
+Analyzing free-text fields took 1.23 s on average. Hybrid reporting enables 
+coding of free-text information in our MRRT-compliant templates and thus 
+increases the amount of categorized data that can be stored in the database. 
+This enhances the possibilities for further analyses, such as correlating 
+clinical information with radiological findings or storing high-quality 
+structured information for machine-learning approaches.
+
+DOI: 10.1007/s10278-020-00342-0
+PMID: 32318897

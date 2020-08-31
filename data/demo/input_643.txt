@@ -1,0 +1,83 @@
+643. NPJ Digit Med. 2020 Apr 20;3:60. doi: 10.1038/s41746-020-0265-z. eCollection 
+2020.
+
+Aggregating multiple real-world data sources using a patient-centered 
+health-data-sharing platform.
+
+Dhruva SS(1), Ross JS(2)(3)(4), Akar JG(4)(5), Caldwell B(6), Childers K(7), 
+Chow W(7), Ciaccio L(4), Coplan P(7), Dong J(6), Dykhoff HJ(8), Johnston S(7), 
+Kellogg T(9), Long C(6), Noseworthy PA(10)(11), Roberts K(12), Saha A(6), Yoo 
+A(7), Shah ND(8)(11).
+
+Author information:
+(1)1University of California, San Francisco School of Medicine, San Francisco, 
+CA USA.
+(2)2Section of General Internal Medicine and the National Clinician Scholars 
+Program, Yale School of Medicine, New Haven, CT USA.
+(3)3Department of Health Policy and Management, Yale School of Public Health, 
+New Haven, CT USA.
+(4)4Center for Outcomes Research and Evaluation, Yale-New Haven Hospital, New 
+Haven, CT USA.
+(5)5Department of Internal Medicine, Cardiovascular Medicine, Yale School of 
+Medicine, New Haven, CT USA.
+(6)6Center for Devices and Radiological Health, U.S. Food and Drug 
+Administration, White Oak, MD USA.
+(7)7Johnson & Johnson, New Brunswick, NJ USA.
+(8)8Division of Health Care Policy and Research, Department of Health Sciences 
+Research, Mayo Clinic, Rochester, MN USA.
+(9)9Division of Gastroenterologic and General Surgery, Mayo Clinic, Rochester, 
+MN USA.
+(10)10Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN USA.
+(11)11Robert D. and Patricia E. Kern Center for the Science of Health Care 
+Delivery, Mayo Clinic, Rochester, MN USA.
+(12)12Section of Gastrointestinal Surgery, Yale University School of Medicine, 
+New Haven, CT USA.
+
+Real-world data sources, including electronic health records (EHRs) and personal 
+digital device data, are increasingly available, but are often siloed and cannot 
+be easily integrated for clinical, research, or regulatory purposes. We 
+conducted a prospective cohort study of 60 patients undergoing bariatric surgery 
+or catheter-based atrial fibrillation ablation at two U.S. tertiary care 
+hospitals, testing the feasibility of using a patient-centered 
+health-data-sharing platform to obtain and aggregate health data from multiple 
+sources. We successfully obtained EHR data for all patients at both hospitals, 
+as well as from ten additional health systems, which were successfully 
+aggregated with pharmacy data obtained for patients using CVS or Walgreens 
+pharmacies; personal digital device data from activity monitors, digital weight 
+scales, and single-lead ECGs, and patient-reported outcome measure data obtained 
+through surveys to assess post-procedure recovery and disease-specific symptoms. 
+A patient-centered health-data-sharing platform successfully aggregated data 
+from multiple sources.
+
+© The Author(s) 2020.
+
+DOI: 10.1038/s41746-020-0265-z
+PMCID: PMC7170944
+PMID: 32352038
+
+Conflict of interest statement: Competing interestsS.S.D. currently receives 
+research support through the National Institute of Health (K12HL138046) and The 
+Greenwall Foundation. J.S.R. formerly received research support through Yale 
+University from Medtronic, Inc. and the Food and Drug Administration (FDA) to 
+develop methods for postmarket surveillance of medical devices (U01FD004585), 
+from the Centers of Medicare and Medicaid Services (CMS) to develop and maintain 
+performance measures that are used for public reporting (HHSM-500-2013-13018I), 
+and from the Blue Cross Blue Shield Association to better understand medical 
+technology evaluation; J.S.R. currently receives research support through Yale 
+University from Johnson and Johnson to develop methods of clinical trial data 
+sharing, from the Medical Device Innovation Consortium as part of the National 
+Evaluation System for Health Technology (NEST), from the Agency for Healthcare 
+Research and Quality (R01HS022882), from the National Heart, Lung and Blood 
+Institute of the National Institutes of Health (NIH) (R01HS025164), and from the 
+Laura and John Arnold Foundation to establish the Good Pharma Scorecard at 
+Bioethics International and to establish the Collaboration for Research 
+Integrity and Transparency (CRIT) at Yale. In the past 36 months, N.D.S. has 
+received research from the Centers of Medicare and Medicaid Innovation under the 
+Transforming Clinical Practice Initiative (TCPI), from the Agency for Healthcare 
+Research and Quality (R01HS025164; R01HS025402; 1U19HS024075; R03HS025517), from 
+the National Heart, Lung and Blood Institute of the National Institutes of 
+Health (NIH) (R56HL130496; R01HL131535), National Science Foundation, and from 
+the Patient-Centered Outcomes Research Institute (PCORI) to develop a Clinical 
+Data Research Network (LHSNet). P.C., A.Y., S.J., and K.C. are employees and 
+stockholders of Johnson & Johnson; W.C. is an employee of Janssen Scientific 
+Affairs, LLC, and a stockholder of Johnson & Johnson.

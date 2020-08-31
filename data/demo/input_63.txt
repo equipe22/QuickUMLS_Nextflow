@@ -1,0 +1,36 @@
+63. Health Informatics J. 2019 Dec;25(4):1232-1243. doi: 10.1177/1460458217749883. 
+Epub 2018 Jan 23.
+
+Adverse Event extraction from Structured Product Labels using the Event-based 
+Text-mining of Health Electronic Records (ETHER) system.
+
+Pandey A, Kreimeyer K, Foster M(1), Dang O(2), Ly T(3), Wang W(4), Forshee R, 
+Botsis T(1).
+
+Author information:
+(1)Office of Biostatistics and Epidemiology, Center for Biologics Evaluation and 
+Research, US Food and Drug Administration, USA.
+(2)Office of Surveillance and Epidemiology, Center for Drug Evaluation and 
+Research, US Food and Drug Administration, Silver Spring, USA.
+(3)Office of Translational Sciences, Center for Drug Evaluation and Research, US 
+Food and Drug Administration, Silver Spring, USA.
+(4)Engility Corporation, USA.
+
+Structured Product Labels follow an XML-based document markup standard approved 
+by the Health Level Seven organization and adopted by the US Food and Drug 
+Administration as a mechanism for exchanging medical products information. Their 
+current organization makes their secondary use rather challenging. We used the 
+Side Effect Resource database and DailyMed to generate a comparison dataset of 
+1159 Structured Product Labels. We processed the Adverse Reaction section of 
+these Structured Product Labels with the Event-based Text-mining of Health 
+Electronic Records system and evaluated its ability to extract and encode 
+Adverse Event terms to Medical Dictionary for Regulatory Activities Preferred 
+Terms. A small sample of 100 labels was then selected for further analysis. Of 
+the 100 labels, Event-based Text-mining of Health Electronic Records achieved a 
+precision and recall of 81 percent and 92 percent, respectively. This study 
+demonstrated Event-based Text-mining of Health Electronic Record's ability to 
+extract and encode Adverse Event terms from Structured Product Labels which may 
+potentially support multiple pharmacoepidemiological tasks.
+
+DOI: 10.1177/1460458217749883
+PMID: 29359620 [Indexed for MEDLINE]

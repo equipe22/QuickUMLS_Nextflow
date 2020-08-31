@@ -1,0 +1,27 @@
+215. IEEE J Biomed Health Inform. 2018 Jul;22(4):1323-1329. doi: 
+10.1109/JBHI.2017.2743824. Epub 2017 Aug 24.
+
+Machine Learning Approaches on Diagnostic Term Encoding With the ICD for 
+Clinical Documentation.
+
+Atutxa A, Perez A, Casillas A, Atutxa A, Perez A, Casillas A.
+
+This work focuses on data mining applied to the clinical documentation domain. 
+Diagnostic terms (DTs) are used as keywords to retrieve valuable information 
+from electronic health records. Indeed, they are encoded manually by experts 
+following the International Classification of Diseases (ICD). The goal of this 
+work is to explore the aid of text mining on DT encoding. From the machine 
+learning (ML) perspective, this is a high-dimensional classification task, as it 
+comprises thousands of codes. This work delves into a robust representation of 
+the instances to improve ML results. The proposed system is able to find the 
+right ICD code among more than 1500 possible ICD codes with 92% precision for 
+the main disease (primary class) and 88% for the main disease together with the 
+nonessential modifiers (fully specified class). The methodology employed is 
+simple and portable. According to the experts from public hospitals, the system 
+is very useful in particular for documentation and pharmacosurveillance 
+services. In fact, they reported an accuracy of 91.2% on a small randomly 
+extracted test. Hence, together with this paper, we made the software publicly 
+available in order to help the clinical and research community.
+
+DOI: 10.1109/JBHI.2017.2743824
+PMID: 28858819 [Indexed for MEDLINE]

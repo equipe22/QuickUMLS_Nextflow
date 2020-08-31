@@ -1,0 +1,51 @@
+143. J Cheminform. 2018 Dec 17;10(1):64. doi: 10.1186/s13321-018-0314-7.
+
+Statistical principle-based approach for gene and protein related object 
+recognition.
+
+Lai PT(1)(2), Huang MS(3)(4), Yang TH(1)(2), Hsu WL(5)(6), Tsai RT(7).
+
+Author information:
+(1)Department of Computer Science, National Tsing-Hua University, Hsinchu, 
+Taiwan.
+(2)Intelligent Agent Systems Laboratory, Institute of Information Science, 
+Academia Sinica, Taipei, Taiwan.
+(3)Bioinformatics Program, Taiwan International Graduate Program, Institute of 
+Information Science, Academia Sinica, Taipei, Taiwan.
+(4)Institute of Biomedical Informatics, National Yang Ming University, Taipei, 
+Taiwan.
+(5)Department of Computer Science, National Tsing-Hua University, Hsinchu, 
+Taiwan. hsu@iis.sinica.edu.tw.
+(6)Intelligent Agent Systems Laboratory, Institute of Information Science, 
+Academia Sinica, Taipei, Taiwan. hsu@iis.sinica.edu.tw.
+(7)Intelligent Information Service Research Laboratory, Department of Computer 
+Science and Information Engineering, National Central University, Taoyuan, 
+Taiwan. thtsai@csie.ncu.edu.tw.
+
+The large number of chemical and pharmaceutical patents has attracted 
+researchers doing biomedical text mining to extract valuable information such as 
+chemicals, genes and gene products. To facilitate gene and gene product 
+annotations in patents, BioCreative V.5 organized a gene- and protein-related 
+object (GPRO) recognition task, in which participants were assigned to identify 
+GPRO mentions and determine whether they could be linked to their unique 
+biological database records. In this paper, we describe the system constructed 
+for this task. Our system is based on two different NER approaches: the 
+statistical-principle-based approach (SPBA) and conditional random fields (CRF). 
+Therefore, we call our system SPBA-CRF. SPBA is an interpretable 
+machine-learning framework for gene mention recognition. The predictions of SPBA 
+are used as features for our CRF-based GPRO recognizer. The recognizer was 
+developed for identifying chemical mentions in patents, and we adapted it for 
+GPRO recognition. In the BioCreative V.5 GPRO recognition task, SPBA-CRF 
+obtained an F-score of 73.73% on the evaluation metric of GPRO type 1 and an 
+F-score of 78.66% on the evaluation metric of combining GPRO types 1 and 2. Our 
+results show that SPBA trained on an external NER dataset can perform reasonably 
+well on the partial match evaluation metric. Furthermore, SPBA can significantly 
+improve performance of the CRF-based recognizer trained on the GPRO dataset.
+
+DOI: 10.1186/s13321-018-0314-7
+PMCID: PMC6755615
+PMID: 30560325
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential competing interests.

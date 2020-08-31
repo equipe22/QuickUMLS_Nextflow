@@ -1,0 +1,46 @@
+334. J Am Med Inform Assoc. 2015 May;22(3):671-81. doi: 10.1093/jamia/ocu041. Epub 
+2015 Mar 9.
+
+Pharmacovigilance from social media: mining adverse drug reaction mentions using 
+sequence labeling with word embedding cluster features.
+
+Nikfarjam A(1), Sarker A(2), O'Connor K(2), Ginn R(2), Gonzalez G(1).
+
+Author information:
+(1)Department of Biomedical Informatics, Arizona State University, Scottsdale, 
+AZ, USA anikfarj@asu.edu graciela.gonzalez@asu.edu.
+(2)Department of Biomedical Informatics, Arizona State University, Scottsdale, 
+AZ, USA.
+
+OBJECTIVE: Social media is becoming increasingly popular as a platform for 
+sharing personal health-related information. This information can be utilized 
+for public health monitoring tasks, particularly for pharmacovigilance, via the 
+use of natural language processing (NLP) techniques. However, the language in 
+social media is highly informal, and user-expressed medical concepts are often 
+nontechnical, descriptive, and challenging to extract. There has been limited 
+progress in addressing these challenges, and thus far, advanced machine 
+learning-based NLP techniques have been underutilized. Our objective is to 
+design a machine learning-based approach to extract mentions of adverse drug 
+reactions (ADRs) from highly informal text in social media.
+METHODS: We introduce ADRMine, a machine learning-based concept extraction 
+system that uses conditional random fields (CRFs). ADRMine utilizes a variety of 
+features, including a novel feature for modeling words' semantic similarities. 
+The similarities are modeled by clustering words based on unsupervised, 
+pretrained word representation vectors (embeddings) generated from unlabeled 
+user posts in social media using a deep learning technique.
+RESULTS: ADRMine outperforms several strong baseline systems in the ADR 
+extraction task by achieving an F-measure of 0.82. Feature analysis demonstrates 
+that the proposed word cluster features significantly improve extraction 
+performance.
+CONCLUSION: It is possible to extract complex medical concepts, with relatively 
+high performance, from informal, user-generated content. Our approach is 
+particularly scalable, suitable for social media mining, as it relies on large 
+volumes of unlabeled data, thus diminishing the need for large, annotated 
+training data sets.
+
+© The Author 2015. Published by Oxford University Press on behalf of the 
+American Medical Informatics Association.
+
+DOI: 10.1093/jamia/ocu041
+PMCID: PMC4457113
+PMID: 25755127 [Indexed for MEDLINE]

@@ -1,0 +1,43 @@
+433. Diabetes Technol Ther. 2020 Aug;22(8):570-576. doi: 10.1089/dia.2019.0377. Epub 
+2020 Jul 10.
+
+Integrating Continuous Glucose Monitor Data Directly into the Electronic Health 
+Record: Proof of Concept.
+
+Espinoza J(1)(2), Shah P(1), Raymond J(2)(3).
+
+Author information:
+(1)Division of General Pediatrics, Department of Pediatrics, Children's Hospital 
+Los Angeles, Los Angeles, California.
+(2)Keck School of Medicine, University of Southern California, Los Angeles, 
+California.
+(3)Division of Endocrinology, Department of Pediatrics, Children's Hospital Los 
+Angeles, Los Angeles, California.
+
+Background: Continuous glucose monitoring (CGM) systems are widely and 
+increasingly used in diabetes self-management and in the context of clinic 
+visits. However, access to CGM data during visits can be challenging. Clinic 
+inefficiencies can restrict the time available for patient education, and the 
+inability to integrate CGM data into electronic health record (EHR) systems can 
+result in data being lost. In this study, we describe our institution's approach 
+to integrating CGM data directly into the EHR through a partnership with a CGM 
+device manufacturer and without a third-party data aggregation/data 
+visualization platform. Methods: We interviewed key stakeholders with the 
+hospital Information Technology Department, the Division of Pediatric 
+Endocrinology, and a CGM device manufacturer. A collaborative, human-centered 
+design approach was used to define the workflow. Health Level 7 (HL7) standards 
+were used to build all data exchanges. Results: In collaboration with all 
+parties, we created a simple network architecture design for both account 
+linkage and data acquisition. The system uses the standard, computerized, 
+physician order entry interface available in the EHR for both processes. Data 
+acquisition occurs in real time, and customized reports are displayed within the 
+results section of the EHR. The entire process is Health Insurance Portability 
+and Accountability Act (HIPAA) compliant and meets all security requirements. 
+Conclusions: Building scalable data integration using HL7 standards is possible 
+and allows real-time access to CGM data within the diabetes provider's existing 
+workflow and can occur with or without the patient present. This may lead to 
+improved clinical outcomes, increased efficiency, and new revenue opportunities 
+by documenting CGM data capture and review.
+
+DOI: 10.1089/dia.2019.0377
+PMID: 31904260

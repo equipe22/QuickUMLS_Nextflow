@@ -1,0 +1,30 @@
+164. Conf Proc IEEE Eng Med Biol Soc. 2007;2007:4331-4. doi: 
+10.1109/IEMBS.2007.4353295.
+
+A decision support system for the acquisition and elaboration of EEG signals: 
+the AmI-GRID environment.
+
+Barcaro U(1), Righi M, Ciullo PP, Palanca E, Cerbioni K, Starita A, Di Bona S, 
+Guerri D.
+
+Author information:
+(1)Computer Science Department of the University of Pisa, Pisa, 56127 IT. 
+umberto@di.unipi.it
+
+This paper describes a data-driven Decision Support System for 
+Electroencephalography (EEG) signals acquisition, and parallel elaboration based 
+on the integration of an Ambient Intelligent (AmI) [1] platform and a GRID 
+enabled Infrastructure. The paper explores the analysis and design of the 
+environment, the real-time data acquisition, the integration of the acquired 
+data in dedicated EHR, and the EEG processing through parallel analysis 
+algorithm available on the GRID infrastructure. After an overview of background 
+concepts, the paper presents a brief description of the environment 
+architecture, and a detailed analysis of the EEG algorithm. The challenge of the 
+work presented is to effectively show how medical data can be shared and 
+processed by exploiting the resources and capabilities of both the AmI platform 
+and the GRID infrastructure. This particular Decision Support System, shows how 
+it is possible to improve patient safety, quality of care, and efficiency in 
+healthcare delivery.
+
+DOI: 10.1109/IEMBS.2007.4353295
+PMID: 18002961 [Indexed for MEDLINE]

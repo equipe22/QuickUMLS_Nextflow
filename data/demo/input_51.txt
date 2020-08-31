@@ -1,0 +1,42 @@
+51. Database (Oxford). 2012 Mar 21;2012:bas017. doi: 10.1093/database/bas017. Print 
+2012.
+
+How to link ontologies and protein-protein interactions to literature: 
+text-mining approaches and the BioCreative experience.
+
+Krallinger M(1), Leitner F, Vazquez M, Salgado D, Marcelle C, Tyers M, Valencia 
+A, Chatr-aryamontri A.
+
+Author information:
+(1)Structural and Computational Biology Group, Spanish National Cancer Research 
+Centre (CNIO), Spain.
+
+There is an increasing interest in developing ontologies and controlled 
+vocabularies to improve the efficiency and consistency of manual literature 
+curation, to enable more formal biocuration workflow results and ultimately to 
+improve analysis of biological data. Two ontologies that have been successfully 
+used for this purpose are the Gene Ontology (GO) for annotating aspects of gene 
+products and the Molecular Interaction ontology (PSI-MI) used by databases that 
+archive protein-protein interactions. The examination of protein interactions 
+has proven to be extremely promising for the understanding of cellular 
+processes. Manual mapping of information from the biomedical literature to 
+bio-ontology terms is one of the most challenging components in the curation 
+pipeline. It requires that expert curators interpret the natural language 
+descriptions contained in articles and infer their semantic equivalents in the 
+ontology (controlled vocabulary). Since manual curation is a time-consuming 
+process, there is strong motivation to implement text-mining techniques to 
+automatically extract annotations from free text. A range of text mining 
+strategies has been devised to assist in the automated extraction of biological 
+data. These strategies either recognize technical terms used recurrently in the 
+literature and propose them as candidates for inclusion in ontologies, or 
+retrieve passages that serve as evidential support for annotating an ontology 
+term, e.g. from the PSI-MI or GO controlled vocabularies. Here, we provide a 
+general overview of current text-mining methods to automatically extract 
+annotations of GO and PSI-MI ontology terms in the context of the BioCreative 
+(Critical Assessment of Information Extraction Systems in Biology) challenge. 
+Special emphasis is given to protein-protein interaction data and PSI-MI terms 
+referring to interaction detection methods.
+
+DOI: 10.1093/database/bas017
+PMCID: PMC3309177
+PMID: 22438567 [Indexed for MEDLINE]

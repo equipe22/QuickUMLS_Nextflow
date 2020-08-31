@@ -1,0 +1,40 @@
+577. AMIA Jt Summits Transl Sci Proc. 2014 Apr 7;2014:19-25. eCollection 2014.
+
+Standard-based EHR-enabled applications for clinical research and patient 
+safety: CDISC - IHE QRPH - EHR4CR & SALUS collaboration.
+
+Daniel C(1), Sinaci A(2), Ouagne D(3), Sadou E(3), Declerck G(3), Kalra D(4), 
+Charlet J(3), Forsberg K(5), Bain L(6), Mead C(7), Hussain S(3), Laleci 
+Erturkmen GB(8).
+
+Author information:
+(1)INSERM, U1142, LIMICS, F-75006, Paris, France; Sorbonne Universités, UPMC 
+Univ Paris 06, UMR_S 1142, LIMICS, F-75006, Paris, France ; CCS SI Patient, 
+AP-HP, Paris, France.
+(2)Software Research, Development and Consultancy, Ankara, Turkey.
+(3)INSERM, U1142, LIMICS, F-75006, Paris, France; Sorbonne Universités, UPMC 
+Univ Paris 06, UMR_S 1142, LIMICS, F-75006, Paris, France.
+(4)University College London, UK.
+(5)AstraZeneca, Sweden.
+(6)CDISC.
+(7)W3C.
+(8)CCS SI Patient, AP-HP, Paris, France.
+
+Integration profiles collaboratively developed by CDISC and IHE for integrating 
+data from Electronic Health Records (EHRs) with clinical research and 
+pharmacovigilance are limited to resolving lexical/syntactic data integration 
+issues and do not address semantic barriers. This paper describes the 
+collaboration between two European projects - EHR4CR and SALUS - in implementing 
+ISO/IEC 11179-based metadata registries (MDRs) and semantically integrated 
+cross-platform data access. A common "semantic MDR" provides a framework for 
+bidirectional/cross-MDR mapping and federated queries are enabled using the 
+newly-defined IHE Data Exchange (DEX) profile. In the pilot implementation, 
+mappings for 178 EHR4CR and 199 SALUS metadata elements were persisted in the 
+semantic MDR. The DEX profile was then used to access semantically equivalent 
+data elements in SALUS or EHR4CR participating EHR systems. ISO/IEC 11179-based 
+MDRs and DEX integration profile address the goal of developing pan-EU 
+computable semantic integration of data from clinical care, clinical research, 
+and patient safety platforms.
+
+PMCID: PMC4419753
+PMID: 25954572

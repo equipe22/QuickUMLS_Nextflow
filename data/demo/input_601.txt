@@ -1,0 +1,62 @@
+601. BMC Med Inform Decis Mak. 2015 Dec 11;15:104. doi: 10.1186/s12911-015-0223-x.
+
+A numerical similarity approach for using retired Current Procedural Terminology 
+(CPT) codes for electronic phenotyping in the Scalable Collaborative 
+Infrastructure for a Learning Health System (SCILHS).
+
+Klann JG(1)(2)(3), Phillips LC(4), Turchin A(5)(4)(6)(7), Weiler S(5), Mandl 
+KD(5)(8), Murphy SN(5)(4)(9).
+
+Author information:
+(1)Harvard Medical School, Boston, MA, USA. jeff.klann@mgh.harvard.edu.
+(2)Partners Healthcare, Boston, MA, USA. jeff.klann@mgh.harvard.edu.
+(3)Massachusetts General Hospital, Boston, MA, USA. jeff.klann@mgh.harvard.edu.
+(4)Partners Healthcare, Boston, MA, USA.
+(5)Harvard Medical School, Boston, MA, USA.
+(6)Brigham and Women's Hospital, Boston, MA, USA.
+(7)Harvard Clinical Research Institute, Boston, MA, USA.
+(8)Computational Health Informatics Program, Boston Children's Hospital, Boston, 
+MA, USA.
+(9)Massachusetts General Hospital, Boston, MA, USA.
+
+BACKGROUND: Interoperable phenotyping algorithms, needed to identify patient 
+cohorts meeting eligibility criteria for observational studies or clinical 
+trials, require medical data in a consistent structured, coded format. Data 
+heterogeneity limits such algorithms' applicability. Existing approaches are 
+often: not widely interoperable; or, have low sensitivity due to reliance on the 
+lowest common denominator (ICD-9 diagnoses). In the Scalable Collaborative 
+Infrastructure for a Learning Healthcare System (SCILHS) we endeavor to use the 
+widely-available Current Procedural Terminology (CPT) procedure codes with 
+ICD-9. Unfortunately, CPT changes drastically year-to-year - codes are 
+retired/replaced. Longitudinal analysis requires grouping retired and current 
+codes. BioPortal provides a navigable CPT hierarchy, which we imported into the 
+Informatics for Integrating Biology and the Bedside (i2b2) data warehouse and 
+analytics platform. However, this hierarchy does not include retired codes.
+METHODS: We compared BioPortal's 2014AA CPT hierarchy with Partners Healthcare's 
+SCILHS datamart, comprising three-million patients' data over 15 years. 573 CPT 
+codes were not present in 2014AA (6.5 million occurrences). No existing 
+terminology provided hierarchical linkages for these missing codes, so we 
+developed a method that automatically places missing codes in the most specific 
+"grouper" category, using the numerical similarity of CPT codes. Two 
+informaticians reviewed the results. We incorporated the final table into our 
+i2b2 SCILHS/PCORnet ontology, deployed it at seven sites, and performed a gap 
+analysis and an evaluation against several phenotyping algorithms.
+RESULTS: The reviewers found the method placed the code correctly with 97 % 
+precision when considering only miscategorizations ("correctness precision") and 
+52 % precision using a gold-standard of optimal placement ("optimality 
+precision"). High correctness precision meant that codes were placed in a 
+reasonable hierarchal position that a reviewer can quickly validate. Lower 
+optimality precision meant that codes were not often placed in the optimal 
+hierarchical subfolder. The seven sites encountered few occurrences of codes 
+outside our ontology, 93 % of which comprised just four codes. Our hierarchical 
+approach correctly grouped retired and non-retired codes in most cases and 
+extended the temporal reach of several important phenotyping algorithms.
+CONCLUSIONS: We developed a simple, easily-validated, automated method to place 
+retired CPT codes into the BioPortal CPT hierarchy. This complements existing 
+hierarchical terminologies, which do not include retired codes. The approach's 
+utility is confirmed by the high correctness precision and successful grouping 
+of retired with non-retired codes.
+
+DOI: 10.1186/s12911-015-0223-x
+PMCID: PMC4676189
+PMID: 26655696 [Indexed for MEDLINE]

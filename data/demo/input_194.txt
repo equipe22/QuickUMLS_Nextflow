@@ -1,0 +1,55 @@
+194. J Psychiatr Brain Sci. 2020;5(1):e200001. doi: 10.20900/jpbs.20200001. Epub 2020 
+Feb 3.
+
+Mobile Peer-Support for Opioid Use Disorders: Refinement of an Innovative 
+Machine Learning Tool.
+
+Scherzer CR(1)(2), Ranney ML(1)(3), Jain S(4), Bommaraju SP(4), Patena J(1), 
+Langdon K(2)(5), Nimaja E(1), Jennings E(5)(6), Beaudoin FL(1)(3)(7).
+
+Author information:
+(1)Department of Emergency Medicine, Rhode Island Hospital, 593 Eddy Street, 
+Providence, RI 02903, USA.
+(2)Department of Psychiatry, Rhode Island Hospital, 593 Eddy Street, Providence, 
+RI 02903, USA.
+(3)Department of Emergency Medicine, Alpert Medical School of Brown University, 
+55 Claverick Street 2nd Floor, Providence, RI 02903, USA.
+(4)Marigold Health, 2 Ave de Lafayette, Boston, MA 02111, USA.
+(5)Department of Psychiatry and Human Behavior, Alpert Medical School of Brown 
+University, 700 Butler Drive, Providence, RI 02906, USA.
+(6)Center for Behavioral and Preventive Medicine, The Miriam Hospital, Alpert 
+Medical School of Brown University, 167 Point Street, Providence, RI 02903, USA.
+(7)Department of Health Services, Policy, and Practice, Brown School of Public 
+Health, 121 South Main Street, Providence, RI 02912, USA.
+
+BACKGROUND: The majority of individuals with Opioid Use Disorder (OUD) do not 
+receive any formal substance use treatment. Due to limited engagement and access 
+to traditional treatment, there is increasing evidence that patients with OUDs 
+turn to online social platforms to access peer support and obtain health-related 
+information about addiction and recovery. Interacting with peers before and 
+during recovery is a key component of many evidence-based addiction recovery 
+programs, and may improve self-efficacy and treatment engagement as well as 
+reduce relapse. Commonly-used online social platforms are limited in utility and 
+scalability as an adjunct to addiction treatment; lack effective content 
+moderation (e.g., misinformed advice, maliciousness or "trolling"); and lack 
+common security and ethical safeguards inherent to clinical care.
+METHODS: This present study will develop a novel, artificial-intelligence (AI) 
+enabled, mobile treatment delivery method that fulfills the need for a robust, 
+secure, technology-based peer support platform to support patients with OUD. 
+Forty adults receiving outpatient buprenorphine treatment for OUD will be asked 
+to pilot a smartphone-based mobile peer support application, the "Marigold App", 
+for a duration of six weeks. The program will use (1) a prospective cohort study 
+to obtain text message content and feasibility metrics, and (2) qualitative 
+interviews to evaluate usability and acceptability of the mobile platform.
+ANTICIPATED FINDINGS AND FUTURE DIRECTIONS: The Marigold mobile platform will 
+allow patients to access a tailored chat support group 24/7 as a complement to 
+different forms of clinical OUD treatment. Marigold can keep groups safe and 
+constructive by augmenting chats with AI tools capable of understanding the 
+emotional sentiment in messages, automatically "flagging" critical or clinically 
+relevant content. This project will demonstrate the robustness of these AI tools 
+by adapting them to catch OUD-specific "flags" in peer messages while also 
+examining the adoptability of the platform itself within OUD patients.
+
+DOI: 10.20900/jpbs.20200001
+PMCID: PMC7059630
+PMID: 32149192

@@ -1,0 +1,24 @@
+146. Stud Health Technol Inform. 2015;216:1031.
+
+Development and evaluation of task-specific NLP framework in China.
+
+Ge C(1), Zhang Y(1), Huang Z(1), Jia Z(1), Ju M(1), Duan H(1), Li H(2).
+
+Author information:
+(1)College of Biomedical Engineering and Instrument Science, Zhejiang 
+University, The Key Laboratory of Biomedical Engineering, Ministry of Education, 
+Hangzhou, China.
+(2)The Children's Hospital of Zhejiang University School of Medicine, Hangzhou, 
+China.
+
+Natural language processing (NLP) has been designed to convert narrative text 
+into structured data. Although some general NLP architectures have been 
+developed, a task-specific NLP framework to facilitate the effective use of data 
+is still a challenge in lexical resource limited regions, such as China. The 
+purpose of this study is to design and develop a task-specific NLP framework to 
+extract targeted information from particular documents by adopting dedicated 
+algorithms on current limited lexical resources. In this framework, a shared and 
+evolving ontology mechanism was designed. The result has shown that such a free 
+text driven platform will accelerate the NLP technology acceptance in China.
+
+PMID: 26262331 [Indexed for MEDLINE]

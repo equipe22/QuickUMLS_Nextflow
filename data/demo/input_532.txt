@@ -1,0 +1,69 @@
+532. JCO Clin Cancer Inform. 2020 Jan;4:1-9. doi: 10.1200/CCI.19.00120.
+
+Standards-Based Clinical Decision Support Platform to Manage Patients Who Meet 
+Guideline-Based Criteria for Genetic Evaluation of Familial Cancer.
+
+Del Fiol G(1), Kohlmann W(2), Bradshaw RL(1), Weir CR(1), Flynn M(3), Hess 
+R(3)(4), Schiffman JD(2)(5), Nanjo C(1), Kawamoto K(1).
+
+Author information:
+(1)Department of Biomedical Informatics, University of Utah, Salt Lake City, UT.
+(2)Huntsman Cancer Institute, University of Utah, Salt Lake City, UT.
+(3)Department of Internal Medicine, University of Utah, Salt Lake City, UT.
+(4)Department of Population Health Sciences, University of Utah, Salt Lake City, 
+UT.
+(5)Department of Pediatrics, University of Utah, Salt Lake City, UT.
+
+PURPOSE: The ubiquitous adoption of electronic health records (EHRs) with family 
+health history (FHH) data provides opportunities for tailoring cancer screening 
+strategies to individuals. We aimed to enable a standards-based clinical 
+decision support (CDS) platform for identifying and managing patients who meet 
+guidelines for genetic evaluation of hereditary cancer.
+METHODS: The CDS platform (www.opencds.org) was used to implement algorithms 
+based on the 2018 National Comprehensive Cancer Network guidelines for genetic 
+evaluation of hereditary breast/ovarian and colorectal cancer. The platform was 
+designed to be interfaced with different EHR systems via the Health Level Seven 
+International Fast Healthcare Interoperability Resources standard. The platform 
+was integrated with the Epic EHR and evaluated in a pilot study at an academic 
+health care system.
+RESULTS: The CDS platform was executed against a target population of 143,012 
+patients; 5,245 (3.7%) met criteria for genetic evaluation based on the FHH 
+recorded in the EHR. In a clinical pilot study, genetic counselors attempted to 
+reach out to 71 of the patients. Of those patients, 25 (35%) scheduled an 
+appointment, 10 (14%) declined, 2 (3%) did not need genetic counseling, 7 (10%) 
+said they would consider it in the future, and 27 (38%) were unreachable. To 
+date, 13 (52%) of the scheduled patients completed visits, and 2 (15%) of those 
+were found to have pathogenic variants in cancer predisposition genes.
+CONCLUSION: A standards-based CDS platform integrated with EHR systems is a 
+promising population-based approach to identify patients who are appropriate 
+candidates for genetic evaluation of hereditary cancers.
+
+DOI: 10.1200/CCI.19.00120
+PMCID: PMC7000231
+PMID: 31951474
+
+Conflict of interest statement: The following represents disclosure information 
+provided by authors of this manuscript. All relationships are considered 
+compensated unless otherwise noted. Relationships are self-held unless noted. I 
+= Immediate Family Member, Inst = My Institution. Relationships may not relate 
+to the subject matter of this manuscript. For more information about ASCO's 
+conflict of interest policy, please refer to www.asco.org/rwc or 
+ascopubs.org/cci/author-center. Open Payments is a public database containing 
+information reported by companies about payments made to US-licensed physicians 
+(Open Payments). WENDY KOHLMANN: Employment: BioFire Diagnostics (I) MICHAEL 
+FLYNN: Research Funding: Hitachi RACHEL HESS: Consulting or Advisory Role: 
+Astellas Pharma JOSHUA D. SCHIFFMAN: Employment: PEEL Therapeutics Leadership: 
+PEEL Therapeutics Stock and Other Ownership Interests: ItRunsInMyFamily.com, 
+PEEL Therapeutics Honoraria: Affymetrix Consulting or Advisory Role: N-of-One, 
+Fabric Genomics CLAUDE NANJO: Patents, Royalties, Other Intellectual Property: 
+We have internal (University of Utah) invention disclosures related to our work 
+in health IT. These are primarily for copyright protection. We have no royalty 
+arrangements at present or in the past 2 years. KENSAKU KAWAMOTO: Honoraria: 
+Hitachi, Premier Consulting or Advisory Role: US Office of the National 
+Coordinator for Health IT, via Security Risk Solutions and ESAC, McKesson 
+InterQual, Klesis Healthcare Research Funding: Hitachi (Inst) Patents, 
+Royalties, Other Intellectual Property: We have internal (University of Utah) 
+invention disclosures related to our work in health IT. These are primarily for 
+copyright protection. We have no royalty arrangements at present or in the past 
+2 years. Travel, Accommodations, Expenses: Hitachi Other Relationship: Nonprofit 
+companies No other potential conflicts of interest were reported.

@@ -1,0 +1,30 @@
+177. Bioinformatics. 2006 Sep 1;22(17):2151-7. doi: 10.1093/bioinformatics/btl281. 
+Epub 2006 Jun 9.
+
+Combination of text-mining algorithms increases the performance.
+
+Malik R(1), Franke L, Siebes A.
+
+Author information:
+(1)Universiteit Utrecht, Department of Information and Computing Sciences, 
+Padualaan 14, 3584CH Utrecht, The Netherlands. rainer@cs.uu.nl
+
+MOTIVATION: Recently, several information extraction systems have been developed 
+to retrieve relevant information out of biomedical text. However, these methods 
+represent individual efforts. In this paper, we show that by combining different 
+algorithms and their outcome, the results improve significantly. For this 
+reason, CONAN has been created, a system which combines different programs and 
+their outcome. Its methods include tagging of gene/protein names, finding 
+interaction and mutation data, tagging of biological concepts and linking to 
+MeSH and Gene Ontology terms.
+RESULTS: In this paper, we will present data that show that combining different 
+text-mining algorithms significantly improves the results. Not only is CONAN a 
+full-scale approach that will ultimately cover all of PubMed/MEDLINE, we also 
+show that this universality has no effect on quality: our system performs as 
+well as or better than existing systems.
+AVAILABILITY: The LDD corpus presented is available by request to the author. 
+The system will be available shortly. For information and updates on CONAN 
+please visit http://www.cs.uu.nl/people/rainer/conan.html.
+
+DOI: 10.1093/bioinformatics/btl281
+PMID: 16766558 [Indexed for MEDLINE]

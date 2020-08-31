@@ -1,0 +1,25 @@
+335. AMIA Annu Symp Proc. 2009 Nov 14;2009:431-5.
+
+UMLS-Interface and UMLS-Similarity : open source software for measuring paths 
+and semantic similarity.
+
+McInnes BT(1), Pedersen T, Pakhomov SV.
+
+Author information:
+(1)University of Minnesota, Minneapolis, MN, USA.
+
+A number of computational measures for determining semantic similarity between 
+pairs of biomedical concepts have been developed using various standards and 
+programming platforms. In this paper, we introduce two new open-source 
+frameworks based on the Unified Medical Language System (UMLS). These frameworks 
+consist of the UMLS-Similarity and UMLS-Interface packages. UMLS-Interface 
+provides path information about UMLS concepts. UMLS-Similarity calculates the 
+semantic similarity between UMLS concepts using several previously developed 
+measures and can be extended to include new measures. We validate the 
+functionality of these frameworks by reproducing the results from previous work. 
+Our frameworks constitute a significant contribution to the field of biomedical 
+Natural Language Processing by providing a common development and testing 
+platform for semantic similarity measures based on the UMLS.
+
+PMCID: PMC2815481
+PMID: 20351894 [Indexed for MEDLINE]

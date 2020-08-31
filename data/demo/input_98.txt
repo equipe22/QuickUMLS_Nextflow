@@ -1,0 +1,47 @@
+98. PLoS One. 2018 Jan 2;13(1):e0190028. doi: 10.1371/journal.pone.0190028. 
+eCollection 2018.
+
+ORBDA: An openEHR benchmark dataset for performance assessment of electronic 
+health record servers.
+
+Teodoro D(1)(2)(3), Sundvall E(4)(5), João Junior M(1), Ruch P(2)(3), Miranda 
+Freire S(1).
+
+Author information:
+(1)Departamento de Tecnologia da Informação e Educação em Saúde, Universidade do 
+Estado do Rio de Janeiro, Rio de Janeiro, Brazil.
+(2)SIB Text Mining, Swiss Institute of Bioinformatics, Geneva, Switzerland.
+(3)Department of Information Science, HEG-Geneva, HES-SO, Geneva, Switzerland.
+(4)Department of Biomedical Engineering, Linköping University, Linköping, 
+Sweden.
+(5)Region Östergötland, Linköping, Sweden.
+
+The openEHR specifications are designed to support implementation of flexible 
+and interoperable Electronic Health Record (EHR) systems. Despite the increasing 
+number of solutions based on the openEHR specifications, it is difficult to find 
+publicly available healthcare datasets in the openEHR format that can be used to 
+test, compare and validate different data persistence mechanisms for openEHR. To 
+foster research on openEHR servers, we present the openEHR Benchmark Dataset, 
+ORBDA, a very large healthcare benchmark dataset encoded using the openEHR 
+formalism. To construct ORBDA, we extracted and cleaned a de-identified dataset 
+from the Brazilian National Healthcare System (SUS) containing hospitalisation 
+and high complexity procedures information and formalised it using a set of 
+openEHR archetypes and templates. Then, we implemented a tool to enrich the raw 
+relational data and convert it into the openEHR model using the openEHR Java 
+reference model library. The ORBDA dataset is available in composition, 
+versioned composition and EHR openEHR representations in XML and JSON formats. 
+In total, the dataset contains more than 150 million composition records. We 
+describe the dataset and provide means to access it. Additionally, we 
+demonstrate the usage of ORBDA for evaluating inserting throughput and query 
+latency performances of some NoSQL database management systems. We believe that 
+ORBDA is a valuable asset for assessing storage models for openEHR-based 
+information systems during the software engineering process. It may also be a 
+suitable component in future standardised benchmarking of available openEHR 
+storage platforms.
+
+DOI: 10.1371/journal.pone.0190028
+PMCID: PMC5749730
+PMID: 29293556 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.

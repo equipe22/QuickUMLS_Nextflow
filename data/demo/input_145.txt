@@ -1,0 +1,29 @@
+145. Stud Health Technol Inform. 2018;247:246-250.
+
+Electronic Health Records: From the Management of Patients to the Research Use 
+of Clinical Data.
+
+Giannini B(1), Curtaz F(1), Del Puente F(2), Di Biagio A(2), Giacomini M(1).
+
+Author information:
+(1)Department of Informatics, Bioengineering, Robotics and System Engineering 
+(DIBRIS) - University of Genoa, Genoa, Italy.
+(2)Clinic of Infectious Diseases, Ospedale Policlinico San Martino, Genoa, 
+Italy.
+
+Paper based medical records are still widespread in Italian hospitals and the 
+workflow to manage outpatients' visits is critical. Too many isolated software 
+programs coexist in hospital wards and cause confusion and disorganization. A 
+computerized medical record that unifies all the data contained in the various 
+applications should be of fundamental importance in supporting physician's daily 
+activities. Moreover, with the digital clinical record, data can be re-used for 
+research purposes. The aim of this project is to create a web application for 
+the management of outpatient visits to the Infectious Diseases Unit of the San 
+Martino Hospital in Genoa. In order to orchestrate all the software programs 
+acting in the visit workflow, a client application was developed to speed up the 
+work of the medical staff at the time of the visits, ameliorating the quantity 
+and quality of relevant information from a clinical point of view. A further 
+extension allows standard data exchange between the developed application and 
+the Ligurian HIV Network, which is the main regional research platform.
+
+PMID: 29677960 [Indexed for MEDLINE]

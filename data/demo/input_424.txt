@@ -1,0 +1,28 @@
+424. J Bioinform Comput Biol. 2013 Feb;11(1):1340003. doi: 10.1142/S0219720013400039. 
+Epub 2013 Jan 21.
+
+Computational construction of specialized biological networks.
+
+Lee HM(1), Dietz KJ, Hofestädt R.
+
+Author information:
+(1)Bioinformatics/Medical Informatics Department, Bielefeld University, 
+Bielefeld 33615, Germany. hangmaolee@gmail.com
+
+Today we have access to more than 1500 molecular database systems inside the 
+internet. Based on these databases and information systems, computer scientists 
+developed and implemented different methods for the automatic integration and 
+prediction of biological networks. The idea is to use such methods for the 
+automatic prediction and expansion of rudimentary molecular knowledge. However, 
+the inherent data deficiency problem concerning the properties of specialized 
+network hampers the database- and text-mining-based network construction. This 
+paper presents the concept concerning the computational network expansion, 
+namely for the specific biological network-thiol-disulfide redox regulatory 
+network. Besides, a network-contexted document retrieval system (ncDocReSy) is 
+also introduced to assist the network reduction by providing indirectly relevant 
+literature for user's manual curation. NcDocReSy combines literature search with 
+biological network and ranks the retrieved literature according to the network 
+topology. NcDocReSy is implemented as a Cytoscape plugin.
+
+DOI: 10.1142/S0219720013400039
+PMID: 23427985 [Indexed for MEDLINE]

@@ -1,0 +1,26 @@
+182. Stud Health Technol Inform. 2015;216:1037.
+
+Text Mining and Data Modeling of Karyotypes to aid in Drug Repurposing Efforts.
+
+Abrams ZB(1), Peabody AL(1), Heerema NA(2), Payne PR(1).
+
+Author information:
+(1)Department of Biomedical Informatics, College of Medicine, The Ohio State 
+University, Columbus, Ohio, USA.
+(2)Department of Pathology, College of Medicine, The Ohio State University, 
+Columbus, Ohio, USA.
+
+Karyotyping, or visually examining and recording chromosomal abnormalities, is 
+commonly used to diagnose and treat disease. Karyotypes are written in the 
+International System for Human Cytogenetic Nomenclature (ISCN), a 
+computationally non-readable language that precludes full analysis of these 
+genomic data. In response, we developed a cytogenetic platform that transfers 
+the ISCN karyotypes to a machine-readable model available for computational 
+analysis. Here we use cytogenetic data from the National Cancer Institute 
+(NCI)-curated Mitelman database1 to create a structured karyotype language. 
+Then, drug-gene-disease triplets are generated via a computational pipeline 
+connecting public drug-gene interaction data sources to identify potential drug 
+repurposing opportunities.
+
+PMCID: PMC4894322
+PMID: 26262336 [Indexed for MEDLINE]

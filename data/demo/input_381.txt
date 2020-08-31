@@ -1,0 +1,45 @@
+381. BMC Bioinformatics. 2005;6 Suppl 1(Suppl 1):S23. doi: 
+10.1186/1471-2105-6-S1-S23. Epub 2005 May 24.
+
+Data-poor categorization and passage retrieval for gene ontology annotation in 
+Swiss-Prot.
+
+Ehrler F(1), Geissbühler A, Jimeno A, Ruch P.
+
+Author information:
+(1)Artificial Intelligence Laboratory, University of Geneva, Geneva, 
+Switzerland.
+
+BACKGROUND: In the context of the BioCreative competition, where training data 
+were very sparse, we investigated two complementary tasks: 1) given a Swiss-Prot 
+triplet, containing a protein, a GO (Gene Ontology) term and a relevant article, 
+extraction of a short passage that justifies the GO category assignment; 2) 
+given a Swiss-Prot pair, containing a protein and a relevant article, automatic 
+assignment of a set of categories.
+METHODS: Sentence is the basic retrieval unit. Our classifier computes a 
+distance between each sentence and the GO category provided with the Swiss-Prot 
+entry. The Text Categorizer computes a distance between each GO term and the 
+text of the article. Evaluations are reported both based on annotator judgements 
+as established by the competition and based on mean average precision measures 
+computed using a curated sample of Swiss-Prot.
+RESULTS: Our system achieved the best recall and precision combination both for 
+passage retrieval and text categorization as evaluated by official evaluators. 
+However, text categorization results were far below those in other data-poor 
+text categorization experiments The top proposed term is relevant in less that 
+20% of cases, while categorization with other biomedical controlled vocabulary, 
+such as the Medical Subject Headings, we achieved more than 90% precision. We 
+also observe that the scoring methods used in our experiments, based on the 
+retrieval status value of our engines, exhibits effective confidence estimation 
+capabilities.
+CONCLUSION: From a comparative perspective, the combination of retrieval and 
+natural language processing methods we designed, achieved very competitive 
+performances. Largely data-independent, our systems were no less effective that 
+data-intensive approaches. These results suggests that the overall strategy 
+could benefit a large class of information extraction tasks, especially when 
+training data are missing. However, from a user perspective, results were 
+disappointing. Further investigations are needed to design applicable end-user 
+text mining tools for biologists.
+
+DOI: 10.1186/1471-2105-6-S1-S23
+PMCID: PMC1869016
+PMID: 15960836 [Indexed for MEDLINE]

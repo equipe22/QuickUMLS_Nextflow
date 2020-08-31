@@ -1,0 +1,45 @@
+614. Online J Public Health Inform. 2017 Dec 31;9(3):e195. doi: 
+10.5210/ojphi.v9i3.8129. eCollection 2017.
+
+A State-wide Health IT Infrastructure for Population Health: Building a 
+Community-wide Electronic Platform for Maryland's All-Payer Global Budget.
+
+Hatef E(1), Kharrazi H(1), VanBaak E(2), Falcone M(2), Ferris L(2), Mertz K(2), 
+Perman C(3), Bauman A(3), Lasser EC(1), Weiner JP(1).
+
+Author information:
+(1)Center for Population Health IT, Department of Health Policy and Management, 
+Johns Hopkins Bloomberg School of Public Health, Baltimore, MD.
+(2)Chesapeake Regional Information System for our Patients (CRISP), Columbia, 
+Maryland.
+(3)Office of Population Health Improvement, Maryland Department of Health, 
+Baltimore, MD.
+
+Maryland Department of Health (MDH) has been preparing for alignment of its 
+population health initiatives with Maryland's unique All-Payer hospital global 
+budget program. In order to operationalize population health initiatives, it is 
+required to identify a starter set of measures addressing community level health 
+interventions and to collect interoperable data for those measures. The broad 
+adoption of electronic health records (EHRs) with ongoing data collection on 
+almost all patients in the state, combined with hospital participation in health 
+information exchange (HIE) initiatives, provides an unprecedented opportunity 
+for near real-time assessment of the health of the communities. MDH's EHR-based 
+monitoring complements, and perhaps replaces, ad-hoc assessments based on 
+limited surveys, billing, and other administrative data. This article explores 
+the potential expansion of health IT capacity as a method to improve population 
+health across Maryland. First, we propose a progression plan for four selected 
+community-wide population health measures: body mass index, blood pressure, 
+smoking status, and falls-related injuries. We then present an assessment of the 
+current and near real-time availability of digital data in Maryland including 
+the geographic granularity on which each measure can be assessed statewide. 
+Finally, we provide general recommendations to improve interoperable data 
+collection for selected measures over time via the Maryland HIE. This paper is 
+intended to serve as a high level guiding framework for communities across the 
+US that are undergoing healthcare transformation toward integrated models of 
+care using universal interoperable EHRs.
+
+DOI: 10.5210/ojphi.v9i3.8129
+PMCID: PMC5790428
+PMID: 29403574
+
+Conflict of interest statement: Competing Interests: No Competing Interests.

@@ -1,0 +1,22 @@
+237. Nephrol News Issues. 2015 Nov;29(12):58-60.
+
+Nephrology registry gives specialty control of quality data.
+
+Weinstein A, Beckrich A, Singer D.
+
+It is important for providers and practices to begin working with registry level 
+data. Submitting data to a qualified clinical data registry currently satisfies 
+Meaningful Use Stage II menu set items. In the future, with the rollout of MIPS 
+and the increasing focus on sharing risk, registry data will be used as a 
+benchmark for both publicly-reported performance (the physician compare program 
+will be linked to provider-level QCDR data) and modifications to reimbursement. 
+It is important to remember that PQRS data is the basis for the value based 
+modifier now and MIPS- related quality data after 2018. The RPA has launched and 
+is evolving a unique and versatile nephrology-specific data collection and 
+analytics tool. In collaboration with the American Society of Diagnostic and 
+Interventional Nephrology, vascular access measures will be added to the 
+registry for 2016. The registry and the analytics platform is a tier of software 
+operating above your practice management system and EHR and, if data can be 
+obtained, it can span all the locations in which nephrologists provide care.
+
+PMID: 26677598 [Indexed for MEDLINE]

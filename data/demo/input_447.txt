@@ -1,0 +1,27 @@
+447. J Biomed Inform. 2011 Dec;44(6):1086-92. doi: 10.1016/j.jbi.2011.08.011. Epub 
+2011 Aug 23.
+
+Neighborhood hash graph kernel for protein-protein interaction extraction.
+
+Zhang Y(1), Lin H, Yang Z, Li Y.
+
+Author information:
+(1)School of Electronics and Information Engineering, Dalian University of 
+Technology, Dalian, Liaoning, China. zhyj@dlut.edu.cn
+
+Automated extraction of protein-protein interactions (PPIs) from biomedical 
+literatures is an important topic of biomedical text mining. In this paper, we 
+propose an approach based on neighborhood hash graph kernel for this task. In 
+contrast to the existing graph kernel-based approaches for PPI extraction, the 
+proposed approach not only has the capability to make use of full dependency 
+graphs to represent the sentence structure but also effectively control the 
+computational complexity. We evaluate the proposed approach on five publicly 
+available PPI corpora and perform detailed comparisons with other approaches. 
+The experimental result shows that our approach is comparable to the 
+state-of-the-art PPI extraction system and much faster than all-path graph 
+kernel approach on all five PPI corpora.
+
+Copyright © 2011 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jbi.2011.08.011
+PMID: 21884822 [Indexed for MEDLINE]

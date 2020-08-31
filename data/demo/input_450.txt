@@ -1,0 +1,53 @@
+450. Int J Med Inform. 2006 Mar-Apr;75(3-4):185-90. doi: 
+10.1016/j.ijmedinf.2005.07.017. Epub 2005 Aug 19.
+
+Advanced and secure architectural EHR approaches.
+
+Blobel B(1).
+
+Author information:
+(1)Chair of the EFMI WG Electronic Health Records, University Hospital 
+Magdeburg, Germany. bernd.blobel@iis.fraunhofer.de
+
+OBJECTIVES: Electronic Health Records (EHRs) provided as a lifelong patient 
+record advance towards core applications of distributed and co-operating health 
+information systems and health networks. For meeting the challenge of scalable, 
+flexible, portable, secure EHR systems, the underlying EHR architecture must be 
+based on the component paradigm and model driven, separating 
+platform-independent and platform-specific models.
+METHODS: Allowing manageable models, real systems must be decomposed and 
+simplified. The resulting modelling approach has to follow the ISO Reference 
+Model - Open Distributing Processing (RM-ODP). The ISO RM-ODP describes any 
+system component from different perspectives. Platform-independent perspectives 
+contain the enterprise view (business process, policies, scenarios, use cases), 
+the information view (classes and associations) and the computational view 
+(composition and decomposition), whereas platform-specific perspectives concern 
+the engineering view (physical distribution and realisation) and the technology 
+view (implementation details from protocols up to education and training) on 
+system components. Those views have to be established for components reflecting 
+aspects of all domains involved in healthcare environments including 
+administrative, legal, medical, technical, etc. Thus, security-related component 
+models reflecting all view mentioned have to be established for enabling both 
+application and communication security services as integral part of the system's 
+architecture. Beside decomposition and simplification of system regarding the 
+different viewpoint on their components, different levels of systems' 
+granularity can be defined hiding internals or focusing on properties of basic 
+components to form a more complex structure. The resulting models describe both 
+structure and behaviour of component-based systems.
+RESULTS: The described approach has been deployed in different projects defining 
+EHR systems and their underlying architectural principles. In that context, the 
+Australian GEHR project, the openEHR initiative, the revision of CEN ENV 13606 
+"Electronic Health Record communication", all based on Archetypes, but also the 
+HL7 version 3 activities are discussed in some detail. The latter include the 
+HL7 RIM, the HL7 Development Framework, the HL7's clinical document architecture 
+(CDA) as well as the set of models from use cases, activity diagrams, sequence 
+diagrams up to Domain Information Models (DMIMs) and their building blocks 
+Common Message Element Types (CMET) Constraining Models to their underlying 
+concepts.
+CONCLUSION: The future-proof EHR architecture as open, user-centric, 
+user-friendly, flexible, scalable, portable core application in health 
+information systems and health networks has to follow advanced architectural 
+paradigms.
+
+DOI: 10.1016/j.ijmedinf.2005.07.017
+PMID: 16112891 [Indexed for MEDLINE]

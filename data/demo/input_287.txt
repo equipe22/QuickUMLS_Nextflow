@@ -1,0 +1,55 @@
+287. J Am Med Inform Assoc. 2014 Sep-Oct;21(5):866-70. doi: 
+10.1136/amiajnl-2013-002601. Epub 2014 Apr 1.
+
+Assessing the similarity of surface linguistic features related to epilepsy 
+across pediatric hospitals.
+
+Connolly B(1), Matykiewicz P(1), Bretonnel Cohen K(2), Standridge SM(3), Glauser 
+TA(3), Dlugos DJ(4), Koh S(5), Tham E(6), Pestian J(1).
+
+Author information:
+(1)Cincinnati Children's Hospital Hospital Medical Center, Division of 
+Bioinformatics, Cincinnati, Ohio, USA.
+(2)University of Colorado School of Medicine, Biomedical Text Mining Group, 
+Computational Bioscience Program, Aurora, Colorado, USA.
+(3)Cincinnati Children's Hospital Medical Center, Division of Pediatric 
+Neurology, Cincinnati, Ohio, USA.
+(4)The Children's Hospital of Philadelphia, Division of Child Neurology, 
+Philadelphia, Pennsylvania, USA.
+(5)University of Colorado/Children's Hospital Colorado, Division of Pediatric 
+Neurology, Aurora, Colorado, USA.
+(6)University of Colorado School of Medicine, Department of Pediatrics, Aurora, 
+Colorado, USA Children's Hospital Colorado, Research Informatics, Aurora, 
+Colorado, USA.
+
+OBJECTIVE: The constant progress in computational linguistic methods provides 
+amazing opportunities for discovering information in clinical text and enables 
+the clinical scientist to explore novel approaches to care. However, these new 
+approaches need evaluation. We describe an automated system to compare 
+descriptions of epilepsy patients at three different organizations: Cincinnati 
+Children's Hospital, the Children's Hospital Colorado, and the Children's 
+Hospital of Philadelphia. To our knowledge, there have been no similar previous 
+studies.
+MATERIALS AND METHODS: In this work, a support vector machine (SVM)-based 
+natural language processing (NLP) algorithm is trained to classify epilepsy 
+progress notes as belonging to a patient with a specific type of epilepsy from a 
+particular hospital. The same SVM is then used to classify notes from another 
+hospital. Our null hypothesis is that an NLP algorithm cannot be trained using 
+epilepsy-specific notes from one hospital and subsequently used to classify 
+notes from another hospital better than a random baseline classifier. The 
+hypothesis is tested using epilepsy progress notes from the three hospitals.
+RESULTS: We are able to reject the null hypothesis at the 95% level. It is also 
+found that classification was improved by including notes from a second hospital 
+in the SVM training sample.
+DISCUSSION AND CONCLUSION: With a reasonably uniform epilepsy vocabulary and an 
+NLP-based algorithm able to use this uniformity to classify epilepsy progress 
+notes across different hospitals, we can pursue automated comparisons of patient 
+conditions, treatments, and diagnoses across different healthcare settings.
+
+Published by the BMJ Publishing Group Limited. For permission to use (where not 
+already granted under a licence) please go to 
+http://group.bmj.com/group/rights-licensing/permissions.
+
+DOI: 10.1136/amiajnl-2013-002601
+PMCID: PMC4147613
+PMID: 24692393 [Indexed for MEDLINE]

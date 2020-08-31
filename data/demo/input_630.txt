@@ -1,0 +1,33 @@
+630. Stud Health Technol Inform. 2011;166:180-8.
+
+Three different cases of exploiting decision support services for adverse drug 
+event prevention.
+
+Bernonille S(1), Nies J, Pedersen HG, Guillot B, Maazi M, Berg AL, Sarfati JC, 
+Koutkias V.
+
+Author information:
+(1)CHU Lille, UDSL EA2694, Univ Lille Nord de France F-59000 Lille, France. 
+stephanie.bernonville@univ-lille2.fr
+
+Clinical Decision Support Systems (CDSSs) are implemented in clinical settings 
+in order to improve patient outcomes and/or clinical practices. However, they 
+are still not widely accepted by healthcare professionals due to over-alerting. 
+The aim of the "Patient Safety through Intelligent Procedures in medication" 
+(PSIP) project is to develop and demonstrate innovative tools so as to generate 
+and provide relevant knowledge to healthcare professionals and patients for 
+Adverse Drug Event (ADE) prevention by means of Information and Communication 
+Technologies (ICT). PSIP employs a Knowledge Base (KB) as the core of its CDSS. 
+This KB encapsulates signals capable of automatically detecting potential ADEs 
+and contextualizing the CDSS output to the patient and healthcare professionals. 
+To exploit the KB, a Global Knowledge Platform (GKP) has been created comprising 
+of a KB system, a Connectivity Platform and appropriate user interface modules. 
+The GKP has been tested to demonstrate integration of the KB in different work 
+situations and it has been deployed in three different medical applications. The 
+first is a Web application; the second involves a commercial French EHR 
+(Electronic Health Record) and the third is a Danish CPOE (Computerised 
+Physician Order Entry) system. This paper presents recent progress as regards 
+the exploitation of the PSIP KB and the results obtained in the three different 
+medical applications.
+
+PMID: 21685623 [Indexed for MEDLINE]

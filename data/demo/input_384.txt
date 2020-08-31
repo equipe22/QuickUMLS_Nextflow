@@ -1,0 +1,45 @@
+384. BMC Bioinformatics. 2009 Oct 23;10:349. doi: 10.1186/1471-2105-10-349.
+
+Construction of an annotated corpus to support biomedical information 
+extraction.
+
+Thompson P(1), Iqbal SA, McNaught J, Ananiadou S.
+
+Author information:
+(1)National Centre for Text Mining, Manchester Interdisciplinary Biocentre, 
+University of Manchester, 131 Princess Street, Manchester, M1 7DN, UK. 
+paul.thompson@manchester.ac.uk
+
+BACKGROUND: Information Extraction (IE) is a component of text mining that 
+facilitates knowledge discovery by automatically locating instances of 
+interesting biomedical events from huge document collections. As events are 
+usually centred on verbs and nominalised verbs, understanding the syntactic and 
+semantic behaviour of these words is highly important. Corpora annotated with 
+information concerning this behaviour can constitute a valuable resource in the 
+training of IE components and resources.
+RESULTS: We have defined a new scheme for annotating sentence-bound gene 
+regulation events, centred on both verbs and nominalised verbs. For each event 
+instance, all participants (arguments) in the same sentence are identified and 
+assigned a semantic role from a rich set of 13 roles tailored to biomedical 
+research articles, together with a biological concept type linked to the Gene 
+Regulation Ontology. To our knowledge, our scheme is unique within the 
+biomedical field in terms of the range of event arguments identified. Using the 
+scheme, we have created the Gene Regulation Event Corpus (GREC), consisting of 
+240 MEDLINE abstracts, in which events relating to gene regulation and 
+expression have been annotated by biologists. A novel method of evaluating 
+various different facets of the annotation task showed that average 
+inter-annotator agreement rates fall within the range of 66% - 90%.
+CONCLUSION: The GREC is a unique resource within the biomedical field, in that 
+it annotates not only core relationships between entities, but also a range of 
+other important details about these relationships, e.g., location, temporal, 
+manner and environmental conditions. As such, it is specifically designed to 
+support bio-specific tool and resource development. It has already been used to 
+acquire semantic frames for inclusion within the BioLexicon (a lexical, 
+terminological resource to aid biomedical text mining). Initial experiments have 
+also shown that the corpus may viably be used to train IE components, such as 
+semantic role labellers. The corpus and annotation guidelines are freely 
+available for academic purposes.
+
+DOI: 10.1186/1471-2105-10-349
+PMCID: PMC2774701
+PMID: 19852798 [Indexed for MEDLINE]

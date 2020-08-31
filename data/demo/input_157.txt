@@ -1,0 +1,33 @@
+157. AMIA Jt Summits Transl Sci Proc. 2017 Jul 26;2017:221-228. eCollection 2017.
+
+Correlating Lab Test Results in Clinical Notes with Structured Lab Data: A Case 
+Study in HbA1c and Glucose.
+
+Liu S(1)(2), Wang L(1), Ihrke D(1), Chaudhary V(2), Tao C(3), Weng C(4), Liu 
+H(1).
+
+Author information:
+(1)Division of Biomedical Statistics and Informatics, Mayo Clinic, Rochester, 
+MN, USA.
+(2)Department of Computer Science and Engineering, University at Buffalo, 
+Buffalo, NY,USA.
+(3)School of Biomedical Informatics, University of Texas Health Science Center 
+at Houston, Houston, TX, USA.
+(4)Department of Biomedical Informatics, Columbia University, New York, NY, USA.
+
+It is widely acknowledged that information extraction of unstructured clinical 
+notes using natural language processing (NLP) and text mining is essential for 
+secondary use of clinical data for clinical research and practice. Lab test 
+results are currently structured in most of the electronic health record (EHR) 
+systems. However, for referral patients or lab tests that can be done in 
+non-clinical setting, the results can be captured in unstructured clinical 
+notes. In this study, we proposed a rule-based information extraction system to 
+extract the lab test results with temporal information from clinical notes. The 
+lab test results of glucose and HbA1c from 104 randomly sampled diabetes 
+patients selected from 1996 to 2015 are extracted and further correlated with 
+structured lab test information in the Mayo Clinic EHRs. The system has high 
+F1-scores of 0.964, 0.967 and 0.966 in glucose, HbA1c and overall extraction, 
+respectively.
+
+PMCID: PMC5543347
+PMID: 28815133

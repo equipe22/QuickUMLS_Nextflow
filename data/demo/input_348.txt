@@ -1,0 +1,23 @@
+348. Stud Health Technol Inform. 2015;212:35-42.
+
+Development of text mining based classification of written communication within 
+a telemedical collaborative network.
+
+Gruber K(1), Modre-Osprian R(1), Kreiner K(1), Kastner P(1), Schreier G(1).
+
+Author information:
+(1)AIT Austrian Institute of Technology, Austria.
+
+Chronic diseases like Heart Failure are widespread in the ageing population. 
+Affected patients can be treated with the aid of a disease management program, 
+including a telemedical collaborative network. Evaluation of a currently used 
+system has shown that the information of the textual communication is of pivotal 
+importance for the collaboration in the network. Thus, the challenge is to make 
+this unstructured information useable, potentially leading to a better 
+understanding of the collaboration so as to optimize the processes. This paper 
+presents the setup of an analysis pipeline for processing textual information 
+automatically, and, how this pipeline can be utilized to train a model that is 
+able to automatically classify the written messages into a set of meaningful 
+task and status categories.
+
+PMID: 26063255 [Indexed for MEDLINE]

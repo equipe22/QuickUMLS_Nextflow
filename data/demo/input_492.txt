@@ -1,0 +1,25 @@
+492. Bioinformatics. 2007 Nov 15;23(22):3098-9. doi: 10.1093/bioinformatics/btm445. 
+Epub 2007 Sep 13.
+
+Functional profiling of microarray experiments using text-mining derived 
+bioentities.
+
+Minguez P(1), Al-Shahrour F, Montaner D, Dopazo J.
+
+Author information:
+(1)Department of Bioinformatics and Functional Genomics Node, (INB), Centro de 
+Investigación Príncipe Felipe (CIPF), Valencia, E46013, Spain.
+
+The increasing use of microarray technologies brought about a parallel demand in 
+methods for the functional interpretation of the results. Beyond the 
+conventional functional annotations for genes, such as gene ontology, pathways, 
+etc. other sources of information are still to be exploited. Text-mining methods 
+allow extracting informative terms (bioentities) with different functional, 
+chemical, clinical, etc. meanings, that can be associated to genes. We show how 
+to use these associations within an appropriate statistical framework and how to 
+apply them through easy-to-use, web-based environments to the functional 
+interpretation of microarray experiments. Functional enrichment and gene set 
+enrichment tests using bioentities are presented.
+
+DOI: 10.1093/bioinformatics/btm445
+PMID: 17855415 [Indexed for MEDLINE]

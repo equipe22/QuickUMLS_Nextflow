@@ -1,0 +1,34 @@
+478. Bioinformatics. 2006 Jan 1;22(1):106-11. doi: 10.1093/bioinformatics/bti740. 
+Epub 2005 Oct 27.
+
+Intelligent client for integrating bioinformatics services.
+
+Navas-Delgado I(1), Rojano-Muñoz Mdel M, Ramírez S, Pérez AJ, Andrés León E, 
+Aldana-Montes JF, Trelles O.
+
+Author information:
+(1)Integrated Bioinformatics (GNV5) at the University of Málaga, National 
+Institute for Bioinformatics (INB), Málaga, Spain.
+
+MOTIVATION: In addition to existing bioinformatics software, a lot of new tools 
+are being developed world wide to supply services for an ever growing, widely 
+dispersed and heterogeneous collection of biological data. The integration of 
+these resources under a common platform is a challenging task. To this end, 
+several groups are developing integration technologies, in which services are 
+usually registered in some sort of catalogue to allow novel discovering and 
+accessing mechanisms to be implemented. However, each service demands specific 
+interfaces to accommodate their parameters and it is a complicated task linking 
+the different service inputs and outputs to solve a biological problem.
+RESULTS: In this work we address the design and implementation of a versatile 
+web client to access BioMOBY compatible services (a system by which a client can 
+interact with multiple sources of biological data regardless of the underlying 
+format or schema) using the service description stored in the BioMOBY catalogue. 
+The automatic interface generator significantly reduces developing time and 
+produces uniform service access mechanisms. The design and proof of concept (for 
+such a client) including the generic interface generator have been developed and 
+implemented in the National Institute for Bioinformatics in Spain.
+AVAILABILITY: The INB (National Institute for Bioinformatics, Spain) platform is 
+available at www.inab.org/MOWServ
+
+DOI: 10.1093/bioinformatics/bti740
+PMID: 16257987 [Indexed for MEDLINE]

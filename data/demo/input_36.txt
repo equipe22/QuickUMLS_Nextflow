@@ -1,0 +1,50 @@
+36. Res Social Adm Pharm. 2019 Jul;15(7):845-851. doi: 
+10.1016/j.sapharm.2018.09.013. Epub 2018 Sep 26.
+
+A text mining analysis of medication quality related event reports from 
+community pharmacies.
+
+Lester CA(1), Kessler JM(2), Modisett T(3), Chui MA(4).
+
+Author information:
+(1)University of Michigan, College of Pharmacy, United States. Electronic 
+address: lesterca@umich.edu.
+(2)Founder and Chief Clinical Officer SecondStory Health, LLC, United States.
+(3)Alliance for Patient Medication Safety, United States.
+(4)Sonderegger Research Center University of Wisconsin-Madison | School of 
+Pharmacy, United States.
+
+BACKGROUND: Medication errors are estimated to cost $42 billion in annual global 
+treatment costs. Pharmacy-based Patient Safety Organizations (PSO) are tasked 
+with collecting and analyzing incidents, near misses, and unsafe condition 
+reports as one way of engaging pharmacies in quality improvement efforts. 
+Collectively, these reports are referred to as quality related events (QREs). 
+Large-scale analysis of typed narratives from QRE reports across organizations 
+has been a missing component of quality improvement programs.
+OBJECTIVE: To identify topics within the components of a proposed medication 
+safety event framework contained in the free-text narrative of QRE reports.
+METHODS: A retrospective, observational analysis of data from a PSOs voluntary 
+reporting system, from January 1, 2011 to December 31, 2014. The dataset 
+contained structured and unstructured data elements. A structural topic model 
+extracted themes from the free-text narrative component of the report. These 
+topics were assigned a human label and mapped onto constructs of the medication 
+safety event framework.
+RESULTS: A total of 531,555 QREs were analyzed from 1660 pharmacies. 90.6% were 
+near miss and unsafe condition reports. There were 40 topics generated. There 
+were 29 topics identified as QRE types, 3 were identified as contributing 
+factors, and 5 were related to signals/alerts that an incident or near miss had 
+occurred. One topic each was identified as a recovery step and a quality 
+improvement strategy. One topic was not assigned a human label. Examples of 
+topics labeled included incorrect tapering directions, needing to double-check 
+work, and attention-related contributing factor.
+CONCLUSIONS: The free-text narrative provided novel information compared to the 
+structured fields of the reports. Topics were mapped onto a proposed medication 
+safety event framework to advance knowledge of medication QREs and identify ways 
+to improve medication safety in community pharmacy. Future work may focus on 
+communicating these topics to the pharmacies to improve medication safety 
+efforts.
+
+Copyright © 2018. Published by Elsevier Inc.
+
+DOI: 10.1016/j.sapharm.2018.09.013
+PMID: 30287218 [Indexed for MEDLINE]

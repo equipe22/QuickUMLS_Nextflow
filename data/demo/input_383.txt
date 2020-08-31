@@ -1,0 +1,54 @@
+383. J Biomed Semantics. 2016 Apr 12;7:18. doi: 10.1186/s13326-016-0060-6. 
+eCollection 2016.
+
+MicrO: an ontology of phenotypic and metabolic characters, assays, and culture 
+media found in prokaryotic taxonomic descriptions.
+
+Blank CE(1), Cui H(2), Moore LR(3), Walls RL(4).
+
+Author information:
+(1)Department of Geosciences, University of Montana, Missoula, MT 59812 USA.
+(2)School of Information, University of Arizona, Tucson, AZ 85719 USA.
+(3)Department of Biological Sciences, University of Southern Maine, Portland, ME 
+04104 USA.
+(4)CyVerse, University of Arizona, Tucson, AZ 85721 USA.
+
+BACKGROUND: MicrO is an ontology of microbiological terms, including prokaryotic 
+qualities and processes, material entities (such as cell components), chemical 
+entities (such as microbiological culture media and medium ingredients), and 
+assays. The ontology was built to support the ongoing development of a natural 
+language processing algorithm, MicroPIE (or, Microbial Phenomics Information 
+Extractor). During the MicroPIE design process, we realized there was a need for 
+a prokaryotic ontology which would capture the evolutionary diversity of 
+phenotypes and metabolic processes across the tree of life, capture the 
+diversity of synonyms and information contained in the taxonomic literature, and 
+relate microbiological entities and processes to terms in a large number of 
+other ontologies, most particularly the Gene Ontology (GO), the Phenotypic 
+Quality Ontology (PATO), and the Chemical Entities of Biological Interest 
+(ChEBI). We thus constructed MicrO to be rich in logical axioms and synonyms 
+gathered from the taxonomic literature.
+RESULTS: MicrO currently has ~14550 classes (~2550 of which are new, the 
+remainder being microbiologically-relevant classes imported from other 
+ontologies), connected by ~24,130 logical axioms (5,446 of which are new), and 
+is available at (http://purl.obolibrary.org/obo/MicrO.owl) and on the project 
+website at https://github.com/carrineblank/MicrO. MicrO has been integrated into 
+the OBO Foundry Library (http://www.obofoundry.org/ontology/micro.html), so that 
+other ontologies can borrow and re-use classes. Term requests and user feedback 
+can be made using MicrO's Issue Tracker in GitHub. We designed MicrO such that 
+it can support the ongoing and future development of algorithms that can 
+leverage the controlled vocabulary and logical inference power provided by the 
+ontology.
+CONCLUSIONS: By connecting microbial classes with large numbers of chemical 
+entities, material entities, biological processes, molecular functions, and 
+qualities using a dense array of logical axioms, we intend MicrO to be a 
+powerful new tool to increase the computing power of bioinformatics tools such 
+as the automated text mining of prokaryotic taxonomic descriptions using natural 
+language processing. We also intend MicrO to support the development of new 
+bioinformatics tools that aim to develop new connections between microbial 
+phenotypes and genotypes (i.e., the gene content in genomes). Future ontology 
+development will include incorporation of pathogenic phenotypes and prokaryotic 
+habitats.
+
+DOI: 10.1186/s13326-016-0060-6
+PMCID: PMC4830071
+PMID: 27076900 [Indexed for MEDLINE]

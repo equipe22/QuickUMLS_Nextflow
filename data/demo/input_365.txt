@@ -1,0 +1,38 @@
+365. J Biomed Inform. 2015 Dec;58:268-279. doi: 10.1016/j.jbi.2015.10.011. Epub 2015 
+Oct 27.
+
+A research framework for pharmacovigilance in health social media: 
+Identification and evaluation of patient adverse drug event reports.
+
+Liu X(1), Chen H(2).
+
+Author information:
+(1)Department of Management Information Systems, The University of Arizona, 
+Tucson, AZ, United States. Electronic address: xiaoliu@email.arizona.edu.
+(2)Department of Management Information Systems, The University of Arizona, 
+Tucson, AZ, United States; Tsinghua National Laboratory for Info. Science and 
+Technology, Tsinghua University, Beijing, China. Electronic address: 
+hchen@eller.arizona.edu.
+
+Social media offer insights of patients' medical problems such as drug side 
+effects and treatment failures. Patient reports of adverse drug events from 
+social media have great potential to improve current practice of 
+pharmacovigilance. However, extracting patient adverse drug event reports from 
+social media continues to be an important challenge for health informatics 
+research. In this study, we develop a research framework with advanced natural 
+language processing techniques for integrated and high-performance patient 
+reported adverse drug event extraction. The framework consists of medical entity 
+extraction for recognizing patient discussions of drug and events, adverse drug 
+event extraction with shortest dependency path kernel based statistical learning 
+method and semantic filtering with information from medical knowledge bases, and 
+report source classification to tease out noise. To evaluate the proposed 
+framework, a series of experiments were conducted on a test bed encompassing 
+about postings from major diabetes and heart disease forums in the United 
+States. The results reveal that each component of the framework significantly 
+contributes to its overall effectiveness. Our framework significantly 
+outperforms prior work.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.jbi.2015.10.011
+PMID: 26518315 [Indexed for MEDLINE]

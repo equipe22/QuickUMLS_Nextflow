@@ -1,0 +1,53 @@
+351. Int J Med Inform. 2015 Oct;84(10):763-73. doi: 10.1016/j.ijmedinf.2015.06.002. 
+Epub 2015 Jun 10.
+
+CER Hub: An informatics platform for conducting comparative effectiveness 
+research using multi-institutional, heterogeneous, electronic clinical data.
+
+Hazlehurst BL(1), Kurtz SE(2), Masica A(3), Stevens VJ(2), McBurnie MA(2), Puro 
+JE(4), Vijayadeva V(5), Au DH(6), Brannon ED(7), Sittig DF(8).
+
+Author information:
+(1)Kaiser Permanente Northwest, Center for Health Research, Portland, OR, USA. 
+Electronic address: Brian.hazlehurst@kpchr.org.
+(2)Kaiser Permanente Northwest, Center for Health Research, Portland, OR, USA.
+(3)Baylor Scott & White Health, Center for Clinical Effectiveness, Dallas, TX, 
+USA.
+(4)OCHIN Inc, Portland, OR, USA.
+(5)Kaiser Permanente Hawaii, Center for Health Research, Honolulu, HI, USA.
+(6)VA Puget Sound Health Care System, Seattle, WA, USA.
+(7)Kaiser Permanente Southeast, Atlanta, GA, USA.
+(8)University of Texas Health Science Center, School of Biomedical Informatics, 
+Houston, TX, USA.
+
+OBJECTIVES: Comparative effectiveness research (CER) requires the capture and 
+analysis of data from disparate sources, often from a variety of institutions 
+with diverse electronic health record (EHR) implementations. In this paper we 
+describe the CER Hub, a web-based informatics platform for developing and 
+conducting research studies that combine comprehensive electronic clinical data 
+from multiple health care organizations.
+METHODS: The CER Hub platform implements a data processing pipeline that employs 
+informatics standards for data representation and web-based tools for developing 
+study-specific data processing applications, providing standardized access to 
+the patient-centric electronic health record (EHR) across organizations.
+RESULTS: The CER Hub is being used to conduct two CER studies utilizing data 
+from six geographically distributed and demographically diverse health systems. 
+These foundational studies address the effectiveness of medications for 
+controlling asthma and the effectiveness of smoking cessation services delivered 
+in primary care.
+DISCUSSION: The CER Hub includes four key capabilities: the ability to process 
+and analyze both free-text and coded clinical data in the EHR; a data processing 
+environment supported by distributed data and study governance processes; a 
+clinical data-interchange format for facilitating standardized extraction of 
+clinical data from EHRs; and a library of shareable clinical data processing 
+applications.
+CONCLUSION: CER requires coordinated and scalable methods for extracting, 
+aggregating, and analyzing complex, multi-institutional clinical data. By 
+offering a range of informatics tools integrated into a framework for conducting 
+studies using EHR data, the CER Hub provides a solution to the challenges of 
+multi-institutional research using electronic medical record data.
+
+Copyright © 2015. Published by Elsevier Ireland Ltd.
+
+DOI: 10.1016/j.ijmedinf.2015.06.002
+PMID: 26138036 [Indexed for MEDLINE]

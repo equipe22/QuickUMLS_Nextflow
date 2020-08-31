@@ -1,0 +1,43 @@
+267. J Am Med Inform Assoc. 2011 Sep-Oct;18(5):557-62. doi: 
+10.1136/amiajnl-2011-000150. Epub 2011 May 12.
+
+Machine-learned solutions for three stages of clinical information extraction: 
+the state of the art at i2b2 2010.
+
+de Bruijn B(1), Cherry C, Kiritchenko S, Martin J, Zhu X.
+
+Author information:
+(1)Institute for Information Technology, National Research Council, Ottawa, 
+Ontario, Canada. berry.debruijn@nrc-cnrc.gc.ca
+
+OBJECTIVE: As clinical text mining continues to mature, its potential as an 
+enabling technology for innovations in patient care and clinical research is 
+becoming a reality. A critical part of that process is rigid benchmark testing 
+of natural language processing methods on realistic clinical narrative. In this 
+paper, the authors describe the design and performance of three state-of-the-art 
+text-mining applications from the National Research Council of Canada on 
+evaluations within the 2010 i2b2 challenge.
+DESIGN: The three systems perform three key steps in clinical information 
+extraction: (1) extraction of medical problems, tests, and treatments, from 
+discharge summaries and progress notes; (2) classification of assertions made on 
+the medical problems; (3) classification of relations between medical concepts. 
+Machine learning systems performed these tasks using large-dimensional bags of 
+features, as derived from both the text itself and from external sources: UMLS, 
+cTAKES, and Medline.
+MEASUREMENTS: Performance was measured per subtask, using micro-averaged 
+F-scores, as calculated by comparing system annotations with ground-truth 
+annotations on a test set.
+RESULTS: The systems ranked high among all submitted systems in the competition, 
+with the following F-scores: concept extraction 0.8523 (ranked first); assertion 
+detection 0.9362 (ranked first); relationship detection 0.7313 (ranked second).
+CONCLUSION: For all tasks, we found that the introduction of a wide range of 
+features was crucial to success. Importantly, our choice of machine learning 
+algorithms allowed us to be versatile in our feature design, and to introduce a 
+large number of features without overfitting and without encountering 
+computing-resource bottlenecks.
+
+DOI: 10.1136/amiajnl-2011-000150
+PMCID: PMC3168309
+PMID: 21565856 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None.

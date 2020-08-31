@@ -1,0 +1,78 @@
+217. JMIR Res Protoc. 2019 May 7;8(5):e11448. doi: 10.2196/11448.
+
+The Adverse Drug Reactions From Patient Reports in Social Media Project: 
+Protocol for an Evaluation Against a Gold Standard.
+
+Arnoux-Guenegou A(1), Girardeau Y(1)(2), Chen X(1), Deldossi M(3), Aboukhamis 
+R(4), Faviez C(5), Dahamna B(6), Karapetiantz P(1), Guillemin-Lanne S(3), 
+Lillo-Le Louët A(4), Texier N(5), Burgun A(1)(2)(7), Katsahian S(1)(7)(8)(9).
+
+Author information:
+(1)INSERM U1138 - Team 22, Information Sciences to Support Personalized 
+Medicine, Centre de Recherche des Cordeliers, Paris, France.
+(2)Département d'Informatique Médicale, Hôpital Européen Georges-Pompidou, 
+Assistance Publique - Hôpitaux de Paris, Paris, France.
+(3)Innovative Projects - Text Mining, Expert System, Paris, France.
+(4)Centre Régional de Pharmacovigilance, Hôpital Européen Georges-Pompidou, 
+Assistance Publique - Hôpitaux de Paris, Paris, France.
+(5)Kappa Santé, Paris, France.
+(6)Service d'Informatique Biomédicale, D2IM, Centre Hospitalier Universitaire de 
+Rouen, Rouen, France.
+(7)INSERM U1138 - Team 22, Information Sciences to Support Personalized 
+Medicine, Paris Descartes University, Sorbonne Paris Cité, Paris, France.
+(8)Clinical Research Unit Hôpitaux Universitaires Paris Ouest, Hôpital Européen 
+Georges-Pompidou, Assistance Publique - Hôpitaux de Paris, Paris, France.
+(9)INSERM CIC1418, Clinical Epidemiology, Hôpital Européen Georges-Pompidou, 
+Paris, France.
+
+BACKGROUND: Social media is a potential source of information on postmarketing 
+drug safety surveillance that still remains unexploited nowadays. Information 
+technology solutions aiming at extracting adverse reactions (ADRs) from posts on 
+health forums require a rigorous evaluation methodology if their results are to 
+be used to make decisions. First, a gold standard, consisting of manual 
+annotations of the ADR by human experts from the corpus extracted from social 
+media, must be implemented and its quality must be assessed. Second, as for 
+clinical research protocols, the sample size must rely on statistical arguments. 
+Finally, the extraction methods must target the relation between the drug and 
+the disease (which might be either treated or caused by the drug) rather than 
+simple co-occurrences in the posts.
+OBJECTIVE: We propose a standardized protocol for the evaluation of a software 
+extracting ADRs from the messages on health forums. The study is conducted as 
+part of the Adverse Drug Reactions from Patient Reports in Social Media project.
+METHODS: Messages from French health forums were extracted. Entity recognition 
+was based on Racine Pharma lexicon for drugs and Medical Dictionary for 
+Regulatory Activities terminology for potential adverse events (AEs). Natural 
+language processing-based techniques automated the ADR information extraction 
+(relation between the drug and AE entities). The corpus of evaluation was a 
+random sample of the messages containing drugs and/or AE concepts corresponding 
+to recent pharmacovigilance alerts. A total of 2 persons experienced in medical 
+terminology manually annotated the corpus, thus creating the gold standard, 
+according to an annotator guideline. We will evaluate our tool against the gold 
+standard with recall, precision, and f-measure. Interannotator agreement, 
+reflecting gold standard quality, will be evaluated with hierarchical kappa. 
+Granularities in the terminologies will be further explored.
+RESULTS: Necessary and sufficient sample size was calculated to ensure 
+statistical confidence in the assessed results. As we expected a global recall 
+of 0.5, we needed at least 384 identified ADR concepts to obtain a 95% CI with a 
+total width of 0.10 around 0.5. The automated ADR information extraction in the 
+corpus for evaluation is already finished. The 2 annotators already completed 
+the annotation process. The analysis of the performance of the ADR information 
+extraction module as compared with gold standard is ongoing.
+CONCLUSIONS: This protocol is based on the standardized statistical methods from 
+clinical research to create the corpus, thus ensuring the necessary statistical 
+power of the assessed results. Such evaluation methodology is required to make 
+the ADR information extraction software useful for postmarketing drug safety 
+surveillance.
+INTERNATIONAL REGISTERED REPORT IDENTIFIER (IRRID): RR1-10.2196/11448.
+
+©Armelle Arnoux-Guenegou, Yannick Girardeau, Xiaoyi Chen, Myrtille Deldossi, Rim 
+Aboukhamis, Carole Faviez, Badisse Dahamna, Pierre Karapetiantz, Sylvie 
+Guillemin-Lanne, Agnès Lillo-Le Louët, Nathalie Texier, Anita Burgun, Sandrine 
+Katsahian. Originally published in JMIR Research Protocols 
+(http://www.researchprotocols.org), 07.05.2019.
+
+DOI: 10.2196/11448
+PMCID: PMC6528435
+PMID: 31066711
+
+Conflict of interest statement: Conflicts of Interest: None declared.

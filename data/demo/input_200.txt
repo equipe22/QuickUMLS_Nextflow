@@ -1,0 +1,40 @@
+200. Mol Inform. 2014 May;33(5):332-42. doi: 10.1002/minf.201300144. Epub 2014 May 
+12.
+
+Mining Molecular Pharmacological Effects from Biomedical Text: a Case Study for 
+Eliciting Anti-Obesity/Diabetes Effects of Chemical Compounds.
+
+Dura E(1), Muresan S(2), Engkvist O(2), Blomberg N(2)(3), Chen H(4).
+
+Author information:
+(1)Lexware Labs Ltd, SE-41319 Göteborg, Sweden. elzbieta@lexwarelabs.com.
+(2)Computational Chemistry, Chemistry Innovation Centre, Discovery Sciences, 
+AstraZeneca R&D Mölndal, SE-43183 Mölndal, Sweden.
+(3)Current address: ELIXIR Hub, European Molecular Biology Laboratory, European 
+Bioinformatics Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge CB10 
+1SD, UK.
+(4)Computational Chemistry, Chemistry Innovation Centre, Discovery Sciences, 
+AstraZeneca R&D Mölndal, SE-43183 Mölndal, Sweden. 
+hongming.chen@astrazeneca.com.
+
+In the pharmaceutical industry, efficiently mining pharmacological data from the 
+rapidly increasing scientific literature is very crucial for many aspects of the 
+drug discovery process such as target validation, tool compound selection etc. A 
+quick and reliable way is needed to collect literature assertions of selected 
+compounds' biological and pharmacological effects in order to assist the 
+hypothesis generation and decision-making of drug developers. INFUSIS, the text 
+mining system presented here, extracts data on chemical compounds from PubMed 
+abstracts. It involves an extensive use of customized natural language 
+processing besides a co-occurrence analysis. As a proof-of-concept study, 
+INFUSIS was used to search in abstract texts for several obesity/diabetes 
+related pharmacological effects of the compounds included in a compound 
+dictionary. The system extracts assertions regarding the pharmacological effects 
+of each given compound and scores them by the relevance. For each selected 
+pharmacological effect, the highest scoring assertions in 100 abstracts were 
+manually evaluated, i.e. 800 abstracts in total. The overall accuracy for the 
+inferred assertions was over 90 percent.
+
+© 2014 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim.
+
+DOI: 10.1002/minf.201300144
+PMID: 27485890

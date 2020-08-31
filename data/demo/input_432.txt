@@ -1,0 +1,39 @@
+432. BMC Bioinformatics. 2007 Nov 9;8:436. doi: 10.1186/1471-2105-8-436.
+
+An open source infrastructure for managing knowledge and finding potential 
+collaborators in a domain-specific subset of PubMed, with an example from human 
+genome epidemiology.
+
+Yu W(1), Yesupriya A, Wulf A, Qu J, Khoury MJ, Gwinn M.
+
+Author information:
+(1)National Office of Public Health Genomics, Coordinating Center for Health 
+Promotion, Centers for Disease Control and Prevention, Atlanta, GA, USA. 
+WYu@cdc.gov
+
+BACKGROUND: Identifying relevant research in an ever-growing body of published 
+literature is becoming increasingly difficult. Establishing domain-specific 
+knowledge bases may be a more effective and efficient way to manage and query 
+information within specific biomedical fields. Adopting controlled vocabulary is 
+a critical step toward data integration and interoperability in any information 
+system. We present an open source infrastructure that provides a powerful 
+capacity for managing and mining data within a domain-specific knowledge base. 
+As a practical application of our infrastructure, we presented two applications 
+- Literature Finder and Investigator Browser - as well as a tool set for 
+automating the data curating process for the human genome published literature 
+database. The design of this infrastructure makes the system potentially 
+extensible to other data sources.
+RESULTS: Information retrieval and usability tests demonstrated that the system 
+had high rates of recall and precision, 90% and 93% respectively. The system was 
+easy to learn, easy to use, reasonably speedy and effective.
+CONCLUSION: The open source system infrastructure presented in this paper 
+provides a novel approach to managing and querying information and knowledge 
+from domain-specific PubMed data. Using the controlled vocabulary UMLS enhanced 
+data integration and interoperability and the extensibility of the system. In 
+addition, by using MVC-based design and Java as a platform-independent 
+programming language, this system provides a potential infrastructure for any 
+domain-specific knowledge base in the biomedical field.
+
+DOI: 10.1186/1471-2105-8-436
+PMCID: PMC2248211
+PMID: 17996092 [Indexed for MEDLINE]

@@ -1,0 +1,38 @@
+575. Genet Med. 2016 Sep;18(9):906-13. doi: 10.1038/gim.2015.187. Epub 2016 Feb 11.
+
+The Geisinger MyCode community health initiative: an electronic health 
+record-linked biobank for precision medicine research.
+
+Carey DJ(1), Fetterolf SN(1), Davis FD(1), Faucett WA(1), Kirchner HL(1), 
+Mirshahi U(1), Murray MF(1), Smelser DT(1), Gerhard GS(2), Ledbetter DH(1).
+
+Author information:
+(1)Geisinger Health System, Danville, PA, USA.
+(2)Current address: Department of Medical Genetics and Molecular Biochemistry, 
+Temple University School of Medicine, Philadelphia, PA, USA.
+
+PURPOSE: Geisinger Health System (GHS) provides an ideal platform for Precision 
+Medicine. Key elements are the integrated health system, stable patient 
+population, and electronic health record (EHR) infrastructure. In 2007, 
+Geisinger launched MyCode, a system-wide biobanking program to link samples and 
+EHR data for broad research use.
+METHODS: Patient-centered input into MyCode was obtained using participant focus 
+groups. Participation in MyCode is based on opt-in informed consent and allows 
+recontact, which facilitates collection of data not in the EHR and, since 2013, 
+the return of clinically actionable results to participants. MyCode leverages 
+Geisinger's technology and clinical infrastructure for participant tracking and 
+sample collection.
+RESULTS: MyCode has a consent rate of >85%, with more than 90,000 participants 
+currently and with ongoing enrollment of ~4,000 per month. MyCode samples have 
+been used to generate molecular data, including high-density genotype and exome 
+sequence data. Genotype and EHR-derived phenotype data replicate previously 
+reported genetic associations.
+CONCLUSION: The MyCode project has created resources that enable a new model for 
+translational research that is faster, more flexible, and more cost-effective 
+than traditional clinical research approaches. The new model is scalable and 
+will increase in value as these resources grow and are adopted across multiple 
+research platforms.Genet Med 18 9, 906-913.
+
+DOI: 10.1038/gim.2015.187
+PMCID: PMC4981567
+PMID: 26866580 [Indexed for MEDLINE]

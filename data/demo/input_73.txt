@@ -1,0 +1,83 @@
+73. BMC Med Genomics. 2019 Dec 30;12(1):200. doi: 10.1186/s12920-019-0647-8.
+
+Genome analysis and knowledge-driven variant interpretation with TGex.
+
+Dahary D(1), Golan Y(2), Mazor Y(2), Zelig O(2), Barshir R(3), Twik M(3), Iny 
+Stein T(3), Rosner G(4)(5), Kariv R(4)(5), Chen F(6), Zhang Q(6), Shen 
+Y(6)(7)(8), Safran M(3), Lancet D(9), Fishilevich S(10).
+
+Author information:
+(1)Clinical Genetics, LifeMap Sciences Inc., Marshfield, MA, 02050, USA. 
+dvird@lifemapsc.com.
+(2)Clinical Genetics, LifeMap Sciences Inc., Marshfield, MA, 02050, USA.
+(3)Department of Molecular Genetics, Weizmann Institute of Science, Rehovot, 
+Israel.
+(4)Department of Gastroenterology, Tel-Aviv Sourasky Medical Center, Tel-Aviv, 
+Israel.
+(5)Faculty of Medicine, Tel Aviv University, Tel-Aviv, Israel.
+(6)Genetic and Metabolic Central Laboratory, Birth Defect Prevention Research 
+Institute, Maternal and Child Health Hospital, Children's Hospital of Guangxi 
+Zhuang Autonomous Region, Nanning, 530002, China.
+(7)Department of Medical Genetics and Molecular Diagnostic Laboratory, Shanghai 
+Children's Medical Center, Shanghai Jiao Tong University School of Medicine, 
+Shanghai, 200127, China.
+(8)Department of Neurology, Harvard Medical School, Division of Genetics and 
+Genomics, Boston Children's Hospital, Boston, MA, 02115, USA.
+(9)Department of Molecular Genetics, Weizmann Institute of Science, Rehovot, 
+Israel. doron.lancet@weizmann.ac.il.
+(10)Department of Molecular Genetics, Weizmann Institute of Science, Rehovot, 
+Israel. simon.fishilevich@weizmann.ac.il.
+
+BACKGROUND: The clinical genetics revolution ushers in great opportunities, 
+accompanied by significant challenges. The fundamental mission in clinical 
+genetics is to analyze genomes, and to identify the most relevant genetic 
+variations underlying a patient's phenotypes and symptoms. The adoption of Whole 
+Genome Sequencing requires novel capacities for interpretation of non-coding 
+variants.
+RESULTS: We present TGex, the Translational Genomics expert, a novel genome 
+variation analysis and interpretation platform, with remarkable exome analysis 
+capacities and a pioneering approach of non-coding variants interpretation. 
+TGex's main strength is combining state-of-the-art variant filtering with 
+knowledge-driven analysis made possible by VarElect, our highly effective 
+gene-phenotype interpretation tool. VarElect leverages the widely used GeneCards 
+knowledgebase, which integrates information from > 150 automatically-mined data 
+sources. Access to such a comprehensive data compendium also facilitates TGex's 
+broad variant annotation, supporting evidence exploration, and decision making. 
+TGex has an interactive, user-friendly, and easy adaptive interface, ACMG 
+compliance, and an automated reporting system. Beyond comprehensive whole exome 
+sequence capabilities, TGex encompasses innovative non-coding variants 
+interpretation, towards the goal of maximal exploitation of whole genome 
+sequence analyses in the clinical genetics practice. This is enabled by 
+GeneCards' recently developed GeneHancer, a novel integrative and fully 
+annotated database of human enhancers and promoters. Examining use-cases from a 
+variety of TGex users world-wide, we demonstrate its high diagnostic yields (42% 
+for single exome and 50% for trios in 1500 rare genetic disease cases) and 
+critical actionable genetic findings. The platform's support for integration 
+with EHR and LIMS through dedicated APIs facilitates automated retrieval of 
+patient data for TGex's customizable reporting engine, establishing a rapid and 
+cost-effective workflow for an entire range of clinical genetic testing, 
+including rare disorders, cancer predisposition, tumor biopsies and health 
+screening.
+CONCLUSIONS: TGex is an innovative tool for the annotation, analysis and 
+prioritization of coding and non-coding genomic variants. It provides access to 
+an extensive knowledgebase of genomic annotations, with intuitive and flexible 
+configuration options, allows quick adaptation, and addresses various workflow 
+requirements. It thus simplifies and accelerates variant interpretation in 
+clinical genetics workflows, with remarkable diagnostic yield, as exemplified in 
+the described use cases. TGex is available at http://tgex.genecards.org/.
+
+DOI: 10.1186/s12920-019-0647-8
+PMCID: PMC6937949
+PMID: 31888639 [Indexed for MEDLINE]
+
+Conflict of interest statement: YG and YM are CEO and Vice President 
+respectively (and co-founders) of LifeMap Sciences Inc., California, USA (LMS), 
+OZ is the senior software engineer and DD is the clinical genetics product 
+manager at LMS. LMS holds an exclusive license from the Yeda Research and 
+Development Company Ltd., the commercial arm of the Weizmann Institute of 
+Science (WIS), to market GeneCards Suite products, which are derived from the 
+research of DL’s group at WIS, which is supported, among others, by a grant from 
+LMS. SF, MS, RB, MT, and TIS are members of DL’s group. All authors have no 
+other relevant affiliations or financial involvement with any organization or 
+entity with a financial interest in or financial conflict with the subject 
+matter or materials discussed in the manuscript apart from those disclosed.

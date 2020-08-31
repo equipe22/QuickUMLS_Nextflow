@@ -1,0 +1,58 @@
+595. BMC Med Inform Decis Mak. 2018 Jan 5;18(1):2. doi: 10.1186/s12911-017-0579-1.
+
+Analyzing hidden populations online: topic, emotion, and social network of 
+HIV-related users in the largest Chinese online community.
+
+Liu C(1), Lu X(2)(3)(4).
+
+Author information:
+(1)College of Information System and Management, National University of Defense 
+Technology, Changsha, 410073, China.
+(2)College of Information System and Management, National University of Defense 
+Technology, Changsha, 410073, China. xin.lu@flowminder.org.
+(3)School of Business Administration, Southwestern University of Finance and 
+Economics, Chengdu, 610074, China. xin.lu@flowminder.org.
+(4)Department of Public Health Sciences, Karolinska Institutet, 17 177, 
+Stockholm, Sweden. xin.lu@flowminder.org.
+
+BACKGROUND: Traditional survey methods are limited in the study of hidden 
+populations due to the hard to access properties, including lack of a sampling 
+frame, sensitivity issue, reporting error, small sample size, etc. The rapid 
+increase of online communities, of which members interact with others via the 
+Internet, have generated large amounts of data, offering new opportunities for 
+understanding hidden populations with unprecedented sample sizes and richness of 
+information. In this study, we try to understand the multidimensional 
+characteristics of a hidden population by analyzing the massive data generated 
+in the online community.
+METHODS: By elaborately designing crawlers, we retrieved a complete dataset from 
+the "HIV bar," the largest bar related to HIV on the Baidu Tieba platform, for 
+all records from January 2005 to August 2016. Through natural language 
+processing and social network analysis, we explored the psychology, behavior and 
+demand of online HIV population and examined the network community structure.
+RESULTS: In HIV communities, the average topic similarity among members is 
+positively correlated to network efficiency (r = 0.70, p < 0.001), indicating 
+that the closer the social distance between members of the community, the more 
+similar their topics. The proportion of negative users in each community is 
+around 60%, weakly correlated with community size (r = 0.25, p = 0.002). It is 
+found that users suspecting initial HIV infection or first in contact with 
+high-risk behaviors tend to seek help and advice on the social networking 
+platform, rather than immediately going to a hospital for blood tests.
+CONCLUSIONS: Online communities have generated copious amounts of data offering 
+new opportunities for understanding hidden populations with unprecedented sample 
+sizes and richness of information. It is recommended that support through online 
+services for HIV/AIDS consultation and diagnosis be improved to avoid privacy 
+concerns and social discrimination in China.
+
+DOI: 10.1186/s12911-017-0579-1
+PMCID: PMC5755307
+PMID: 29304788 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: The 
+study was approved by the Medical Ethical Committee of the Institutional Review 
+Board (IRB) at Peking University (IRB00001052–16016). The study itself does not 
+involve any physical, social or legal risks to the participants, and the data is 
+anonymous, confidentiality of the participants’ information has been strictly 
+protected. CONSENT FOR PUBLICATION: Not applicable. COMPETING INTERESTS: The 
+authors declare that they have no competing interests. PUBLISHER’S NOTE: 
+Springer Nature remains neutral with regard to jurisdictional claims in 
+published maps and institutional affiliations.

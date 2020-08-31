@@ -1,0 +1,43 @@
+379. J Biomed Inform. 2015 Jun;55:23-30. doi: 10.1016/j.jbi.2015.03.002. Epub 2015 
+Mar 19.
+
+Extracting drug-drug interactions from literature using a rich feature-based 
+linear kernel approach.
+
+Kim S(1), Liu H(2), Yeganova L(3), Wilbur WJ(4).
+
+Author information:
+(1)National Center for Biotechnology Information (NCBI), Bethesda, MD, USA. 
+Electronic address: sun.kim@nih.gov.
+(2)National Center for Biotechnology Information (NCBI), Bethesda, MD, USA. 
+Electronic address: haibin.liu@nih.gov.
+(3)National Center for Biotechnology Information (NCBI), Bethesda, MD, USA. 
+Electronic address: lana.yeganova@nih.gov.
+(4)National Center for Biotechnology Information (NCBI), Bethesda, MD, USA. 
+Electronic address: wilbur@ncbi.nlm.nih.gov.
+
+Identifying unknown drug interactions is of great benefit in the early detection 
+of adverse drug reactions. Despite existence of several resources for drug-drug 
+interaction (DDI) information, the wealth of such information is buried in a 
+body of unstructured medical text which is growing exponentially. This calls for 
+developing text mining techniques for identifying DDIs. The state-of-the-art DDI 
+extraction methods use Support Vector Machines (SVMs) with non-linear composite 
+kernels to explore diverse contexts in literature. While computationally less 
+expensive, linear kernel-based systems have not achieved a comparable 
+performance in DDI extraction tasks. In this work, we propose an efficient and 
+scalable system using a linear kernel to identify DDI information. The proposed 
+approach consists of two steps: identifying DDIs and assigning one of four 
+different DDI types to the predicted drug pairs. We demonstrate that when 
+equipped with a rich set of lexical and syntactic features, a linear SVM 
+classifier is able to achieve a competitive performance in detecting DDIs. In 
+addition, the one-against-one strategy proves vital for addressing an imbalance 
+issue in DDI type classification. Applied to the DDIExtraction 2013 corpus, our 
+system achieves an F1 score of 0.670, as compared to 0.651 and 0.609 reported by 
+the top two participating teams in the DDIExtraction 2013 challenge, both based 
+on non-linear kernel methods.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.jbi.2015.03.002
+PMCID: PMC4464931
+PMID: 25796456 [Indexed for MEDLINE]

@@ -1,0 +1,49 @@
+253. Bioinformatics. 2016 Dec 1;32(23):3635-3644. doi: 10.1093/bioinformatics/btw529. 
+Epub 2016 Aug 16.
+
+Corpus domain effects on distributional semantic modeling of medical terms.
+
+Pakhomov SV(1)(2), Finley G(2), McEwan R(2), Wang Y(2), Melton GB(2).
+
+Author information:
+(1)College of Pharmacy, University of Minnesota, Minneapolis, MN 55455, USA.
+(2)Institute for Health Informatics, University of Minnesota, Minneapolis, MN 
+55455, USA.
+
+MOTIVATION: Automatically quantifying semantic similarity and relatedness 
+between clinical terms is an important aspect of text mining from electronic 
+health records, which are increasingly recognized as valuable sources of 
+phenotypic information for clinical genomics and bioinformatics research. A key 
+obstacle to development of semantic relatedness measures is the limited 
+availability of large quantities of clinical text to researchers and developers 
+outside of major medical centers. Text from general English and biomedical 
+literature are freely available; however, their validity as a substitute for 
+clinical domain to represent semantics of clinical terms remains to be 
+demonstrated.
+RESULTS: We constructed neural network representations of clinical terms found 
+in a publicly available benchmark dataset manually labeled for semantic 
+similarity and relatedness. Similarity and relatedness measures computed from 
+text corpora in three domains (Clinical Notes, PubMed Central articles and 
+Wikipedia) were compared using the benchmark as reference. We found that 
+measures computed from full text of biomedical articles in PubMed Central 
+repository (rho = 0.62 for similarity and 0.58 for relatedness) are on par with 
+measures computed from clinical reports (rho = 0.60 for similarity and 0.57 for 
+relatedness). We also evaluated the use of neural network based relatedness 
+measures for query expansion in a clinical document retrieval task and a 
+biomedical term word sense disambiguation task. We found that, with some 
+limitations, biomedical articles may be used in lieu of clinical reports to 
+represent the semantics of clinical terms and that distributional semantic 
+methods are useful for clinical and biomedical natural language processing 
+applications.
+AVAILABILITY AND IMPLEMENTATION: The software and reference standards used in 
+this study to evaluate semantic similarity and relatedness measures are publicly 
+available as detailed in the article.
+CONTACT: pakh0002@umn.eduSupplementary information: Supplementary data are 
+available at Bioinformatics online.
+
+© The Author 2016. Published by Oxford University Press. All rights reserved. 
+For Permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/bioinformatics/btw529
+PMCID: PMC5181540
+PMID: 27531100 [Indexed for MEDLINE]

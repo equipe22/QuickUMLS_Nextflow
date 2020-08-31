@@ -1,0 +1,33 @@
+332. Conf Proc IEEE Eng Med Biol Soc. 2015 Aug;2015:1401-4. doi: 
+10.1109/EMBC.2015.7318631.
+
+Electronic Health Record Application Support Service Enablers.
+
+Neofytou MS, Neokleous K, Aristodemou A, Constantinou I, Antoniou Z, Schiza EC, 
+Pattichis CS, Schizas CN.
+
+There is a huge need for open source software solutions in the healthcare 
+domain, given the flexibility, interoperability and resource savings 
+characteristics they offer. In this context, this paper presents the development 
+of three open source libraries - Specific Enablers (SEs) for eHealth 
+applications that were developed under the European project titled "Future 
+Internet Social and Technological Alignment Research" (FI-STAR) funded under the 
+"Future Internet Public Private Partnership" (FI-PPP) program. The three SEs 
+developed under the Electronic Health Record Application Support Service 
+Enablers (EHR-EN) correspond to: a) an Electronic Health Record enabler (EHR 
+SE), b) a patient summary enabler based on the EU project "European patient 
+Summary Open Source services" (epSOS SE) supporting patient mobility and the 
+offering of interoperable services, and c) a Picture Archiving and 
+Communications System (PACS) enabler (PACS SE) based on the dcm4che open source 
+system for the support of medical imaging functionality. The EHR SE follows the 
+HL7 Clinical Document Architecture (CDA) V2.0 and supports the Integrating the 
+Healthcare Enterprise (IHE) profiles (recently awarded in Connectathon 2015). 
+These three FI-STAR platform enablers are designed to facilitate the deployment 
+of innovative applications and value added services in the health care sector. 
+They can be downloaded from the FI-STAR cataloque website. Work in progress 
+focuses in the validation and evaluation scenarios for the proving and 
+demonstration of the usability, applicability and adaptability of the proposed 
+enablers.
+
+DOI: 10.1109/EMBC.2015.7318631
+PMID: 26736531 [Indexed for MEDLINE]

@@ -1,0 +1,52 @@
+513. J Am Med Inform Assoc. 2020 Feb 1;27(2):265-273. doi: 10.1093/jamia/ocz182.
+
+Using REDCap and Apple ResearchKit to integrate patient questionnaires and 
+clinical decision support into the electronic health record to improve sexually 
+transmitted infection testing in the emergency department.
+
+Ahmad FA(1), Payne PRO(2)(3), Lackey I(2), Komeshak R(2), Kenney K(1), Magnusen 
+B(2), Metts C(4), Bailey T(3).
+
+Author information:
+(1)Department of Pediatrics, Washington University School of Medicine in St. 
+Louis, St. Louis, Missouri, USA.
+(2)Institute for Informatics, Washington University School of Medicine in St. 
+Louis, St. Louis, Missouri, USA.
+(3)Department of Medicine, Washington School of Medicine University in St. 
+Louis, St. Louis, Missouri, USA.
+(4)Department of Pathology and Laboratory Medicine, Medical University of South 
+Carolina, Charleston, South Carolina, USA.
+
+OBJECTIVE: Audio-enhanced computer-assisted self-interviews (ACASIs) are useful 
+adjuncts for clinical care but are rarely integrated into the electronic health 
+record (EHR). We created a flexible framework for integrating an ACASIs with 
+clinical decision support (CDS) into the EHR. We used this program to identify 
+adolescents at risk for sexually transmitted infections (STIs) in the emergency 
+department (ED). We provide an overview of the software platform and qualitative 
+user acceptance.
+MATERIALS AND METHODS: We created an ACASI with a CDS algorithm to identify 
+adolescents in need of STI testing. We offered it to 15- to 21-year-old patients 
+in our ED, regardless of ED complaint. We collected user feedback via the ACASI. 
+These were programmed into REDCap (Research Electronic Data Capture), and an iOS 
+application utilizing Apple ResearchKit generated a tablet compatible 
+representation of the ACASI for patients. A custom software program created an 
+HL7 (Health Level Seven) message containing a summary of responses, CDS 
+recommendations, and STI test orders, which were transmitted to the EHR.
+RESULTS: In the first year, 1788 of 6227 (28.7%) eligible adolescents completed 
+the survey. Technical issues led to decreased use for several months. Patients 
+rated the system favorably, with 1583 of 1787 (88.9%) indicating that they were 
+"somewhat" or "very comfortable" answering questions electronically and 1291 of 
+1787 (72.2%) preferring this format over face-to-face interviews or paper 
+questionnaires.
+CONCLUSIONS: We present a novel use for REDCap to combine patient-answered 
+questionnaires and CDS to improve care for adolescents at risk for STIs. Our 
+program was well received and the platform can be used across disparate 
+patients, topics, and information technology infrastructures.
+
+© The Author(s) 2019. Published by Oxford University Press on behalf of the 
+American Medical Informatics Association. All rights reserved. For permissions, 
+please email: journals.permissions@oup.com.
+
+DOI: 10.1093/jamia/ocz182
+PMCID: PMC7025361
+PMID: 31722414

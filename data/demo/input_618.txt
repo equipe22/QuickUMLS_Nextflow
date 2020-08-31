@@ -1,0 +1,50 @@
+618. JMIR Res Protoc. 2013 Jul 10;2(2):e23. doi: 10.2196/resprot.2644.
+
+EBMPracticeNet: A Bilingual National Electronic Point-Of-Care Project for 
+Retrieval of Evidence-Based Clinical Guideline Information and Decision Support.
+
+Van de Velde S(1), Vander Stichele R, Fauquert B, Geens S, Heselmans A, 
+Ramaekers D, Kunnamo I, Aertgeerts B.
+
+Author information:
+(1)EBMPracticeNet, Leuven, Belgium. stijn.vandevelde@med.kuleuven.be.
+
+BACKGROUND: In Belgium, the construction of a national electronic point-of-care 
+information service, EBMPracticeNet, was initiated in 2011 to optimize quality 
+of care by promoting evidence-based decision-making. The collaboration of the 
+government, health care providers, evidence-based medicine (EBM) partners, and 
+vendors of electronic health records (EHR) is unique to this project. All 
+Belgian health care professionals get free access to an up-to-date database of 
+validated Belgian and nearly 1000 international guidelines, incorporated in a 
+portal that also provides EBM information from other sources than guidelines, 
+including computerized clinical decision support that is integrated in the EHRs.
+OBJECTIVE: The objective of this paper was to describe the development strategy, 
+the overall content, and the management of EBMPracticeNet which may be of 
+relevance to other health organizations creating national or regional electronic 
+point-of-care information services.
+METHODS: Several candidate providers of comprehensive guideline solutions were 
+evaluated and one database was selected. Translation of the guidelines to Dutch 
+and French was done with translation software, post-editing by translators and 
+medical proofreading. A strategy is determined to adapt the guideline content to 
+the Belgian context. Acceptance of the computerized clinical decision support 
+tool has been tested and a randomized controlled trial is planned to evaluate 
+the effect on process and patient outcomes.
+RESULTS: Currently, EBMPracticeNet is in "work in progress" state. Reference is 
+made to the results of a pilot study and to further planned research including a 
+randomized controlled trial.
+CONCLUSIONS: The collaboration of government, health care providers, EBM 
+partners, and vendors of EHRs is unique. The potential value of the project is 
+great. The link between all the EHRs from different vendors and a national 
+database held on a single platform that is controlled by all EBM organizations 
+in Belgium are the strengths of EBMPracticeNet.
+
+DOI: 10.2196/resprot.2644
+PMCID: PMC3713937
+PMID: 23842038
+
+Conflict of interest statement: Conflicts of Interest: RVS is the salaried 
+Project Leader, SVDV is the salaried Editor-in-Chief, and AH is a salaried 
+Editor for EBMPracticeNet. BA and SG are founding members of EBMPracticeNet. BF 
+is president of the EBMPracticeNet board and is salaried editor of 
+EBMPracticeNet. DR is board member of CEBAM. IK is the salaried Chief Editor of 
+EBM Guidelines and EBMeDS decision support service.

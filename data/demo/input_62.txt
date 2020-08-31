@@ -1,0 +1,63 @@
+62. J Biomed Semantics. 2016 Apr 29;7(1):9. doi: 10.1186/s13326-015-0044-y.
+
+miRiaD: A Text Mining Tool for Detecting Associations of microRNAs with 
+Diseases.
+
+Gupta S(1), Ross KE(2), Tudor CO(3)(2), Wu CH(3)(2), Schmidt CJ(4), 
+Vijay-Shanker K(3).
+
+Author information:
+(1)Department of Computer and Information Sciences, University of Delaware, 
+Newark, DE, 19711, USA. sgupta@udel.edu.
+(2)Center for Bioinformatics and Computational Biology, University of Delaware, 
+Newark, DE, 19711, USA.
+(3)Department of Computer and Information Sciences, University of Delaware, 
+Newark, DE, 19711, USA.
+(4)Department of Food and Animal Sciences, University of Delaware, Newark, DE, 
+19711, USA.
+
+BACKGROUND: MicroRNAs are increasingly being appreciated as critical players in 
+human diseases, and questions concerning the role of microRNAs arise in many 
+areas of biomedical research. There are several manually curated databases of 
+microRNA-disease associations gathered from the biomedical literature; however, 
+it is difficult for curators of these databases to keep up with the explosion of 
+publications in the microRNA-disease field. Moreover, automated literature 
+mining tools that assist manual curation of microRNA-disease associations 
+currently capture only one microRNA property (expression) in the context of one 
+disease (cancer). Thus, there is a clear need to develop more sophisticated 
+automated literature mining tools that capture a variety of microRNA properties 
+and relations in the context of multiple diseases to provide researchers with 
+fast access to the most recent published information and to streamline and 
+accelerate manual curation.
+METHODS: We have developed miRiaD (microRNAs in association with Disease), a 
+text-mining tool that automatically extracts associations between microRNAs and 
+diseases from the literature. These associations are often not directly linked, 
+and the intermediate relations are often highly informative for the biomedical 
+researcher. Thus, miRiaD extracts the miR-disease pairs together with an 
+explanation for their association. We also developed a procedure that assigns 
+scores to sentences, marking their informativeness, based on the 
+microRNA-disease relation observed within the sentence.
+RESULTS: miRiaD was applied to the entire Medline corpus, identifying 8301 PMIDs 
+with miR-disease associations. These abstracts and the miR-disease associations 
+are available for browsing at http://biotm.cis.udel.edu/miRiaD . We evaluated 
+the recall and precision of miRiaD with respect to information of high interest 
+to public microRNA-disease database curators (expression and target gene 
+associations), obtaining a recall of 88.46-90.78. When we expanded the 
+evaluation to include sentences with a wide range of microRNA-disease 
+information that may be of interest to biomedical researchers, miRiaD also 
+performed very well with a F-score of 89.4. The informativeness ranking of 
+sentences was evaluated in terms of nDCG (0.977) and correlation metrics 
+(0.678-0.727) when compared to an annotator's ranked list.
+CONCLUSIONS: miRiaD, a high performance system that can capture a wide variety 
+of microRNA-disease related information, extends beyond the scope of existing 
+microRNA-disease resources. It can be incorporated into manual curation 
+pipelines and serve as a resource for biomedical researchers interested in the 
+role of microRNAs in disease. In our ongoing work we are developing an improved 
+miRiaD web interface that will facilitate complex queries about microRNA-disease 
+relationships, such as "In what diseases does microRNA regulation of apoptosis 
+play a role?" or "Is there overlap in the sets of genes targeted by microRNAs in 
+different types of dementia?"."
+
+DOI: 10.1186/s13326-015-0044-y
+PMCID: PMC4877743
+PMID: 27216254 [Indexed for MEDLINE]

@@ -1,0 +1,26 @@
+257. Stud Health Technol Inform. 2010;155:212-8.
+
+Standardized and flexible health data management with an archetype driven EHR 
+system (EHRflex).
+
+Brass A(1), Moner D, Hildebrand C, Robles M.
+
+Author information:
+(1)Helmholtz Zentrum München, German Research Center for Environmental Health, 
+Germany. anton.brass@helmholtz-muenchen.de
+
+To build a semantically interoperable Electronic Health Record is one of the 
+most challenging research fields in health informatics. In order to reach this 
+objective, EHR standards that formally describe health data structures have to 
+be used. CEN EN13606 is one of the most promising approaches. It covers the 
+technical needs for semantic interoperability and, at the same time, it 
+incorporates a mechanism (archetype model) that enables clinical domain experts 
+to participate in building an EHR system. In this paper we present EHRflex, a 
+generic system based on archetypes. It empowers the clinician and allows him to 
+manage his own EHR system in a simple and generic way, assuring that the user 
+works with underlying standardized data structures. These can be exchanged with 
+other people and systems when needed. EHRflex introduces EHR standards into the 
+clinical routine delivering a technical platform which works directly on 
+archetype based data.
+
+PMID: 20543331 [Indexed for MEDLINE]

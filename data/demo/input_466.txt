@@ -1,0 +1,26 @@
+466. Int J Med Inform. 2005 Mar;74(2-4):317-24. doi: 10.1016/j.ijmedinf.2004.04.017.
+
+Assisting medical annotation in Swiss-Prot using statistical classifiers.
+
+Dobrokhotov PB(1), Goutte C, Veuthey AL, Gaussier E.
+
+Author information:
+(1)Swiss Institute of Bioinformatics, CMU, 1 Michel-Servet, CH-1211 Genève 4, 
+Switzerland. Pavel.Dobrokhotov@isb-sib.ch
+
+Bio-medical knowledge bases are valuable resources for the research community. 
+Original scientific publications are the main source used to annotate them. 
+Medical annotation in Swiss-Prot is specifically targeted at finding and 
+extracting data about human genetic diseases and polymorphisms. Curators have to 
+scan through hundreds of publications to select the relevant ones. This workload 
+can be greatly reduced by using bio-text mining techniques. Using a combination 
+of natural language processing (NLP) techniques and statistical classifiers, we 
+achieve recall points of up to 84% on the potentially interesting documents and 
+a precision of more than 96% in detecting irrelevant documents. Careful analysis 
+of the document pre-processing chain allows us to measure the impact of some 
+steps on the overall result, as well as test different classifier 
+configurations. The best combination was used to create a prototype of a search 
+and classification tool that is currently tested by the database curators.
+
+DOI: 10.1016/j.ijmedinf.2004.04.017
+PMID: 15694638 [Indexed for MEDLINE]

@@ -1,0 +1,29 @@
+362. Crit Rev Biotechnol. 2005 Jan-Jun;25(1-2):31-52. doi: 10.1080/07388550590935571.
+
+Knowledge discovery in biology and biotechnology texts: a review of techniques, 
+evaluation strategies, and applications.
+
+Natarajan J(1), Berrar D, Hack CJ, Dubitzky W.
+
+Author information:
+(1)University of Ulster, School of Biomedical Sciences, Bioinformatics Research 
+Group, Coleraine BT52 1SA, Northern Ireland.
+
+Arguably, the richest source of knowledge (as opposed to fact and data 
+collections) about biology and biotechnology is captured in natural-language 
+documents such as technical reports, conference proceedings and research 
+articles. The automatic exploitation of this rich knowledge base for decision 
+making, hypothesis management (generation and testing) and knowledge discovery 
+constitutes a formidable challenge. Recently, a set of technologies collectively 
+referred to as knowledge discovery in text (KDT) has been advocated as a 
+promising approach to tackle this challenge. KDT comprises three main tasks: 
+information retrieval, information extraction and text mining. These tasks are 
+the focus of much recent scientific research and many algorithms have been 
+developed and applied to documents and text in biology and biotechnology. This 
+article introduces the basic concepts of KDT, provides an overview of some of 
+these efforts in the field of bioscience and biotechnology, and presents a 
+framework of commonly used techniques for evaluating KDT methods, tools and 
+systems.
+
+DOI: 10.1080/07388550590935571
+PMID: 15999851 [Indexed for MEDLINE]

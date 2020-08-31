@@ -1,0 +1,40 @@
+101. J Am Med Inform Assoc. 2013 Sep-Oct;20(5):876-81. doi: 
+10.1136/amiajnl-2012-001173. Epub 2012 Oct 6.
+
+Using rule-based natural language processing to improve disease normalization in 
+biomedical text.
+
+Kang N(1), Singh B, Afzal Z, van Mulligen EM, Kors JA.
+
+Author information:
+(1)Department of Medical Informatics, Erasmus University Medical Center, 
+Rotterdam, The Netherlands.
+
+BACKGROUND AND OBJECTIVE: In order for computers to extract useful information 
+from unstructured text, a concept normalization system is needed to link 
+relevant concepts in a text to sources that contain further information about 
+the concept. Popular concept normalization tools in the biomedical field are 
+dictionary-based. In this study we investigate the usefulness of natural 
+language processing (NLP) as an adjunct to dictionary-based concept 
+normalization.
+METHODS: We compared the performance of two biomedical concept normalization 
+systems, MetaMap and Peregrine, on the Arizona Disease Corpus, with and without 
+the use of a rule-based NLP module. Performance was assessed for exact and 
+inexact boundary matching of the system annotations with those of the gold 
+standard and for concept identifier matching.
+RESULTS: Without the NLP module, MetaMap and Peregrine attained F-scores of 
+61.0% and 63.9%, respectively, for exact boundary matching, and 55.1% and 56.9% 
+for concept identifier matching. With the aid of the NLP module, the F-scores of 
+MetaMap and Peregrine improved to 73.3% and 78.0% for boundary matching, and to 
+66.2% and 69.8% for concept identifier matching. For inexact boundary matching, 
+performances further increased to 85.5% and 85.4%, and to 73.6% and 73.3% for 
+concept identifier matching.
+CONCLUSIONS: We have shown the added value of NLP for the recognition and 
+normalization of diseases with MetaMap and Peregrine. The NLP module is general 
+and can be applied in combination with any concept normalization system. Whether 
+its use for concept types other than disease is equally advantageous remains to 
+be investigated.
+
+DOI: 10.1136/amiajnl-2012-001173
+PMCID: PMC3756254
+PMID: 23043124 [Indexed for MEDLINE]

@@ -1,0 +1,44 @@
+29. JAMIA Open. 2019 Apr;2(1):139-149. doi: 10.1093/jamiaopen/ooy061. Epub 2019 Jan 
+3.
+
+Natural language processing and recurrent network models for identifying genomic 
+mutation-associated cancer treatment change from patient progress notes.
+
+Guan M(1)(2), Cho S(1)(3), Petro R(2), Zhang W(2)(4), Pasche B(2)(4), Topaloglu 
+U(2)(4).
+
+Author information:
+(1)Department of Computer Science, Wake Forest University, Winston-Salem, North 
+Carolina, USA.
+(2)Wake Forest Baptist Comprehensive Cancer Center, Winston Salem, North 
+Carolina, USA.
+(3)Department of Physics, Wake Forest University, Winston-Salem, North Carolina, 
+USA.
+(4)Department of Cancer Biology, Wake Forest School of Medicine, Winston Salem, 
+North Carolina, USA.
+
+OBJECTIVES: Natural language processing (NLP) and machine learning approaches 
+were used to build classifiers to identify genomic-related treatment changes in 
+the free-text visit progress notes of cancer patients.
+METHODS: We obtained 5889 deidentified progress reports (2439 words on average) 
+for 755 cancer patients who have undergone a clinical next generation sequencing 
+(NGS) testing in Wake Forest Baptist Comprehensive Cancer Center for our data 
+analyses. An NLP system was implemented to process the free-text data and 
+extract NGS-related information. Three types of recurrent neural network (RNN) 
+namely, gated recurrent unit, long short-term memory (LSTM), and bidirectional 
+LSTM (LSTM_Bi) were applied to classify documents to the treatment-change and 
+no-treatment-change groups. Further, we compared the performances of RNNs to 5 
+machine learning algorithms including Naive Bayes, K-nearest Neighbor, Support 
+Vector Machine for classification, Random forest, and Logistic Regression.
+RESULTS: Our results suggested that, overall, RNNs outperformed traditional 
+machine learning algorithms, and LSTM_Bi showed the best performance among the 
+RNNs in terms of accuracy, precision, recall, and F1 score. In addition, 
+pretrained word embedding can improve the accuracy of LSTM by 3.4% and reduce 
+the training time by more than 60%.
+DISCUSSION AND CONCLUSION: NLP and RNN-based text mining solutions have 
+demonstrated advantages in information retrieval and document classification 
+tasks for unstructured clinical progress notes.
+
+DOI: 10.1093/jamiaopen/ooy061
+PMCID: PMC6435007
+PMID: 30944913

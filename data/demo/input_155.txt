@@ -1,0 +1,36 @@
+155. EGEMS (Wash DC). 2017 May 10;5(1):3. doi: 10.13063/2327-9214.1277.
+
+DQ(e)-v: A Database-Agnostic Framework for Exploring Variability in Electronic 
+Health Record Data Across Time and Site Location.
+
+Estiri H(1)(2), Stephens K(3).
+
+Author information:
+(1)Harvard Medical School.
+(2)Massachusetts General Hospital.
+(3)University of Washington.
+
+Data variability is a commonly observed phenomenon in Electronic Health Records 
+(EHR) data networks. A common question asked in scientific investigations of EHR 
+data is whether the cross-site and -time variability reflects an underlying data 
+quality error at one or more contributing sites versus actual differences driven 
+by various idiosyncrasies in the healthcare settings. Although research analysts 
+and data scientists have commonly used various statistical methods to detect and 
+account for variability in analytic datasets, self service tools to facilitate 
+exploring cross-organizational variability in EHR data warehouses are lacking 
+and could benefit from meaningful data visualizations. DQe-v, an interactive, 
+database-agnostic tool for visually exploring variability in EHR data provides 
+such a solution. DQe-v is built on an open source platform, R statistical 
+software, with annotated scripts and a readme document that makes it fully 
+reproducible. To illustrate and describe functionality of DQe-v, we describe the 
+DQe-v's readme document which includes a complete guide to installation, running 
+the program, and interpretation of the outputs. We also provide annotated R 
+scripts and an example dataset as supplemental materials. DQe-v offers a self 
+service tool to visually explore data variability within EHR datasets 
+irrespective of the data model. GitHub and CIELO offer hosting and distribution 
+of the tool and can facilitate collaboration across any interested community of 
+users as we target improving usability, efficiency, and interoperability.
+
+DOI: 10.13063/2327-9214.1277
+PMCID: PMC5994933
+PMID: 29930954

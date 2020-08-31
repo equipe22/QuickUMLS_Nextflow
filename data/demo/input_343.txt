@@ -1,0 +1,44 @@
+343. Biochem Biophys Res Commun. 2016 Jan 22;469(4):1021-7. doi: 
+10.1016/j.bbrc.2015.11.094. Epub 2015 Dec 22.
+
+Effect of k-tuple length on sample-comparison with high-throughput sequencing 
+data.
+
+Wang Y(1), Lei X(2), Wang S(2), Wang Z(3), Song N(2), Zeng F(2), Chen T(4).
+
+Author information:
+(1)Department of Automation, Xiamen University, Fujian 361005, China. Electronic 
+address: wangying@xmu.edu.cn.
+(2)Department of Automation, Xiamen University, Fujian 361005, China.
+(3)Bioinformatics Division, TNLIST and Department of Automation, Tsinghua 
+University, Beijing 100084, China.
+(4)Bioinformatics Division, TNLIST and Department of Computer Science and 
+Technology, Tsinghua University, Beijing 100084, China; Program in Computational 
+Biology and Bioinformatics, University of Southern California, Los Angeles, CA 
+90089, USA.
+
+The high-throughput metagenomic sequencing offers a powerful technique to 
+compare the microbial communities. Without requiring extra reference sequences, 
+alignment-free models with short k-tuple (k = 2-10 bp) yielded promising 
+results. Short k-tuples describe the overall statistical distribution, but is 
+hard to capture the specific characteristics inside one microbial community. 
+Longer k-tuple contains more abundant information. However, because the 
+frequency vector of long k-tuple(k ≥ 30 bp) is sparse, the statistical measures 
+designed for short k-tuples are not applicable. In our study, we considered each 
+tuple as a meaningful word and then each sequencing data as a document composed 
+of the words. Therefore, the comparison between two sequencing data is processed 
+as "topic analysis of documents" in text mining. We designed a pipeline with 
+long k-tuple features to compare metagenomic samples combined using algorithms 
+from text mining and pattern recognition. The pipeline is available at 
+http://culotuple.codeplex.com/. Experiments show that our pipeline with long 
+k-tuple features: ①separates genomes with high similarity; ②outperforms short 
+k-tuple models in all experiments. When k ≥ 12, the short k-tuple measures are 
+not applicable anymore. When k is between 20 and 40, long k-tuple pipeline 
+obtains much better grouping results; ③is free from the effect of sequencing 
+platforms/protocols. ③We obtained meaningful and supported biological results on 
+the 40-tuples selected for comparison.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bbrc.2015.11.094
+PMID: 26721429 [Indexed for MEDLINE]

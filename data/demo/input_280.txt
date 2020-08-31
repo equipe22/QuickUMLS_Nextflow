@@ -1,0 +1,23 @@
+280. AMIA Annu Symp Proc. 2011;2011:171-80. Epub 2011 Oct 22.
+
+The MiPACQ clinical question answering system.
+
+Cairns BL(1), Nielsen RD, Masanz JJ, Martin JH, Palmer MS, Ward WH, Savova GK.
+
+Author information:
+(1)University of Colorado at Boulder, Boulder, CO, USA.
+
+The Multi-source Integrated Platform for Answering Clinical Questions (MiPACQ) 
+is a QA pipeline that integrates a variety of information retrieval and natural 
+language processing systems into an extensible question answering system. We 
+present the system's architecture and an evaluation of MiPACQ on a 
+human-annotated evaluation dataset based on the Medpedia health and medical 
+encyclopedia. Compared with our baseline information retrieval system, the 
+MiPACQ rule-based system demonstrates 84% improvement in Precision at One and 
+the MiPACQ machine-learning-based system demonstrates 134% improvement. Other 
+performance metrics including mean reciprocal rank and area under the 
+precision/recall curves also showed significant improvement, validating the 
+effectiveness of the MiPACQ design and implementation.
+
+PMCID: PMC3243235
+PMID: 22195068 [Indexed for MEDLINE]

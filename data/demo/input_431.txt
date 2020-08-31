@@ -1,0 +1,35 @@
+431. Comput Syst Bioinformatics Conf. 2007;6:381-4. doi: 10.1142/9781860948732_0038.
+
+CBioC: beyond a prototype for collaborative annotation of molecular interactions 
+from the literature.
+
+Baral C(1), Gonzalez G, Gitter A, Teegarden C, Zeigler A, Joshi-Topé G.
+
+Author information:
+(1)School of Computing and Informatics, Arizona State University, Tempe, AZ 
+85281, USA. chitta@asu.edu
+
+In molecular biology research, looking for information on a particular entity 
+such as a gene or a protein may lead to thousands of articles, making it 
+impossible for a researcher to individually read these articles and even just 
+their abstracts. Thus, there is a need to curate the literature to get various 
+nuggets of knowledge, such as an interaction between two proteins, and store 
+them in a database. However the body of existing biomedical articles is growing 
+at a very fast rate, making it impossible to curate them manually. An 
+alternative approach of using computers for automatic extraction has problem 
+with accuracy. We propose to leverage the advantages of both techniques, 
+extracting binary relationships between biological entities automatically from 
+the biomedical literature and providing a platform that allows community 
+collaboration in the annotation of the extracted relationships. Thus, the 
+community of researchers that writes and reads the biomedical texts can use the 
+server for searching our database of extracted facts, and as an easy-to-use web 
+platform to annotate facts relevant to them. We presented a preliminary 
+prototype as a proof of concept earlier(1). This paper presents the working 
+implementation available for download at http://www.cbioc.org as a browser-plug 
+in for both Internet Explorer and FireFox. This current version has been 
+available since June of 2006, and has over 160 registered users from around the 
+world. Aside from its use as an annotation tool, data from CBioC has also been 
+used in computational methods with encouraging results.
+
+DOI: 10.1142/9781860948732_0038
+PMID: 17951840 [Indexed for MEDLINE]

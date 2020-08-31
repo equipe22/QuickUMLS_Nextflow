@@ -1,0 +1,62 @@
+16. J Am Med Inform Assoc. 2019 Dec 1;26(12):1545-1559. doi: 10.1093/jamia/ocz105.
+
+UK phenomics platform for developing and validating electronic health record 
+phenotypes: CALIBER.
+
+Denaxas S(1)(2)(3)(4)(5), Gonzalez-Izquierdo A(1)(2)(4), Direk K(1)(2)(4), 
+Fitzpatrick NK(1)(2), Fatemifar G(1)(2), Banerjee A(1)(2)(5), Dobson 
+RJB(1)(2)(6)(4)(5), Howe LJ(7), Kuan V(2)(7), Lumbers RT(1)(2)(5), Pasea 
+L(1)(2), Patel RS(7)(5), Shah AD(1)(2)(5), Hingorani AD(2)(7), Sudlow C(8)(9), 
+Hemingway H(1)(2)(4)(5).
+
+Author information:
+(1)Institute of Health Informatics, University College London, London,United 
+Kingdom.
+(2)Health Data Research UK, London, United Kingdom.
+(3)The Alan Turing Institute, London, United Kingdom.
+(4)The National Institute for Health Research University College London 
+Hospitals Biomedical Research Centre, University College London, London, United 
+Kingdom.
+(5)British Heart Foundation Research Accelerator, University College London, 
+London, United Kingdom.
+(6)Department of Biostatistics and Health Informatics, Institute of Psychiatry 
+Psychology and Neuroscience, King's College London, London, United Kingdom.
+(7)Institute of Cardiovascular Science, University College London, London, 
+United Kingdom.
+(8)Centre for Medical Informatics, Usher Institute of Population Health Science 
+and Informatics, University of Edinburgh, Edinburgh, United Kingdom.
+(9)Health Data Research UK, Scotland, United Kingdom.
+
+OBJECTIVE: Electronic health records (EHRs) are a rich source of information on 
+human diseases, but the information is variably structured, fragmented, curated 
+using different coding systems, and collected for purposes other than medical 
+research. We describe an approach for developing, validating, and sharing 
+reproducible phenotypes from national structured EHR in the United Kingdom with 
+applications for translational research.
+MATERIALS AND METHODS: We implemented a rule-based phenotyping framework, with 
+up to 6 approaches of validation. We applied our framework to a sample of 15 
+million individuals in a national EHR data source (population-based primary 
+care, all ages) linked to hospitalization and death records in England. Data 
+comprised continuous measurements (for example, blood pressure; medication 
+information; coded diagnoses, symptoms, procedures, and referrals), recorded 
+using 5 controlled clinical terminologies: (1) read (primary care, subset of 
+SNOMED-CT [Systematized Nomenclature of Medicine Clinical Terms]), (2) 
+International Classification of Diseases-Ninth Revision and Tenth Revision 
+(secondary care diagnoses and cause of mortality), (3) Office of Population 
+Censuses and Surveys Classification of Surgical Operations and Procedures, 
+Fourth Revision (hospital surgical procedures), and (4) DM+D prescription codes.
+RESULTS: Using the CALIBER phenotyping framework, we created algorithms for 51 
+diseases, syndromes, biomarkers, and lifestyle risk factors and provide up to 6 
+validation approaches. The EHR phenotypes are curated in the open-access CALIBER 
+Portal (https://www.caliberresearch.org/portal) and have been used by 40 
+national and international research groups in 60 peer-reviewed publications.
+CONCLUSIONS: We describe a UK EHR phenomics approach within the CALIBER EHR data 
+platform with initial evidence of validity and use, as an important step toward 
+international use of UK EHR data for health research.
+
+© The Author(s) 2019. Published by Oxford University Press on behalf of the 
+American Medical Informatics Association.
+
+DOI: 10.1093/jamia/ocz105
+PMCID: PMC6857510
+PMID: 31329239

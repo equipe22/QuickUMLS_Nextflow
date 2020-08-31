@@ -1,0 +1,48 @@
+131. World Neurosurg. 2019 Jun;126:e190-e195. doi: 10.1016/j.wneu.2019.01.292. Epub 
+2019 Feb 22.
+
+Variance Reduction in Neurosurgical Practice: The Case for Analytics-Driven 
+Decision Support in the Era of Big Data.
+
+Stopa BM(1), Yan SC(1), Dasenbrock HH(1), Kim DH(2), Gormley WB(3).
+
+Author information:
+(1)Computational Neurosurgery Outcomes Center, Department of Neurological 
+Surgery, Brigham and Women's Hospital, Harvard Medical School, Boston, 
+Massachusetts, USA.
+(2)Department of Neurosurgery, University of Texas Health Science Center at 
+Houston, Houston, Texas, USA.
+(3)Computational Neurosurgery Outcomes Center, Department of Neurological 
+Surgery, Brigham and Women's Hospital, Harvard Medical School, Boston, 
+Massachusetts, USA. Electronic address: wgormley@partners.org.
+
+OBJECTIVE: Variance between providers in neurosurgery can lead to inefficiencies 
+and poor patient outcomes. Evidence-based guidelines (EBGs) have been developed; 
+however, they have not been well implemented into the clinician workflow. 
+Therefore, clinicians have been left to make decisions with incomplete 
+information. Equally underused are the electronic health records (EHRs), which 
+house enormous amounts of health data, but the power of that "big data" has 
+failed to be capitalized on.
+METHODS: Early attempts at EBGs were rigid and nonadaptive; however, with the 
+current advances in data informatics and machine learning algorithms, it is now 
+possible to integrate "big data" and rapid data processing into clinical 
+decision support tools. We have presented an overview of the background of EHRs 
+and EBGs in neurosurgery and explored the possibility of integrating them to 
+reduce unwanted variance.
+RESULTS: As we strive toward variance reduction in healthcare, the integration 
+of "big data" and EBGs for decision-making will be key. We have proposed that 
+EHRs are an ideal platform for integrating EBGs into the clinician workflow and 
+have presented as an example of a successful early generation model, Neurocore. 
+With this approach, it will be possible to build EBGs into the EHR software, to 
+continuously update and optimize EBGs according to the flow of patient data into 
+the EHR, and to present data-driven clinical decision support at the point of 
+care.
+CONCLUSIONS: Variance reduction in neurosurgery through the integration of 
+evidence-based decision support in EHRs will lead to improved patient safety, a 
+reduction in medical errors, maximization of the use of the available data, and 
+enhanced decision-making power for clinicians.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.wneu.2019.01.292
+PMID: 30797905 [Indexed for MEDLINE]

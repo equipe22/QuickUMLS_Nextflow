@@ -1,0 +1,46 @@
+47. Int J Epidemiol. 2018 Apr 1;47(2):617-624. doi: 10.1093/ije/dyx264.
+
+Use of text-mining methods to improve efficiency in the calculation of drug 
+exposure to support pharmacoepidemiology studies.
+
+McTaggart S(1), Nangle C(1)(2), Caldwell J(1)(2), Alvarez-Madrazo S(3)(2), 
+Colhoun H(4)(2), Bennie M(1)(3)(2).
+
+Author information:
+(1)Public Health and Intelligence Strategic Business Unit, NHS National Services 
+Scotland, Edinburgh, UK.
+(2)Farr Institute of Health Informatics Research, Edinburgh, UK.
+(3)Strathclyde Institute of Pharmacy and Biomedical Sciences, University of 
+Strathclyde, Glasgow, UK.
+(4)Institute of Genetics and Molecular Medicine, University of Edinburgh, 
+Edinburgh, UK.
+
+BACKGROUND: Efficient generation of structured dose instructions that enable 
+researchers to calculate drug exposure is central to pharmacoepidemiology 
+studies. Our aim was to design and test an algorithm to codify dose 
+instructions, applied to the NHS Scotland Prescribing Information System (PIS) 
+that records about 100 million prescriptions per annum.
+METHODS: A natural language processing (NLP) algorithm was developed that 
+enabled free-text dose instructions to be represented by three 
+attributes - quantity, frequency and qualifier - specified by three, three and 
+two variables, respectively. A sample of 15 593 distinct dose instructions was 
+used to test, validate and refine the algorithm. The final algorithm used a 
+zero-assumption approach and was then applied to the full dataset.
+RESULTS: The initial algorithm generated structured output for 13 152 (84.34%) 
+of the 15 593 sample dose instructions, and reviewers identified 767 (5.83%) 
+incorrect translations, giving an accuracy of 94.17%. Following subsequent 
+refinement of the algorithm rules, application to the full dataset of 
+458 227 687 prescriptions (99.67% had dose instructions represented by 4 964 083 
+distinct instructions) generated a structured output for 92.3% of dose 
+instruction texts. This varied by therapeutic area (from 86.7% for the central 
+nervous system to 96.8% for the cardiovascular system).
+CONCLUSIONS: We created an NLP algorithm, operational at scale, to produce 
+structured output that gives data users maximum flexibility to formulate, test 
+and apply their own assumptions according to the medicines under investigation. 
+Text mining approaches can provide a solution to the safe and efficient 
+management and provisioning of large volumes of data generated through our 
+health systems.
+
+DOI: 10.1093/ije/dyx264
+PMCID: PMC5913611
+PMID: 29420741 [Indexed for MEDLINE]

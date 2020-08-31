@@ -1,0 +1,43 @@
+389. BMC Bioinformatics. 2008 Apr 11;9 Suppl 3(Suppl 3):S11. doi: 
+10.1186/1471-2105-9-S3-S11.
+
+Identification of transcription factor contexts in literature using machine 
+learning approaches.
+
+Yang H(1), Nenadic G, Keane JA.
+
+Author information:
+(1)School of Computer Science, University of Manchester, Manchester, UK. 
+Hui.Yang@manchester.ac.uk
+
+BACKGROUND: Availability of information about transcription factors (TFs) is 
+crucial for genome biology, as TFs play a central role in the regulation of gene 
+expression. While manual literature curation is expensive and labour intensive, 
+the development of semi-automated text mining support is hindered by 
+unavailability of training data. There have been no studies on how existing data 
+sources (e.g. TF-related data from the MeSH thesaurus and GO ontology) or 
+potentially noisy example data (e.g. protein-protein interaction, PPI) could be 
+used to provide training data for identification of TF-contexts in literature.
+RESULTS: In this paper we describe a text-classification system designed to 
+automatically recognise contexts related to transcription factors in literature. 
+A learning model is based on a set of biological features (e.g. protein and gene 
+names, interaction words, other biological terms) that are deemed relevant for 
+the task. We have exploited background knowledge from existing biological 
+resources (MeSH and GO) to engineer such features. Weak and noisy training 
+datasets have been collected from descriptions of TF-related concepts in MeSH 
+and GO, PPI data and data representing non-protein-function descriptions. Three 
+machine-learning methods are investigated, along with a vote-based merging of 
+individual approaches and/or different training datasets. The system achieved 
+highly encouraging results, with most classifiers achieving an F-measure above 
+90%.
+CONCLUSIONS: The experimental results have shown that the proposed model can be 
+used for identification of TF-related contexts (i.e. sentences) with high 
+accuracy, with a significantly reduced set of features when compared to 
+traditional bag-of-words approach. The results of considering existing PPI data 
+suggest that there is not as high similarity between TF and PPI contexts as we 
+have expected. We have also shown that existing knowledge sources are useful 
+both for feature engineering and for obtaining noisy positive training data.
+
+DOI: 10.1186/1471-2105-9-S3-S11
+PMCID: PMC2352869
+PMID: 18426546 [Indexed for MEDLINE]

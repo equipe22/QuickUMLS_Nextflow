@@ -1,0 +1,39 @@
+243. BMC Med Inform Decis Mak. 2013 May 9;13:57. doi: 10.1186/1472-6947-13-57.
+
+Applying representational state transfer (REST) architecture to archetype-based 
+electronic health record systems.
+
+Sundvall E(1), Nyström M, Karlsson D, Eneling M, Chen R, Örman H.
+
+Author information:
+(1)Department of Biomedical Engineering, Linköping University, Linköping 581 85, 
+Sweden. erik.sundvall@liu.se
+
+BACKGROUND: The openEHR project and the closely related ISO 13606 standard have 
+defined structures supporting the content of Electronic Health Records (EHRs). 
+However, there is not yet any finalized openEHR specification of a service 
+interface to aid application developers in creating, accessing, and storing the 
+EHR content.The aim of this paper is to explore how the Representational State 
+Transfer (REST) architectural style can be used as a basis for a 
+platform-independent, HTTP-based openEHR service interface. Associated benefits 
+and tradeoffs of such a design are also explored.
+RESULTS: The main contribution is the formalization of the openEHR storage, 
+retrieval, and version-handling semantics and related services into an 
+implementable HTTP-based service interface. The modular design makes it possible 
+to prototype, test, replicate, distribute, cache, and load-balance the system 
+using ordinary web technology. Other contributions are approaches to query and 
+retrieval of the EHR content that takes caching, logging, and distribution into 
+account. Triggering on EHR change events is also explored.A final contribution 
+is an open source openEHR implementation using the above-mentioned approaches to 
+create LiU EEE, an educational EHR environment intended to help newcomers and 
+developers experiment with and learn about the archetype-based EHR approach and 
+enable rapid prototyping.
+CONCLUSIONS: Using REST addressed many architectural concerns in a successful 
+way, but an additional messaging component was needed to address some 
+architectural aspects. Many of our approaches are likely of value to other 
+archetype-based EHR implementations and may contribute to associated service 
+model specifications.
+
+DOI: 10.1186/1472-6947-13-57
+PMCID: PMC3694512
+PMID: 23656624 [Indexed for MEDLINE]

@@ -1,0 +1,30 @@
+510. Stud Health Technol Inform. 2009;150:953-7.
+
+The role of ontologies for sustainable, semantically interoperable and 
+trustworthy EHR solutions.
+
+Blobel B(1), Kalra D, Koehn M, Lunn K, Pharow P, Ruotsalainen P, Schulz S, Smith 
+B.
+
+Author information:
+(1)eHealth Competence Center, Regensburg University Hospital, D-93042 
+Regensburg, Germany. bernd.blobel@klinik.uni-regensburg.de
+
+As health systems around the world turn towards highly distributed, specialized 
+and cooperative structures to increase quality and safety of care as well as 
+efficiency and efficacy of delivery processes, there is a growing need for 
+supporting communication and collaboration of all parties involved with advanced 
+ICT solutions. The Electronic Health Record (EHR) provides the information 
+platform which is maturing towards the eHealth core application. To meet the 
+requirements for sustainable, semantically interoperable, and trustworthy EHR 
+solutions, different standards and different national strategies have been 
+established. The workshop summarizes the requirements for such advanced EHR 
+systems and their underlying architecture, presents different strategies and 
+solutions advocated by corresponding protagonists, discusses pros and cons as 
+well as harmonization and migration strategies for those approaches. It 
+particularly highlights a turn towards ontology-driven architectures. The 
+workshop is a joint activity of the EFMI Working Groups "Electronic Health 
+Records" and "Security, Safety and Ethics".
+
+PMCID: PMC4896069
+PMID: 19745454 [Indexed for MEDLINE]

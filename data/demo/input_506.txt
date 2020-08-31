@@ -1,0 +1,52 @@
+506. PLoS One. 2019 Dec 17;14(12):e0226176. doi: 10.1371/journal.pone.0226176. 
+eCollection 2019.
+
+Menagerie: A text-mining tool to support animal-human translation in 
+neurodegeneration research.
+
+Zeiss CJ(1), Shin D(2), Vander Wyk B(3), Beck AP(4), Zatz N(5), Sneiderman 
+CA(2), Kilicoglu H(2).
+
+Author information:
+(1)Department of Comparative Medicine, Yale School of Medicine, New Haven, 
+Connecticut, United States of America.
+(2)Lister Hill National Center for Biomedical Communications, National Library 
+of Medicine, Bethesda, Maryland, United States of America.
+(3)Department of Internal Medicine, Yale School of Medicine, New Haven, 
+Connecticut, United States of America.
+(4)Department of Pathology, Albert Einstein College of Medicine, New York, 
+United States of America.
+(5)Department of Ecology and Evolutionary Biology, Yale University, New Haven, 
+Connecticut, United States of America.
+
+Discovery studies in animals constitute a cornerstone of biomedical research, 
+but suffer from lack of generalizability to human populations. We propose that 
+large-scale interrogation of these data could reveal patterns of animal use that 
+could narrow the translational divide. We describe a text-mining approach that 
+extracts translationally useful data from PubMed abstracts. These comprise six 
+modules: species, model, genes, interventions/disease modifiers, overall outcome 
+and functional outcome measures. Existing National Library of Medicine natural 
+language processing tools (SemRep, GNormPlus and the Chemical annotator) 
+underpin the program and are further augmented by various rules, term lists, and 
+machine learning models. Evaluation of the program using a 98-abstract test set 
+achieved F1 scores ranging from 0.75-0.95 across all modules, and exceeded F1 
+scores obtained from comparable baseline programs. Next, the program was applied 
+to a larger 14,481 abstract data set (2008-2017). Expected and previously 
+identified patterns of species and model use for the field were obtained. As 
+previously noted, the majority of studies reported promising outcomes. 
+Longitudinal patterns of intervention type or gene mentions were demonstrated, 
+and patterns of animal model use characteristic of the Parkinson's disease field 
+were confirmed. The primary function of the program is to overcome low external 
+validity of animal model systems by aggregating evidence across a diversity of 
+models that capture different aspects of a multifaceted cellular process. Some 
+aspects of the tool are generalizable, whereas others are field-specific. In the 
+initial version presented here, we demonstrate proof of concept within a single 
+disease area, Parkinson's disease. However, the program can be expanded in 
+modular fashion to support a wider range of neurodegenerative diseases.
+
+DOI: 10.1371/journal.pone.0226176
+PMCID: PMC6917268
+PMID: 31846471 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

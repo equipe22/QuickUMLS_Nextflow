@@ -1,0 +1,20 @@
+97. Stud Health Technol Inform. 2019 Aug 21;264:1608-1609. doi: 10.3233/SHTI190558.
+
+NimbleMiner: A Novel Multi-Lingual Text Mining Application.
+
+Topaz M(1)(2).
+
+Author information:
+(1)School of Nursing & Data Science Institute, Columbia University, New York 
+City, NY, USA.
+(2)Visiting Nurse Service of New York, New York City, NY, USA.
+
+This demonstration showcase will present a novel open access text mining 
+application called NimbleMiner. NimbleMiner's architecture is language agnostic 
+and it can be potentially applied in multiple languages. The system was applied 
+in a series of recent studies in several languages, including English and 
+Hebrew. The system showed good results in terms of text classification 
+performance when compared to other natural language processing approaches.
+
+DOI: 10.3233/SHTI190558
+PMID: 31438255 [Indexed for MEDLINE]

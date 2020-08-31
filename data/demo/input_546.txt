@@ -1,0 +1,49 @@
+546. JMIR Med Inform. 2017 Dec 8;5(4):e51. doi: 10.2196/medinform.9170.
+
+Adverse Drug Event Discovery Using Biomedical Literature: A Big Data Neural 
+Network Adventure.
+
+P Tafti A(1), Badger J(1), LaRose E(1), Shirzadi E(2), Mahnke A(1), Mayer J(1), 
+Ye Z(1), Page D(3), Peissig P(1).
+
+Author information:
+(1)Biomedical Informatics Research Center, Marshfield Clinic Research Institute, 
+Marshfield, WI, United States.
+(2)Institute of Electrical and Electronics Engineers, Dublin, Ireland.
+(3)Department of Biostatistics and Medical Informatics, University of 
+Wisconsin-Madison, Madison, WI, United States.
+
+BACKGROUND: The study of adverse drug events (ADEs) is a tenured topic in 
+medical literature. In recent years, increasing numbers of scientific articles 
+and health-related social media posts have been generated and shared daily, 
+albeit with very limited use for ADE study and with little known about the 
+content with respect to ADEs.
+OBJECTIVE: The aim of this study was to develop a big data analytics strategy 
+that mines the content of scientific articles and health-related Web-based 
+social media to detect and identify ADEs.
+METHODS: We analyzed the following two data sources: (1) biomedical articles and 
+(2) health-related social media blog posts. We developed an intelligent and 
+scalable text mining solution on big data infrastructures composed of Apache 
+Spark, natural language processing, and machine learning. This was combined with 
+an Elasticsearch No-SQL distributed database to explore and visualize ADEs.
+RESULTS: The accuracy, precision, recall, and area under receiver operating 
+characteristic of the system were 92.7%, 93.6%, 93.0%, and 0.905, respectively, 
+and showed better results in comparison with traditional approaches in the 
+literature. This work not only detected and classified ADE sentences from big 
+data biomedical literature but also scientifically visualized ADE interactions.
+CONCLUSIONS: To the best of our knowledge, this work is the first to investigate 
+a big data machine learning strategy for ADE discovery on massive datasets 
+downloaded from PubMed Central and social media. This contribution illustrates 
+possible capacities in big data biomedical text analysis using advanced 
+computational methods with real-time update from new data published on a daily 
+basis.
+
+©Ahmad P Tafti, Jonathan Badger, Eric LaRose, Ehsan Shirzadi, Andrea Mahnke, 
+John Mayer, Zhan Ye, David Page, Peggy Peissig. Originally published in JMIR 
+Medical Informatics (http://medinform.jmir.org), 08.12.2017.
+
+DOI: 10.2196/medinform.9170
+PMCID: PMC5741828
+PMID: 29222076
+
+Conflict of interest statement: Conflicts of Interest: None declared.

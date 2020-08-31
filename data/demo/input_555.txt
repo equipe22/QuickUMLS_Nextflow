@@ -1,0 +1,36 @@
+555. Biomaterials. 2013 Dec;34(38):10305-18. doi: 10.1016/j.biomaterials.2013.09.038. 
+Epub 2013 Sep 27.
+
+The use of nanolipoprotein particles to enhance the immunostimulatory properties 
+of innate immune agonists against lethal influenza challenge.
+
+Weilhammer DR(1), Blanchette CD, Fischer NO, Alam S, Loots GG, Corzett M, Thomas 
+C, Lychak C, Dunkle AD, Ruitenberg JJ, Ghanekar SA, Sant AJ, Rasley A.
+
+Author information:
+(1)Biosciences and Biotechnology Division, Lawrence Livermore National 
+Laboratory, Livermore, CA 94551, USA.
+
+Recent studies have demonstrated that therapies targeting the innate immune 
+system have the potential to provide transient, non-specific protection from a 
+variety of infectious organisms; however, the potential of enhancing the 
+efficacy of such treatments using nano-scale delivery platforms requires more in 
+depth evaluation. As such, we employed a nanolipoprotein (NLP) platform to 
+enhance the efficacy of innate immune agonists. Here, we demonstrate that the 
+synthetic Toll-like receptor (TLR) agonists monophosphoryl lipid A (MPLA) and 
+CpG oligodeoxynucleotides (CpG) can be readily incorporated into NLPs. 
+Conjugation of MPLA and CpG to NLPs (MPLA:NLP and CpG:NLP, respectively) 
+significantly enhanced their immunostimulatory profiles both in vitro and in 
+vivo compared to administration of agonists alone, as evidenced by significant 
+increases in cytokine production, cell surface expression of activation markers, 
+and upregulation of immunoregulatory genes. Importantly, enhancement of cytokine 
+production by agonist conjugation to NLPs was also observed in primary human 
+dendritic cells. Furthermore, BALB/c mice pretreated with CpG:NLP constructs 
+survived a lethal influenza challenge whereas pretreatment with CpG alone had no 
+effect on survival.
+
+Copyright © 2013 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.biomaterials.2013.09.038
+PMCID: PMC7172747
+PMID: 24075406 [Indexed for MEDLINE]

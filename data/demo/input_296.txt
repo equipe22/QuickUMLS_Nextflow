@@ -1,0 +1,38 @@
+296. J Digit Imaging. 2014 Dec;27(6):730-6. doi: 10.1007/s10278-014-9708-x.
+
+Automated classification of radiology reports to facilitate retrospective study 
+in radiology.
+
+Zhou Y(1), Amundson PK, Yu F, Kessler MM, Benzinger TL, Wippold FJ.
+
+Author information:
+(1)The Department of Radiology, Saint Louis University School of Medicine, 3635 
+Vista Blvd at Grand Blvd, Saint Louis, MO, 63110, USA, yzhou31@slu.edu.
+
+Retrospective research is an import tool in radiology. Identifying imaging 
+examinations appropriate for a given research question from the unstructured 
+radiology reports is extremely useful, but labor-intensive. Using the machine 
+learning text-mining methods implemented in LingPipe [1], we evaluated the 
+performance of the dynamic language model (DLM) and the Naïve Bayesian (NB) 
+classifiers in classifying radiology reports to facilitate identification of 
+radiological examinations for research projects. The training dataset consisted 
+of 14,325 sentences from 11,432 radiology reports randomly selected from a 
+database of 5,104,594 reports in all disciplines of radiology. The training 
+sentences were categorized manually into six categories (Positive, Differential, 
+Post Treatment, Negative, Normal, and History). A 10-fold cross-validation [2] 
+was used to evaluate the performance of the models, which were tested in 
+classification of radiology reports for cases of sellar or suprasellar masses 
+and colloid cysts. The average accuracies for the DLM and NB classifiers were 
+88.5% with 95% confidence interval (CI) of 1.9% and 85.9% with 95% CI of 2.0%, 
+respectively. The DLM performed slightly better and was used to classify 1,397 
+radiology reports containing the keywords "sellar or suprasellar mass", or 
+"colloid cyst". The DLM model produced an accuracy of 88.2% with 95% CI of 2.1% 
+for 959 reports that contain "sellar or suprasellar mass" and an accuracy of 
+86.3% with 95% CI of 2.5% for 437 reports of "colloid cyst". We conclude that 
+automated classification of radiology reports using machine learning techniques 
+can effectively facilitate the identification of cases suitable for 
+retrospective research.
+
+DOI: 10.1007/s10278-014-9708-x
+PMCID: PMC4391070
+PMID: 24874407 [Indexed for MEDLINE]

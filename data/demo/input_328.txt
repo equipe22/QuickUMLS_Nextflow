@@ -1,0 +1,43 @@
+328. J Diabetes Sci Technol. 2013 May 1;7(3):602-11. doi: 10.1177/193229681300700304.
+
+Integration of a mobile-integrated therapy with electronic health records: 
+lessons learned.
+
+Peeples MM(1), Iyer AK, Cohen JL.
+
+Author information:
+(1)WellDoc, 1501 St. Paul St., Baltimore, MD 21202, USA. mpeeples@welldocinc.com
+
+BACKGROUND: Responses to the chronic disease epidemic have predominantly been 
+standardized in their approach to date. Barriers to better health outcomes 
+remain, and effective management requires patient-specific data and disease 
+state knowledge be presented in methods that foster clinical decision-making and 
+patient self-management. Mobile technology provides a new platform for data 
+collection and patient-provider communication. The mobile device represents a 
+personalized platform that is available to the patient on a 24/7 basis. 
+Mobile-integrated therapy (MIT) is the convergence of mobile technology, 
+clinical and behavioral science, and scientifically validated clinical outcomes. 
+In this article, we highlight the lessons learned from functional integration of 
+a Food and Drug Administration-cleared type 2 diabetes MIT into the electronic 
+health record (EHR) of a multiphysician practice within a large, urban, academic 
+medical center.
+METHODS: In-depth interviews were conducted with integration stakeholder groups: 
+mobile and EHR software and information technology teams, clinical end users, 
+project managers, and business analysts. Interviews were summarized and 
+categorized into lessons learned using the Architecture for Integrated Mobility® 
+framework.
+RESULTS: Findings from the diverse stakeholder group of a MIT-EHR integration 
+project indicate that user workflow, software system persistence, environment 
+configuration, device connectivity and security, organizational processes, and 
+data exchange heuristics are key issues that must be addressed.
+CONCLUSIONS: Mobile-integrated therapy that integrates patient self-management 
+data with medical record data provides the opportunity to understand the 
+potential benefits of bidirectional data sharing and reporting that are most 
+valuable in advancing better health and better care in a cost-effective way that 
+is scalable for all chronic diseases.
+
+© 2013 Diabetes Technology Society.
+
+DOI: 10.1177/193229681300700304
+PMCID: PMC3869127
+PMID: 23759392 [Indexed for MEDLINE]

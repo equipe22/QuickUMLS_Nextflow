@@ -1,0 +1,58 @@
+583. BMC Med Inform Decis Mak. 2020 Jul 17;20(1):163. doi: 
+10.1186/s12911-020-01178-y.
+
+Grand Duchy of Luxembourg: a case study of a national master patient index in 
+production since five years.
+
+Vaccaroli R(1), Markus F(2), Danhardt S(2), Zimmermann H(2), Wisniewski F(2), 
+Lucas P(2), Barge H(2).
+
+Author information:
+(1)Agence eSanté G.I.E., Agence Nationale des informations partagées dans le 
+domaine de la santé, 125, route d'Esch, L-1471, Luxembourg, Luxembourg. 
+raffaella.VACCAROLI@agence-esante.lu.
+(2)Agence eSanté G.I.E., Agence Nationale des informations partagées dans le 
+domaine de la santé, 125, route d'Esch, L-1471, Luxembourg, Luxembourg.
+
+BACKGROUND: Unequivocal identification of patients is a precondition for a safe 
+medical journey through different information systems (ISs) and software 
+applications that are communicating and exchanging interoperable data. A master 
+patient index (MPI) can facilitate this task. Being a repository of patient 
+identity traits, a MPI allows an accurate surveillance of the patients' "medical 
+identities". Up to 2014, the Grand Duchy of Luxembourg did not possess a MPI. 
+Here, we describe our experience in the establishment of a national MPI for the 
+Grand Duchy of Luxembourg.
+METHODS: The different steps that were used to establish the MPI system are 
+described. Firstly, through the identification of the suitable application and, 
+secondly, through the implementation of the MPI to the eHealth national platform 
+and its connection to the national health care system. In parallel to the first 
+two phases, the identity management policies were defined and implemented.
+RESULTS: Since 2014, when the MPI was integrated to the eHealth platform, we 
+observed a continuous increase of identity profiles. At the latest update (31 
+December 2018), 2.418.336 identity profiles have been counted, including almost 
+the totality of Luxembourgish residents (95.2%) as well as all the cross-border 
+workers that are affiliated to the Luxembourgish social security system. An 
+analysis of the identification domains connected to the platform highlighted a 
+yearly increase in the usage rate of the identities by external applications 
+(currently representing 70%). The evaluation of the quality of information 
+contained in each identity profile showed low rejection rates (0.2%), indicating 
+a high quality and a good level of completeness in regards to the required 
+identity traits.
+CONCLUSIONS: This paper presents the current state of patient identity 
+management in Luxembourg and discusses how this synergistically supports the 
+functioning of the national electronic health record (EHR) known as DSP (from 
+the French Dossier de Soins Partagé) and the Luxemburgish health care system. 
+The here described national MPI has refined the identification of patients, 
+leading to an improvement of their safety during their medical journey. 
+Nevertheless, the application regularly undergoes updates to better meet the 
+current requirements of the Luxembourgish health system.
+
+DOI: 10.1186/s12911-020-01178-y
+PMCID: PMC7368768
+PMID: 32680499
+
+Conflict of interest statement: All the authors are declared employees of the 
+government EIG eSanté agency. The national health fund (2/3) and the health 
+ministry (1/3) of the Grand Duchy of Luxembourg financed this EIG. Maincare 
+Solutions may financially benefit from this manuscript as provider of the 
+IdeoIdentity application.

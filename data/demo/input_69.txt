@@ -1,0 +1,57 @@
+69. Database (Oxford). 2015 Jan 25;2015:bau129. doi: 10.1093/database/bau129. Print 
+2015.
+
+OntoMate: a text-mining tool aiding curation at the Rat Genome Database.
+
+Liu W(1), Laulederkind SJ(2), Hayman GT(3), Wang SJ(3), Nigam R(3), Smith JR(3), 
+De Pons J(3), Dwinell MR(1), Shimoyama M(1).
+
+Author information:
+(1)Human and Molecular Genetics Center, Medical College of Wisconsin, Department 
+of Quantitative Health Sciences, University of Massachusetts Medical School, 
+Department of Physiology, Medical College of Wisconsin and Department of 
+Surgery, Medical College of Wisconsin, 8701 Watertown Plank Rd, Milwaukee, WI 
+53226-3548, USA Human and Molecular Genetics Center, Medical College of 
+Wisconsin, Department of Quantitative Health Sciences, University of 
+Massachusetts Medical School, Department of Physiology, Medical College of 
+Wisconsin and Department of Surgery, Medical College of Wisconsin, 8701 
+Watertown Plank Rd, Milwaukee, WI 53226-3548, USA.
+(2)Human and Molecular Genetics Center, Medical College of Wisconsin, Department 
+of Quantitative Health Sciences, University of Massachusetts Medical School, 
+Department of Physiology, Medical College of Wisconsin and Department of 
+Surgery, Medical College of Wisconsin, 8701 Watertown Plank Rd, Milwaukee, WI 
+53226-3548, USA slaulederkind@mcw.edu.
+(3)Human and Molecular Genetics Center, Medical College of Wisconsin, Department 
+of Quantitative Health Sciences, University of Massachusetts Medical School, 
+Department of Physiology, Medical College of Wisconsin and Department of 
+Surgery, Medical College of Wisconsin, 8701 Watertown Plank Rd, Milwaukee, WI 
+53226-3548, USA.
+
+The Rat Genome Database (RGD) is the premier repository of rat genomic, genetic 
+and physiologic data. Converting data from free text in the scientific 
+literature to a structured format is one of the main tasks of all model organism 
+databases. RGD spends considerable effort manually curating gene, Quantitative 
+Trait Locus (QTL) and strain information. The rapidly growing volume of 
+biomedical literature and the active research in the biological natural language 
+processing (bioNLP) community have given RGD the impetus to adopt text-mining 
+tools to improve curation efficiency. Recently, RGD has initiated a project to 
+use OntoMate, an ontology-driven, concept-based literature search engine 
+developed at RGD, as a replacement for the PubMed 
+(http://www.ncbi.nlm.nih.gov/pubmed) search engine in the gene curation 
+workflow. OntoMate tags abstracts with gene names, gene mutations, organism name 
+and most of the 16 ontologies/vocabularies used at RGD. All terms/ entities 
+tagged to an abstract are listed with the abstract in the search results. All 
+listed terms are linked both to data entry boxes and a term browser in the 
+curation tool. OntoMate also provides user-activated filters for species, date 
+and other parameters relevant to the literature search. Using the system for 
+literature search and import has streamlined the process compared to using 
+PubMed. The system was built with a scalable and open architecture, including 
+features specifically designed to accelerate the RGD gene curation process. With 
+the use of bioNLP tools, RGD has added more automation to its curation workflow. 
+Database URL: http://rgd.mcw.edu.
+
+© The Author(s) 2015. Published by Oxford University Press.
+
+DOI: 10.1093/database/bau129
+PMCID: PMC4305386
+PMID: 25619558 [Indexed for MEDLINE]

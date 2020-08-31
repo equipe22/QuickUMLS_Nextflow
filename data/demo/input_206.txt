@@ -1,0 +1,40 @@
+206. Diabet Med. 2017 Nov;34(11):1599-1602. doi: 10.1111/dme.13454. Epub 2017 Sep 14.
+
+Decline of insulin therapy and delays in insulin initiation in people with 
+uncontrolled diabetes mellitus.
+
+Hosomura N(1), Malmasi S(1), Timerman D(1), Lei VJ(2), Zhang H(3), Chang L(1), 
+Turchin A(1).
+
+Author information:
+(1)Brigham and Women's Hospital, Boston, MA, USA.
+(2)Northeastern University, Boston, MA, USA.
+(3)Peking Union Medical College Hospital, China.
+
+AIMS: To design and validate a natural language processing algorithm to identify 
+insulin therapy decline from the text of physician notes, and to determine the 
+prevalence of insulin therapy decline and its impact on insulin initiation.
+METHODS: We designed the algorithm using the publicly available natural language 
+processing platform Canary. We evaluated the accuracy of the algorithm on 1501 
+randomly selected primary care physicians' notes from the electronic medical 
+record system of a large academic medical centre. Using the validated language 
+model, we then studied the prevalence of insulin therapy decline between 2000 
+and 2014.
+RESULTS: The algorithm identified documentation of insulin therapy decline with 
+a sensitivity of 100% (95% CI 82.4-100), a positive predictive value of 95% (95% 
+CI 74.4-99.9), and a specificity of 99.9% (95% CI 99.6-100.0). We identified 
+3295 insulin-naïve adults with Type 2 diabetes who were recommended insulin 
+therapy; 984 of them (29.9%) initially declined insulin. People with HbA1c ≥ 75 
+mmol/mol (9.0%) were more likely [766/2239 (34.2%)] to have declined insulin 
+than people with HbA1c 53-63 mmol/mol (7.0-7.9%) and 64-74 mmol/mol (8.0-8.9%; P 
+< 0.0001). Among the people who initially declined but ultimately started 
+insulin [374/984 (38.0%)], mean time to insulin initiation was 790 days.
+CONCLUSIONS: Insulin therapy decline is common, potentially leading to 
+progression of hyperglycaemia and a delay in achievement of glycaemic control. 
+Further investigation is needed to determine the reasons, risk factors and 
+long-term outcomes of this important clinical phenomenon.
+
+© 2017 Diabetes UK.
+
+DOI: 10.1111/dme.13454
+PMID: 28905434 [Indexed for MEDLINE]

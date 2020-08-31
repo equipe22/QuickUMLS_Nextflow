@@ -1,0 +1,57 @@
+109. BMC Med Inform Decis Mak. 2018 Jul 6;18(1):61. doi: 10.1186/s12911-018-0645-3.
+
+Using data-driven sublanguage pattern mining to induce knowledge models: 
+application in medical image reports knowledge representation.
+
+Zhao Y(1)(2), Fesharaki NJ(1), Liu H(2), Luo J(3).
+
+Author information:
+(1)Department of Health Informatics and Administration, Center for Biomedical 
+Data and Language Processing, University of Wisconsin-Milwaukee, 2025 E Newport 
+Ave, NWQ-B Room 6469, Milwaukee, WI, 53211, USA.
+(2)Division of Biomedical Statistics and Informatics, Mayo Clinic, Rochester, 
+205 3rd Ave SW, Rochester, MN, 55905, USA.
+(3)Department of Health Informatics and Administration, Center for Biomedical 
+Data and Language Processing, University of Wisconsin-Milwaukee, 2025 E Newport 
+Ave, NWQ-B Room 6469, Milwaukee, WI, 53211, USA. jakeluo@uwm.edu.
+
+BACKGROUND: The use of knowledge models facilitates information retrieval, 
+knowledge base development, and therefore supports new knowledge discovery that 
+ultimately enables decision support applications. Most existing works have 
+employed machine learning techniques to construct a knowledge base. However, 
+they often suffer from low precision in extracting entity and relationships. In 
+this paper, we described a data-driven sublanguage pattern mining method that 
+can be used to create a knowledge model. We combined natural language processing 
+(NLP) and semantic network analysis in our model generation pipeline.
+METHODS: As a use case of our pipeline, we utilized data from an open source 
+imaging case repository, Radiopaedia.org , to generate a knowledge model that 
+represents the contents of medical imaging reports. We extracted entities and 
+relationships using the Stanford part-of-speech parser and the 
+"Subject:Relationship:Object" syntactic data schema. The identified noun phrases 
+were tagged with the Unified Medical Language System (UMLS) semantic types. An 
+evaluation was done on a dataset comprised of 83 image notes from four data 
+sources.
+RESULTS: A semantic type network was built based on the co-occurrence of 135 
+UMLS semantic types in 23,410 medical image reports. By regrouping the semantic 
+types and generalizing the semantic network, we created a knowledge model that 
+contains 14 semantic categories. Our knowledge model was able to cover 98% of 
+the content in the evaluation corpus and revealed 97% of the relationships. 
+Machine annotation achieved a precision of 87%, recall of 79%, and F-score of 
+82%.
+CONCLUSION: The results indicated that our pipeline was able to produce a 
+comprehensive content-based knowledge model that could represent context from 
+various sources in the same domain.
+
+DOI: 10.1186/s12911-018-0645-3
+PMCID: PMC6035419
+PMID: 29980203 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: The 
+author(s) declare(s) that this study does not involve human subjects or personal 
+identifiable information. So this study does not need ethics approval or consent 
+from individuals. CONSENT FOR PUBLICATION: The author(s) declare(s) that the 
+manuscript does not contain any individual person’s data. So this paper requires 
+no consent to publish. COMPETING INTERESTS: The authors declare that they have 
+no competing interests. PUBLISHER’S NOTE: Springer Nature remains neutral with 
+regard to jurisdictional claims in published maps and institutional 
+affiliations.

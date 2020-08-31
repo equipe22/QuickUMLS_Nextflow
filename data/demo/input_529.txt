@@ -1,0 +1,61 @@
+529. J Biomed Inform. 2019 Sep;97:103267. doi: 10.1016/j.jbi.2019.103267. Epub 2019 
+Aug 8.
+
+Cross-registry neural domain adaptation to extract mutational test results from 
+pathology reports.
+
+Rios A(1), Durbin EB(2), Hands I(3), Arnold SM(4), Shah D(5), Schwartz SM(6), 
+Goulart BHL(6), Kavuluru R(7).
+
+Author information:
+(1)Department of Information Systems and Cyber Security, University of Texas at 
+San Antonio, USA.
+(2)Division of Biomedical Informatics, Dept. of Internal Medicine, University of 
+Kentucky, USA; Kentucky Cancer Registry, Lexington, KY, USA.
+(3)Kentucky Cancer Registry, Lexington, KY, USA.
+(4)Markey Cancer Center, University of Kentucky, Lexington, KY, USA.
+(5)Ironwood Cancer and Research Centers, Avondale, AZ, USA.
+(6)Fred Hutchinson Cancer Research Center, Seattle, WA, USA.
+(7)Division of Biomedical Informatics, Dept. of Internal Medicine, University of 
+Kentucky, USA; Computer Science Department, University of Kentucky, USA. 
+Electronic address: ramakanth.kavuluru@uky.edu.
+
+OBJECTIVE: We study the performance of machine learning (ML) methods, including 
+neural networks (NNs), to extract mutational test results from pathology reports 
+collected by cancer registries. Given the lack of hand-labeled datasets for 
+mutational test result extraction, we focus on the particular use-case of 
+extracting Epidermal Growth Factor Receptor mutation results in non-small cell 
+lung cancers. We explore the generalization of NNs across different registries 
+where our goals are twofold: (1) to assess how well models trained on a 
+registry's data port to test data from a different registry and (2) to assess 
+whether and to what extent such models can be improved using state-of-the-art 
+neural domain adaptation techniques under different assumptions about what is 
+available (labeled vs unlabeled data) at the target registry site.
+MATERIALS AND METHODS: We collected data from two registries: the Kentucky 
+Cancer Registry (KCR) and the Fred Hutchinson Cancer Research Center (FH) Cancer 
+Surveillance System. We combine NNs with adversarial domain adaptation to 
+improve cross-registry performance. We compare to other classifiers in the 
+standard supervised classification, unsupervised domain adaptation, and 
+supervised domain adaptation scenarios.
+RESULTS: The performance of ML methods varied between registries. To extract 
+positive results, the basic convolutional neural network (CNN) had an F1 of 
+71.5% on the KCR dataset and 95.7% on the FH dataset. For the KCR dataset, the 
+CNN F1 results were low when trained on FH data (Positive F1: 23%). Using our 
+proposed adversarial CNN, without any labeled data, we match the F1 of the 
+models trained directly on each target registry's data. The adversarial CNN F1 
+improved when trained on FH and applied to KCR dataset (Positive F1: 70.8%). We 
+found similar performance improvements when we trained on KCR and tested on FH 
+reports (Positive F1: 45% to 96%).
+CONCLUSION: Adversarial domain adaptation improves the performance of NNs 
+applied to pathology reports. In the unsupervised domain adaptation setting, we 
+match the performance of models that are trained directly on target registry's 
+data by using source registry's labeled data and unlabeled examples from the 
+target registry.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jbi.2019.103267
+PMCID: PMC6736690
+PMID: 31401235 [Indexed for MEDLINE]
+
+Conflict of interest statement: COMPETING INTERESTS None

@@ -1,0 +1,38 @@
+198. J Am Med Inform Assoc. 2010 Sep-Oct;17(5):549-54. doi: 
+10.1136/jamia.2010.004036.
+
+Linguistic approach for identification of medication names and related 
+information in clinical narratives.
+
+Hamon T(1), Grabar N.
+
+Author information:
+(1)UFR SMBH Léonard de Vinci, Université Paris 13, 93017 Bobigny Cedex, France. 
+thierry.hamon@univ-paris13.fr
+
+BACKGROUND: Pharmacotherapy is an integral part of any medical care process and 
+plays an important role in the medical history of most patients. Information on 
+medication is crucial for several tasks such as pharmacovigilance, medical 
+decision or biomedical research.
+OBJECTIVES: Within a narrative text, medication-related information can be 
+buried within other non-relevant data. Specific methods, such as those provided 
+by text mining, must be designed for accessing them, and this is the objective 
+of this study.
+METHODS: The authors designed a system for analyzing narrative clinical 
+documents to extract from them medication occurrences and medication-related 
+information. The system also attempts to deduce medications not covered by the 
+dictionaries used.
+RESULTS: Results provided by the system were evaluated within the framework of 
+the I2B2 NLP challenge held in 2009. The system achieved an F-measure of 0.78 
+and ranked 7th out of 20 participating teams (the highest F-measure was 0.86). 
+The system provided good results for the annotation and extraction of medication 
+names, their frequency, dosage and mode of administration (F-measure over 0.81), 
+while information on duration and reasons is poorly annotated and extracted 
+(F-measure 0.36 and 0.29, respectively). The performance of the system was 
+stable between the training and test sets.
+
+DOI: 10.1136/jamia.2010.004036
+PMCID: PMC2995681
+PMID: 20819862 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None.

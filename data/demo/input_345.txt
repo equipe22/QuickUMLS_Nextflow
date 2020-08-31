@@ -1,0 +1,47 @@
+345. J Am Med Inform Assoc. 2014 Nov-Dec;21(6):1129-35. doi: 
+10.1136/amiajnl-2013-002629. Epub 2014 Jul 3.
+
+Using the CER Hub to ensure data quality in a multi-institution smoking 
+cessation study.
+
+Walker KL(1), Kirillova O(1), Gillespie SE(1), Hsiao D(2), Pishchalenko V(2), 
+Pai AK(3), Puro JE(4), Plumley R(5), Kudyakov R(6), Hu W(1), Allisany A(1), 
+McBurnie M(1), Kurtz SE(7), Hazlehurst BL(1).
+
+Author information:
+(1)Kaiser Permanente Northwest, Center for Health Research, Portland, Oregon, 
+USA.
+(2)Kaiser Permanente Hawaii, Center for Health Research, Honolulu, Hawaii, USA.
+(3)Emory University, Atlanta, Georgia, USA.
+(4)OCHIN Inc, Portland, Oregon, USA.
+(5)VA Puget Sound Health Care System, Seattle, Washington, USA.
+(6)Baylor Health Care System, Center for Clinical Innovation, Dallas, Texas, 
+USA.
+(7)Oregon Health & Science University, Portland, Oregon, USA.
+
+Comparative effectiveness research (CER) studies involving multiple institutions 
+with diverse electronic health records (EHRs) depend on high quality data. To 
+ensure uniformity of data derived from different EHR systems and 
+implementations, the CER Hub informatics platform developed a quality assurance 
+(QA) process using tools and data formats available through the CER Hub. The QA 
+process, implemented here in a study of smoking cessation services in primary 
+care, used the 'emrAdapter' tool programmed with a set of quality checks to 
+query large samples of primary care encounter records extracted in accord with 
+the CER Hub common data framework. The tool, deployed to each study site, 
+generated error reports indicating data problems to be fixed locally and 
+aggregate data sharable with the central site for quality review. Across the CER 
+Hub network of six health systems, data completeness and correctness issues were 
+prevalent in the first iteration and were considerably improved after three 
+iterations of the QA process. A common issue encountered was incomplete mapping 
+of local EHR data values to those defined by the common data framework. A highly 
+automated and distributed QA process helped to ensure the correctness and 
+completeness of patient care data extracted from EHRs for a multi-institution 
+CER study in smoking cessation.
+
+Published by the BMJ Publishing Group Limited. For permission to use (where not 
+already granted under a licence) please go to 
+http://group.bmj.com/group/rights-licensing/permissions.
+
+DOI: 10.1136/amiajnl-2013-002629
+PMCID: PMC4215049
+PMID: 24993545 [Indexed for MEDLINE]

@@ -1,0 +1,25 @@
+404. Stud Health Technol Inform. 2013;192:1147.
+
+Development of a SNOMED CT based national medication decision support system.
+
+Greibe K(1).
+
+Author information:
+(1)Standards and it-architecture, Division of National Board of e-Health, 
+Denmark.
+
+Physicians often lack the time to familiarize themselves with the details of 
+particular allergies or other drug restrictions. Clinical Decision Support 
+(CDS), based on a structured terminology as SNOMED CT (SCT), can help physicians 
+get an overview, by automatically alerting allergy, interactions and other 
+important information. The centralized CDS platform based on SCT, controls 
+Allergy, Interactions, Risk Situation Drugs and Max Dose restrictions by the 
+help of databases developed for these specific purposes. The CDS will respond to 
+automatic web service requests from the hospital or GP electronic medication 
+system (EMS) during prescription, and return alerts and information. The CDS 
+also contains a Physicians Preference Database where the physicians individually 
+can set which kind of alerts they want to see. The result is clinically useful 
+information physicians can use as a base for a more effective and safer 
+treatment, without developing alert fatigue.
+
+PMID: 23920921 [Indexed for MEDLINE]

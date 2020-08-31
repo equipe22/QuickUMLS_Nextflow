@@ -1,0 +1,27 @@
+442. AMIA Annu Symp Proc. 2008 Nov 6;2008:825-9.
+
+SYRIAC: The systematic review information automated collection system a data 
+warehouse for facilitating automated biomedical text classification.
+
+Yang JJ(1), Cohen AM, McDonagh MS.
+
+Author information:
+(1)Portland Center for the Evaluation of Clinical Services, Portland VA Medical 
+Center, USA.
+
+Automatic document classification can be valuable in increasing the efficiency 
+in updating systematic reviews (SR). In order for the machine learning process 
+to work well, it is critical to create and maintain high-quality training 
+datasets consisting of expert SR inclusion/exclusion decisions. This task can be 
+laborious, especially when the number of topics is large and source data format 
+is inconsistent.To approach this problem, we build an automated system to 
+streamline the required steps, from initial notification of update in source 
+annotation files to loading the data warehouse, along with a web interface to 
+monitor the status of each topic. In our current collection of 26 SR topics, we 
+were able to standardize almost all of the relevance judgments and recovered 
+PMIDs for over 80% of all articles. Of those PMIDs, over 99% were correct in a 
+manual random sample study. Our system performs an essential function in 
+creating training and evaluation data sets for SR text mining research.
+
+PMCID: PMC2656099
+PMID: 18999194 [Indexed for MEDLINE]

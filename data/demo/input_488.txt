@@ -1,0 +1,25 @@
+488. AMIA Annu Symp Proc. 2008 Nov 6;2008:358-62.
+
+A fast document classification algorithm for gene symbol disambiguation in the 
+BITOLA literature-based discovery support system.
+
+Kastrin A(1), Hristovski D.
+
+Author information:
+(1)Institute of Medical Genetics, University Medical Centre, Ljubljana, 
+Slovenia.
+
+Gene symbol disambiguation is an important problem for biomedical text mining 
+systems. When detecting gene symbols in MEDLINE citations one of the biggest 
+challenges is the fact that many gene symbols also denote other, more general 
+biomedical concepts (e.g. CT, MR). Our approach to this problem is first to 
+classify the citations into genetic and non-genetic domains and then to detect 
+gene symbols only in the genetic domain. We used ontological information 
+provided by Medical Subject Headings (MeSH) for this classification task. The 
+proposed algorithm is fast and is able to process the full MEDLINE distribution 
+in a few hours. It achieves predictive accuracy of 0.91. The algorithm is 
+currently implemented in the BITOLA literature-based discovery support system 
+(http://www.mf.uni-lj.si/bitola/).
+
+PMCID: PMC2655979
+PMID: 18998999 [Indexed for MEDLINE]

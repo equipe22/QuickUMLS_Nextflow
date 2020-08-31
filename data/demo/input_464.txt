@@ -1,0 +1,37 @@
+464. Methods Inf Med. 2006;45(4):343-53.
+
+Semantic interoperability--HL7 Version 3 compared to advanced architecture 
+standards.
+
+Blobel BG(1), Engel K, Pharow P.
+
+Author information:
+(1)eHealth Competence Center, University of Regensburg Medical Center, 93042 
+Regensburg, Germany. bernd.blobel@ehealth-cc.de
+
+OBJECTIVES: To meet the challenge for high quality and efficient care, highly 
+specialized and distributed healthcare establishments have to communicate and 
+co-operate in a semantically interoperable way. Information and communication 
+technology must be open, flexible, scalable, knowledge-based and 
+service-oriented as well as secure and safe.
+METHODS: For enabling semantic interoperability, a unified process for defining 
+and implementing the architecture, i.e. structure and functions of the 
+cooperating systems' components, as well as the approach for knowledge 
+representation, i.e. the used information and its interpretation, algorithms, 
+etc. have to be defined in a harmonized way. Deploying the Generic Component 
+Model, systems and their components, underlying concepts and applied constraints 
+must be formally modeled, strictly separating platform-independent from 
+platform-specific models.
+RESULTS: As HL7 Version 3 claims to represent the most successful standard for 
+semantic interoperability, HL7 has been analyzed regarding the requirements for 
+model-driven, service-oriented design of semantic interoperable information 
+systems, thereby moving from a communication to an architecture paradigm. The 
+approach is compared with advanced architectural approaches for information 
+systems such as OMG's CORBA 3 or EHR systems such as GEHR/openEHR and CEN EN 
+13606 Electronic Health Record Communication.
+CONCLUSION: HL7 Version 3 is maturing towards an architectural approach for 
+semantic interoperability. Despite current differences, there is a close 
+collaboration between the teams involved guaranteeing a convergence between 
+competing approaches.
+
+PMID: 16964348 [Indexed for MEDLINE]

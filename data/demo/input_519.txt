@@ -1,0 +1,55 @@
+519. BMC Bioinformatics. 2008 Apr 11;9 Suppl 3(Suppl 3):S3. doi: 
+10.1186/1471-2105-9-S3-S3.
+
+Assessment of disease named entity recognition on a corpus of annotated 
+sentences.
+
+Jimeno A(1), Jimenez-Ruiz E, Lee V, Gaudan S, Berlanga R, Rebholz-Schuhmann D.
+
+Author information:
+(1)European Bioinformatics Institute, Wellcome Trust Genome Campus, Hinxton, 
+Cambridge, CB10 1SD, UK. yepes@ebi.ac.uk
+
+BACKGROUND: In recent years, the recognition of semantic types from the 
+biomedical scientific literature has been focused on named entities like protein 
+and gene names (PGNs) and gene ontology terms (GO terms). Other semantic types 
+like diseases have not received the same level of attention. Different solutions 
+have been proposed to identify disease named entities in the scientific 
+literature. While matching the terminology with language patterns suffers from 
+low recall (e.g., Whatizit) other solutions make use of morpho-syntactic 
+features to better cover the full scope of terminological variability (e.g., 
+MetaMap). Currently, MetaMap that is provided from the National Library of 
+Medicine (NLM) is the state of the art solution for the annotation of concepts 
+from UMLS (Unified Medical Language System) in the literature. Nonetheless, its 
+performance has not yet been assessed on an annotated corpus. In addition, 
+little effort has been invested so far to generate an annotated dataset that 
+links disease entities in text to disease entries in a database, thesaurus or 
+ontology and that could serve as a gold standard to benchmark text mining 
+solutions.
+RESULTS: As part of our research work, we have taken a corpus that has been 
+delivered in the past for the identification of associations of genes to 
+diseases based on the UMLS Metathesaurus and we have reprocessed and 
+re-annotated the corpus. We have gathered annotations for disease entities from 
+two curators, analyzed their disagreement (0.51 in the kappa-statistic) and 
+composed a single annotated corpus for public use. Thereafter, three solutions 
+for disease named entity recognition including MetaMap have been applied to the 
+corpus to automatically annotate it with UMLS Metathesaurus concepts. The 
+resulting annotations have been benchmarked to compare their performance.
+CONCLUSIONS: The annotated corpus is publicly available at 
+ftp://ftp.ebi.ac.uk/pub/software/textmining/corpora/diseases and can serve as a 
+benchmark to other systems. In addition, we found that dictionary look-up 
+already provides competitive results indicating that the use of disease 
+terminology is highly standardized throughout the terminologies and the 
+literature. MetaMap generates precise results at the expense of insufficient 
+recall while our statistical method obtains better recall at a lower precision 
+rate. Even better results in terms of precision are achieved by combining at 
+least two of the three methods leading, but this approach again lowers recall. 
+Altogether, our analysis gives a better understanding of the complexity of 
+disease annotations in the literature. MetaMap and the dictionary based approach 
+are available through the Whatizit web service infrastructure (Rebholz-Schuhmann 
+D, Arregui M, Gaudan S, Kirsch H, Jimeno A: Text processing through Web 
+services: Calling Whatizit. Bioinformatics 2008, 24:296-298).
+
+DOI: 10.1186/1471-2105-9-S3-S3
+PMCID: PMC2352871
+PMID: 18426548 [Indexed for MEDLINE]

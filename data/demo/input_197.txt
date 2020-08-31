@@ -1,0 +1,31 @@
+197. J Bioinform Comput Biol. 2010 Feb;8(1):131-46. doi: 10.1142/s0219720010004586.
+
+Event extraction with complex event classification using rich features.
+
+Miwa M(1), Saetre R, Kim JD, Tsujii J.
+
+Author information:
+(1)Department of Computer Science, University of Tokyo, Hongo 7-3-1, Bunkyo-ku, 
+Tokyo, Japan. mmiwa@is.s.u-tokyo.ac.jp
+
+Biomedical Natural Language Processing (BioNLP) attempts to capture biomedical 
+phenomena from texts by extracting relations between biomedical entities (i.e. 
+proteins and genes). Traditionally, only binary relations have been extracted 
+from large numbers of published papers. Recently, more complex relations 
+(biomolecular events) have also been extracted. Such events may include several 
+entities or other relations. To evaluate the performance of the text mining 
+systems, several shared task challenges have been arranged for the BioNLP 
+community. With a common and consistent task setting, the BioNLP'09 shared task 
+evaluated complex biomolecular events such as binding and regulation.Finding 
+these events automatically is important in order to improve biomedical event 
+extraction systems. In the present paper, we propose an automatic event 
+extraction system, which contains a model for complex events, by solving a 
+classification problem with rich features. The main contributions of the present 
+paper are: (1) the proposal of an effective bio-event detection method using 
+machine learning, (2) provision of a high-performance event extraction system, 
+and (3) the execution of a quantitative error analysis. The proposed complex 
+(binding and regulation) event detector outperforms the best system from the 
+BioNLP'09 shared task challenge.
+
+DOI: 10.1142/s0219720010004586
+PMID: 20183879 [Indexed for MEDLINE]

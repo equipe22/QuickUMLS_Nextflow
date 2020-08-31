@@ -1,0 +1,43 @@
+297. BMC Bioinformatics. 2008;9 Suppl 1(Suppl 1):S5. doi: 10.1186/1471-2105-9-S1-S5.
+
+Towards ontology-driven navigation of the lipid bibliosphere.
+
+Baker CJ(1), Kanagasabai R, Ang WT, Veeramani A, Low HS, Wenk MR.
+
+Author information:
+(1)Department of Data Mining, Institute for Infocomm Research, 21 Heng Mui Keng 
+Terrace, Singapore 119613. cbaker@i2r.a-star.edu.sg
+
+BACKGROUND: The indexing of scientific literature and content is a relevant and 
+contemporary requirement within life science information systems. Navigating 
+information available in legacy formats continues to be a challenge both in 
+enterprise and academic domains. The emergence of semantic web technologies and 
+their fusion with artificial intelligence techniques has provided a new toolkit 
+with which to address these data integration challenges. In the emerging field 
+of lipidomics such navigation challenges are barriers to the translation of 
+scientific results into actionable knowledge, critical to the treatment of 
+diseases such as Alzheimer's syndrome, Mycobacterium infections and cancer.
+RESULTS: We present a literature-driven workflow involving document delivery and 
+natural language processing steps generating tagged sentences containing lipid, 
+protein and disease names, which are instantiated to custom designed lipid 
+ontology. We describe the design challenges in capturing lipid nomenclature, the 
+mandate of the ontology and its role as query model in the navigation of the 
+lipid bibliosphere. We illustrate the extent of the description logic-based 
+A-box query capability provided by the instantiated ontology using a graphical 
+query composer to query sentences describing lipid-protein and lipid-disease 
+correlations.
+CONCLUSION: As scientists accept the need to readjust the manner in which we 
+search for information and derive knowledge we illustrate a system that can 
+constrain the literature explosion and knowledge navigation problems. 
+Specifically we have focussed on solving this challenge for lipidomics 
+researchers who have to deal with the lack of standardized vocabulary, differing 
+classification schemes, and a wide array of synonyms before being able to derive 
+scientific insights. The use of the OWL-DL variant of the Web Ontology Language 
+(OWL) and description logic reasoning is pivotal in this regard, providing the 
+lipid scientist with advanced query access to the results of text mining 
+algorithms instantiated into the ontology. The visual query paradigm assists in 
+the adoption of this technology.
+
+DOI: 10.1186/1471-2105-9-S1-S5
+PMCID: PMC2259406
+PMID: 18315858 [Indexed for MEDLINE]

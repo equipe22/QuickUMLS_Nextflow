@@ -1,0 +1,34 @@
+28. Yearb Med Inform. 2016 Jun 30;Suppl 1(Suppl 1):S23-31. doi: 
+10.15265/IYS-2016-s004.
+
+Imaging Informatics: 25 Years of Progress.
+
+Agrawal JP, Erickson BJ, Kahn CE Jr(1).
+
+Author information:
+(1)Charles E. Kahn, Jr., Department of Radiology, 3400 Spruce Street, 1 
+Silverstein, Philadelphia, PA 19104, USA, E-mail: charles.kahn@uphs.upenn.edu.
+
+The science and applications of informatics in medical imaging have advanced 
+dramatically in the past 25 years. This article provides a selective overview of 
+key developments in medical imaging informatics. Advances in standards and 
+technologies for compression and transmission of digital images have enabled 
+Picture Archiving and Communications Systems (PACS) and teleradiology. Research 
+in speech recognition, structured reporting, ontologies, and natural language 
+processing has improved the ability to generate and analyze the reports of 
+imaging procedures. Informatics has provided tools to address workflow and 
+ergonomic issues engendered by the growing volume of medical image information. 
+Research in computeraided detection and diagnosis of abnormalities in medical 
+images has opened new avenues to improve patient care. The growing number of 
+medical-imaging examinations and their large volumes of information create a 
+natural platform for "big data" analytics, particularly when joined with 
+high-dimensional genomic data. Radiogenomics investigates relationships between 
+a disease's genetic and gene-expression characteristics and its imaging 
+phenotype; this emerging field promises to help us better understand disease 
+biology, prognosis, and treatment options. The next 25 years offer remarkable 
+opportunities for informatics and medical imaging together to lead to further 
+advances in both disciplines and to improve health.
+
+DOI: 10.15265/IYS-2016-s004
+PMCID: PMC5171495
+PMID: 27362590 [Indexed for MEDLINE]

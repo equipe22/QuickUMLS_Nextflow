@@ -1,0 +1,35 @@
+437. Methods Inf Med. 2008;47(6):541-8. doi: 10.3414/ME9128. Epub 2008 Nov 20.
+
+Automatic DPC code selection from electronic medical records: text mining trial 
+of discharge summary.
+
+Suzuki T(1), Yokoi H, Fujita S, Takabayashi K.
+
+Author information:
+(1)Department of Medical Informatics and Management, Chiba University Hospital, 
+Chiba, Japan. suzuki@ho.chiba-u.ac.jp
+
+OBJECTIVES: We extracted index terms related to diseases recorded in hospital 
+discharge summaries and examined the capability of the vector space model to 
+select a suitable diagnosis with these terms.
+METHODS: By morphological analysis, we extracted index terms and constructed an 
+original dictionary for the discharge summary analysis. We chose 125 different 
+DPC (Japanese DRG system) codes for the diseases, each of which had more than 20 
+cases. We divided them into two groups. One group consisted of 5927 cases from 
+2004 fiscal year and was used to generate the document vector space according to 
+the DPC. The other group of 3187 cases was collected to verify the automatic DPC 
+selection by using data from 2005 fiscal year. The top 200 extracted index terms 
+for each disease were used to calculate the weight of each disease.
+RESULTS: The DPC code obtained by the calculated similarity was compared with 
+the original codes of patients for 125 DPCs of 3187 cases. Eighty percent of the 
+cases matched the diagnosis of the DPC (first six digits) and 56% of the cases 
+completely matched all 14 digits of the DPC.
+CONCLUSIONS: We demonstrated that we could extract suitable terms for each 
+disease and obtain characteristics, such as the diagnosis, from the calculated 
+vectors. This technique can be used to measure the qualification of discharge 
+summaries and to integrate discharge summaries among different facilities. By 
+the text mining technique, we can characterize the contents of electronic 
+discharge summaries and deduce diagnoses with the data.
+
+DOI: 10.3414/ME9128
+PMID: 19023491 [Indexed for MEDLINE]

@@ -1,0 +1,43 @@
+43. Appl Clin Inform. 2015 May 27;6(2):345-63. doi: 10.4338/ACI-2014-11-RA-0106. 
+eCollection 2015.
+
+Interactive Cohort Identification of Sleep Disorder Patients Using Natural 
+Language Processing and i2b2.
+
+Chen W(1), Kowatch R(2), Lin S(1), Splaingard M(3), Huang Y(1).
+
+Author information:
+(1)Research Information Solutions and Innovations , Columbus, OH.
+(2)Center for Innovation in Pediatric Practice , Columbus, OH.
+(3)Sleep Disorder Center, Nationwide Children's Hospital , Columbus, OH.
+
+Nationwide Children's Hospital established an i2b2 (Informatics for Integrating 
+Biology & the Bedside) application for sleep disorder cohort identification. 
+Discrete data were gleaned from semistructured sleep study reports. The system 
+showed to work more efficiently than the traditional manual chart review method, 
+and it also enabled searching capabilities that were previously not possible.
+OBJECTIVE: We report on the development and implementation of the sleep disorder 
+i2b2 cohort identification system using natural language processing of 
+semi-structured documents.
+METHODS: We developed a natural language processing approach to automatically 
+parse concepts and their values from semi-structured sleep study documents. Two 
+parsers were developed: a regular expression parser for extracting numeric 
+concepts and a NLP based tree parser for extracting textual concepts. Concepts 
+were further organized into i2b2 ontologies based on document structures and 
+in-domain knowledge.
+RESULTS: 26,550 concepts were extracted with 99% being textual concepts. 1.01 
+million facts were extracted from sleep study documents such as demographic 
+information, sleep study lab results, medications, procedures, diagnoses, among 
+others. The average accuracy of terminology parsing was over 83% when comparing 
+against those by experts. The system is capable of capturing both standard and 
+non-standard terminologies. The time for cohort identification has been reduced 
+significantly from a few weeks to a few seconds.
+CONCLUSION: Natural language processing was shown to be powerful for quickly 
+converting large amount of semi-structured or unstructured clinical data into 
+discrete concepts, which in combination of intuitive domain specific ontologies, 
+allows fast and effective interactive cohort identification through the i2b2 
+platform for research and clinical use.
+
+DOI: 10.4338/ACI-2014-11-RA-0106
+PMCID: PMC4493335
+PMID: 26171080 [Indexed for MEDLINE]

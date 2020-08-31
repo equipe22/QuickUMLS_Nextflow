@@ -1,0 +1,44 @@
+303. BMC Bioinformatics. 2008 Nov 19;9 Suppl 11(Suppl 11):S3. doi: 
+10.1186/1471-2105-9-S11-S3.
+
+Mining clinical relationships from patient narratives.
+
+Roberts A(1), Gaizauskas R, Hepple M, Guo Y.
+
+Author information:
+(1)Department of Computer Science, University of Sheffield, Regent Court, 211 
+Portobello, Sheffield S14DP, UK. a.roberts@dcs.shef.ac.uk
+
+BACKGROUND: The Clinical E-Science Framework (CLEF) project has built a system 
+to extract clinically significant information from the textual component of 
+medical records in order to support clinical research, evidence-based healthcare 
+and genotype-meets-phenotype informatics. One part of this system is the 
+identification of relationships between clinically important entities in the 
+text. Typical approaches to relationship extraction in this domain have used 
+full parses, domain-specific grammars, and large knowledge bases encoding domain 
+knowledge. In other areas of biomedical NLP, statistical machine learning (ML) 
+approaches are now routinely applied to relationship extraction. We report on 
+the novel application of these statistical techniques to the extraction of 
+clinical relationships.
+RESULTS: We have designed and implemented an ML-based system for relation 
+extraction, using support vector machines, and trained and tested it on a corpus 
+of oncology narratives hand-annotated with clinically important relationships. 
+Over a class of seven relation types, the system achieves an average F1 score of 
+72%, only slightly behind an indicative measure of human inter annotator 
+agreement on the same task. We investigate the effectiveness of different 
+features for this task, how extraction performance varies between inter- and 
+intra-sentential relationships, and examine the amount of training data needed 
+to learn various relationships.
+CONCLUSION: We have shown that it is possible to extract important clinical 
+relationships from text, using supervised statistical ML techniques, at levels 
+of accuracy approaching those of human annotators. Given the importance of 
+relation extraction as an enabling technology for text mining and given also the 
+ready adaptability of systems based on our supervised learning approach to other 
+clinical relationship extraction tasks, this result has significance for 
+clinical text mining more generally, though further work to confirm our 
+encouraging results should be carried out on a larger sample of narratives and 
+relationship types.
+
+DOI: 10.1186/1471-2105-9-S11-S3
+PMCID: PMC2586752
+PMID: 19025689 [Indexed for MEDLINE]

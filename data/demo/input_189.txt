@@ -1,0 +1,54 @@
+189. BMC Bioinformatics. 2017 Oct 13;18(1):451. doi: 10.1186/s12859-017-1857-8.
+
+A method for named entity normalization in biomedical articles: application to 
+diseases and plants.
+
+Cho H(1), Choi W(1), Lee H(2).
+
+Author information:
+(1)School of Electrical Engineering and Computer Science, Gwangju Institute of 
+Science and Technology, 123 Chemdangwagi-ro, Buk-gu, Gwangju, Republic of Korea.
+(2)School of Electrical Engineering and Computer Science, Gwangju Institute of 
+Science and Technology, 123 Chemdangwagi-ro, Buk-gu, Gwangju, Republic of Korea. 
+hyunjulee@gist.ac.kr.
+
+BACKGROUND: In biomedical articles, a named entity recognition (NER) technique 
+that identifies entity names from texts is an important element for extracting 
+biological knowledge from articles. After NER is applied to articles, the next 
+step is to normalize the identified names into standard concepts (i.e., disease 
+names are mapped to the National Library of Medicine's Medical Subject Headings 
+disease terms). In biomedical articles, many entity normalization methods rely 
+on domain-specific dictionaries for resolving synonyms and abbreviations. 
+However, the dictionaries are not comprehensive except for some entities such as 
+genes. In recent years, biomedical articles have accumulated rapidly, and neural 
+network-based algorithms that incorporate a large amount of unlabeled data have 
+shown considerable success in several natural language processing problems.
+RESULTS: In this study, we propose an approach for normalizing biological 
+entities, such as disease names and plant names, by using word embeddings to 
+represent semantic spaces. For diseases, training data from the National Center 
+for Biotechnology Information (NCBI) disease corpus and unlabeled data from 
+PubMed abstracts were used to construct word representations. For plants, a 
+training corpus that we manually constructed and unlabeled PubMed abstracts were 
+used to represent word vectors. We showed that the proposed approach performed 
+better than the use of only the training corpus or only the unlabeled data and 
+showed that the normalization accuracy was improved by using our model even when 
+the dictionaries were not comprehensive. We obtained F-scores of 0.808 and 0.690 
+for normalizing the NCBI disease corpus and manually constructed plant corpus, 
+respectively. We further evaluated our approach using a data set in the disease 
+normalization task of the BioCreative V challenge. When only the disease corpus 
+was used as a dictionary, our approach significantly outperformed the best 
+system of the task.
+CONCLUSIONS: The proposed approach shows robust performance for normalizing 
+biological entities. The manually constructed plant corpus and the proposed 
+model are available at http://gcancer.org/plant and 
+http://gcancer.org/normalization , respectively.
+
+DOI: 10.1186/s12859-017-1857-8
+PMCID: PMC5640957
+PMID: 29029598 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: Not 
+applicable CONSENT FOR PUBLICATION: Not applicable COMPETING INTERESTS: The 
+authors declare that they have no competing interests. PUBLISHER’S NOTE: 
+Springer Nature remains neutral with regard to jurisdictional claims in 
+published maps and institutional affiliations.

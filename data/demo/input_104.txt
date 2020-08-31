@@ -1,0 +1,49 @@
+104. Appl Clin Inform. 2018 Jan;9(1):199-204. doi: 10.1055/s-0038-1635096. Epub 2018 
+Mar 21.
+
+Collaborating for Competency-A Model for Single Electronic Health Record 
+Onboarding for Medical Students Rotating among Separate Health Systems.
+
+Pereira AG(1), Kim M(1), Seywerd M(2), Nesbitt B(3), Pitt MB(4); Minnesota 
+Epic101 Collaborative.
+
+Author information:
+(1)Department of Medicine, University of Minnesota Medical School, Minneapolis, 
+Minnesota, United States.
+(2)Fairview Health Services, Minneapolis, Minnesota, United States.
+(3)Department of Integrated Education, Clinical Experiences, University of 
+Minnesota Medical School, Minneapolis, Minnesota, United States.
+(4)Department of Pediatrics, University of Minnesota, Minneapolis, Minnesota, 
+United States.
+
+BACKGROUND: Use of the electronic health record (EHR) is widespread in academic 
+medical centers, and hands-on EHR experience in medical school is essential for 
+new residents to be able to meaningfully contribute to patient care. As 
+system-specific EHR training is not portable across institutions-even when the 
+same EHR platform is used-students rotating across health systems are often 
+required to spend time away from clinical training to complete each system's, 
+often duplicative, EHR training regardless of their competency within the EHR.
+METHODS: We aimed to create a single competency-based Epic onboarding process 
+that would be portable across all the institutions in which our medical students 
+complete clinical rotations. In collaboration with six health systems, we 
+created online EHR training modules using a systematic approach to curriculum 
+development and created an assessment within the Epic practice environment.
+RESULTS: All six collaborating health systems accepted successful completion of 
+the developed assessment in lieu of standard site-specific medical student EHR 
+training. In the pilot year, 443 students (94%) completed the modules and 
+assessment prior to their clinical training and successfully entered clinical 
+rotations without time consuming, often repetitive onsite training, decreasing 
+the cumulative time as student might be expected to engage in Epic onboarding as 
+much as 20-fold.
+CONCLUSION: Medical schools with multisystem training sites with a single type 
+of EHR can adopt this approach to minimize training burden for their learners 
+and to allow them more time in the clinical setting with optimized access to the 
+EHR.
+
+Schattauer GmbH Stuttgart.
+
+DOI: 10.1055/s-0038-1635096
+PMCID: PMC5863062
+PMID: 29564849 [Indexed for MEDLINE]
+
+Conflict of interest statement: None.

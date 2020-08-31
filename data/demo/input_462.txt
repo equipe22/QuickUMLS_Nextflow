@@ -1,0 +1,22 @@
+462. Stud Health Technol Inform. 2012;180:78-82.
+
+Formal specification of an ontology-based service for EHR interoperability.
+
+González C(1), Blobel BG, López DM.
+
+Author information:
+(1)Electronics and Telecommunications Faculty, University of Cauca, Colombia. 
+cgonzals@unicauca.edu.co
+
+OBJECTIVE: The objective of this paper is to describe by a Platform Independent 
+Model, the formal specification of an ontology-based service for electronic 
+health records interoperability.
+METHODS: The GCM is used as a framework for the service's architectural design. 
+The formal specification of the service is an extension of the OMG CTS 2 
+specification. A review of mapping approaches is also provided.
+RESULTS: The paper describes the service' information and computation models, 
+including the mapping process workflow. The platform specific implementation 
+(Platform Specific Model) is provided as a set of WSDL interfaces. The 
+specification includes ontology mapping algorithms and tools needed.
+
+PMID: 22874156 [Indexed for MEDLINE]

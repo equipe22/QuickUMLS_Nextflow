@@ -1,0 +1,39 @@
+46. Bioinformatics. 2019 Sep 1;35(17):3199-3202. doi: 10.1093/bioinformatics/btz044.
+
+RIscoper: a tool for RNA-RNA interaction extraction from the literature.
+
+Zhang Y(1), Liu T(2), Chen L(2), Yang J(2), Yin J(1), Zhang Y(2), Yun Z(1), Xu 
+H(1), Ning L(1), Guo F(1), Jiang Y(2), Lin H(1), Wang D(1)(2)(3), Huang Y(2)(3), 
+Huang J(1).
+
+Author information:
+(1)Center for Informational Biology, University of Electronic Science and 
+Technology of China, Chengdu, China.
+(2)College of Bioinformatics Science and Technology, Harbin Medical University, 
+Harbin, China.
+(3)Department of Bioinformatics, School of Basic Medical Science, Southern 
+Medical University, Guangzhou, China.
+
+MOTIVATION: Numerous experimental and computational studies in the biomedical 
+literature have provided considerable amounts of data on diverse RNA-RNA 
+interactions (RRIs). However, few text mining systems for RRIs information 
+extraction are available.
+RESULTS: RNA Interactome Scoper (RIscoper) represents the first tool for 
+full-scale RNA interactome scanning and was developed for extracting RRIs from 
+the literature based on the N-gram model. Notably, a reliable RRI corpus was 
+integrated in RIscoper, and more than 13 300 manually curated sentences with RRI 
+information were recruited. RIscoper allows users to upload full texts or 
+abstracts, and provides an online search tool that is connected with PubMed 
+(PMID and keyword input), and these capabilities are useful for biologists. 
+RIscoper has a strong performance (90.4% precision and 93.9% recall), integrates 
+natural language processing techniques and has a reliable RRI corpus.
+AVAILABILITY AND IMPLEMENTATION: The standalone software and web server of 
+RIscoper are freely available at www.rna-society.org/riscoper/.
+SUPPLEMENTARY INFORMATION: Supplementary data are available at Bioinformatics 
+online.
+
+© The Author(s) 2019. Published by Oxford University Press. All rights reserved. 
+For permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/bioinformatics/btz044
+PMID: 30668649 [Indexed for MEDLINE]

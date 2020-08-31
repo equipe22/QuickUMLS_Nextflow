@@ -1,0 +1,50 @@
+547. PLoS One. 2016 Mar 25;11(3):e0150166. doi: 10.1371/journal.pone.0150166. 
+eCollection 2016.
+
+Expression and Association of the Yersinia pestis Translocon Proteins, YopB and 
+YopD, Are Facilitated by Nanolipoprotein Particles.
+
+Coleman MA(1)(2), Cappuccio JA(3), Blanchette CD(1), Gao T(2), Arroyo ES(1), 
+Hinz AK(1), Bourguet FA(1), Segelke B(1), Hoeprich PD(1), Huser T(2), Laurence 
+TA(1), Motin VL(4), Chromy BA(2).
+
+Author information:
+(1)Lawrence Livermore National Laboratory, Livermore, CA, United States of 
+America, 94550.
+(2)University of California Davis, NSF, Center for Biophotonics, Sacramento, CA, 
+United States of America, 95817.
+(3)Humboldt State University, Department of Chemistry, Arcata, CA, United States 
+of America, 95521.
+(4)University of Texas Medical Branch, Galveston, TX, United States of America, 
+77555.
+
+Yersinia pestis enters host cells and evades host defenses, in part, through 
+interactions between Yersinia pestis proteins and host membranes. One such 
+interaction is through the type III secretion system, which uses a highly 
+conserved and ordered complex for Yersinia pestis outer membrane effector 
+protein translocation called the injectisome. The portion of the injectisome 
+that interacts directly with host cell membranes is referred to as the 
+translocon. The translocon is believed to form a pore allowing effector 
+molecules to enter host cells. To facilitate mechanistic studies of the 
+translocon, we have developed a cell-free approach for expressing translocon 
+pore proteins as a complex supported in a bilayer membrane mimetic nano-scaffold 
+known as a nanolipoprotein particle (NLP) Initial results show cell-free 
+expression of Yersinia pestis outer membrane proteins YopB and YopD was enhanced 
+in the presence of liposomes. However, these complexes tended to aggregate and 
+precipitate. With the addition of co-expressed (NLP) forming components, the 
+YopB and/or YopD complex was rendered soluble, increasing the yield of protein 
+for biophysical studies. Biophysical methods such as Atomic Force Microscopy and 
+Fluorescence Correlation Spectroscopy were used to confirm that the soluble 
+YopB/D complex was associated with NLPs. An interaction between the YopB/D 
+complex and NLP was validated by immunoprecipitation. The YopB/D translocon 
+complex embedded in a NLP provides a platform for protein interaction studies 
+between pathogen and host proteins. These studies will help elucidate the poorly 
+understood mechanism which enables this pathogen to inject effector proteins 
+into host cells, thus evading host defenses.
+
+DOI: 10.1371/journal.pone.0150166
+PMCID: PMC4807764
+PMID: 27015536 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.

@@ -1,0 +1,34 @@
+226. J Biomed Inform. 2016 Dec;64:354-362. doi: 10.1016/j.jbi.2016.07.023. Epub 2016 
+Jul 28.
+
+Decision support environment for medical product safety surveillance.
+
+Botsis T(1), Jankosky C(2), Arya D(2), Kreimeyer K(2), Foster M(2), Pandey A(2), 
+Wang W(3), Zhang G(3), Forshee R(2), Goud R(2), Menschik D(2), Walderhaug M(2), 
+Woo EJ(2), Scott J(2).
+
+Author information:
+(1)Office of Biostatistics and Epidemiology, Center for Biologics Evaluation and 
+Research, US Food and Drug Administration, United States. Electronic address: 
+Taxiarchis.Botsis@fda.hhs.gov.
+(2)Office of Biostatistics and Epidemiology, Center for Biologics Evaluation and 
+Research, US Food and Drug Administration, United States.
+(3)Engility Corporation, United States.
+
+We have developed a Decision Support Environment (DSE) for medical experts at 
+the US Food and Drug Administration (FDA). The DSE contains two integrated 
+systems: The Event-based Text-mining of Health Electronic Records (ETHER) and 
+the Pattern-based and Advanced Network Analyzer for Clinical Evaluation and 
+Assessment (PANACEA). These systems assist medical experts in reviewing reports 
+submitted to the Vaccine Adverse Event Reporting System (VAERS) and the FDA 
+Adverse Event Reporting System (FAERS). In this manuscript, we describe the DSE 
+architecture and key functionalities, and examine its potential contributions to 
+the signal management process by focusing on four use cases: the identification 
+of missing cases from a case series, the identification of duplicate case 
+reports, retrieving cases for a case series analysis, and community detection 
+for signal identification and characterization.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.jbi.2016.07.023
+PMID: 27477839 [Indexed for MEDLINE]

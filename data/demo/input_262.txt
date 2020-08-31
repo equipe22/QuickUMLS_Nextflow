@@ -1,0 +1,38 @@
+262. BMC Bioinformatics. 2018 Sep 26;19(1):341. doi: 10.1186/s12859-018-2374-0.
+
+Prototyping a precision oncology 3.0 rapid learning platform.
+
+Sweetnam C(1), Mocellin S(2), Krauthammer M(3)(4), Knopf N(1)(5), Baertsch R(1), 
+Shrager J(6)(7).
+
+Author information:
+(1)Cancer Commons, Los Altos, CA, USA.
+(2)Istituto Oncologico Veneto, IOV-IRCSS; and Department of Surgery Oncology and 
+Gastroenterology, University of Padova, Padova, Italy.
+(3)Program for Computational Biology and Bioinformatics, Yale University, New 
+Haven, CT, USA.
+(4)Department of Pathology, Yale University School of Medicine, New Haven, CT, 
+USA.
+(5)EECS Department, MIT, Cambridge, MA, USA.
+(6)Cancer Commons, Los Altos, CA, USA. jshrager@stanford.edu.
+(7)Symbolic Systems Program, Stanford University (Adjunct), Stanford, CA, USA. 
+jshrager@stanford.edu.
+
+BACKGROUND: We describe a prototype implementation of a platform that could 
+underlie a Precision Oncology Rapid Learning system.
+RESULTS: We describe the prototype platform, and examine some important issues 
+and details. In the Appendix we provide a complete walk-through of the prototype 
+platform.
+CONCLUSIONS: The design choices made in this implementation rest upon ten 
+constitutive hypotheses, which, taken together, define a particular view of how 
+a rapid learning medical platform might be defined, organized, and implemented.
+
+DOI: 10.1186/s12859-018-2374-0
+PMCID: PMC6158802
+PMID: 30257653 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: n/a 
+CONSENT FOR PUBLICATION: n/a COMPETING INTERESTS: The authors declare that they 
+have no competing interests. PUBLISHER’S NOTE: Springer Nature remains neutral 
+with regard to jurisdictional claims in published maps and institutional 
+affiliations.

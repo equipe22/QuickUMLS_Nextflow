@@ -1,0 +1,45 @@
+458. Sensors (Basel). 2020 Mar 25;20(7):1816. doi: 10.3390/s20071816.
+
+A Fault-Tolerant Steering Prototype for X-Rudder Underwater Vehicles.
+
+Wang W(1), Chen Y(2), Xia Y(1), Xu G(1)(3), Zhang W(4), Wu H(1).
+
+Author information:
+(1)School of Naval Architecture and Ocean Engineering, Huazhong University of 
+Science and Technology, Wuhan 430074, China.
+(2)Department of Mechatronics Engineering, Wuhan Business University, Wuhan 
+430056, China.
+(3)Hubei Key Laboratory of Naval Architecture and Ocean Engineering 
+Hydrodynamics, Wuhan 430074, China.
+(4)Wuhan Second Ship Design and Research Institute, Wuhan 430205, China.
+
+The X-rudder concept has been applied to more and more autonomous underwater 
+vehicles (AUVs) in recent years, since it shows better maneuverability and 
+robustness against rudder failure compared to the traditional cruciform rudder. 
+Aiming at the fault-tolerant control of the X-rudder AUV (hereinafter 
+abbreviated as xAUV), a fault-tolerant steering prototype system which can 
+realize dynamics control, autonomous rudder fault detection and fault-tolerant 
+control is presented in this paper. The steering prototype system is deployed on 
+a verification platform, an xAUV, in which the monitor software is developed 
+based on the factory method and the onboard software is developed based on the 
+finite state machine (FSM). Dual-loop increment feedback control (DIFC) is first 
+introduced to obtain smooth virtual rudder commands considering actuator's 
+limitations. Then the virtual rudder commands are transformed into X-rudder 
+commands based on the mapping theory. In rudder fault diagnosis, an optimized 
+particle filter is proposed for estimating rudder effect deduction, with 
+proposal distribution derived from unscented Kalman filter (UKF). Then the fault 
+type can be determined by analyzing indicators related to the deduction. 
+Fault-tolerant control is addressed by dealing with nonlinear programming (NLP) 
+problem, where minimization of allocation errors and control efforts are set as 
+the optimization objectives, and rudder failure, saturation and actuators 
+limitations are considered as constraints. The fixed-point iteration method is 
+utilized to solve this optimization problem. Many field tests have been 
+conducted in towing tank. The experimental results demonstrate that the proposed 
+steering prototype system is able to detect rudder faults and is robust against 
+rudder failure.
+
+DOI: 10.3390/s20071816
+PMCID: PMC7180876
+PMID: 32218145
+
+Conflict of interest statement: The authors declare no conflict of interest.

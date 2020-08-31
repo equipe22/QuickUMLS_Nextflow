@@ -1,0 +1,25 @@
+490. Bioinformatics. 2007 Jul 1;23(13):i424-32. doi: 10.1093/bioinformatics/btm184.
+
+Negation of protein-protein interactions: analysis and extraction.
+
+Sanchez-Graillet O(1), Poesio M.
+
+Author information:
+(1)Department of Computer Science, University of Essex, Wivenhoe Park, 
+Colchester CO4 3SQ, UK. osanch@essex.ac.uk
+
+MOTIVATION: Negative information about protein-protein interactions--from 
+uncertainty about the occurrence of an interaction to knowledge that it did not 
+occur--is often of great use to biologists and could lead to important 
+discoveries. Yet, to our knowledge, no proposals focusing on extracting such 
+information have been proposed in the text mining literature.
+RESULTS: In this work, we present an analysis of the types of negative 
+information that is reported, and a heuristic-based system using a full 
+dependency parser to extract such information. We performed a preliminary 
+evaluation study that shows encouraging results of our system. Finally, we have 
+obtained an initial corpus of negative protein-protein interactions as basis for 
+the construction of larger ones.
+AVAILABILITY: The corpus is available by request from the authors.
+
+DOI: 10.1093/bioinformatics/btm184
+PMID: 17646327 [Indexed for MEDLINE]

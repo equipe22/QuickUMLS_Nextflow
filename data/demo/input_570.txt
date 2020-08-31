@@ -1,0 +1,60 @@
+570. JMIR Med Inform. 2018 Feb 1;6(1):e8. doi: 10.2196/medinform.8662.
+
+Automated Information Extraction on Treatment and Prognosis for Non-Small Cell 
+Lung Cancer Radiotherapy Patients: Clinical Study.
+
+Zheng S(1), Jabbour SK(2), O'Reilly SE(3), Lu JJ(4), Dong L(5), Ding L(5), Xiao 
+Y(3), Yue N(2), Wang F(#)(6)(7), Zou W(#)(3).
+
+Author information:
+(1)Department of Biomedical Informatics, Emory University, Atlanta, GA, United 
+States.
+(2)Department of Radiation Oncology, Rutgers Cancer Institute of New Jersey, New 
+Brunswick, NJ, United States.
+(3)Penn Medicine, Department of Radiation Oncology, University of Pennsylvania, 
+Philadelphia, PA, United States.
+(4)Department of Mathematics and Computer Science, Emory University, Atlanta, 
+GA, United States.
+(5)Department of Radiation Oncology, The First Hospital, Changchun, China.
+(6)Department of Biomedical Informatics, Stony Brook University, Stony Brook, 
+NY, United States.
+(7)Department of Computer Science, Stony Brook University, Stony Brook, NY, 
+United States.
+(#)Contributed equally
+
+BACKGROUND: In outcome studies of oncology patients undergoing radiation, 
+researchers extract valuable information from medical records generated before, 
+during, and after radiotherapy visits, such as survival data, toxicities, and 
+complications. Clinical studies rely heavily on these data to correlate the 
+treatment regimen with the prognosis to develop evidence-based radiation therapy 
+paradigms. These data are available mainly in forms of narrative texts or table 
+formats with heterogeneous vocabularies. Manual extraction of the related 
+information from these data can be time consuming and labor intensive, which is 
+not ideal for large studies.
+OBJECTIVE: The objective of this study was to adapt the interactive information 
+extraction platform Information and Data Extraction using Adaptive Learning 
+(IDEAL-X) to extract treatment and prognosis data for patients with locally 
+advanced or inoperable non-small cell lung cancer (NSCLC).
+METHODS: We transformed patient treatment and prognosis documents into 
+normalized structured forms using the IDEAL-X system for easy data navigation. 
+The adaptive learning and user-customized controlled toxicity vocabularies were 
+applied to extract categorized treatment and prognosis data, so as to generate 
+structured output.
+RESULTS: In total, we extracted data from 261 treatment and prognosis documents 
+relating to 50 patients, with overall precision and recall more than 93% and 
+83%, respectively. For toxicity information extractions, which are important to 
+study patient posttreatment side effects and quality of life, the precision and 
+recall achieved 95.7% and 94.5% respectively.
+CONCLUSIONS: The IDEAL-X system is capable of extracting study data regarding 
+NSCLC chemoradiation patients with significant accuracy and effectiveness, and 
+therefore can be used in large-scale radiotherapy clinical data studies.
+
+©Shuai Zheng, Salma K Jabbour, Shannon E O'Reilly, James J Lu, Lihua Dong, 
+Lijuan Ding, Ying Xiao, Ning Yue, Fusheng Wang, Wei Zou. Originally published in 
+JMIR Medical Informatics (http://medinform.jmir.org), 01.02.2018.
+
+DOI: 10.2196/medinform.8662
+PMCID: PMC5814605
+PMID: 29391345
+
+Conflict of interest statement: Conflicts of Interest: None declared.

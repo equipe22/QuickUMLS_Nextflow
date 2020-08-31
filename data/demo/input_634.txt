@@ -1,0 +1,34 @@
+634. Brain Res. 2010 Dec 17;1366:27-37. doi: 10.1016/j.brainres.2010.10.032. Epub 
+2010 Oct 20.
+
+Interruption of β-catenin suppresses the EGFR pathway by blocking multiple 
+oncogenic targets in human glioma cells.
+
+Yue X(1), Lan F, Yang W, Yang Y, Han L, Zhang A, Liu J, Zeng H, Jiang T, Pu P, 
+Kang C.
+
+Author information:
+(1)Laboratory of Neuro-Oncology, Tianjin Neurological Institute, PR China.
+
+Malignant gliomas are the most common type of intrinsic central nervous system 
+(CNS) tumors with high mortality and morbidity. β-catenin is overexpressed in 
+human glioblastoma and knockdown of β-catenin inhibits glioblastoma cell 
+proliferation and invasive ability, and induces apoptotic cell death. 
+Furthermore, treating the nude mice carrying established subcutaneous LN229 
+gliomas with siRNA targeting β-catenin intratumorally also delayed the tumor 
+growth. However, the mechanisms of down-regulation of β-catenin that represses 
+glioblastoma malignancy behavior remain to be elucidated. We utilized 
+text-mining of MEDLINE abstracts with natural language processing to establish 
+the β-catenin biologic association network, and identified several interactions 
+of this network with the EGFR pathway. In both in vitro and in vivo studies, our 
+results confirmed down-regulation of β-catenin induced reduced expression of 
+EGFR, STAT3 and AKT1 mRNA and protein, besides, the level of phosphorylated Akt 
+also decreased. A similar reduction in expression of CyclinD1, MMP2 and MMP9, 
+downstream genes of the EGFR pathway, was observed. These results suggest that 
+the Wnt/β-catenin pathway regulates glioma cell proliferation and invasion, in 
+part via the EGFR pathway.
+
+Copyright © 2010 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.brainres.2010.10.032
+PMID: 20969832 [Indexed for MEDLINE]

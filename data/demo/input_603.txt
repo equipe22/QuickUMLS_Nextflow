@@ -1,0 +1,55 @@
+603. Comput Methods Programs Biomed. 2016 Jul;130:198-204. doi: 
+10.1016/j.cmpb.2016.01.022. Epub 2016 May 3.
+
+Proposed model for a Romanian register of chronic diseases in children.
+
+Gabor-Harosa FM(1), Stan OP(2), Daina L(3), Mocean F(4).
+
+Author information:
+(1)University of Medicine and Pharmacy "Iuliu Hatieganu", Community Medicine 
+Department, Public Health Discipline, Avram Iancu no. 31, Cluj-Napoca, Romania. 
+Electronic address: florinaharosa@gmail.com.
+(2)Technical University, Faculty of Automation and Computer Science, Department 
+of Automation, George Baritiu no. 26-28, Cluj-Napoca, Romania. Electronic 
+address: stan.ovidiu@gmail.com.
+(3)Oradea University, Faculty of Medicine and Pharmacy, 1 Decembrie Square no. 
+10, Oradea, Romania. Electronic address: lucidaina@gmail.com.
+(4)University of Medicine and Pharmacy "Iuliu Hatieganu", Community Medicine 
+Department, Public Health Discipline, Avram Iancu no. 31, Cluj-Napoca, Romania. 
+Electronic address: florymocean@yahoo.com.
+
+BACKGROUND AND OBJECTIVES: The prevalence of chronic diseases at children is 
+increasing due to the progress made in medicine, which radically changed the 
+evolution and the prognostics. Disease registers became important tools to 
+register and monitor the chronic patients in order to asses their needs and 
+improve their care. Disease registers are also very important for adjusting to 
+population needs the actions in the public health field. The main objective for 
+this research is to develop a model for a chronic disease register of children 
+in Romania, taking into account the current situation of chronic diseases' 
+registration and reporting, the specific requirements for such medical database 
+and the particularities of the information systems in the Romanian healthcare 
+system.
+METHODS: Our study was based on interviews with specialists and Health Ministry 
+representatives, field observations, and analysis of published and unpublished 
+data).
+RESULTS: We developed a platform for a chronic diseases register of children 
+based on open EHR specifications and architecture, which respects the 
+requirements for data security and the particularities of Romania's healthcare 
+system. The model created is functioning on two levels. The first one is local 
+and corresponds to a medical unit, while the second one represents the 
+connection and the communication method within the entire national medical 
+system. In order to achieve the highest level of interoperability at the 
+semantic level, we used, for the communication module of a National Disease 
+Register system, only EN 13606 or HL7 v3 and / or HL7 v3 CDA.
+CONCLUSIONS: This model is functional and can be applied initially at a clinical 
+level for medical and administrative purposes. Its design allows a future 
+development, integrated with the current informational systems and implemented 
+at regional and national level. This will significantly improve the knowledge 
+that may support good medical practice in this field, will enhance the coherence 
+of data collection and, as a consequence, will impact positevely on the health 
+of children diagnosed with chronic diseases.
+
+Copyright © 2016 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.cmpb.2016.01.022
+PMID: 27208534 [Indexed for MEDLINE]

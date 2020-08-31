@@ -1,0 +1,34 @@
+454. IEEE Trans Pattern Anal Mach Intell. 2012 Nov;34(11):2216-32. doi: 
+10.1109/tpami.2012.20.
+
+Proximity-based frameworks for generating embeddings from multi-output data.
+
+Mu T(1), Goulermas JY, Tsujii J, Ananiadou S.
+
+Author information:
+(1)National Centre for Text Mining (NaCTeM), School of Computer Science, 
+University of Manchester, Manchester, United Kingdom. tingtingmu@me.com
+
+This paper is about supervised and semi-supervised dimensionality reduction (DR) 
+by generating spectral embeddings from multi-output data based on the pairwise 
+proximity information. Two flexible and generic frameworks are proposed to 
+achieve supervised DR (SDR) for multilabel classification. One is able to extend 
+any existing single-label SDR to multilabel via sample duplication, referred to 
+as MESD. The other is a multilabel design framework that tackles the SDR problem 
+by computing weight (proximity) matrices based on simultaneous feature and label 
+information, referred to as MOPE, as a generalization of many current 
+techniques. A diverse set of different schemes for label-based proximity 
+calculation, as well as a mechanism for combining label-based and feature-based 
+weight information by considering information importance and prioritization, are 
+proposed for MOPE. Additionally, we summarize many current spectral methods for 
+unsupervised DR (UDR), single/multilabel SDR, and semi-supervised DR (SSDR) and 
+express them under a common template representation as a general guide to 
+researchers in the field. We also propose a general framework for achieving SSDR 
+by combining existing SDR and UDR models, and also a procedure of reducing the 
+computational cost via learning with a target set of relation features. The 
+effectiveness of our proposed methodologies is demonstrated with experiments 
+with document collections for multilabel text categorization from the natural 
+language processing domain.
+
+DOI: 10.1109/tpami.2012.20
+PMID: 23289130 [Indexed for MEDLINE]

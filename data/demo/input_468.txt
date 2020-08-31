@@ -1,0 +1,21 @@
+468. AMIA Annu Symp Proc. 2011;2011:267-72. Epub 2011 Oct 22.
+
+Parenthetically speaking: classifying the contents of parentheses for text 
+mining.
+
+Cohen KB(1), Christiansen T, Hunter LE.
+
+Author information:
+(1)Computational Bioscience Program, University of Colorado School of Medicine, 
+Aurora, CO, USA.
+
+The contents of parentheses in biomedical text have many potential uses in text 
+mining applications. However, making use of them requires the ability to 
+determine what class of contents they are. A system that automatically 
+classifies parenthesized text into one of 20 categories is presented and 
+evaluated here. It performs at a micro-averaged accuracy of 68% and a 
+macro-averaged accuracy of 60% on an annotated corpus. The application is 
+available as a Java class and as a Perl module.
+
+PMCID: PMC3243264
+PMID: 22195078 [Indexed for MEDLINE]

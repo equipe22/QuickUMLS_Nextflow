@@ -1,0 +1,59 @@
+509. J Am Med Inform Assoc. 2020 Jan 1;27(1):127-135. doi: 10.1093/jamia/ocz172.
+
+A step closer to nationwide electronic health record-based chronic disease 
+surveillance: characterizing asthma prevalence and emergency department 
+utilization from 100 million patient records through a novel multisite 
+collaboration.
+
+Tarabichi Y(1)(2)(3)(4), Goyden J(1)(2), Liu R(5)(6), Lewis S(5)(6), Sudano 
+J(3)(6), Kaelber DC(1)(2)(3)(7)(5)(6).
+
+Author information:
+(1)Center for Clinical Informatics Research and Education, The MetroHealth 
+System, Cleveland, Ohio, USA.
+(2)School of Medicine, Case Western Reserve University, Cleveland, Ohio, USA.
+(3)Department of Internal Medicine, The MetroHealth System, Cleveland, Ohio, 
+USA.
+(4)Division of Pulmonary and Critical Care Medicine, The MetroHealth System, 
+Cleveland, Ohio, USA.
+(5)Population and Quantitative Health Sciences, Case Western Reserve University, 
+Cleveland, Ohio, USA.
+(6)Center for Healthcare Research and Policy, The MetroHealth System, Cleveland, 
+Ohio, USA.
+(7)Department of Pediatrics, The MetroHealth System, Cleveland, Ohio, USA.
+
+OBJECTIVE: The study sought to assess the feasibility of nationwide chronic 
+disease surveillance using data aggregated through a multisite collaboration of 
+customers of the same electronic health record (EHR) platform across the United 
+States.
+MATERIALS AND METHODS: An independent confederation of customers of the same EHR 
+platform proposed and guided the development of a program that leverages native 
+EHR features to allow customers to securely contribute de-identified data 
+regarding the prevalence of asthma and rate of asthma-associated emergency 
+department visits to a vendor-managed repository. Data were stratified by state, 
+age, sex, race, and ethnicity. Results were qualitatively compared with national 
+survey-based estimates.
+RESULTS: The program accumulated information from 100 million health records 
+from over 130 healthcare systems in the United States over its first 14 months. 
+All states were represented, with a median coverage of 22.88% of an estimated 
+state's population (interquartile range, 12.05%-42.24%). The mean monthly 
+prevalence of asthma was 5.27 ± 0.11%. The rate of asthma-associated emergency 
+department visits was 1.39 ± 0.08%. Both measures mirrored national survey-based 
+estimates.
+DISCUSSION: By organizing the program around native features of a shared EHR 
+platform, we were able to rapidly accumulate population level measures from a 
+sizeable cohort of health records, with representation from every state. The 
+resulting data allowed estimates of asthma prevalence that were comparable to 
+data from traditional epidemiologic surveys at both geographic and demographic 
+levels.
+CONCLUSIONS: Our initiative demonstrates the potential of intravendor customer 
+collaboration and highlights an organizational approach that complements other 
+data aggregation efforts seeking to achieve nationwide EHR-based chronic disease 
+surveillance.
+
+© The Author(s) 2019. Published by Oxford University Press on behalf of the 
+American Medical Informatics Association. All rights reserved. For permissions, 
+please email: journals.permissions@oup.com.
+
+DOI: 10.1093/jamia/ocz172
+PMID: 31592525

@@ -1,0 +1,42 @@
+417. Healthcare (Basel). 2020 Aug 14;8(3):E272. doi: 10.3390/healthcare8030272.
+
+Automatic Incident Triage in Radiation Oncology Incident Learning System.
+
+Syed K(1), Sleeman W 4th(1)(2), Hagan M(2)(3), Palta J(2)(3), Kapoor R(2)(3), 
+Ghosh P(1).
+
+Author information:
+(1)Department of Computer Science, Virginia Commonwealth University, Richmond, 
+VA 23284, USA.
+(2)Department of Radiation Oncology, Virginia Commonwealth University, Richmond, 
+VA 23298, USA.
+(3)Department of Veteran Affairs, National Radiation Oncology Program, Richmond, 
+VA 23249, USA.
+
+The Radiotherapy Incident Reporting and Analysis System (RIRAS) receives 
+incident reports from Radiation Oncology facilities across the US Veterans 
+Health Affairs (VHA) enterprise and Virginia Commonwealth University (VCU). In 
+this work, we propose a computational pipeline for analysis of radiation 
+oncology incident reports. Our pipeline uses machine learning (ML) and natural 
+language processing (NLP) based methods to predict the severity of the incidents 
+reported in the RIRAS platform using the textual description of the reported 
+incidents. These incidents in RIRAS are reviewed by a radiation oncology subject 
+matter expert (SME), who initially triages some incidents based on the salient 
+elements in the incident report. To automate the triage process, we used the 
+data from the VHA treatment centers and the VCU radiation oncology department. 
+We used NLP combined with traditional ML algorithms, including support vector 
+machine (SVM) with linear kernel, and compared it against the transfer learning 
+approach with the universal language model fine-tuning (ULMFiT) algorithm. In 
+RIRAS, severities are divided into four categories; A, B, C, and D, with A being 
+the most severe to D being the least. In this work, we built models to predict 
+High (A & B) vs. Low (C & D) severity instead of all the four categories. Models 
+were evaluated with macro-averaged precision, recall, and F1-Score. The 
+Traditional ML machine learning (SVM-linear) approach did well on the VHA 
+dataset with 0.78 F1-Score but performed poorly on the VCU dataset with 0.5 
+F1-Score. The transfer learning approach did well on both datasets with 0.81 
+F1-Score on VHA dataset and 0.68 F1-Score on the VCU dataset. Overall, our 
+methods show promise in automating the triage and severity determination process 
+from radiotherapy incident reports.
+
+DOI: 10.3390/healthcare8030272
+PMID: 32823971

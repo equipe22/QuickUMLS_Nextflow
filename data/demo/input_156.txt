@@ -1,0 +1,44 @@
+156. Health Inf Sci Syst. 2017 Sep 28;5(1):3. doi: 10.1007/s13755-017-0024-y. 
+eCollection 2017 Dec.
+
+Mining comorbidity patterns using retrospective analysis of big collection of 
+outpatient records.
+
+Boytcheva S(1), Angelova G(1), Angelov Z(2), Tcharaktchiev D(3).
+
+Author information:
+(1)Institute of Information and Communication Technologies, Bulgarian Academy of 
+Sciences, Sofia, Bulgaria.
+(2)Adiss Lab Ltd, Sofia, Bulgaria.
+(3)Medical University Sofia, University Specialised Hospital for Active 
+Treatment of Endocrinology, Sofia, Bulgaria.
+
+BACKGROUND: Studying comorbidities of disorders is important for detection and 
+prevention. For discovering frequent patterns of diseases we can use 
+retrospective analysis of population data, by filtering events with common 
+properties and similar significance. Most frequent pattern mining methods do not 
+consider contextual information about extracted patterns. Further data mining 
+developments might enable more efficient applications in specific tasks like 
+comorbidities identification.
+METHODS: We propose a cascade data mining approach for frequent pattern mining 
+enriched with context information, including a new algorithm MIxCO for maximal 
+frequent patterns mining. Text mining tools extract entities from free text and 
+deliver additional context attributes beyond the structured information about 
+the patients.
+RESULTS: The proposed approach was tested using pseudonymised reimbursement 
+requests (outpatient records) submitted to the Bulgarian National Health 
+Insurance Fund in 2010-2016 for more than 5 million citizens yearly. Experiments 
+were run on 3 data collections. Some known comorbidities of Schizophrenia, 
+Hyperprolactinemia and Diabetes Mellitus Type 2 are confirmed; novel hypotheses 
+about stable comorbidities are generated. The evaluation shows that MIxCO is 
+efficient for big dense datasets.
+CONCLUSION: Explicating maximal frequent itemsets enables to build hypotheses 
+concerning the relationships between the exogeneous and endogeneous factors 
+triggering the formation of these sets. MixCO will help to identify risk groups 
+of patients with a predisposition to develop socially-significant disorders like 
+diabetes. This will turn static archives like the Diabetes Register in Bulgaria 
+to a powerful alerting and predictive framework.
+
+DOI: 10.1007/s13755-017-0024-y
+PMCID: PMC5622010
+PMID: 29038733

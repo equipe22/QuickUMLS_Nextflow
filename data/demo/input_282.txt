@@ -1,0 +1,82 @@
+282. JMIR Res Protoc. 2017 Jan 19;6(1):e3. doi: 10.2196/resprot.5948.
+
+Leveraging Electronic Health Care Record Information to Measure Pressure Ulcer 
+Risk in Veterans With Spinal Cord Injury: A Longitudinal Study Protocol.
+
+Luther SL(1)(2), Thomason SS(1)(3), Sabharwal S(4), Finch DK(1), McCart J(1)(5), 
+Toyinbo P(1), Bouayad L(1), Matheny ME(6)(7)(8)(9), Gobbel GT(7)(10), 
+Powell-Cope G(1)(2)(11).
+
+Author information:
+(1)Center of Innovation on Disability and Rehabilitation Research, Health 
+Services Research and Development, Department of Veterans Affairs, Tampa, FL, 
+United States.
+(2)College of Public Health, University of South Florida, Tampa, FL, United 
+States.
+(3)Tampa VA Research and Education Foundation, Inc, Tampa, FL, United States.
+(4)VA Boston Healthcare System, VA New England Healthcare System, Department of 
+Veterans Affairs, West Roxbury, MA, United States.
+(5)Muma College of Business, University of South Florida, Tampa, FL, United 
+States.
+(6)Geriatrics Research Education and Clinical Care, Tennessee Valley Healthcare 
+System, Department of Veterans Affairs, Nashville, TN, United States.
+(7)Department of Biomedical Informatics, Vanderbilt University Medical Center, 
+Nashville, TN, United States.
+(8)Department of Biostatistics, Vanderbilt University Medical Center, Nashville, 
+TN, United States.
+(9)Division of General Internal Medicine, Vanderbilt University Medical Center, 
+Nashville, TN, United States.
+(10)Research and Development Service, Tennessee Valley Healthcare System, 
+Department of Veterans Affairs, Nashville, TN, United States.
+(11)College of Nursing, University of South Florida, Tampa, FL, United States.
+
+BACKGROUND: Pressure ulcers (PrUs) are a frequent, serious, and costly 
+complication for veterans with spinal cord injury (SCI). The health care team 
+should periodically identify PrU risk, although there is no tool in the 
+literature that has been found to be reliable, valid, and sensitive enough to 
+assess risk in this vulnerable population.
+OBJECTIVE: The immediate goal is to develop a risk assessment model that validly 
+estimates the probability of developing a PrU. The long-term goal is to assist 
+veterans with SCI and their providers in preventing PrUs through an automated 
+system of risk assessment integrated into the veteran's electronic health record 
+(EHR).
+METHODS: This 5-year longitudinal, retrospective, cohort study targets 12,344 
+veterans with SCI who were cared for in the Veterans Health Administration (VHA) 
+in fiscal year (FY) 2009 and had no record of a PrU in the prior 12 months. 
+Potential risk factors identified in the literature were reviewed by an expert 
+panel that prioritized factors and determined if these were found in structured 
+data or unstructured form in narrative clinical notes for FY 2009-2013. These 
+data are from the VHA enterprise Corporate Data Warehouse that is derived from 
+the EHR structured (ie, coded in database/table) or narrative (ie, text in 
+clinical notes) data for FY 2009-2013.
+RESULTS: This study is ongoing and final results are expected in 2017. Thus far, 
+the expert panel reviewed the initial list of risk factors extracted from the 
+literature; the panel recommended additions and omissions and provided insights 
+about the format in which the documentation of the risk factors might exist in 
+the EHR. This list was then iteratively refined through review and discussed 
+with individual experts in the field. The cohort for the study was then 
+identified, and all structured, unstructured, and semistructured data were 
+extracted. Annotation schemas were developed, samples of documents were 
+extracted, and annotations are ongoing. Operational definitions of structured 
+data elements have been created and steps to create an analytic dataset are 
+underway.
+CONCLUSIONS: To our knowledge, this is the largest cohort employed to identify 
+PrU risk factors in the United States. It also represents the first time natural 
+language processing and statistical text mining will be used to expand the 
+number of variables available for analysis. A major strength of this 
+quantitative study is that all VHA SCI centers were included in the analysis, 
+reducing potential for selection bias and providing increased power for complex 
+statistical analyses. This longitudinal study will eventually result in a risk 
+prediction tool to assess PrU risk that is reliable and valid, and that is 
+sensitive to this vulnerable population.
+
+©Stephen L Luther, Susan S Thomason, Sunil Sabharwal, Dezon K Finch, James 
+McCart, Peter Toyinbo, Lina Bouayad, Michael E Matheny, Glenn T Gobbel, Gail 
+Powell-Cope. Originally published in JMIR Research Protocols 
+(http://www.researchprotocols.org), 19.01.2017.
+
+DOI: 10.2196/resprot.5948
+PMCID: PMC5290296
+PMID: 28104580
+
+Conflict of interest statement: Conflicts of Interest: None declared.

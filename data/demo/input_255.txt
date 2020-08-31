@@ -1,0 +1,35 @@
+255. BMC Bioinformatics. 2015;16 Suppl 10(Suppl 10):S8. doi: 
+10.1186/1471-2105-16-S10-S8. Epub 2015 Jul 13.
+
+Extracting biomedical events from pairs of text entities.
+
+Liu X, Bordes A, Grandvalet Y.
+
+BACKGROUND: Huge amounts of electronic biomedical documents, such as molecular 
+biology reports or genomic papers are generated daily. Nowadays, these documents 
+are mainly available in the form of unstructured free texts, which require heavy 
+processing for their registration into organized databases. This organization is 
+instrumental for information retrieval, enabling to answer the advanced queries 
+of researchers and practitioners in biology, medicine, and related fields. 
+Hence, the massive data flow calls for efficient automatic methods of 
+text-mining that extract high-level information, such as biomedical events, from 
+biomedical text. The usual computational tools of Natural Language Processing 
+cannot be readily applied to extract these biomedical events, due to the 
+peculiarities of the domain. Indeed, biomedical documents contain highly 
+domain-specific jargon and syntax. These documents also describe distinctive 
+dependencies, making text-mining in molecular biology a specific discipline.
+RESULTS: We address biomedical event extraction as the classification of pairs 
+of text entities into the classes corresponding to event types. The candidate 
+pairs of text entities are recursively provided to a multiclass classifier 
+relying on Support Vector Machines. This recursive process extracts events 
+involving other events as arguments. Compared to joint models based on Markov 
+Random Fields, our model simplifies inference and hence requires shorter 
+training and prediction times along with lower memory capacity. Compared to 
+usual pipeline approaches, our model passes over a complex intermediate problem, 
+while making a more extensive usage of sophisticated joint features between text 
+entities. Our method focuses on the core event extraction of the Genia task of 
+BioNLP challenges yielding the best result reported so far on the 2013 edition.
+
+DOI: 10.1186/1471-2105-16-S10-S8
+PMCID: PMC4511465
+PMID: 26201478 [Indexed for MEDLINE]

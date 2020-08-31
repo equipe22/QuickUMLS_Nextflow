@@ -1,0 +1,22 @@
+446. Stud Health Technol Inform. 2008;136:401-6.
+
+An archetype-based testing framework.
+
+Chen R(1), Garde S, Beale T, Nyström M, Karlsson D, Klein GO, Ahlfeldt H.
+
+Author information:
+(1)Department of Biomedical Engineering, Linköping University, Sweden. 
+rong.chen@imt.liu.se
+
+With the introduction of EHR two-level modelling and archetype methodologies 
+pioneered by openEHR and standardized by CEN/ISO, we are one step closer to 
+semantic interoperability and future-proof adaptive healthcare information 
+systems. Along with the opportunities, there are also challenges. Archetypes 
+provide the full semantics of EHR data explicitly to surrounding systems in a 
+platform-independent way, yet it is up to the receiving system to interpret the 
+semantics and process the data accordingly. In this paper we propose a design of 
+an archetype-based platform-independent testing framework for validating 
+implementations of the openEHR archetype formalism as a means of improving 
+quality and interoperability of EHRs.
+
+PMID: 18487764 [Indexed for MEDLINE]

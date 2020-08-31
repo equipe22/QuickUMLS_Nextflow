@@ -1,0 +1,61 @@
+402. J Biomed Inform. 2013 Dec;46(6):977-84. doi: 10.1016/j.jbi.2013.06.007. Epub 
+2013 Jun 25.
+
+Sharing clinical decisions for multimorbidity case management using social 
+network and open-source tools.
+
+Martínez-García A(1), Moreno-Conde A, Jódar-Sánchez F, Leal S, Parra C.
+
+Author information:
+(1)Technological Innovation Group, Virgen del Rocío University Hospital, Manuel 
+Siurot Avenue, s/n, 41013 Seville, Spain.
+
+INTRODUCTION: Social networks applied through Web 2.0 tools have gained 
+importance in health domain, because they produce improvements on the 
+communication and coordination capabilities among health professionals. This is 
+highly relevant for multimorbidity patients care because there is a large number 
+of health professionals in charge of patient care, and this requires to obtain 
+clinical consensus in their decisions. Our objective is to develop a tool for 
+collaborative work among health professionals for multimorbidity patient care. 
+We describe the architecture to incorporate decision support functionalities in 
+a social network tool to enable the adoption of shared decisions among health 
+professionals from different care levels. As part of the first stage of the 
+project, this paper describes the results obtained in a pilot study about 
+acceptance and use of the social network component in our healthcare setting.
+METHODS: At Virgen del Rocío University Hospital we have designed and developed 
+the Shared Care Platform (SCP) to provide support in the continuity of care for 
+multimorbidity patients. The SCP has two consecutively developed components: 
+social network component, called Clinical Wall, and Clinical Decision Support 
+(CDS) system. The Clinical Wall contains a record where health professionals are 
+able to debate and define shared decisions. We conducted a pilot study to assess 
+the use and acceptance of the SCP by healthcare professionals through 
+questionnaire based on the theory of the Technology Acceptance Model.
+RESULTS: In March 2012 we released and deployed the SCP, but only with the 
+social network component. The pilot project lasted 6 months in the hospital and 
+2 primary care centers. From March to September 2012 we created 16 records in 
+the Clinical Wall, all with a high priority. A total of 10 professionals took 
+part in the exchange of messages: 3 internists and 7 general practitioners 
+generated 33 messages. 12 of the 16 record (75%) were answered by the 
+destination health professionals. The professionals valued positively all the 
+items in the questionnaire. As part of the SCP, opensource tools for CDS will be 
+incorporated to provide recommendations for medication and problem interactions, 
+as well as to calculate indexes or scales from validated questionnaires. They 
+will receive the patient summary information provided by the regional Electronic 
+Health Record system through a web service with the information defined 
+according to the virtual Medical Record specification.
+CONCLUSIONS: Clinical Wall has been developed to allow communication and 
+coordination between the healthcare professionals involved in multimorbidity 
+patient care. Agreed decisions were about coordination for appointment changing, 
+patient conditions, diagnosis tests, and prescription changes and renewal. The 
+application of interoperability standards and open source software can bridge 
+the gap between knowledge and clinical practice, while enabling interoperability 
+and scalability. Open source with the social network encourages adoption and 
+facilitates collaboration. Although the results obtained for use indicators are 
+still not as high as it was expected, based on the promising results obtained in 
+the acceptance questionnaire of SMP, we expect that the new CDS tools will 
+increase the use by the health professionals.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jbi.2013.06.007
+PMID: 23806275 [Indexed for MEDLINE]

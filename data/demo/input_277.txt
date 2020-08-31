@@ -1,0 +1,50 @@
+277. Comput Methods Programs Biomed. 2020 Jun 25;197:105616. doi: 
+10.1016/j.cmpb.2020.105616. Online ahead of print.
+
+CLIN-IK-LINKS: A platform for the design and execution of clinical data 
+transformation and reasoning workflows.
+
+Maldonado JA(1), Marcos M(2), Fernández-Breis JT(3), Giménez-Solano VM(2), 
+Legaz-García MDC(4), Martínez-Salvador B(2).
+
+Author information:
+(1)Veratech for Health SL, Avenida del Puerto 237-1, Valencia 46011, Spain. 
+Electronic address: almalseg@gmail.com.
+(2)Department of Computer Engineering and Science, Universitat Jaume I, Spain.
+(3)Departamento de Informática y Sistemas, Universidad de Murcia, IMIB-Arrixaca, 
+Spain.
+(4)Departamento de Informática y Sistemas, Universidad de Murcia, IMIB-Arrixaca, 
+Spain; Fundación para la Formación e Investigación Sanitarias de la Región de 
+Murcia, IMIB-Arrixaca, Spain.
+
+BACKGROUND AND OBJECTIVE: Effective sharing and reuse of Electronic Health 
+Records (EHR) requires technological solutions which deal with different 
+representations and different models of data. This includes information models, 
+domain models and, ideally, inference models, which enable clinical decision 
+support based on a knowledge base and facts. Our goal is to develop a framework 
+to support EHR interoperability based on transformation and reasoning services 
+intended for clinical data and knowledge.
+METHODS: Our framework is based on workflows whose primary components are 
+reusable mappings. Key features are an integrated representation, storage, and 
+exploitation of different types of mappings for clinical data transformation 
+purposes, as well as the support for the discovery of new workflows. The current 
+framework supports mappings which take advantage of the best features of EHR 
+standards and ontologies. Our proposal is based on our previous results and 
+experience working with both technological infrastructures.
+RESULTS: We have implemented CLIN-IK-LINKS, a web-based platform that enables 
+users to create, modify and delete mappings as well as to define and execute 
+workflows. The platform has been applied in two use cases: semantic publishing 
+of clinical laboratory test results; and implementation of two colorectal cancer 
+screening protocols. Real data have been used in both use cases.
+CONCLUSIONS: The CLIN-IK-LINKS platform allows the composition and execution of 
+clinical data transformation workflows to convert EHR data into EHR and/or 
+semantic web standards. Having proved its usefulness to implement clinical data 
+transformation applications of interest, CLIN-IK-LINKS can be regarded as a 
+valuable contribution to improve the semantic interoperability of EHR systems.
+
+Copyright © 2020. Published by Elsevier B.V.
+
+DOI: 10.1016/j.cmpb.2020.105616
+PMID: 32629294
+
+Conflict of interest statement: Declaration of Competing Interest None.

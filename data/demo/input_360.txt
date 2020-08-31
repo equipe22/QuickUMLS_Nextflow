@@ -1,0 +1,34 @@
+360. BMC Bioinformatics. 2008 Oct 1;9:406. doi: 10.1186/1471-2105-9-406.
+
+BibGlimpse: the case for a light-weight reprint manager in distributed 
+literature research.
+
+Tüchler T(1), Velez G, Graf A, Kreil DP.
+
+Author information:
+(1)Chair of Bioinformatics, Boku University, Vienna, Austria. 
+thomas.tuechler@boku.ac.at
+
+BACKGROUND: While text-mining and distributed annotation systems both aim at 
+capturing knowledge and presenting it in a standardized form, there have been 
+few attempts to investigate potential synergies between these two fields. For 
+instance, distributed annotation would be very well suited for providing topic 
+focussed, expert knowledge enriched text corpora. A key limitation for this 
+approach is the availability of literature annotation systems that can be 
+routinely used by groups of collaborating researchers on a day to day basis, not 
+distracting from the main focus of their work.
+RESULTS: For this purpose, we have designed BibGlimpse. Features like 
+drop-to-file, SVM based automated retrieval of PubMed bibliography for PDF 
+reprints, and annotation support make BibGlimpse an efficient, light-weight 
+reprint manager that facilitates distributed literature research for work 
+groups. Building on an established open search engine, full-text search and 
+structured queries are supported, while at the same time making shared 
+collections of annotated reprints accessible to literature classification and 
+text-mining tools.
+CONCLUSION: BibGlimpse offers scientists a tool that enhances their own 
+literature management. Moreover, it may be used to create content enriched, 
+annotated text corpora for research in text-mining.
+
+DOI: 10.1186/1471-2105-9-406
+PMCID: PMC2571996
+PMID: 18828894 [Indexed for MEDLINE]

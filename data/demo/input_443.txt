@@ -1,0 +1,25 @@
+443. Stud Health Technol Inform. 2013;192:142-6.
+
+An ontological approach for the exploitation of clinical data.
+
+Assélé Kama A(1), Choquet R, Mels G, Daniel C, Charlet J, Jaulent MC.
+
+Author information:
+(1)INSERM UMR_S 872 Eq 20, Université Pierre et Marie Curie, Paris, France.
+
+Clinical data captured in hospital information systems may be unusable in their 
+original format due to missing information or knowledge. The use of external 
+resources (e.g. domain ontology) could be a way of dealing with this lack of 
+knowledge. Our study thus aimed to develop a framework allowing a user to 
+perform medical queries in the context of infectious diseases. By creating an 
+interaction between a knowledge source and clinical data, using semantic and 
+semantic web tools and methods, the users are able to perform queries on a 
+database to obtain results about antibiotic resistance. This work has been 
+performed in the context of the DebugIT European project that aims to control 
+and monitor the antibioresistance growth via a semantic interoperability 
+platform. The results obtained by the use of different semantic web tools were 
+quantitatively evaluated by comparison of the number of results and the query 
+execution time. We have compared our approach with classic business intelligence 
+approaches in terms of usability and functionality.
+
+PMID: 23920532 [Indexed for MEDLINE]

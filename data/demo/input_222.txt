@@ -1,0 +1,67 @@
+222. Inform Prim Care. 2014;21(3):142-51. doi: 10.14236/jhi.v21i3.57.
+
+Approaches and challenges to optimising primary care teams' electronic health 
+record usage.
+
+Pandhi N(1), Yang WL(2), Karp Z(3), Young A(4), Beasley JW(5), Kraft S(6), 
+Carayon P(7).
+
+Author information:
+(1)UW Health, Primary Care Academics Transforming Healthcare, 800 University Bay 
+Drive, Madison, WI 53705, USA; University of Wisconsin School of Medicine and 
+Public Health, Department of Family Medicine, 1100 Delaplaine Court, Madison, WI 
+53715, USA; UW Health, Primary Care Academics Transforming Healthcare, 800 
+University Bay Drive, Box 9445 Madison, WI 53705, USA. 
+nancy.pandhi@fammed.wisc.edu.
+(2)National Cheng Kung University, Center of Teacher Education, 1 Ta-Hsueh Road 
+Tainan City, Taiwan, ROC; National Cheng Kung University, Institute of 
+Education, No. 1, University Road, Tainan City, Taiwan, ROC.
+(3)UW Health, Primary care Academics Transforming Healthcare, 800 University Bay 
+Drive, Madison, WI 53705, USA; University of Wisconsin School of Medicine and 
+Public Health, Department of Family Medicine, 1100 Delaplaine Court, Madison, WI 
+53715, USA; University of Wisconsin School of Medicine and Public Health, 
+Department of Population Health Sciences, 610 North Walnut Street, Madison, WI 
+53726, USA.
+(4)University of Wisconsin School of Medicine and Public Health, Department of 
+Family Medicine, 1100 Delaplaine Court, Madison, WI 53715, USA.
+(5)University of Wisconsin School of Medicine and Public Health, Department of 
+Family Medicine, 1100 Delaplaine Court, Madison, WI 53715, USA; University of 
+Wisconsin, Department of Industrial and Systems Engineering, 1415 Engineering 
+Drive, Madison, WI 53706, USA.
+(6)UW Health, Primary care Academics Transforming Healthcare, 800 University Bay 
+Drive, Madison, WI 53705, USA; University of Wisconsin School of Medicine and 
+Public Health, Department of Medicine, 750 Highland Avenue, Madison, WI 53705, 
+USA; Quality, Safety and Innovation, UW Health, 7974 UW Health Court, Middleton, 
+WI 53562, USA.
+(7)University of Wisconsin, Department of Industrial and Systems Engineering, 
+1415 Engineering Drive, Madison, WI 53706, USA; University of Wisconsin, Center 
+for Quality and Productivity Improvement, 1415 Engineering Drive, Madison, WI 
+53706, USA.
+
+BACKGROUND: Although the presence of an electronic health record (EHR) alone 
+does not ensure high quality, efficient care, few studies have focused on the 
+work of those charged with optimising use of existing EHR functionality.
+OBJECTIVE: To examine the approaches used and challenges perceived by analysts 
+supporting the optimisation of primary care teams' EHR use at a large U.S. 
+academic health care system.
+METHODS: A qualitative study was conducted. Optimisation analysts and their 
+supervisor were interviewed and data were analysed for themes.
+RESULTS: Analysts needed to reconcile the tension created by organisational 
+mandates focused on the standardisation of EHR processes with the primary care 
+teams' demand for EHR customisation. They gained an understanding of health 
+information technology (HIT) leadership's and primary care team's goals through 
+attending meetings, reading meeting minutes and visiting with clinical teams. 
+Within what was organisationally possible, EHR education could then be tailored 
+to fit team needs. Major challenges were related to organisational attempts to 
+standardise EHR use despite varied clinic contexts, personnel readiness and 
+technical issues with the EHR platform. Forcing standardisation upon clinical 
+needs that current EHR functionality could not satisfy was difficult.
+CONCLUSIONS: Dedicated optimisation analysts can add value to health systems 
+through playing a mediating role between HIT leadership and care teams. Our 
+findings imply that EHR optimisation should be performed with an in-depth 
+understanding of the workflow, cognitive and interactional activities in primary 
+care.
+
+DOI: 10.14236/jhi.v21i3.57
+PMCID: PMC4258388
+PMID: 25207618 [Indexed for MEDLINE]

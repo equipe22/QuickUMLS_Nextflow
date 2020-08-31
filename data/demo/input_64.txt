@@ -1,0 +1,37 @@
+64. J Thorac Dis. 2016 Aug;8(Suppl 8):S637-41. doi: 10.21037/jtd.2016.08.44.
+
+Hospital information systems: experience at the fully digitized Seoul National 
+University Bundang Hospital.
+
+Yoo S(1), Hwang H(1), Jheon S(2).
+
+Author information:
+(1)Center for Medical Informatics, Seoul National University Bundang Hospital, 
+Seongnam, Korea.
+(2)Department of Thoracic Surgery, Seoul National University Bundang Hospital, 
+Seongnam, Korea.
+
+The different levels of health information technology (IT) adoption and its 
+integration into hospital workflow can affect the maximization of the benefits 
+of using of health IT. We aimed at sharing our experiences and the journey to 
+the successful adoption of health IT over 13 years at a tertiary university 
+hospital in South Korea. The integrated system of comprehensive applications for 
+direct care, support care, and smart care has been implemented with the latest 
+IT and a rich user information platform, achieving the fully digitized hospital. 
+The users experience design methodology, barcode and radio-frequency 
+identification (RFID) technologies, smartphone and mobile technologies, and data 
+analytics were integrated into hospital workflow. Applications for user-centered 
+electronic medical record (EMR) and clinical decision support (CDS), closed loop 
+medication administration (CLMA), mobile EMR and dashboard system for care 
+coordination, clinical data warehouse (CDW) system, and patient engagement 
+solutions were designed and developed to improve quality of care, work 
+efficiency, and patient safety. We believe that comprehensive electronic health 
+record systems and patient-centered smart hospital applications will go a long 
+way in ensuring seamless patient care and experience.
+
+DOI: 10.21037/jtd.2016.08.44
+PMCID: PMC5009069
+PMID: 27651940
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+declare.

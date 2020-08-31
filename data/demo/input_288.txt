@@ -1,0 +1,43 @@
+288. J Am Med Inform Assoc. 2012 May-Jun;19(3):368-74. doi: 
+10.1136/amiajnl-2011-000484. Epub 2011 Oct 8.
+
+PASTE: patient-centered SMS text tagging in a medication management system.
+
+Stenner SP(1), Johnson KB, Denny JC.
+
+Author information:
+(1)Department of Biomedical Informatics, Vanderbilt University, School of 
+Medicine, Nashville, Tennessee, USA. shane.stenner@vanderbilt.edu
+
+OBJECTIVE: To evaluate the performance of a system that extracts medication 
+information and administration-related actions from patient short message 
+service (SMS) messages.
+DESIGN: Mobile technologies provide a platform for electronic patient-centered 
+medication management. MyMediHealth (MMH) is a medication management system that 
+includes a medication scheduler, a medication administration record, and a 
+reminder engine that sends text messages to cell phones. The object of this work 
+was to extend MMH to allow two-way interaction using mobile phone-based SMS 
+technology. Unprompted text-message communication with patients using natural 
+language could engage patients in their healthcare, but presents unique natural 
+language processing challenges. The authors developed a new functional component 
+of MMH, the Patient-centered Automated SMS Tagging Engine (PASTE). The PASTE web 
+service uses natural language processing methods, custom lexicons, and existing 
+knowledge sources to extract and tag medication information from patient text 
+messages.
+MEASUREMENTS: A pilot evaluation of PASTE was completed using 130 medication 
+messages anonymously submitted by 16 volunteers via a website. System output was 
+compared with manually tagged messages.
+RESULTS: Verified medication names, medication terms, and action terms reached 
+high F-measures of 91.3%, 94.7%, and 90.4%, respectively. The overall medication 
+name F-measure was 79.8%, and the medication action term F-measure was 90%.
+CONCLUSION: Other studies have demonstrated systems that successfully extract 
+medication information from clinical documents using semantic tagging, regular 
+expression-based approaches, or a combination of both approaches. This 
+evaluation demonstrates the feasibility of extracting medication information 
+from patient-generated medication messages.
+
+DOI: 10.1136/amiajnl-2011-000484
+PMCID: PMC3341792
+PMID: 21984605 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None.

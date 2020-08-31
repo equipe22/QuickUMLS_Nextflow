@@ -1,0 +1,37 @@
+140. Comput Biol Med. 2016 May 1;72:263-75. doi: 10.1016/j.compbiomed.2016.01.014. 
+Epub 2016 Jan 23.
+
+Unsupervised entity and relation extraction from clinical records in Italian.
+
+Alicante A(1), Corazza A(2), Isgrò F(2), Silvestri S(2).
+
+Author information:
+(1)Dipartimento di Ingegneria Elettrica e delle Tecnologie dell׳Informazione, 
+DIETI, Università degli Studi di Napoli Federico II, Via Claudio, 21 - 80125 
+Napoli, Italy. Electronic address: anita.alicante@unina.it.
+(2)Dipartimento di Ingegneria Elettrica e delle Tecnologie dell׳Informazione, 
+DIETI, Università degli Studi di Napoli Federico II, Via Claudio, 21 - 80125 
+Napoli, Italy.
+
+This paper proposes and discusses the use of text mining techniques for the 
+extraction of information from clinical records written in Italian. However, as 
+it is very difficult and expensive to obtain annotated material for languages 
+different from English, we only consider unsupervised approaches, where no 
+annotated training set is necessary. We therefore propose a complete system that 
+is structured in two steps. In the first one domain entities are extracted from 
+the clinical records by means of a metathesaurus and standard natural language 
+processing tools. The second step attempts to discover relations between the 
+entity pairs extracted from the whole set of clinical records. For this last 
+step we investigate the performance of unsupervised methods such as clustering 
+in the space of entity pairs, represented by an ad hoc feature vector. The 
+resulting clusters are then automatically labelled by using the most significant 
+features. The system has been tested on a fairly large data set of clinical 
+records in Italian, investigating the variation in the performance adopting 
+different similarity measures in the feature space. The results of our 
+experiments show that the unsupervised approach proposed is promising and well 
+suited for a semi-automatic labelling of the extracted relations.
+
+Copyright © 2016 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.compbiomed.2016.01.014
+PMID: 26851833 [Indexed for MEDLINE]

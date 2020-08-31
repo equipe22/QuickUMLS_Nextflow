@@ -1,0 +1,39 @@
+398. Nat Commun. 2015 Oct 13;6:8493. doi: 10.1038/ncomms9493.
+
+Harnessing the landscape of microbial culture media to predict new 
+organism-media pairings.
+
+Oberhardt MA(1)(2)(3), Zarecki R(1), Gronow S(4), Lang E(4), Klenk HP(5), Gophna 
+U(2), Ruppin E(1)(3).
+
+Author information:
+(1)Blavatnik School of Computer Sciences and Sackler School of Medicine, Tel 
+Aviv University, Tel Aviv 69978, Israel.
+(2)Department of Molecular Microbiology and Biotechnology, Faculty of Life 
+Sciences, Tel Aviv University, Tel Aviv 69978, Israel.
+(3)Center for Bioinformatics and Computational Biology (CBCB), Department of 
+Computer Science, and University of Maryland, Institute of Advanced Computer 
+Science (UMIACS), University of Maryland, College Park, Maryland 20742, USA.
+(4)Leibniz Institute DSMZ-German Collection of Microorganisms and Cell Cultures, 
+Braunschweig 38124, Germany.
+(5)School of Biology, Newcastle University, Newcastle upon Tyne NE1 7RU, UK.
+
+Culturing microorganisms is a critical step in understanding and utilizing 
+microbial life. Here we map the landscape of existing culture media by 
+extracting natural-language media recipes into a Known Media Database (KOMODO), 
+which includes >18,000 strain-media combinations, >3300 media variants and 
+compound concentrations (the entire collection of the Leibniz Institute DSMZ 
+repository). Using KOMODO, we show that although media are usually tuned for 
+individual strains using biologically common salts, trace metals and 
+vitamins/cofactors are the most differentiating components between defined media 
+of strains within a genus. We leverage KOMODO to predict new organism-media 
+pairings using a transitivity property (74% growth in new in vitro experiments) 
+and a phylogeny-based collaborative filtering tool (83% growth in new in vitro 
+experiments and stronger growth on predicted well-scored versus poorly scored 
+media). These resources are integrated into a web-based platform that predicts 
+media given an organism's 16S rDNA sequence, facilitating future cultivation 
+efforts.
+
+DOI: 10.1038/ncomms9493
+PMCID: PMC4633754
+PMID: 26460590 [Indexed for MEDLINE]

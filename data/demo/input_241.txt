@@ -1,0 +1,43 @@
+241. Biomed Res Int. 2016;2016:6741418. doi: 10.1155/2016/6741418. Epub 2016 Mar 31.
+
+An Interoperability Platform Enabling Reuse of Electronic Health Records for 
+Signal Verification Studies.
+
+Yuksel M(1), Gonul S(2), Laleci Erturkmen GB(1), Sinaci AA(1), Invernizzi P(3), 
+Facchinetti S(3), Migliavacca A(3), Bergvall T(4), Depraetere K(5), De Roo J(5).
+
+Author information:
+(1)SRDC Software Research & Development and Consultancy Ltd., 06800 Ankara, 
+Turkey.
+(2)SRDC Software Research & Development and Consultancy Ltd., 06800 Ankara, 
+Turkey; Department of Computer Engineering, Middle East Technical University, 
+06800 Ankara, Turkey.
+(3)Lombardia Informatica S.p.A., Via Torquato Taramelli, 26 20124 Milano, Italy.
+(4)WHO Collaborating Centre for International Drug Monitoring, Uppsala 
+Monitoring Centre (UMC), 753 20 Uppsala, Sweden.
+(5)Advanced Clinical Applications Research Group, Agfa HealthCare, 9000 Gent, 
+Belgium.
+
+Depending mostly on voluntarily sent spontaneous reports, pharmacovigilance 
+studies are hampered by low quantity and quality of patient data. Our objective 
+is to improve postmarket safety studies by enabling safety analysts to 
+seamlessly access a wide range of EHR sources for collecting deidentified 
+medical data sets of selected patient populations and tracing the reported 
+incidents back to original EHRs. We have developed an ontological framework 
+where EHR sources and target clinical research systems can continue using their 
+own local data models, interfaces, and terminology systems, while structural 
+interoperability and Semantic Interoperability are handled through rule-based 
+reasoning on formal representations of different models and terminology systems 
+maintained in the SALUS Semantic Resource Set. SALUS Common Information Model at 
+the core of this set acts as the common mediator. We demonstrate the 
+capabilities of our framework through one of the SALUS safety analysis tools, 
+namely, the Case Series Characterization Tool, which have been deployed on top 
+of regional EHR Data Warehouse of the Lombardy Region containing about 1 billion 
+records from 16 million patients and validated by several pharmacovigilance 
+researchers with real-life cases. The results confirm significant improvements 
+in signal detection and evaluation compared to traditional methods with the 
+missing background information.
+
+DOI: 10.1155/2016/6741418
+PMCID: PMC4830705
+PMID: 27123451 [Indexed for MEDLINE]

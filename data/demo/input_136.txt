@@ -1,0 +1,44 @@
+136. Int J Med Inform. 2019 Jan;121:53-57. doi: 10.1016/j.ijmedinf.2018.10.008. Epub 
+2018 Oct 23.
+
+Extracting tumour prognostic factors from a diverse electronic record dataset in 
+genito-urinary oncology.
+
+Khor RC(1), Nguyen A(2), O'Dwyer J(2), Kothari G(3), Sia J(3), Chang D(3), Ng 
+SP(3), Duchesne GM(4), Foroudi F(5).
+
+Author information:
+(1)Peter MacCallum Cancer Centre, Department of Radiation Oncology, Melbourne, 
+Australia; University of Melbourne, Sir Peter MacCallum Department of Oncology, 
+Melbourne, Australia; Austin Health, Department of Radiation Oncology, 
+Melbourne, Australia. Electronic address: Richard.Khor@Austin.org.au.
+(2)The Australian e-Health Research Centre, CSIRO, Brisbane, Australia.
+(3)Peter MacCallum Cancer Centre, Department of Radiation Oncology, Melbourne, 
+Australia.
+(4)University of Melbourne, Sir Peter MacCallum Department of Oncology, 
+Melbourne, Australia; Department of Medical Radiations, Monash University, 
+Melbourne, Australia; Department of Biochemistry, Monash University, Melbourne, 
+Australia.
+(5)Austin Health, Department of Radiation Oncology, Melbourne, Australia; 
+Department of Cancer Medicine, Latrobe University, Melbourne, Australia.
+
+OBJECTIVES: To implement a system for unsupervised extraction of tumor stage and 
+prognostic data in patients with genitourinary cancers using clinicopathological 
+and radiology text.
+METHODS: A corpus of 1054 electronic notes (clinician notes, radiology reports 
+and pathology reports) was annotated for tumor stage, prostate specific antigen 
+(PSA) and Gleason grade. Annotations from five clinicians were reconciled to 
+form a gold standard dataset. A training dataset of 386 documents was 
+sequestered. The Medtex algorithm was adapted using the training dataset.
+RESULTS: Adapted Medtex equaled or exceeded human performance in most 
+annotations, except for implicit M stage (F-measure of 0.69 vs 0.84) and PSA 
+(0.92 vs 0.96). Overall Medtex performed with an F-measure of 0.86 compared to 
+human annotations of 0.92. There was significant inter-observer variability when 
+comparing human annotators to the gold standard.
+CONCLUSIONS: The Medtex algorithm performed similarly to human annotators for 
+extracting stage and prognostic data from varied clinical texts.
+
+Copyright © 2018 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijmedinf.2018.10.008
+PMID: 30545489 [Indexed for MEDLINE]

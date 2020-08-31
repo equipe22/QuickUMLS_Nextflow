@@ -1,0 +1,35 @@
+127. Database (Oxford). 2014 Jun 16;2014:bau056. doi: 10.1093/database/bau056. Print 
+2014.
+
+Natural language processing pipelines to annotate BioC collections with an 
+application to the NCBI disease corpus.
+
+Comeau DC(1), Liu H(2), Islamaj Doğan R(2), Wilbur WJ(2).
+
+Author information:
+(1)National Center for Biotechnology Information, National Library of Medicine, 
+National Institutes of Health, 8600 Rockville Pike, Bethesda, MD 20894, USA 
+comeau@ncbi.nlm.nih.gov.
+(2)National Center for Biotechnology Information, National Library of Medicine, 
+National Institutes of Health, 8600 Rockville Pike, Bethesda, MD 20894, USA.
+
+Erratum in
+    Database (Oxford). 2014;2014:bau072.
+
+BioC is a new format and associated code libraries for sharing text and 
+annotations. We have implemented BioC natural language preprocessing pipelines 
+in two popular programming languages: C++ and Java. The current implementations 
+interface with the well-known MedPost and Stanford natural language processing 
+tool sets. The pipeline functionality includes sentence segmentation, 
+tokenization, part-of-speech tagging, lemmatization and sentence parsing. These 
+pipelines can be easily integrated along with other BioC programs into any BioC 
+compliant text mining systems. As an application, we converted the NCBI disease 
+corpus to BioC format, and the pipelines have successfully run on this corpus to 
+demonstrate their functionality. Code and data can be downloaded from 
+http://bioc.sourceforge.net. Database URL: http://bioc.sourceforge.net.
+
+© The Author(s) 2014. Published by Oxford University Press.
+
+DOI: 10.1093/database/bau056
+PMCID: PMC4058794
+PMID: 24935050 [Indexed for MEDLINE]

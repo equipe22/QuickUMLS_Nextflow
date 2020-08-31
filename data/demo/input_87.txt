@@ -1,0 +1,35 @@
+87. Ecancermedicalscience. 2018 Jul 11;12:851. doi: 10.3332/ecancer.2018.851. 
+eCollection 2018.
+
+Personal Health Information Recommender: implementing a tool for the empowerment 
+of cancer patients.
+
+Iatraki G(1), Kondylakis H(1), Koumakis L(1), Chatzimina M(1), Kazantzaki E(1), 
+Marias K(1)(2), Tsiknakis M(1)(2).
+
+Author information:
+(1)Computational BioMedicine Laboratory, FORTH-ICS, Heraklion GR70013, Greece.
+(2)Department of Informatics Engineering, Technological Educational Institute of 
+Crete, Heraklion GR71004, Greece.
+
+Nowadays, patients have a wealth of information available on the Internet. 
+Despite the potential benefits of Internet health information seeking, several 
+concerns have been raised about the quality of information and about the 
+patient's capability to evaluate medical information and to relate it to their 
+own disease and treatment. As such, novel tools are required to effectively 
+guide patients and provide high-quality medical information in an intelligent 
+and personalised manner. With this aim, this paper presents the Personal Health 
+Information Recommender (PHIR), a system to empower patients by enabling them to 
+search in a high-quality document repository selected by experts, avoiding the 
+information overload of the Internet. In addition, the information provided to 
+the patients is personalised, based on individual preferences, medical 
+conditions and other profiling information. Despite the generality of our 
+approach, we apply the PHIR to a personal health record system constructed for 
+cancer patients and we report on the design, the implementation and a 
+preliminary validation of the platform. To the best of our knowledge, our 
+platform is the only one combining natural language processing, ontologies and 
+personal information to offer a unique user experience.
+
+DOI: 10.3332/ecancer.2018.851
+PMCID: PMC6057655
+PMID: 30079113

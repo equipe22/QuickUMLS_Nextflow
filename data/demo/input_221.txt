@@ -1,0 +1,25 @@
+221. Stud Health Technol Inform. 2017;236:24-31.
+
+Semantic Technologies for Re-Use of Clinical Routine Data.
+
+Kreuzthaler M(1), Martínez-Costa C(2), Kaiser P(3), Schulz S(2).
+
+Author information:
+(1)CBmed GmbH - Center for Biomarker Research in Medicine.
+(2)Institute for Medical Informatics, Statistics and Documentation, Medical 
+University of Graz, Austria.
+(3)SAP SE, SAP Connected Health Platform.
+
+Routine patient data in electronic patient records are only partly structured, 
+and an even smaller segment is coded, mainly for administrative purposes. Large 
+parts are only available as free text. Transforming this content into a 
+structured and semantically explicit form is a prerequisite for querying and 
+information extraction. The core of the system architecture presented in this 
+paper is based on SAP HANA in-memory database technology using the SAP Connected 
+Health platform for data integration as well as for clinical data warehousing. A 
+natural language processing pipeline analyses unstructured content and maps it 
+to a standardized vocabulary within a well-defined information model. The 
+resulting semantically standardized patient profiles are used for a broad range 
+of clinical and research application scenarios.
+
+PMID: 28508775 [Indexed for MEDLINE]

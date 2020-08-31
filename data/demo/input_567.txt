@@ -1,0 +1,29 @@
+567. Nat Methods. 2011 Jun 26;8(8):665-70. doi: 10.1038/nmeth.1635.
+
+Large-scale automated synthesis of human functional neuroimaging data.
+
+Yarkoni T(1), Poldrack RA, Nichols TE, Van Essen DC, Wager TD.
+
+Author information:
+(1)Department of Psychology and Neuroscience, University of Colorado at Boulder, 
+Boulder, Colorado, USA. tal.yarkoni@colorado.edu
+
+Comment in
+    Nat Methods. 2011 Aug;8(8):627-8.
+
+The rapid growth of the literature on neuroimaging in humans has led to major 
+advances in our understanding of human brain function but has also made it 
+increasingly difficult to aggregate and synthesize neuroimaging findings. Here 
+we describe and validate an automated brain-mapping framework that uses 
+text-mining, meta-analysis and machine-learning techniques to generate a large 
+database of mappings between neural and cognitive states. We show that our 
+approach can be used to automatically conduct large-scale, high-quality 
+neuroimaging meta-analyses, address long-standing inferential problems in the 
+neuroimaging literature and support accurate 'decoding' of broad cognitive 
+states from brain activity in both entire studies and individual human subjects. 
+Collectively, our results have validated a powerful and generative framework for 
+synthesizing human neuroimaging data on an unprecedented scale.
+
+DOI: 10.1038/nmeth.1635
+PMCID: PMC3146590
+PMID: 21706013 [Indexed for MEDLINE]

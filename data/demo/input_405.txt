@@ -1,0 +1,56 @@
+405. J Am Med Inform Assoc. 2015 May;22(3):707-17. doi: 10.1093/jamia/ocu025. Epub 
+2015 Feb 5.
+
+Automated confidence ranked classification of randomized controlled trial 
+articles: an aid to evidence-based medicine.
+
+Cohen AM(1), Smalheiser NR(2), McDonagh MS(3), Yu C(4), Adams CE(5), Davis 
+JM(2), Yu PS(4).
+
+Author information:
+(1)Department of Medical Informatics and Clinical Epidemiology, Oregon Health & 
+Science University, Portland, OR 97239 USA cohenaa@ohsu.edu.
+(2)Department of Psychiatry, University of Illinois at Chicago, Chicago, IL 
+60612 USA.
+(3)Department of Medical Informatics and Clinical Epidemiology, Oregon Health & 
+Science University, Portland, OR 97239 USA.
+(4)Department of Computer Science, University of Illinois at Chicago, Chicago, 
+IL 60612 USA.
+(5)Division of Psychiatry, University of Nottingham, Nottingham, UK.
+
+OBJECTIVE: For many literature review tasks, including systematic review (SR) 
+and other aspects of evidence-based medicine, it is important to know whether an 
+article describes a randomized controlled trial (RCT). Current manual annotation 
+is not complete or flexible enough for the SR process. In this work, highly 
+accurate machine learning predictive models were built that include confidence 
+predictions of whether an article is an RCT.
+MATERIALS AND METHODS: The LibSVM classifier was used with forward selection of 
+potential feature sets on a large human-related subset of MEDLINE to create a 
+classification model requiring only the citation, abstract, and MeSH terms for 
+each article.
+RESULTS: The model achieved an area under the receiver operating characteristic 
+curve of 0.973 and mean squared error of 0.013 on the held out year 2011 data. 
+Accurate confidence estimates were confirmed on a manually reviewed set of test 
+articles. A second model not requiring MeSH terms was also created, and performs 
+almost as well.
+DISCUSSION: Both models accurately rank and predict article RCT confidence. 
+Using the model and the manually reviewed samples, it is estimated that about 
+8000 (3%) additional RCTs can be identified in MEDLINE, and that 5% of articles 
+tagged as RCTs in Medline may not be identified.
+CONCLUSION: Retagging human-related studies with a continuously valued RCT 
+confidence is potentially more useful for article ranking and review than a 
+simple yes/no prediction. The automated RCT tagging tool should offer 
+significant savings of time and effort during the process of writing SRs, and is 
+a key component of a multistep text mining pipeline that we are building to 
+streamline SR workflow. In addition, the model may be useful for identifying 
+errors in MEDLINE publication types. The RCT confidence predictions described 
+here have been made available to users as a web service with a user query form 
+front end at: 
+http://arrowsmith.psych.uic.edu/cgi-bin/arrowsmith_uic/RCT_Tagger.cgi.
+
+© The Author 2015. Published by Oxford University Press on behalf of the 
+American Medical Informatics Association.
+
+DOI: 10.1093/jamia/ocu025
+PMCID: PMC4457112
+PMID: 25656516 [Indexed for MEDLINE]

@@ -1,0 +1,60 @@
+344. Front Neuroanat. 2015 May 27;9:66. doi: 10.3389/fnana.2015.00066. eCollection 
+2015.
+
+Automatic target validation based on neuroscientific literature mining for 
+tractography.
+
+Vasques X(1), Richardet R(2), Hill SL(2), Slater D(3), Chappelier JC(4), Pralong 
+E(5), Bloch J(5), Draganski B(3), Cif L(6).
+
+Author information:
+(1)Blue Brain Project, Brain Mind Institute, Ecole Polytechnique Fédérale de 
+Lausanne Lausanne, Switzerland ; IBM Systems France ; Laboratoire de Recherche 
+en Neurosciences Cliniques France.
+(2)Blue Brain Project, Brain Mind Institute, Ecole Polytechnique Fédérale de 
+Lausanne Lausanne, Switzerland.
+(3)Laboratoire de Recherche Neuroimagerie, Université de Lausanne Lausanne, 
+Switzerland ; Département des Neurosciences Cliniques, Centre Hospitalier 
+Universitaire Vaudois, Université de Lausanne Lausanne, Switzerland.
+(4)School of Computer and Communication Sciences, Ecole Polytechnique Fédérale 
+de Lausanne Lausanne, Switzerland.
+(5)Département des Neurosciences Cliniques, Centre Hospitalier Universitaire 
+Vaudois, Université de Lausanne Lausanne, Switzerland.
+(6)Laboratoire de Recherche Neuroimagerie, Université de Lausanne Lausanne, 
+Switzerland ; Département des Neurosciences Cliniques, Centre Hospitalier 
+Universitaire Vaudois, Université de Lausanne Lausanne, Switzerland ; 
+Département de Neurochirurgie, Hôpital Gui de Chauliac, Centre Hospitalier 
+Régional Universitaire de Montpellier, Université Montpellier 1 Montpellier, 
+France.
+
+Target identification for tractography studies requires solid anatomical 
+knowledge validated by an extensive literature review across species for each 
+seed structure to be studied. Manual literature review to identify targets for a 
+given seed region is tedious and potentially subjective. Therefore, 
+complementary approaches would be useful. We propose to use text-mining models 
+to automatically suggest potential targets from the neuroscientific literature, 
+full-text articles and abstracts, so that they can be used for anatomical 
+connection studies and more specifically for tractography. We applied 
+text-mining models to three structures: two well-studied structures, since 
+validated deep brain stimulation targets, the internal globus pallidus and the 
+subthalamic nucleus and, the nucleus accumbens, an exploratory target for 
+treating psychiatric disorders. We performed a systematic review of the 
+literature to document the projections of the three selected structures and 
+compared it with the targets proposed by text-mining models, both in rat and 
+primate (including human). We ran probabilistic tractography on the nucleus 
+accumbens and compared the output with the results of the text-mining models and 
+literature review. Overall, text-mining the literature could find three times as 
+many targets as two man-weeks of curation could. The overall efficiency of the 
+text-mining against literature review in our study was 98% recall (at 36% 
+precision), meaning that over all the targets for the three selected seeds, only 
+one target has been missed by text-mining. We demonstrate that connectivity for 
+a structure of interest can be extracted from a very large amount of 
+publications and abstracts. We believe this tool will be useful in helping the 
+neuroscience community to facilitate connectivity studies of particular brain 
+regions. The text mining tools used for the study are part of the HBP 
+Neuroinformatics Platform, publicly available at 
+http://connectivity-brainer.rhcloud.com/.
+
+DOI: 10.3389/fnana.2015.00066
+PMCID: PMC4445321
+PMID: 26074781

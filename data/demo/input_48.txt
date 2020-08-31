@@ -1,0 +1,35 @@
+48. AMIA Jt Summits Transl Sci Proc. 2017 Jul 26;2017:473-482. eCollection 2017.
+
+Triangulating Methodologies from Software, Medicine and Human Factors Industries 
+to Measure Usability and Clinical Efficacy of Medication Data Visualization in 
+an Electronic Health Record System.
+
+Chang B(1), Kanagaraj M(1), Neely B(2), Segall N(1), Huang E(1)(2).
+
+Author information:
+(1)Duke University School of Medicine, Durham, NC.
+(2)Duke University Health System Division of Translational Bioinformatics, 
+Durham, NC.
+
+Within the last decade, use of Electronic Health Record (EHR) systems has become 
+intimately integrated into healthcare practice in the United States. However, 
+large gaps remain in the study of clinical usability and require rigorous and 
+innovative approaches for testing usability principles. In this study, validated 
+tools from the core functions that EHRs serve-software, medicine and human 
+factors-were combined to holistically understand and objectively measure 
+usability of medication data displays. The first phase of this study included 
+132 medical trainee participants who were randomized to one of two simulated EHR 
+environments with either a medication list or a medication timeline 
+visualization. Within these environments human-computer interaction metrics, 
+clinical reasoning and situation awareness tests, and usability surveys captured 
+their multi-faceted interactions. Results showed no statistically significant 
+differences in the two displays from software and situation awareness 
+perspectives, though there were higher statistically significant usability 
+scores of the medication timeline (intervention) as compared to the medication 
+list (control). This first phase of a novel design in triangulating 
+methodologies revealed several limitations from which future experiments will be 
+adjusted with hopes of yielding further insight and a generalizable testing 
+platform for evolving EHR interfaces.
+
+PMCID: PMC5543381
+PMID: 28815147

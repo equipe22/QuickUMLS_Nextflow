@@ -1,0 +1,67 @@
+593. Addiction. 2019 Aug;114(8):1462-1470. doi: 10.1111/add.14607. Epub 2019 Apr 25.
+
+Medical complications associated with substance use disorders in patients with 
+type 2 diabetes and hypertension: electronic health record findings.
+
+Winhusen T(1), Theobald J(1), Kaelber DC(2)(3)(4), Lewis D(1).
+
+Author information:
+(1)Addiction Sciences Division, Department of Psychiatry and Behavioral 
+Neuroscience, University of Cincinnati College of Medicine, Cincinnati, OH, USA.
+(2)Department of Information Services, The MetroHealth System, Cleveland, OH, 
+USA.
+(3)Departments of Internal Medicine, Pediatrics, and Population and Quantitative 
+Health Sciences, Case Western Reserve University, Cleveland, OH, USA.
+(4)The Center for Clinical Informatics Research and Education, The MetroHealth 
+System, Cleveland, OH, USA.
+
+Comment in
+    Addiction. 2019 Aug;114(8):1471-1472.
+
+BACKGROUND AND AIMS: Screening for substance use disorder (SUD) in general 
+medical settings may be particularly important in patients with comorbid health 
+conditions exacerbated by SUD. This study evaluated whether SUD is associated 
+with type 2 diabetes mellitus (T2DM) complications in patients with co-occurring 
+T2DM and hypertension.
+DESIGN: Analysis of a limited data set obtained through IBM Watson Health 
+Explorys, a platform integrating data from electronic health records. Matched 
+controls were defined for each of five SUDs: tobacco use disorder (TUD), opioid 
+use disorder (OUD), cocaine use disorder, cannabis use disorder (CUD) and 
+alcohol use disorder (AUD) using Mahalanobis distance within propensity score 
+calipers.
+SETTING: All patients were seen in the MetroHealth System (Cleveland, OH, USA) 
+and had diagnosis codes for T2DM and hypertension.
+PARTICIPANTS: SUD group participants had a diagnosis of abuse/dependence for the 
+substance of interest. Controls for each SUD group had no diagnosis code related 
+to the SUD of interest and were selected to match the SUD patients on 
+demographics, residential zip code median income and body mass index. Total 
+sample sizes for each SUD-control comparison ranged from 1160 for CUD to 22 128 
+for TUD.
+MEASUREMENTS: Outcome was diagnosis (yes/no) of four T2DM complications 
+(cerebrovascular accident, diabetic neuropathy, diabetic renal disease, 
+myocardial infarction) and all-cause mortality.
+FINDINGS: Logistic regressions revealed that SUD was significantly associated 
+with greater risk of cerebrovascular accident [TUD odds ratio (OR) = 1.79, 
+OUD-OR = 1.94, cocaine use disorder OR = 2.67], diabetic neuropathy 
+[TUD-adjusted OR (aOR) = 1.47, cocaine use disorder-aOR = 1.35, AUD-aOR = 1.27], 
+diabetic renal disease (TUD-aOR = 1.25, OUD-OR = 1.34), myocardial infarction 
+(TUD-OR = 1.96, OUD-OR = 2.01, cocaine use disorder-OR = 2.68, CUD-OR = 2.48, 
+AUD-OR = 1.42) and mortality (TUD-OR = 1.15, cocaine use disorder-OR = 1.61, 
+CUD-OR = 1.49, AUD-OR = 1.35).
+CONCLUSIONS: Among patients in Ohio USA with both type 2 diabetes mellitus 
+(T2DM) and hypertension, those with substance use disorders appear to have 
+greater risk for T2DM complications and all-cause mortality.
+
+© 2019 Society for the Study of Addiction.
+
+DOI: 10.1111/add.14607
+PMCID: PMC6626564
+PMID: 30851217 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations of interest: TW, JT, and DL declare 
+no conflicts of interest. DCK is the Chief Medical Informatics Officer of the 
+MetroHealth System. In exchange for contributing de-identified data to the 
+Explorys network, the MetroHealth System receives access to the Explorys Cohort 
+Discovery tool, which was used to conduct this study. Neither DCK nor the 
+MetroHealth System have any direct financial ties to Explorys (IBM Watson 
+Health).

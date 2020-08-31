@@ -1,0 +1,39 @@
+440. AMIA Jt Summits Transl Sci Proc. 2020 May 30;2020:710-719. eCollection 2020.
+
+Integrating Electronic Health Record Data into the ADEpedia-on-OHDSI Platform 
+for Improved Signal Detection: A Case Study of Immune-related Adverse Events.
+
+Yu Y(1), Ruddy KJ(2), Wen A(1), Zong N(1), Tsuji S(1), Chen J(1), Shah ND(1)(3), 
+Jiang G(1).
+
+Author information:
+(1)Department of Health Sciences Research, Mayo Clinic, Rochester, MN.
+(2)Department of Oncology, Mayo Clinic, Rochester, MN.
+(3)Robert D. and Patricia E. Kern Center for the Science of Health Care 
+Delivery, Mayo Clinic, Rochester, MN.
+
+With widespread adoption of electronic health records (EHRs), Real World Data 
+and Real World Evidence (RWE) have been increasingly used by FDA for evaluating 
+drug safety and effectiveness. However, integration of heterogeneous drug safety 
+data sources and systems remains an impediment for effective pharmacovigilance 
+studies. In an ongoing project, we have developed a next generation 
+pharmacovigilance signal detection framework known as ADEpedia-on-OHDSI using 
+the OMOP common data model (CDM). The objective of the study is to demonstrate 
+the feasibility of the framework for integrating both spontaneous reporting data 
+and EHR data for improved signal detection with a case study of immune-related 
+adverse events. We first loaded the OMOP CDM with both recent and legacy FAERS 
+(FDA Adverse Event Reporting System) data (from the time period between Jan. 
+2004 and Dec. 2018). We also integrated the clinical data from the Mayo Clinic 
+EHR system for six oncological immunotherapy drugs. We implemented a signal 
+detection algorithm and compared the timelines of positive signals detected from 
+both FAERS and EHR data. We found that the signals detected from EHRs are 4 
+months earlier than signals detected from FAERS database (depending on the 
+signal detection methods used) for the ipilimumab-induced hypopituitarism. Our 
+CDM-based approach would be useful to provide a scalable solution to integrate 
+both drug safety data and EHR data to generate RWE for improved signal 
+detection.
+
+©2020 AMIA - All rights reserved.
+
+PMCID: PMC7233056
+PMID: 32477694

@@ -1,0 +1,43 @@
+278. J Am Med Inform Assoc. 2017 Sep 1;24(5):913-920. doi: 10.1093/jamia/ocx022.
+
+Development of an automated assessment tool for MedWatch reports in the FDA 
+adverse event reporting system.
+
+Han L(1), Ball R(2), Pamer CA(2), Altman RB(3)(4), Proestel S(2).
+
+Author information:
+(1)Biomedical Informatics Training Program, Stanford University, Stanford, CA, 
+USA.
+(2)Office of Surveillance and Epidemiology, Center for Drug Evaluation and 
+Research, Food and Drug Administration, Silver Spring, MD, USA.
+(3)Department of Genetics, Stanford University.
+(4)Department of Bioengineering, Stanford University.
+
+OBJECTIVE: As the US Food and Drug Administration (FDA) receives over a million 
+adverse event reports associated with medication use every year, a system is 
+needed to aid FDA safety evaluators in identifying reports most likely to 
+demonstrate causal relationships to the suspect medications. We combined text 
+mining with machine learning to construct and evaluate such a system to identify 
+medication-related adverse event reports.
+METHODS: FDA safety evaluators assessed 326 reports for medication-related 
+causality. We engineered features from these reports and constructed random 
+forest, L1 regularized logistic regression, and support vector machine models. 
+We evaluated model accuracy and further assessed utility by generating report 
+rankings that represented a prioritized report review process.
+RESULTS: Our random forest model showed the best performance in report ranking 
+and accuracy, with an area under the receiver operating characteristic curve of 
+0.66. The generated report ordering assigns reports with a higher probability of 
+medication-related causality a higher rank and is significantly correlated to a 
+perfect report ordering, with a Kendall's tau of 0.24 ( P  = .002).
+CONCLUSION: Our models produced prioritized report orderings that enable FDA 
+safety evaluators to focus on reports that are more likely to contain valuable 
+medication-related adverse event information. Applying our models to all FDA 
+adverse event reports has the potential to streamline the manual review process 
+and greatly reduce reviewer workload.
+
+Published by Oxford University Press on behalf of the American Medical 
+Informatics Association 2017. This work is written by US Government employees 
+and is in the public domain in the United States.
+
+DOI: 10.1093/jamia/ocx022
+PMID: 28371826 [Indexed for MEDLINE]

@@ -1,0 +1,29 @@
+541. AMIA Annu Symp Proc. 2015 Nov 5;2015:747-55. eCollection 2015.
+
+Supporting Multi-sourced Medication Information in i2b2.
+
+Klann JG(1), Pfiffner PB(2), Natter MD(2), Conner E(3), Blazejewski P(4), Murphy 
+SN(1), Mandl KD(2).
+
+Author information:
+(1)Partners Healthcare, Boston, MA;; Harvard Medical School, Boston, MA;; 
+Massachusetts General Hospital, Boston, MA;
+(2)Harvard Medical School, Boston, MA;; Boston Children's Hospital, Boston MA;
+(3)Anotera, LLC.
+(4)Boston Children's Hospital, Boston MA;
+
+Postmarketing drug surveillance is critical to assessing adverse events 
+associated with medications, because prelaunch clinical trials frequently miss 
+negative drug effects. The Informatics for Integrating Biology and the Bedside 
+platform (i2b2) has been used effectively for this. However, previous work 
+suffers from incomplete medical data present in electronic health record (EHR) 
+systems. Here, we develop a system to integrate non-traditional data sources 
+with EHR data: pharmacy dispensing information and patient-reported data. We 
+implement and validate a toolset to gather medication data from a Pharmacy 
+Benefit Manager network, import it into an i2b2 EHR repository using a standard 
+data format, merge it with the EHR data, and present it to for annotation with 
+results returned to i2b2. This toolkit is enabling studies on medication list 
+data quality, adherence, and adverse event detection.
+
+PMCID: PMC4765563
+PMID: 26958210 [Indexed for MEDLINE]

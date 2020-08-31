@@ -1,0 +1,29 @@
+406. Methods Mol Biol. 2009;563:3-13. doi: 10.1007/978-1-60761-175-2_1.
+
+Mining protein-protein interactions from published literature using Linguamatics 
+I2E.
+
+Bandy J(1), Milward D, McQuay S.
+
+Author information:
+(1)Linguamatics Ltd, St John's Innovation Centre, Cambridge, UK.
+
+Natural language processing (NLP) technology can be used to rapidly extract 
+protein-protein interactions from large collections of published literature. In 
+this chapter we will work through a case study using MEDLINE biomedical 
+abstracts (1) to find how a specific set of 50 genes interact with each other. 
+We will show what steps are required to achieve this using the I2E software from 
+Linguamatics ( www.linguamatics.com (2)).To extract protein networks from the 
+literature, there are two typical strategies. The first is to find pairs of 
+proteins which are mentioned together in the same context, for example, the same 
+sentence, with the assumption that textual proximity implies biological 
+association. The second approach is to use precise linguistic patterns based on 
+NLP to find specific relationships between proteins. This can reveal the 
+direction of the relationship and its nature such as "phosphorylation" or 
+"upregulation". The I2E system uses a flexible text-mining approach, supporting 
+both of these strategies, as well as hybrid strategies which fall between the 
+two. In this chapter we show how multiple strategies can be combined to obtain 
+high-quality results.
+
+DOI: 10.1007/978-1-60761-175-2_1
+PMID: 19597777 [Indexed for MEDLINE]

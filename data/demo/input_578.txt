@@ -1,0 +1,69 @@
+578. Arch Argent Pediatr. 2019 Dec 1;117(6):S264-S276. doi: 10.5546/aap.2019.S264.
+
+[Use of information and communication technologies by argentine pediatricians].
+
+[Article in Spanish]
+
+Goldfarb G(1), Nasanovsky J(2), Krynski L(2), Ciancaglini A(2), García 
+Bournissen F(3).
+
+Author information:
+(1)Subcomisión de Tecnologías de Información y Comunicación de la Sociedad 
+Argentina de Pediatría. guille.goldfarb@gmail.com.
+(2)Subcomisión de Tecnologías de Información y Comunicación de la Sociedad 
+Argentina de Pediatría.
+(3)Hospital de Niños Dr. Ricardo Gutiérrez, Ciudad de Buenos Aires.
+
+INTRODUCTION: There are not data in Argentina about the percentages of use of 
+Information and Communication Technologies by pediatricians yet.
+OBJECTIVES: To estimate the prevalence of the use of Electronic Health Records 
+(EHR) and Electronic Messaging. To describe the perception of advantages and 
+disadvantages.
+POPULATION AND METHODS: Observational, exploratory, descriptive and transversal 
+study. Five submissions of a self-administered survey were made to the list of 
+partners of the Sociedad Argentina de Pediatría between July and September of 
+2017.
+RESULTS: Of 14,604 partners, 3468 responses were received (23.7 %); 2680 were 
+complete (18.4 %). The overall percentage of use of EHR was 44 %. There were 
+advantages: access to information (23.2 %), streamlining work (20.1 %), secure 
+information backup (14.3 %) and availability (11.9 %), calculation of 
+percentiles (11.1 %) and statistics (9.2 %). The perceived disadvantages: 
+technical issues (32 %), fear of information loss (20 %), doubts about legal 
+issues (15.8 %). The use of EHR was going to be implemented by 49.8 % of 
+respondents in the next year. Applications to receive consultations from their 
+patients were used by 76.9 % of pediatricians. WhatsApp (46.6 %) was the most 
+integrated platform. It was considered by 74 % that non face to face 
+consultations should be remunerated.
+CONCLUSION: EHR was used by 44 % of pediatricians who responded. And 49.8 % were 
+considering the implementation of some EHR system during the next year. 
+Electronic messaging was widespread (76.9 %) in all age ranges.
+
+Plain Language Summary: Introducción: No existen datos en la Argentina acerca de 
+la adopción de tecnologías de información y comunicación (TIC) por parte de los 
+pediatras. Objetivos: Estimar la prevalencia de uso de historia clínica 
+electrónica (HCE) y de mensajería electrónica. Describir percepción de ventajas 
+y desventajas. Población y métodos: Estudio observacional, exploratorio, 
+descriptivo y transversal. Se envió una encuesta autoadministrada al padrón de 
+socios de la Sociedad Argentina de Pediatría entre julio y septiembre de 2017. 
+Resultados: De 14 604 socios, se recibieron 3468 respuestas (el 23,7 %); 2680 
+fueron completas (el 18,4 %). El porcentaje de uso de HCE fue del 44 %. Se 
+destacaron ventajas: acceso a la información (el 23,2 %), agilización del 
+trabajo (el 20,1 %), resguardo seguro de información (el 14,3 %), disponibilidad 
+(el 11,9 %), cálculo de percentiles (el 11,1 %) y realización de estadísticas 
+(el 9,2 %). Las desventajas percibidas fueron cuestiones técnicas (el 32 %), 
+temor a pérdida de información (el 20 %), dudas sobre cuestiones legales (el 
+15,8 %). El 49,8 % consideró implementar el uso de HCE en el próximo año. El 
+76,9 % usaba aplicaciones para recibir consultas de sus pacientes. El WhatsApp 
+(el 46,6 %) fue la plataforma más utilizada. El 74 % consideraba que las 
+consultas no presenciales deberían ser remuneradas. Conclusión: El 44 % de los 
+pediatras que respondieron utilizaba HCE. El 49,8 % consideró implementar algún 
+sistema de HCE durante el año siguiente al estudio. La mensajería electrónica 
+era ampliamente utilizada (el 76,9 %) en todos los rangos etarios.
+
+Sociedad Argentina de Pediatría.
+
+DOI: 10.5546/aap.2019.S264
+PMID: 31758896 [Indexed for MEDLINE]
+
+Conflict of interest statement: El Dr. Jorge Nasanovsky es director de 
+Zonapediatrica.com y Citaldoc.com

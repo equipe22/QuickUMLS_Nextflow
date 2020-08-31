@@ -1,0 +1,22 @@
+310. IEEE/ACM Trans Comput Biol Bioinform. 2016 Jul-Aug;13(4):634-42. doi: 
+10.1109/TCBB.2015.2478467. Epub 2015 Sep 14.
+
+An Unsupervised Graph Based Continuous Word Representation Method for Biomedical 
+Text Mining.
+
+Jiang Z, Li L, Huang D.
+
+In biomedical text mining tasks, distributed word representation has succeeded 
+in capturing semantic regularities, but most of them are shallow-window based 
+models, which are not sufficient for expressing the meaning of words. To 
+represent words using deeper information, we make explicit the semantic 
+regularity to emerge in word relations, including dependency relations and 
+context relations, and propose a novel architecture for computing continuous 
+vector representation by leveraging those relations. The performance of our 
+model is measured on word analogy task and Protein-Protein Interaction 
+Extraction (PPIE) task. Experimental results show that our method performs 
+overall better than other word representation models on word analogy task and 
+have many advantages on biomedical text mining.
+
+DOI: 10.1109/TCBB.2015.2478467
+PMID: 26390497 [Indexed for MEDLINE]

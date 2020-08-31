@@ -1,0 +1,67 @@
+549. Assessing the Accuracy of Machine-Assisted Abstract Screening With DistillerAI: 
+A User Study [Internet].
+
+Gartlehner G(1), Wagner G(2), Lux L(1), Affengruber L(2)(3), Dobrescu A(2), 
+Kaminski-Hartenthaler A(2), Viswanathan M(1).
+
+Rockville (MD): Agency for Healthcare Research and Quality (US); 2019 Nov. 
+Report No.: 19(20)-EHC026-EF.
+AHRQ Methods for Effective Health Care.
+
+Author information:
+(1)RTI International–University of North Carolina Evidence-based Practice 
+Center, Research Triangle Park, NC
+(2)Danube University Krems, Department for Evidence-based Medicine and Clinical 
+Epidemiology, Krems, Austria
+(3)Department of Family Medicine, Care and Public Health Research Institute, 
+Maastricht University, Maastricht, The Netherlands
+
+BACKGROUND: Web applications that employ natural language processing 
+technologies such as text mining and text classification to support systematic 
+reviewers during abstract screening have become more user friendly and more 
+common. Such semi-automated screening tools can increase efficiency by reducing 
+the number of abstracts needed to screen or by replacing one screener after 
+adequately training the algorithm of the machine. Savings in workload between 30 
+percent and 70 percent might be possible with the use of such tools. The goal of 
+our project was to conduct a case study to explore a screening approach that 
+temporarily replaces a human screener with a semi-automated screening tool.
+METHODS: To address our objective, we evaluated the accuracy of a 
+machine-assisted screening approach using an Agency for Healthcare Research and 
+Quality comparative effectiveness review as the reference standard. We chose 
+DistillerAI as a semi-automated screening tool for our project, applying its 
+naïve Bayesian machine-learning option. Five teams screened the same 2,472 
+abstracts in parallel, using the machine-assisted approach. Each team trained 
+DistillerAI with 300 randomly selected abstracts that the team screened dually. 
+For the remaining 2,172 abstracts, DistillerAI replaced one human screener in 
+each team and provided predictions about the relevance of records. We used a 
+prediction score of 0.5 (i.e., inconclusive) or greater to classify a record as 
+an inclusion. A single reviewer also screened all remaining abstracts. A second 
+human screener resolved conflicts between the single reviewer and DistillerAI. 
+We compared the decisions of the machine-assisted approach, single-reviewer 
+screening (i.e., no machine assistance), and screening with DistillerAI alone 
+(i.e., no human involvement after training) against the reference standard and 
+calculated sensitivities, specificities, and the area under the receiver 
+operating characteristics curve. In addition, we determined the interrater 
+agreement, the proportion of included abstracts, and the number of conflicts 
+between human screeners and DistillerAI.
+RESULTS: The mean sensitivity of the machine-assisted screening approach across 
+the five screening teams was 78 percent (95% confidence interval [CI], 66% to 
+90%), and the mean specificity was 95 percent (95% CI, 92% to 97%). By 
+comparison, the sensitivity of single-reviewer screening was also 78 percent 
+(95% CI, 66% to 89%); the sensitivity of DistillerAI alone was 14 percent (95% 
+CI, 0% to 31%). Specificities for single-reviewer screening and DistillerAI 
+alone were 94 percent (95% CI, 91% to 97%) and 98 percent (95% CI, 97% to 100%), 
+respectively. Machine-assisted screening and single-reviewer screening had 
+similar areas under the curve (0.87 and 0.86, respectively); by contrast, the 
+area under the curve for DistillerAI alone was just slightly better than chance 
+(0.56). The interrater agreement between human screeners and DistillerAI with a 
+prevalence-adjusted kappa was 0.85 (95% CI, 0.84 to 0.86).
+DISCUSSION: Findings of our study indicate that the accuracy of DistillerAI is 
+not yet adequate to replace a human screener temporarily during abstract 
+screening. The approach that we tested missed too many relevant studies and 
+created too many conflicts between human screeners and DistillerAI. Rapid 
+reviews, which do not require detecting the totality of the relevant evidence, 
+may find semi-automation tools to have greater utility than traditional 
+systematic reviews.
+
+PMID: 31804782

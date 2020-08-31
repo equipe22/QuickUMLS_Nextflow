@@ -1,0 +1,47 @@
+134. J Am Med Inform Assoc. 2015 Sep;22(5):980-6. doi: 10.1093/jamia/ocv012. Epub 
+2015 May 14.
+
+Automating the generation of lexical patterns for processing free text in 
+clinical documents.
+
+Meng F(1), Morioka C(2).
+
+Author information:
+(1)Medical Imaging Informatics Group, Department of Radiological Sciences, 
+University of California, Los Angeles, CA, USA MAVERIC, VA Boston Healthcare 
+System, Boston MA, USA fmeng@mii.ucla.edu.
+(2)Medical Imaging Informatics Group, Department of Radiological Sciences, 
+University of California, Los Angeles, CA, USA Department of Radiology, VA 
+Greater Los Angeles Healthcare System, Los Angeles CA, USA.
+
+OBJECTIVE: Many tasks in natural language processing utilize lexical 
+pattern-matching techniques, including information extraction (IE), negation 
+identification, and syntactic parsing. However, it is generally difficult to 
+derive patterns that achieve acceptable levels of recall while also remaining 
+highly precise.
+MATERIALS AND METHODS: We present a multiple sequence alignment (MSA)-based 
+technique that automatically generates patterns, thereby leveraging language 
+usage to determine the context of words that influence a given target. MSAs 
+capture the commonalities among word sequences and are able to reveal areas of 
+linguistic stability and variation. In this way, MSAs provide a systemic 
+approach to generating lexical patterns that are generalizable, which will both 
+increase recall levels and maintain high levels of precision.
+RESULTS: The MSA-generated patterns exhibited consistent F1-, F.5-, and F2- 
+scores compared to two baseline techniques for IE across four different tasks. 
+Both baseline techniques performed well for some tasks and less well for others, 
+but MSA was found to consistently perform at a high level for all four tasks.
+DISCUSSION: The performance of MSA on the four extraction tasks indicates the 
+method's versatility. The results show that the MSA-based patterns are able to 
+handle the extraction of individual data elements as well as relations between 
+two concepts without the need for large amounts of manual intervention.
+CONCLUSION: We presented an MSA-based framework for generating lexical patterns 
+that showed consistently high levels of both performance and recall over four 
+different extraction tasks when compared to baseline methods.
+
+© The Author 2015. Published by Oxford University Press on behalf of the 
+American Medical Informatics Association. All rights reserved. For Permissions, 
+please email: journals.permissions@oup.com.
+
+DOI: 10.1093/jamia/ocv012
+PMCID: PMC4986670
+PMID: 25977405 [Indexed for MEDLINE]

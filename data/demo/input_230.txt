@@ -1,0 +1,35 @@
+230. Stud Health Technol Inform. 2014;198:125-32.
+
+An Arden-Syntax-based clinical decision support framework for medical 
+guidelines--Lyme borreliosis as an example.
+
+Seitinger A(1), Fehre K(2), Adlassnig KP(2), Rappelsberger A(3), Wurm E(1), 
+Aberer E(4), Binder M(1).
+
+Author information:
+(1)Department of Dermatology, Division of General Dermatology, Medical 
+University of Vienna, Austria.
+(2)Medexter Healthcare GmbH, Vienna, Austria.
+(3)Section for Medical Expert and Knowledge-Based Systems, Center for Medical 
+Statistics, Informatics, and Intelligent Systems, Medical University of Vienna, 
+Austria.
+(4)Department of Environmental Dermatology and Venereology, Medical University 
+Graz, Austria.
+
+Medicine is evolving at a very fast pace. The overwhelming quantity of new data 
+compels the practician to be consistently informed about the most recent 
+scientific advances. While medical guidelines have proven to be an acceptable 
+tool for bringing new medical knowledge into clinical practice and also support 
+medical personnel, reading them may be rather time-consuming. Clinical decision 
+support systems have been developed to simplify this process. However, the 
+implementation or adaptation of such systems for individual guidelines involves 
+substantial effort. This paper introduces a clinical decision support platform 
+that uses Arden Syntax to implement medical guidelines using client-server 
+architecture. It provides a means of implementing different guidelines without 
+the need for adapting the system's source code. To implement a prototype, three 
+Lyme borreliosis guidelines were aggregated and a knowledge base created. The 
+prototype employs transfer objects to represent any text-based medical 
+guideline. As part of the implementation, we show how Fuzzy Arden Syntax can 
+improve the overall usability of a clinical decision support system.
+
+PMID: 24825694 [Indexed for MEDLINE]

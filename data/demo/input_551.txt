@@ -1,0 +1,42 @@
+551. Transfusion. 2018 Nov;58(11):2490-2494. doi: 10.1111/trf.14872. Epub 2018 Sep 
+19.
+
+Anti-D from alloimmunization versus RhIG: detective work in the blood bank and 
+transfusion medicine services.
+
+Berry D(1), DiGuardo M(1), Mo YD(1), Wehrli G(1).
+
+Author information:
+(1)Department of Pathology, University of Virginia Health System, 
+Charlottesville, Virginia.
+
+BACKGROUND: The blood bank and transfusion medicine services (BBTMS) engages 
+with electronic health records (EHRs), clinicians, and outside hospitals (OHs) 
+to obtain comprehensive patient history to optimize care. Detection of anti-D in 
+a pregnant patient underscores this work. Differentiating passive anti-D due to 
+RhIG administration versus alloanti-D affects clinical decision making. The 
+objectives of this study were to identify the required steps, barriers, and 
+outcomes of anti-D investigations in obstetric patients.
+STUDY DESIGN AND METHODS: This retrospective case series reviewed nine pregnant 
+patients over 24 months, for whom anti-D was identified with no reported RhIG 
+history. Six steps were performed to ascertain anti-D history: 1) review the 
+on-site EHR; 2) contact the on-site obstetrician, 3) review history from the 
+automatic health information exchange (HIE) with OHs using the same EHR 
+platform, 4) request information from OHs with a shared EHR platform and without 
+automatic HIE, 5) contact the OH BBTMS, and 6) communicate with the outside 
+ambulatory practice (OAP).
+RESULTS: The investigations revealed that eight of nine patients received RhIG 
+before their presentation. Five patients received RhIG at an OH's emergency 
+department and three at an OAP. One patient's history remained unknown after 
+initial investigations; however, a subsequent sample unveiled a confounding 
+alloantibody.
+CONCLUSION: In the absence of a national HIE, continuity of care suffers through 
+omission of critical information. Strategies to avoid confusing passive anti-D 
+and alloanti-D include expanding HIE capabilities and use of patient 
+identification cards with critical BBTMS information to include RhIG 
+administration dates.
+
+© 2018 AABB.
+
+DOI: 10.1111/trf.14872
+PMID: 30230552 [Indexed for MEDLINE]

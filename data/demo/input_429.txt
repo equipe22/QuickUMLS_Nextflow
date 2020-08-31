@@ -1,0 +1,38 @@
+429. J Biomed Inform. 2009 Oct;42(5):790-800. doi: 10.1016/j.jbi.2008.12.011. Epub 
+2009 Jan 4.
+
+Towards identifying intervention arms in randomized controlled trials: 
+extracting coordinating constructions.
+
+Chung GY(1).
+
+Author information:
+(1)Centre for Health Informatics, University of New South Wales, Sydney, NSW 
+2052, Australia. gigigraceyc@gmail.com
+
+BACKGROUND: Large numbers of reports of randomized controlled trials (RCTs) are 
+published each year, and it is becoming increasingly difficult for clinicians 
+practicing evidence-based medicine to find answers to clinical questions. The 
+automatic machine extraction of RCT experimental details, including design 
+methodology and outcomes, could help clinicians and reviewers locate relevant 
+studies more rapidly and easily.
+AIM: This paper investigates how the comparison of interventions is documented 
+in the abstracts of published RCTs. The ultimate goal is to use automated text 
+mining to locate each intervention arm of a trial. This preliminary work aims to 
+identify coordinating constructions, which are prevalent in the expression of 
+intervention comparisons.
+METHODS AND RESULTS: An analysis of the types of constructs that describe the 
+allocation of intervention arms is conducted, revealing that the compared 
+interventions are predominantly embedded in coordinating constructions. A method 
+is developed for identifying the descriptions of the assignment of treatment 
+arms in clinical trials, using a full sentence parser to locate coordinating 
+constructions and a statistical classifier for labeling positive examples. 
+Predicate-argument structures are used along with other linguistic features with 
+a maximum entropy classifier. An F-score of 0.78 is obtained for labeling 
+relevant coordinating constructions in an independent test set.
+CONCLUSIONS: The intervention arms of a randomized controlled trials can be 
+identified by machine extraction incorporating syntactic features derived from 
+full sentence parsing.
+
+DOI: 10.1016/j.jbi.2008.12.011
+PMID: 19166975 [Indexed for MEDLINE]

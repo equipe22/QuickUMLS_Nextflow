@@ -1,0 +1,48 @@
+61. Mayo Clin Proc Innov Qual Outcomes. 2019 Aug 23;3(3):319-326. doi: 
+10.1016/j.mayocpiqo.2019.06.004. eCollection 2019 Sep.
+
+Mayo Clinic Registry of Operational Tasks (ROOT): A Paradigm Shift in Electronic 
+Health Reco Implementation Evaluation.
+
+Helmers R(1), Doebbeling BN(2), Kaufman D(2), Grando A(2), Poterack K(3), 
+Furniss S(2), Burton M(4), Miksch T(5).
+
+Author information:
+(1)Mayo Clinic Health System, Northwest Wisconsin, Eau Claire, WI.
+(2)Arizona State University, Tempe, AZ.
+(3)Mayo Clinic, Phoenix, AZ.
+(4)Apervita, Inc, Chicago, IL.
+(5)Mayo Clinic, Rochester, MN.
+
+OBJECTIVE: To systematically examine clinical workflows before and after a major 
+electronic health record (EHR) implementation, we performed this study. EHR 
+implementation and/or conversion are associated with many challenges, which are 
+barriers to optimal care. Clinical workflows may be significantly affected by 
+EHR implementations and conversions, resulting in provider frustration and 
+reduced efficiency.
+PATIENTS AND METHODS: Our institution completed a large EHR conversion and 
+workflow standardization converting from 3 EHRs (GE Centricity and 2 versions of 
+Cerner) to a system-wide Epic platform. To study this quantitatively and 
+qualitatively, we collected and curated clinical workflows through rapid 
+ethnography, workflow observation, video ethnography, and log-file analyses of 
+hundreds of providers, patients, and more than 100,000 log files. The study 
+included 5 geographic sites in 4 states (Arizona, Minnesota, Florida, and 
+Wisconsin). This project began in April 2016, and will be completed by December 
+2019. Our study began on May 1, 2016, and is ongoing.
+RESULTS: Salient themes include the importance of prioritizing clinical areas 
+with the most intensive EHR use, the value of tools to identify bottlenecks in 
+workflow that cause delays, and desire for additional training to optimize 
+navigation. Video microanalyses identified marked differences in patterns of 
+workflow and EHR navigation patterns across sites. Log-file analyses and social 
+network analyses identified differences in personnel roles, which led to 
+differences in patient-clinician interaction, time spent using the EHR, and 
+paper-based artifacts.
+CONCLUSION: Assessing and curating workflow data before and after EHR conversion 
+may provide opportunities for unexpected efficiencies in workflow optimization 
+and information-system redesign. This project may be a model for capturing 
+significant new knowledge in using EHRs to improve patient care, workflow 
+efficiency, and outcomes.
+
+DOI: 10.1016/j.mayocpiqo.2019.06.004
+PMCID: PMC6713835
+PMID: 31485570

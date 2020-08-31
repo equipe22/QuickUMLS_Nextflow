@@ -1,0 +1,53 @@
+39. BMC Cardiovasc Disord. 2017 Jun 12;17(1):151. doi: 10.1186/s12872-017-0580-8.
+
+Unlocking echocardiogram measurements for heart disease research through natural 
+language processing.
+
+Patterson OV(1)(2), Freiberg MS(3)(4), Skanderson M(5), J Fodeh S(6), Brandt 
+CA(5)(6), DuVall SL(7)(8).
+
+Author information:
+(1)Department of Veterans Affairs Salt Lake City Health Care System, 500 
+Foothill Drive Bldg. Mail Code 182, Salt Lake City, 84148, UT, USA. 
+olga.patterson@utah.edu.
+(2)School of Medicine, University of Utah, 295 Chipeta Way, Salt Lake City, 
+84132, UT, USA. olga.patterson@utah.edu.
+(3)VA Tennessee Valley Health Care System, Nashville, TN, USA.
+(4)Vanderbilt University Medical Center, Cardiovascular Medicine Division, 
+Nashville, TN, USA.
+(5)Connecticut VA Healthcare System, West Haven, CT, USA.
+(6)Center for Medical Informatics, School of Medicine, Yale University, West 
+Haven, CT, USA.
+(7)Department of Veterans Affairs Salt Lake City Health Care System, 500 
+Foothill Drive Bldg. Mail Code 182, Salt Lake City, 84148, UT, USA.
+(8)School of Medicine, University of Utah, 295 Chipeta Way, Salt Lake City, 
+84132, UT, USA.
+
+BACKGROUND: In order to investigate the mechanisms of cardiovascular disease in 
+HIV infected and uninfected patients, an analysis of echocardiogram reports is 
+required for a large longitudinal multi-center study.
+IMPLEMENTATION: A natural language processing system using a dictionary lookup, 
+rules, and patterns was developed to extract heart function measurements that 
+are typically recorded in echocardiogram reports as measurement-value pairs. 
+Curated semantic bootstrapping was used to create a custom dictionary that 
+extends existing terminologies based on terms that actually appear in the 
+medical record. A novel disambiguation method based on semantic constraints was 
+created to identify and discard erroneous alternative definitions of the 
+measurement terms. The system was built utilizing a scalable framework, making 
+it available for processing large datasets.
+RESULTS: The system was developed for and validated on notes from three sources: 
+general clinic notes, echocardiogram reports, and radiology reports. The system 
+achieved F-scores of 0.872, 0.844, and 0.877 with precision of 0.936, 0.982, and 
+0.969 for each dataset respectively averaged across all extracted values. Left 
+ventricular ejection fraction (LVEF) is the most frequently extracted 
+measurement. The precision of extraction of the LVEF measure ranged from 0.968 
+to 1.0 across different document types.
+CONCLUSIONS: This system illustrates the feasibility and effectiveness of a 
+large-scale information extraction on clinical data. New clinical questions can 
+be addressed in the domain of heart failure using retrospective clinical data 
+analysis because key heart function measurements can be successfully extracted 
+using natural language processing.
+
+DOI: 10.1186/s12872-017-0580-8
+PMCID: PMC5469017
+PMID: 28606104 [Indexed for MEDLINE]

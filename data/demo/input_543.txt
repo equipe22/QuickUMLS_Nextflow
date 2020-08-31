@@ -1,0 +1,33 @@
+543. AMIA Annu Symp Proc. 2015 Nov 5;2015:406-15. eCollection 2015.
+
+Cloud-based Predictive Modeling System and its Application to Asthma Readmission 
+Prediction.
+
+Chen R(1), Su H(1), Khalilia M(1), Lin S(1), Peng Y(1), Davis T(2), Hirsh DA(3), 
+Searles E(2), Tejedor-Sojo J(2), Thompson M(2), Sun J(1).
+
+Author information:
+(1)School of Computational Science and Engineering, Georgia Institute of 
+Technology, Atlanta, GA, USA.
+(2)Children's Healthcare of Atlanta, Atlanta, GA, USA.
+(3)Pediatric Emergency Medicine Associates, LLC, Atlanta, GA, USA.
+
+The predictive modeling process is time consuming and requires clinical 
+researchers to handle complex electronic health record (EHR) data in restricted 
+computational environments. To address this problem, we implemented a 
+cloud-based predictive modeling system via a hybrid setup combining a secure 
+private server with the Amazon Web Services (AWS) Elastic MapReduce platform. 
+EHR data is preprocessed on a private server and the resulting de-identified 
+event sequences are hosted on AWS. Based on user-specified modeling 
+configurations, an on-demand web service launches a cluster of Elastic Compute 2 
+(EC2) instances on AWS to perform feature selection and classification 
+algorithms in a distributed fashion. Afterwards, the secure private server 
+aggregates results and displays them via interactive visualization. We tested 
+the system on a pediatric asthma readmission task on a de-identified EHR dataset 
+of 2,967 patients. We conduct a larger scale experiment on the CMS Linkable 
+2008-2010 Medicare Data Entrepreneurs' Synthetic Public Use File dataset of 2 
+million patients, which achieves over 25-fold speedup compared to sequential 
+execution.
+
+PMCID: PMC4765612
+PMID: 26958172 [Indexed for MEDLINE]

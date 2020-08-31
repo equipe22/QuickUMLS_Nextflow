@@ -1,0 +1,53 @@
+550. Pilot Feasibility Stud. 2019 Feb 20;5:28. doi: 10.1186/s40814-019-0403-z. 
+eCollection 2019.
+
+Designing for implementation: user-centered development and pilot testing of a 
+behavioral economic-inspired electronic health record clinical decision support 
+module.
+
+Chokshi SK(1), Belli HM(1), Troxel AB(1), Blecker S(1), Blaum C(1), Testa P(1), 
+Mann D(1).
+
+Author information:
+(1)Department of Population Health, NYU School of Medicine, 227 E. 30th St., 7th 
+Fl, New York, NY 10016 USA.
+
+BACKGROUND: Current guidelines recommend less aggressive target hemoglobin A1c 
+(HbA1c) levels based on older age and lower life expectancy for older adults 
+with diabetes. The effectiveness of electronic health record (EHR) clinical 
+decision support (CDS) in promoting guideline adherence is undermined by alert 
+fatigue and poor workflow integration. Integrating behavioral economics (BE) and 
+CDS tools is a novel approach to improving adherence to guidelines while 
+minimizing clinician burden.
+METHODS: We will apply a systematic, user-centered design approach to 
+incorporate BE "nudges" into a CDS module and will perform user testing in two 
+"vanguard" sites. To accomplish this, we will conduct (1) semi-structured 
+interviews with key informants (n = 8), (2) a 2-h, design-thinking workshop to 
+derive and refine initial module ideas, and (3) semi-structured group interviews 
+at each site with clinic leaders and clinicians to elicit feedback on three 
+proposed nudge module components (navigator section, inbasket refill protocol, 
+medication preference list). Detailed field notes will be summarized by module 
+idea and usability theme for rapid iteration. Frequency of firing and user 
+action taken will be assessed in the first month of implementation via EHR 
+reporting to confirm that module components and related reporting are working as 
+expected as well as assess utilization. To assess the utilization and 
+feasibility of the new tools and generate estimates of clinician compliance with 
+the Choosing Wisely guideline for diabetes management in older adults, a 
+6-month, single-arm pilot study of the BE-EHR module will be conducted in six 
+outpatient primary care clinics.
+DISCUSSION: We hypothesize that a low burden, user-centered approach to design 
+will yield a BE-driven, CDS module with relatively high utilization by 
+clinicians. The resulting module will establish a platform for exploring the 
+ability of BE concepts embedded within the EHR to affect guideline adherence for 
+other use cases.
+
+DOI: 10.1186/s40814-019-0403-z
+PMCID: PMC6381676
+PMID: 30820339
+
+Conflict of interest statement: This study was approved by the institutional 
+review board of the New York University School of Medicine’s Institutional 
+Review Board (Reference # i17-01308) in New York.Not applicableThe authors 
+declare that they have no competing interests.Springer Nature remains neutral 
+with regard to jurisdictional claims in published maps and institutional 
+affiliations.

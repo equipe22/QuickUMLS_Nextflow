@@ -1,0 +1,29 @@
+242. IEEE/ACM Trans Comput Biol Bioinform. 2018 Jul-Aug;15(4):1239-1246. doi: 
+10.1109/TCBB.2015.2505278. Epub 2015 Dec 7.
+
+Towards Extracting Supporting Information About Predicted Protein-Protein 
+Interactions.
+
+Roth A, Subramanian S, Ganapathiraju MK.
+
+One of the goals of relation extraction is to identify protein-protein 
+interactions (PPIs) in biomedical literature. Current systems are capturing 
+binary relations and also the direction and type of an interaction. Besides 
+assisting in the curation PPIs into databases, there has been little real-world 
+application of these algorithms. We describe UPSITE, a text mining tool for 
+extracting evidence in support of a hypothesized interaction. Given a predicted 
+PPI, UPSITE uses a binary relation detector to check whether a PPI is found in 
+abstracts in PubMed. If it is not found, UPSITE retrieves documents relevant to 
+each of the two proteins separately, and extracts contextual information about 
+biological events surrounding each protein, and calculates semantic similarity 
+of the two proteins to provide evidential support for the predicted PPI. In 
+evaluations, relation extraction achieved an Fscore of 0.88 on the HPRD50 
+corpus, and semantic similarity measured with angular distance was found to be 
+statistically significant. With the development of PPI prediction algorithms, 
+the burden of interpreting the validity and relevance of novel PPIs is on 
+biologists. We suggest that presenting annotations of the two proteins in a PPI 
+side-by-side and a score that quantifies their similarity lessens this burden to 
+some extent.
+
+DOI: 10.1109/TCBB.2015.2505278
+PMID: 26672046 [Indexed for MEDLINE]

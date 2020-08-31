@@ -1,0 +1,57 @@
+149. PLoS One. 2015 May 11;10(5):e0122199. doi: 10.1371/journal.pone.0122199. 
+eCollection 2015.
+
+Extraction of pharmacokinetic evidence of drug-drug interactions from the 
+literature.
+
+Kolchinsky A(1), Lourenço A(2), Wu HY(3), Li L(3), Rocha LM(1).
+
+Author information:
+(1)School of Informatics and Computing, Indiana University, Bloomington, IN, 
+USA; Instituto Gulbenkian de Ciência, Oeiras, Portugal.
+(2)ESEI: Escuela Superior de Ingeniería Informática, University of Vigo, 
+Edificio Politécnico, Campus Universitario As Lagoas s/n 32004, Ourense, Spain; 
+CEB-Centre of Biological Engineering, University of Minho, Campus de Gualtar, 
+4710-057 Braga, Portugal.
+(3)Center for Computational Biology and Bioinformatics and Department of Medical 
+& Molecular Genetics, Indiana University School of Medicine, Indianapolis, IN, 
+USA.
+
+Drug-drug interaction (DDI) is a major cause of morbidity and mortality and a 
+subject of intense scientific interest. Biomedical literature mining can aid DDI 
+research by extracting evidence for large numbers of potential interactions from 
+published literature and clinical databases. Though DDI is investigated in 
+domains ranging in scale from intracellular biochemistry to human populations, 
+literature mining has not been used to extract specific types of experimental 
+evidence, which are reported differently for distinct experimental goals. We 
+focus on pharmacokinetic evidence for DDI, essential for identifying causal 
+mechanisms of putative interactions and as input for further pharmacological and 
+pharmacoepidemiology investigations. We used manually curated corpora of PubMed 
+abstracts and annotated sentences to evaluate the efficacy of literature mining 
+on two tasks: first, identifying PubMed abstracts containing pharmacokinetic 
+evidence of DDIs; second, extracting sentences containing such evidence from 
+abstracts. We implemented a text mining pipeline and evaluated it using several 
+linear classifiers and a variety of feature transforms. The most important 
+textual features in the abstract and sentence classification tasks were 
+analyzed. We also investigated the performance benefits of using features 
+derived from PubMed metadata fields, various publicly available named entity 
+recognizers, and pharmacokinetic dictionaries. Several classifiers performed 
+very well in distinguishing relevant and irrelevant abstracts (reaching F1≈0.93, 
+MCC≈0.74, iAUC≈0.99) and sentences (F1≈0.76, MCC≈0.65, iAUC≈0.83). We found that 
+word bigram features were important for achieving optimal classifier performance 
+and that features derived from Medical Subject Headings (MeSH) terms 
+significantly improved abstract classification. We also found that some 
+drug-related named entity recognition tools and dictionaries led to slight but 
+significant improvements, especially in classification of evidence sentences. 
+Based on our thorough analysis of classifiers and feature transforms and the 
+high classification performance achieved, we demonstrate that literature mining 
+can aid DDI discovery by supporting automatic extraction of specific types of 
+experimental evidence.
+
+DOI: 10.1371/journal.pone.0122199
+PMCID: PMC4427505
+PMID: 25961290 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: Coauthor Luis M. Rocha is a 
+PLOS ONE Editorial Board member. This does not alter the authors' adherence to 
+PLOS ONE editorial policies and criteria.

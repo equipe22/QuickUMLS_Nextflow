@@ -1,0 +1,27 @@
+471. Stud Health Technol Inform. 2007;129(Pt 1):545-9.
+
+A normalized lexical lookup approach to identifying UMLS concepts in free text.
+
+Bashyam V(1), Divita G, Bennett DB, Browne AC, Taira RK.
+
+Author information:
+(1)Medical Imaging Informatics Group, University of California, Los Angeles, 
+United States. vbashyam@ucla.edu
+
+The National Library of Medicine has developed a tool to identify medical 
+concepts from the Unified Medical Language System in free text. This tool - 
+MetaMap (and its java version MMTx) has been used extensively for biomedical 
+text mining applications. We have developed a module for MetaMap which has a 
+high performance in terms of processing speed. We evaluated our module 
+independently against MetaMap for the task of identifying UMLS concepts in free 
+text clinical radiology reports. A set of 1000 sentences from neuro-radiology 
+reports were collected and processed using our technique and the MMTx Program. 
+An evaluation showed that our technique was able to identify 91% of the concepts 
+found by MMTx in 14% of the time taken by MMTx. An error analysis showed that 
+the missing concepts were largely those which were not direct lexical matches 
+but inferential matches of multiple concepts. Our method also identified 
+multi-phrase concepts which MMTx failed to identify. We suggest that this module 
+be implemented as an option in MMTx for real-time text mining applications where 
+single concepts found in the UMLS need to be identified.
+
+PMID: 17911776 [Indexed for MEDLINE]

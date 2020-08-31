@@ -1,0 +1,24 @@
+179. Stud Health Technol Inform. 2018;247:715-719.
+
+Automatic Processing of Anatomic Pathology Reports in the Italian Language to 
+Enhance the Reuse of Clinical Data.
+
+Viani N(1), Chiudinelli L(1), Tasca C(2), Zambelli A(2), Bucalo M(3), Ghirardi 
+A(2), Barbarini N(3), Sfreddo E(2), Sacchi L(1), Tondini C(2), Bellazzi R(1).
+
+Author information:
+(1)Department of Electrical, Computer and Biomedical Engineering, University of 
+Pavia, Pavia, Italy.
+(2)ASST Papa Giovanni XXIII Hospital, Bergamo, Italy.
+(3)BIOMERIS, Pavia, Italy.
+
+Medical reports often contain a lot of relevant information in the form of free 
+text. To reuse these unstructured texts for biomedical research, it is important 
+to extract structured data from them. In this work, we adapted a previously 
+developed information extraction system to the oncology domain, to process a set 
+of anatomic pathology reports in the Italian language. The information 
+extraction system relies on a domain ontology, which was adapted and refined in 
+an iterative way. The final output was evaluated by a domain expert, with 
+promising results.
+
+PMID: 29678054 [Indexed for MEDLINE]

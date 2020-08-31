@@ -1,0 +1,33 @@
+459. J Clin Monit Comput. 2010 Feb;24(1):51-60. doi: 10.1007/s10877-009-9209-5. Epub 
+2009 Nov 7.
+
+The anaesthetic report: custom-made printouts from 
+anaesthesia-information-management-systems using extensible stylesheet language 
+transformation.
+
+Meyer-Bender A(1), Spitz R, Pollwein B.
+
+Author information:
+(1)Department of Anaesthesiology, University Hospital of Munich-Campus 
+Grosshadern, Germany. Andreas.Meyer-Bender@med.uni-muenchen.de
+
+OBJECTIVE: Today many anaesthetic departments use electronic 
+Anaesthesia-Information-Management-Systems (AIMS). Although these systems retain 
+clinical information electronically, a printed report is still essential for a 
+systematic patient-handover and as a part of the patient's records. As the 
+printouts produced by common AIMS usually do not fit in the department's 
+document system, we searched for a method to generate our own automatic 
+anaesthetic reports.
+METHODS: As the AIMS we use provides all data in XML-format (Extensible Markup 
+Language), we designed a postoperative report using Extensible Stylesheet 
+Language-Transformation (XSLT). The result was encouraging enough to develop 
+further applications for this platform. These are demonstrated in the present 
+paper.
+RESULTS/CONCLUSION: XSLT proved to be a very satisfactory technique to create 
+different printouts and is therefore a feasible technique to enhance any AIMS. 
+As XML turns out to be one of the most important formats for medical data, we 
+call for the development of an international anaesthetic XML-standard and its 
+adoption to AIMS.
+
+DOI: 10.1007/s10877-009-9209-5
+PMID: 19898945 [Indexed for MEDLINE]

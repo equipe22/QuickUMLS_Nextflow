@@ -1,0 +1,32 @@
+276. J Biomed Inform. 2015 Dec;58 Suppl(Suppl):S30-8. doi: 10.1016/j.jbi.2015.06.015. 
+Epub 2015 Jul 29.
+
+Automatic detection of protected health information from clinic narratives.
+
+Yang H(1), Garibaldi JM(2).
+
+Author information:
+(1)School of Computer Science, University of Nottingham, Nottingham, UK; 
+Advanced Data Analysis Centre, University of Nottingham, Nottingham, UK. 
+Electronic address: Hui.Yang@nottingham.ac.uk.
+(2)School of Computer Science, University of Nottingham, Nottingham, UK; 
+Advanced Data Analysis Centre, University of Nottingham, Nottingham, UK.
+
+This paper presents a natural language processing (NLP) system that was designed 
+to participate in the 2014 i2b2 de-identification challenge. The challenge task 
+aims to identify and classify seven main Protected Health Information (PHI) 
+categories and 25 associated sub-categories. A hybrid model was proposed which 
+combines machine learning techniques with keyword-based and rule-based 
+approaches to deal with the complexity inherent in PHI categories. Our proposed 
+approaches exploit a rich set of linguistic features, both syntactic and word 
+surface-oriented, which are further enriched by task-specific features and 
+regular expression template patterns to characterize the semantics of various 
+PHI categories. Our system achieved promising accuracy on the challenge test 
+data with an overall micro-averaged F-measure of 93.6%, which was the winner of 
+this de-identification challenge.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jbi.2015.06.015
+PMCID: PMC4989090
+PMID: 26231070 [Indexed for MEDLINE]

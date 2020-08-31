@@ -1,0 +1,30 @@
+461. Sensors (Basel). 2013 Jun 24;13(7):8060-78. doi: 10.3390/s130708060.
+
+Context management platform for tourism applications.
+
+Buján D(1), Martín D, Torices O, López-de-Ipiña D, Lamsfus C, Abaitua J, 
+Alzua-Sorzabal A.
+
+Author information:
+(1)Deusto Institute of Technology, DeustoTech, University of Deusto, Avda. 
+Universidades 24, 48007 Bilbao, Spain. david.bujan@deusto.es
+
+The notion of context has been widely studied and there are several authors that 
+have proposed different definitions of context. However, context has not been 
+widely studied in the framework of human mobility and the notion of context has 
+been imported directly from other computing fields without specifically 
+addressing the tourism domain requirements. In order to store and manage context 
+information a context data model and a context management platform are needed. 
+Ontologies have been widely used in context modelling, but many of them are 
+designed to be applied in general ubiquitous computing environments, do not 
+contain specific concepts related to the tourism domain or some approaches do 
+not contain enough concepts to represent context information related to the 
+visitor on the move. That is why we propose a new approach to provide a better 
+solution to model context data in tourism environments, adding more value to our 
+solution reusing data about tourist resources from an Open Data repository and 
+publishing it as Linked Data. We also propose the architecture for a context 
+information management platform based on this context data model.
+
+DOI: 10.3390/s130708060
+PMCID: PMC3758583
+PMID: 23797739 [Indexed for MEDLINE]

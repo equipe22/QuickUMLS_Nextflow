@@ -1,0 +1,43 @@
+218. J Am Med Inform Assoc. 2008 Jan-Feb;15(1):87-98. doi: 10.1197/jamia.M2401. Epub 
+2007 Oct 18.
+
+Automated acquisition of disease drug knowledge from biomedical and clinical 
+documents: an initial study.
+
+Chen ES(1), Hripcsak G, Xu H, Markatou M, Friedman C.
+
+Author information:
+(1)Clinical Informatics Research & Development, Partners HealthCare System, 93 
+Worcester Street, PO Box 81902, Wellesley, MA 02481, USA. eschen@partners.org
+
+OBJECTIVE: Explore the automated acquisition of knowledge in biomedical and 
+clinical documents using text mining and statistical techniques to identify 
+disease-drug associations.
+DESIGN: Biomedical literature and clinical narratives from the patient record 
+were mined to gather knowledge about disease-drug associations. Two NLP systems, 
+BioMedLEE and MedLEE, were applied to Medline articles and discharge summaries, 
+respectively. Disease and drug entities were identified using the NLP systems in 
+addition to MeSH annotations for the Medline articles. Focusing on eight 
+diseases, co-occurrence statistics were applied to compute and evaluate the 
+strength of association between each disease and relevant drugs.
+RESULTS: Ranked lists of disease-drug pairs were generated and cutoffs 
+calculated for identifying stronger associations among these pairs for further 
+analysis. Differences and similarities between the text sources (i.e., 
+biomedical literature and patient record) and annotations (i.e., MeSH and 
+NLP-extracted UMLS concepts) with regards to disease-drug knowledge were 
+observed.
+CONCLUSION: This paper presents a method for acquiring disease-specific 
+knowledge and a feasibility study of the method. The method is based on applying 
+a combination of NLP and statistical techniques to both biomedical and clinical 
+documents. The approach enabled extraction of knowledge about the drugs 
+clinicians are using for patients with specific diseases based on the patient 
+record, while it is also acquired knowledge of drugs frequently involved in 
+controlled trials for those same diseases. In comparing the disease-drug 
+associations, we found the results to be appropriate: the two text sources 
+contained consistent as well as complementary knowledge, and manual review of 
+the top five disease-drug associations by a medical expert supported their 
+correctness across the diseases.
+
+DOI: 10.1197/jamia.M2401
+PMCID: PMC2274872
+PMID: 17947625 [Indexed for MEDLINE]

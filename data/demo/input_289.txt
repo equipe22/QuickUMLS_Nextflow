@@ -1,0 +1,27 @@
+289. J Biomed Inform. 2004 Dec;37(6):512-26. doi: 10.1016/j.jbi.2004.08.004.
+
+Term identification in the biomedical literature.
+
+Krauthammer M(1), Nenadic G.
+
+Author information:
+(1)Department of Biomedical Informatics, Columbia Genome Center, Columbia 
+University, New York, USA. michael.krauthammer@yale.edu
+
+Sophisticated information technologies are needed for effective data acquisition 
+and integration from a growing body of the biomedical literature. Successful 
+term identification is key to getting access to the stored literature 
+information, as it is the terms (and their relationships) that convey knowledge 
+across scientific articles. Due to the complexities of a dynamically changing 
+biomedical terminology, term identification has been recognized as the current 
+bottleneck in text mining, and--as a consequence--has become an important 
+research topic both in natural language processing and biomedical communities. 
+This article overviews state-of-the-art approaches in term identification. The 
+process of identifying terms is analysed through three steps: term recognition, 
+term classification, and term mapping. For each step, main approaches and 
+general trends, along with the major problems, are discussed. By assessing 
+previous work in context of the overall term identification process, the review 
+also tries to delineate needs for future work in the field.
+
+DOI: 10.1016/j.jbi.2004.08.004
+PMID: 15542023 [Indexed for MEDLINE]

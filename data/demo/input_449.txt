@@ -1,0 +1,46 @@
+449. J Am Med Inform Assoc. 2015 Sep;22(5):987-92. doi: 10.1093/jamia/ocv002. Epub 
+2015 May 13.
+
+Exploring relation types for literature-based discovery.
+
+Preiss J(1), Stevenson M(2), Gaizauskas R(2).
+
+Author information:
+(1)Department of Computer Science, The University of Sheffield 211 Portobello, 
+Sheffield S1 4DP, UK j.preiss@sheffield.ac.uk.
+(2)Department of Computer Science, The University of Sheffield 211 Portobello, 
+Sheffield S1 4DP, UK.
+
+OBJECTIVE: Literature-based discovery (LBD) aims to identify "hidden knowledge" 
+in the medical literature by: (1) analyzing documents to identify pairs of 
+explicitly related concepts (terms), then (2) hypothesizing novel relations 
+between pairs of unrelated concepts that are implicitly related via a shared 
+concept to which both are explicitly related. Many LBD approaches use simple 
+techniques to identify semantically weak relations between concepts, for 
+example, document co-occurrence. These generate huge numbers of hypotheses, 
+difficult for humans to assess. More complex techniques rely on linguistic 
+analysis, for example, shallow parsing, to identify semantically stronger 
+relations. Such approaches generate fewer hypotheses, but may miss hidden 
+knowledge. The authors investigate this trade-off in detail, comparing 
+techniques for identifying related concepts to discover which are most suitable 
+for LBD.
+MATERIALS AND METHODS: A generic LBD system that can utilize a range of relation 
+types was developed. Experiments were carried out comparing a number of 
+techniques for identifying relations. Two approaches were used for evaluation: 
+replication of existing discoveries and the "time slicing" approach.(1) RESULTS: 
+Previous LBD discoveries could be replicated using relations based either on 
+document co-occurrence or linguistic analysis. Using relations based on 
+linguistic analysis generated many fewer hypotheses, but a significantly greater 
+proportion of them were candidates for hidden knowledge.
+DISCUSSION AND CONCLUSION: The use of linguistic analysis-based relations 
+improves accuracy of LBD without overly damaging coverage. LBD systems often 
+generate huge numbers of hypotheses, which are infeasible to manually review. 
+Improving their accuracy has the potential to make these systems significantly 
+more usable.
+
+© The Author 2015. Published by Oxford University Press on behalf of the 
+American Medical Informatics Association.
+
+DOI: 10.1093/jamia/ocv002
+PMCID: PMC4986660
+PMID: 25971437 [Indexed for MEDLINE]

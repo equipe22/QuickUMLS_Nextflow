@@ -1,0 +1,26 @@
+439. J Biomed Inform. 2004 Feb;37(1):43-53. doi: 10.1016/j.jbi.2003.10.001.
+
+GeneWays: a system for extracting, analyzing, visualizing, and integrating 
+molecular pathway data.
+
+Rzhetsky A(1), Iossifov I, Koike T, Krauthammer M, Kra P, Morris M, Yu H, Duboué 
+PA, Weng W, Wilbur WJ, Hatzivassiloglou V, Friedman C.
+
+Author information:
+(1)Columbia Genome Center, Columbia University, New York, NY 10032, USA. 
+ar345@columbia.edu
+
+The immense growth in the volume of research literature and experimental data in 
+the field of molecular biology calls for efficient automatic methods to capture 
+and store information. In recent years, several groups have worked on specific 
+problems in this area, such as automated selection of articles pertinent to 
+molecular biology, or automated extraction of information using natural-language 
+processing, information visualization, and generation of specialized knowledge 
+bases for molecular biology. GeneWays is an integrated system that combines 
+several such subtasks. It analyzes interactions between molecular substances, 
+drawing on multiple sources of information to infer a consensus view of 
+molecular networks. GeneWays is designed as an open platform, allowing 
+researchers to query, review, and critique stored information.
+
+DOI: 10.1016/j.jbi.2003.10.001
+PMID: 15016385 [Indexed for MEDLINE]

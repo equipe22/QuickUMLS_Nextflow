@@ -1,0 +1,46 @@
+224. BMC Bioinformatics. 2014 Aug 23;15(1):285. doi: 10.1186/1471-2105-15-285.
+
+A generalizable NLP framework for fast development of pattern-based biomedical 
+relation extraction systems.
+
+Peng Y(1), Torii M, Wu CH, Vijay-Shanker K.
+
+Author information:
+(1)Department of Computer and Information Sciences, University of Delaware, 18 
+Amstel Ave, Newark, DE 19716, USA. yfpeng@udel.edu.
+
+BACKGROUND: Text mining is increasingly used in the biomedical domain because of 
+its ability to automatically gather information from large amount of scientific 
+articles. One important task in biomedical text mining is relation extraction, 
+which aims to identify designated relations among biological entities reported 
+in literature. A relation extraction system achieving high performance is 
+expensive to develop because of the substantial time and effort required for its 
+design and implementation. Here, we report a novel framework to facilitate the 
+development of a pattern-based biomedical relation extraction system. It has 
+several unique design features: (1) leveraging syntactic variations possible in 
+a language and automatically generating extraction patterns in a systematic 
+manner, (2) applying sentence simplification to improve the coverage of 
+extraction patterns, and (3) identifying referential relations between a 
+syntactic argument of a predicate and the actual target expected in the relation 
+extraction task.
+RESULTS: A relation extraction system derived using the proposed framework 
+achieved overall F-scores of 72.66% for the Simple events and 55.57% for the 
+Binding events on the BioNLP-ST 2011 GE test set, comparing favorably with the 
+top performing systems that participated in the BioNLP-ST 2011 GE task. We 
+obtained similar results on the BioNLP-ST 2013 GE test set (80.07% and 60.58%, 
+respectively). We conducted additional experiments on the training and 
+development sets to provide a more detailed analysis of the system and its 
+individual modules. This analysis indicates that without increasing the number 
+of patterns, simplification and referential relation linking play a key role in 
+the effective extraction of biomedical relations.
+CONCLUSIONS: In this paper, we present a novel framework for fast development of 
+relation extraction systems. The framework requires only a list of triggers as 
+input, and does not need information from an annotated corpus. Thus, we reduce 
+the involvement of domain experts, who would otherwise have to provide manual 
+annotations and help with the design of hand crafted patterns. We demonstrate 
+how our framework is used to develop a system which achieves state-of-the-art 
+performance on a public benchmark corpus.
+
+DOI: 10.1186/1471-2105-15-285
+PMCID: PMC4262219
+PMID: 25149151 [Indexed for MEDLINE]

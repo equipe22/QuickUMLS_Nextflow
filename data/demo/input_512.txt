@@ -1,0 +1,57 @@
+512. Jt Comm J Qual Patient Saf. 2019 Dec;45(12):822-828. doi: 
+10.1016/j.jcjq.2019.10.002. Epub 2019 Oct 28.
+
+AHRQ EPC Series on Improving Translation of Evidence: Use of a Clinical Pathway 
+for C. Difficile Treatment to Facilitate the Translation of Research Findings 
+into Practice.
+
+Flores EJ(1), Jue JJ(2), Giradi G(3), Schoelles K(4), Mull NK(5), Umscheid 
+CA(6).
+
+Author information:
+(1)is Penn Pathways Program Manager, Penn Medicine Center for Evidence-based 
+Practice, University of Pennsylvania Health System, Philadelphia. Electronic 
+address: emilia.flores@pennmedicine.upenn.edu.
+(2)is formerly Medical Director, ECRI Guidelines Trust, ECRI Institute, is 
+Adjunct Assistant Professor, Department of Medicine, University of Pennsylvania 
+Perelman School of Medicine, Philadelphia.
+(3)is Project Coordinator, ECRI Institute, Plymouth Meeting, Pennslyvania.
+(4)is Vice President, Clinical Excellence and Safety, ECRI Institute.
+(5)is Assistant Professor of Clinical Medicine, University of Pennsylvania 
+Perelman School of Medicine, and Director, Penn Medicine Center for 
+Evidence-based Practice.
+(6)is Chief Quality and Innovation Officer, Vice President for Healthcare 
+Delivery Science, and Director of the Center for Healthcare Delivery Science and 
+Innovation, University of Chicago Medicine.
+
+BACKGROUND: In 2018 the Agency for Healthcare Research and Quality (AHRQ) 
+Evidence-based Practice Center (EPC) Program issued a call for strategies to 
+disseminate AHRQ EPC systematic reviews. In this pilot, findings from the 2016 
+AHRQ EPC report on Clostridioides difficile infection were translated into a 
+treatment pathway and disseminated via a cloud-based platform and electronic 
+health record (EHR).
+METHODS: An existing 10-step framework was used for developing and disseminating 
+evidence-based clinical pathways. The development of the EHR intervention was 
+informed by the Five Rights model for clinical decision support and 
+human-computer interaction design heuristics. The researchers used observations 
+and time measurements to describe the impact of the EPC report on pathway 
+development and examined provider adoption using counts of pathway views.
+RESULTS: Two main themes emerged: (1) discrepancies between the EPC report and 
+existing guidelines prompted critical discussions about available treatments, 
+and (2) lack of guideline and pathway syntheses in the EPC report necessitated a 
+rapid literature review. Pathway development required 340 hours: 205 for the 
+rapid literature review, 63 for pathway development and EHR intervention design, 
+and 5 for technical implementation of the intervention. Pathways were viewed 
+1,069 times through the cloud-based platform and 47 times through a hyperlink 
+embedded in key EHR ordering screens.
+CONCLUSION: Pathways can be an approach for disseminating AHRQ EPC report 
+findings within health care systems; however, reports should include guideline 
+and pathway syntheses to meet their full potential. Embedding hyperlinks to 
+pathway content within the EHR may be a viable and low-effort solution for 
+promoting awareness of evidence-based resources.
+
+Copyright © 2019 The Joint Commission. Published by Elsevier Inc. All rights 
+reserved.
+
+DOI: 10.1016/j.jcjq.2019.10.002
+PMID: 31672660

@@ -1,0 +1,43 @@
+536. Int J Med Inform. 2008 May;77(5):354-62. doi: 10.1016/j.ijmedinf.2007.07.004. 
+Epub 2007 Sep 10.
+
+Literature-based concept profiles for gene annotation: the issue of weighting.
+
+Jelier R(1), Schuemie MJ, Roes PJ, van Mulligen EM, Kors JA.
+
+Author information:
+(1)Erasmus University Medical Centre, Department of Medical Informatics, P.O. 
+Box 2040, 3000 CA Rotterdam, The Netherlands. r.jelier@erasmusmc.nl
+
+BACKGROUND: Text-mining has been used to link biomedical concepts, such as genes 
+or biological processes, to each other for annotation purposes or the generation 
+of new hypotheses. To relate two concepts to each other several authors have 
+used the vector space model, as vectors can be compared efficiently and 
+transparently. Using this model, a concept is characterized by a list of 
+associated concepts, together with weights that indicate the strength of the 
+association. The associated concepts in the vectors and their weights are 
+derived from a set of documents linked to the concept of interest. An important 
+issue with this approach is the determination of the weights of the associated 
+concepts. Various schemes have been proposed to determine these weights, but no 
+comparative studies of the different approaches are available. Here we compare 
+several weighting approaches in a large scale classification experiment.
+METHODS: Three different techniques were evaluated: (1) weighting based on 
+averaging, an empirical approach; (2) the log likelihood ratio, a test-based 
+measure; (3) the uncertainty coefficient, an information-theory based measure. 
+The weighting schemes were applied in a system that annotates genes with Gene 
+Ontology codes. As the gold standard for our study we used the annotations 
+provided by the Gene Ontology Annotation project. Classification performance was 
+evaluated by means of the receiver operating characteristics (ROC) curve using 
+the area under the curve (AUC) as the measure of performance.
+RESULTS AND DISCUSSION: All methods performed well with median AUC scores 
+greater than 0.84, and scored considerably higher than a binary approach without 
+any weighting. Especially for the more specific Gene Ontology codes excellent 
+performance was observed. The differences between the methods were small when 
+considering the whole experiment. However, the number of documents that were 
+linked to a concept proved to be an important variable. When larger amounts of 
+texts were available for the generation of the concepts' vectors, the 
+performance of the methods diverged considerably, with the uncertainty 
+coefficient then outperforming the two other methods.
+
+DOI: 10.1016/j.ijmedinf.2007.07.004
+PMID: 17827057 [Indexed for MEDLINE]

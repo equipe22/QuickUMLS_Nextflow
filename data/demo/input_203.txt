@@ -1,0 +1,24 @@
+203. AMIA Annu Symp Proc. 2018 Apr 16;2017:1149-1158. eCollection 2017.
+
+A hybrid Neural Network Model for Joint Prediction of Presence and Period 
+Assertions of Medical Events in Clinical Notes.
+
+Rumeng L(1), Abhyuday N J(1), Hong Y(2)(3).
+
+Author information:
+(1)University of Massachusetts, Amherst, MA, USA.
+(2)Department of Quantitative Health Sciences, University of Massachusetts 
+Medical School, Worcester, MA.
+(3)Bedford VAMC and CHOIR, Bedford, MA, USA.
+
+In this paper, we propose a novel neural network architecture for clinical text 
+mining. We formulate this hybrid neural network model (HNN), composed of 
+recurrent neural network and deep residual network, to jointly predict the 
+presence and period assertion values associated with medical events in clinical 
+texts. We evaluate the effectiveness of our model on a corpus of 
+expert-annotated longitudinal Electronic Health Records (EHR) notes from Cancer 
+patients. Our experiments show that HNN improves the joint assertion 
+classification accuracy as compared to conventional baselines.
+
+PMCID: PMC5977733
+PMID: 29854183 [Indexed for MEDLINE]

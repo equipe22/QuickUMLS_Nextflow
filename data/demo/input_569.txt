@@ -1,0 +1,56 @@
+569. J Biomed Inform. 2019 Feb;90:103090. doi: 10.1016/j.jbi.2018.12.004. Epub 2019 
+Jan 2.
+
+Federated electronic health records research technology to support clinical 
+trial protocol optimization: Evidence from EHR4CR and the InSite platform.
+
+Claerhout B(1), Kalra D(2), Mueller C(1), Singh G(3), Ammour N(4), Meloni L(1), 
+Blomster J(5), Hopley M(6), Kafatos G(7), Garvey A(8), Kuhn P(9), Lewi M(10), 
+Vannieuwenhuyse B(10), Marchal B(11), Patel K(12), Schindler C(13), Sundgren 
+M(14).
+
+Author information:
+(1)Custodix N.V., Gent, Belgium.
+(2)European Institute for Innovation through Health Data (i-HD), Brussels, 
+Belgium.
+(3)Janssen Research & Development LLC, Fremont, United States.
+(4)Sanofi-Aventis R&D, Chilly-Mazarin, France.
+(5)Turku University Hospital, Turku, Finland.
+(6)Boehringer-Ingelheim, Ingelheim, Germany.
+(7)Amgen, Uxbridge, UK.
+(8)ICON PLC, Paris, France.
+(9)Comprehensive Cancer Center Ulm, University Hospital Ulm, Ulm, Germany; 
+Institute of Medical Systems Biology, Ulm University, Ulm, Germany.
+(10)Janssen Pharmaceuticals, Beerse, Belgium.
+(11)F. Hoffmann-La Roche, Basel, Switzerland.
+(12)AstraZeneca, Cambridge, UK.
+(13)Medizinische Hochschule Hannover, Hannover, Germany.
+(14)AstraZeneca, Gothenburg, Sweden. Electronic address: 
+mats.sundgren@astrazeneca.com.
+
+OBJECTIVE: To determine if inclusion/exclusion (I/E) criteria of clinical trial 
+protocols can be represented as structured queries and executed using a secure 
+federated research platform (InSite) on hospital electronic health records (EHR) 
+systems, to estimate the number of potentially eligible patients.
+METHODS: Twenty-three clinical trial protocols completed during 2011-2017 across 
+diverse disease areas were analyzed to construct queries that were executed with 
+InSite using EHR records from 24 European hospitals containing records of >14 
+million patients. The number of patients matching I/E criteria of each protocol 
+was estimated.
+RESULTS: All protocols could be formalized to some extent into a medical coding 
+system (e.g. ICD-10CM, ATC, LOINC, SNOMED) and mapped to local hospital coding 
+systems. The median number of I/E criteria of protocols tested was 29 (range: 
+14-47). A median of 55% (range 38-89%) of I/E criteria in each protocol could be 
+transformed into a computable format. The median number of eligible patients 
+identified was 26 per hospital site (range: 1-134).
+CONCLUSION: Clinical trial I/E eligibility criteria can be structured 
+computationally and executed as queries on EHR systems to estimate the patient 
+recruitment pool at each site. The results further suggest that an increase in 
+structured coded information in EHRs would increase the number of I/E criteria 
+that could be evaluated. Additional work is needed on broader deployment of 
+federated platforms such as InSite.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jbi.2018.12.004
+PMID: 30611012 [Indexed for MEDLINE]

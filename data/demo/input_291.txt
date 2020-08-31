@@ -1,0 +1,24 @@
+291. Stud Health Technol Inform. 2012;180:38-42.
+
+Data Definition Ontology for clinical data integration and querying.
+
+Assélé Kama A(1), Primadhanty A, Choquet R, Teodoro D, Enders F, Duclos C, 
+Jaulent MC.
+
+Author information:
+(1)Université Pierre et Marie Curie, Paris, France. ariane.asselekama@gmail.com
+
+This paper describes an approach to build a Data Definition Ontology (DDO) in 
+the context of full domain ontology integration with datasets in order to share 
+and query clinical heterogeneous data repositories. We have adapted an existing 
+semantic web tool (D2RQ) to implement a process that automatically generates the 
+DDO from a database information model, thanks to reverse engineering and schema 
+mapping approaches. This study has been performed in the context of the DebugIT 
+European project (Detecting and Eliminating Bacteria UsinG Information 
+Technology) that aims to control and monitor the bacterial growth via a semantic 
+interoperability platform (IP). The evaluation of the process is based, first, 
+on the accuracy of the produced DDO for different samples of database storage 
+and second, by checking the congruency between the DDO and the D2RQ database 
+mapping file.
+
+PMID: 22874148 [Indexed for MEDLINE]

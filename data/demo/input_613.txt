@@ -1,0 +1,47 @@
+613. Trials. 2018 May 16;19(1):278. doi: 10.1186/s13063-018-2658-8.
+
+Pragmatic randomised clinical trials using electronic health records: general 
+practitioner views on a model of a priori consent.
+
+Hills T(1), Semprini A(2), Beasley R(2).
+
+Author information:
+(1)Medical Research Institute of New Zealand, Private Bag 7902, Wellington, 
+6242, New Zealand. tom.hills@mrinz.ac.nz.
+(2)Medical Research Institute of New Zealand, Private Bag 7902, Wellington, 
+6242, New Zealand.
+
+Pragmatic randomised clinical trials could use existing electronic health 
+records (EHRs) to identify trial participants, perform randomisation, and to 
+collect follow-up data. Achieving adequate informed consent in routine care and 
+clinician recruitment have been identified as key barriers to this approach to 
+clinical trials. We propose a model where written informed consent for a 
+pragmatic comparative effectiveness trial is obtained in advance by the research 
+team, recorded in the EHR, and then confirmed by the general practitioner (GP) 
+at the time of enrolment. The EHR software then randomly assigns a patient to 
+one of two treatments. Follow-up data is collected in the EHR. Twenty-two of 23 
+GPs surveyed (96%) were 'definitely' or 'probably' comfortable with confirming 
+consent. Twenty-one out of 23 GPs (91%) were 'definitely' or 'probably' 
+comfortable with a patient being randomised to one of two comparable drugs 
+during a routine consultation. Twenty-two out of 23 GPs (96%) were 'definitely' 
+or 'probably' comfortable with allowing the electronic system to randomise a 
+patient to drug A or drug B and generate a prescription. Ten out of 23 GPs (43%) 
+identified time constraints as the main hurdle to conducting this sort of 
+research in the primary care setting. On average, it was felt that 6.5 min, in 
+addition to a usual consult, would be acceptable to complete enrolment. Our 
+survey found this model of a comparative effectiveness trial to be acceptable to 
+the majority of GPs.
+
+DOI: 10.1186/s13063-018-2658-8
+PMCID: PMC5956547
+PMID: 29769088 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: This 
+project was approved by Victoria University of Wellington Ethics Committee (ref: 
+22859). Respondents gave informed consent to participate in the study. CONSENT 
+FOR PUBLICATION: GPs agreed to participate in the survey on the understanding 
+that their data would not be published in any identifiable form. COMPETING 
+INTERESTS: The authors are working to establish a platform for conducting 
+pragmatic RCTs in primary care. The authors declare that they have no competing 
+interests. PUBLISHER’S NOTE: Springer Nature remains neutral with regard to 
+jurisdictional claims in published maps and institutional affiliations.

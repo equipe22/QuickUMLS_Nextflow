@@ -1,0 +1,34 @@
+236. Biometals. 2010 Jun;23(3):453-63. doi: 10.1007/s10534-010-9311-7. Epub 2010 Mar 
+2.
+
+A preliminary approach to creating an overview of lactoferrin 
+multi-functionality utilizing a text mining method.
+
+Shimazaki K(1), Kushida T.
+
+Author information:
+(1)Hokkaido University, Sapporo, Japan. simazaki@anim.agr.hokudai.ac.jp
+
+Lactoferrin is a multi-functional metal-binding glycoprotein that exhibits many 
+biological functions of interest to many researchers from the fields of clinical 
+medicine, dentistry, pharmacology, veterinary medicine, nutrition and milk 
+science. To date, a number of academic reports concerning the biological 
+activities of lactoferrin have been published and are easily accessible through 
+public data repositories. However, as the literature is expanding daily, this 
+presents challenges in understanding the larger picture of lactoferrin function 
+and mechanisms. In order to overcome the "analysis paralysis" associated with 
+lactoferrin information, we attempted to apply a text mining method to the 
+accumulated lactoferrin literature. To this end, we used the information 
+extraction system GENPAC (provided by Nalapro Technologies Inc., Tokyo). This 
+information extraction system uses natural language processing and text mining 
+technology. This system analyzes the sentences and titles from abstracts stored 
+in the PubMed database, and can automatically extract binary relations that 
+consist of interactions between genes/proteins, chemicals and 
+diseases/functions. We expect that such information visualization analysis will 
+be useful in determining novel relationships among a multitude of lactoferrin 
+functions and mechanisms. We have demonstrated the utilization of this method to 
+find pathways of lactoferrin participation in neovascularization, Helicobacter 
+pylori attack on gastric mucosa, atopic dermatitis and lipid metabolism.
+
+DOI: 10.1007/s10534-010-9311-7
+PMID: 20195886 [Indexed for MEDLINE]

@@ -1,0 +1,29 @@
+180. AMIA Annu Symp Proc. 2009 Nov 14;2009:516-20.
+
+Assuring the privacy and security of transmitting sensitive electronic health 
+information.
+
+Peng C(1), Kesarinath G, Brinks T, Young J, Groves D.
+
+Author information:
+(1)SAIC, Atlanta, GA, USA.
+
+The interchange of electronic health records between healthcare providers and 
+public health organizations has become an increasingly desirable tool in 
+reducing healthcare costs, improving healthcare quality, and protecting 
+population health. Assuring privacy and security in nationwide sharing of 
+Electronic Health Records (EHR) in an environment such as GRID has become a top 
+challenge and concern. The Centers for Disease Control and Prevention's (CDC) 
+and The Science Application International Corporation (SAIC) have jointly 
+conducted a proof of concept study to find and build a common secure and 
+reliable messaging platform (the SRM Platform) to handle this challenge. The SRM 
+Platform is built on the open standards of OASIS, World Wide Web Consortium 
+(W3C) web-services standards, and Web Services Interoperability (WS-I) 
+specifications to provide the secure transport of sensitive EHR or electronic 
+medical records (EMR). Transmitted data may be in any digital form including 
+text, data, and binary files, such as images. This paper identifies the business 
+use cases, architecture, test results, and new connectivity options for 
+disparate health networks among PHIN, NHIN, Grid, and others.
+
+PMCID: PMC2815468
+PMID: 20351909 [Indexed for MEDLINE]

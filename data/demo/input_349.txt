@@ -1,0 +1,36 @@
+349. Bioinformatics. 2008 Sep 1;24(17):1935-41. doi: 10.1093/bioinformatics/btn318. 
+Epub 2008 Jul 1.
+
+PuReD-MCL: a graph-based PubMed document clustering methodology.
+
+Theodosiou T(1), Darzentas N, Angelis L, Ouzounis CA.
+
+Author information:
+(1)Department of Informatics, Aristotle University of Thessalonica, P.O. Box 
+54124, Thessalonica, Greece. theodos@csd.auth.gr
+
+MOTIVATION: Biomedical literature is the principal repository of biomedical 
+knowledge, with PubMed being the most complete database collecting, organizing 
+and analyzing such textual knowledge. There are numerous efforts that attempt to 
+exploit this information by using text mining and machine learning techniques. 
+We developed a novel approach, called PuReD-MCL (Pubmed Related Documents-MCL), 
+which is based on the graph clustering algorithm MCL and relevant resources from 
+PubMed.
+METHODS: PuReD-MCL avoids using natural language processing (NLP) techniques 
+directly; instead, it takes advantage of existing resources, available from 
+PubMed. PuReD-MCL then clusters documents efficiently using the MCL graph 
+clustering algorithm, which is based on graph flow simulation. This process 
+allows users to analyse the results by highlighting important clues, and finally 
+to visualize the clusters and all relevant information using an interactive 
+graph layout algorithm, for instance BioLayout Express 3D.
+RESULTS: The methodology was applied to two different datasets, previously used 
+for the validation of the document clustering tool TextQuest. The first dataset 
+involves the organisms Escherichia coli and yeast, whereas the second is related 
+to Drosophila development. PuReD-MCL successfully reproduces the annotated 
+results obtained from TextQuest, while at the same time provides additional 
+insights into the clusters and the corresponding documents.
+AVAILABILITY: Source code in perl and R are available from 
+http://tartara.csd.auth.gr/~theodos/
+
+DOI: 10.1093/bioinformatics/btn318
+PMID: 18593717 [Indexed for MEDLINE]

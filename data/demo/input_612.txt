@@ -1,0 +1,48 @@
+612. Health Aff (Millwood). 2016 Feb;35(2):341-7. doi: 10.1377/hlthaff.2015.1092.
+
+Publicly Available Online Tool Facilitates Real-Time Monitoring Of Vaccine 
+Conversations And Sentiments.
+
+Bahk CY(1), Cumming M(2), Paushter L(3), Madoff LC(4), Thomson A(5), Brownstein 
+JS(6).
+
+Author information:
+(1)Chi Y. Bahk (chi@epidemico.com) is director of Epidemico, in Boston, 
+Massachusetts.
+(2)Melissa Cumming is an analyst at the International Society for Infectious 
+Diseases, in Brookline, Massachusetts.
+(3)Louisa Paushter is an analyst at the International Society for Infectious 
+Diseases.
+(4)Lawrence C. Madoff is an editor at the International Society for Infectious 
+Diseases and a professor of medicine at the University of Massachusetts, in 
+Worcester.
+(5)Angus Thomson is senior director of vaccination policy and advocacy at Sanofi 
+Pasteur, in Lyon, France.
+(6)John S. Brownstein is cofounder of and a senior executive adviser at 
+Epidemico and chief innovation officer at Boston Children's Hospital, in 
+Massachusetts.
+
+Real-time monitoring of mainstream and social media can inform public health 
+practitioners and policy makers about vaccine sentiment and hesitancy. We 
+describe a publicly available platform for monitoring vaccination-related 
+content, called the Vaccine Sentimeter. With automated data collection from 
+100,000 mainstream media sources and Twitter, natural-language processing for 
+automated filtering, and manual curation to ensure accuracy, the Vaccine 
+Sentimeter offers a global real-time view of vaccination conversations online. 
+To assess the system's utility, we followed two events: polio vaccination in 
+Pakistan after a news story about a Central Intelligence Agency vaccination ruse 
+and subsequent attacks on health care workers, and a controversial episode in a 
+television program about adverse events following human papillomavirus 
+vaccination. For both events, increased online activity was detected and 
+characterized. For the first event, Twitter response to the attacks on health 
+care workers decreased drastically after the first attack, in contrast to 
+mainstream media coverage. For the second event, the mainstream and social media 
+response was largely positive about the HPV vaccine, but antivaccine 
+conversations persisted longer than the provaccine reaction. Using the Vaccine 
+Sentimeter could enable public health professionals to detect increased online 
+activity or sudden shifts in sentiment that could affect vaccination uptake.
+
+Project HOPE—The People-to-People Health Foundation, Inc.
+
+DOI: 10.1377/hlthaff.2015.1092
+PMID: 26858390 [Indexed for MEDLINE]

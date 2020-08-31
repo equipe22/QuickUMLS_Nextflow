@@ -1,0 +1,29 @@
+154. AMIA Annu Symp Proc. 2014 Nov 14;2014:534-43. eCollection 2014.
+
+TagLine: Information Extraction for Semi-Structured Text in Medical Progress 
+Notes.
+
+Finch DK(1), McCart JA(2), Luther SL(2).
+
+Author information:
+(1)James A. Haley Veterans Hospital, Tampa, FL ; University of South Florida, 
+Tampa, FL.
+(2)James A. Haley Veterans Hospital, Tampa, FL.
+
+Statistical text mining and natural language processing have been shown to be 
+effective for extracting useful information from medical documents. However, 
+neither technique is effective at extracting the information stored in 
+semi-structure text elements. A prototype system (TagLine) was developed to 
+extract information from the semi-structured text using machine learning and a 
+rule based annotator. Features for the learning machine were suggested by prior 
+work, and by examining text, and selecting attributes that help distinguish 
+classes of text lines. Classes were derived empirically from text and guided by 
+an ontology developed by the VHA's Consortium for Health Informatics Research 
+(CHIR). Decision trees were evaluated for class predictions on 15,103 lines of 
+text achieved an overall accuracy of 98.5 percent. The class labels applied to 
+the lines were then used for annotating semi-structured text elements. TagLine 
+achieved F-measure over 0.9 for each of the structures, which included tables, 
+slots and fillers.
+
+PMCID: PMC4419992
+PMID: 25954358 [Indexed for MEDLINE]

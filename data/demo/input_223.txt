@@ -1,0 +1,42 @@
+223. Acta Inform Med. 2015 Aug;23(4):224-7. doi: 10.5455/aim.2015.23.224-227. Epub 
+2015 Jul 30.
+
+Electronic Health Record for Intensive Care based on Usual Windows Based 
+Software.
+
+Reper A(1), Reper P(1).
+
+Author information:
+(1)Intensive Care, Brugmann University Hospital, Free University of Brussels, 
+Belgium.
+
+BACKGROUND AND OBJECTIVES: In Intensive Care Units, the amount of data to be 
+processed for patients care, the turn over of the patients, the necessity for 
+reliability and for review processes indicate the use of Patient Data Management 
+Systems (PDMS) and electronic health records (EHR). To respond to the needs of 
+an Intensive Care Unit and not to be locked with proprietary software, we 
+developed an EHR based on usual software and components.
+METHODS: The software was designed as a client-server architecture running on 
+the Windows operating system and powered by the access data base system. The 
+client software was developed using Visual Basic interface library. The 
+application offers to the users the following functions: medical notes captures, 
+observations and treatments, nursing charts with administration of medications, 
+scoring systems for classification, and possibilities to encode medical 
+activities for billing processes.
+RESULTS: Since his deployment in September 2004, the EHR was used to care more 
+than five thousands patients with the expected software reliability and 
+facilitated data management and review processes. Communications with other 
+medical software were not developed from the start, and are realized by the use 
+of basic functionalities communication engine. Further upgrade of the system 
+will include multi-platform support, use of typed language with static analysis, 
+and configurable interface.
+CONCLUSION: The developed system based on usual software components was able to 
+respond to the medical needs of the local ICU environment. The use of Windows 
+for development allowed us to customize the software to the preexisting 
+organization and contributed to the acceptability of the whole system.
+
+DOI: 10.5455/aim.2015.23.224-227
+PMCID: PMC4584085
+PMID: 26483596
+
+Conflict of interest statement: CONFLICT OF INTEREST: NONE DECLARED.

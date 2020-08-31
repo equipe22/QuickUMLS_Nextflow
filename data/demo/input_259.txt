@@ -1,0 +1,50 @@
+259. Drug Saf. 2017 Jul;40(7):571-582. doi: 10.1007/s40264-017-0523-4.
+
+Using Probabilistic Record Linkage of Structured and Unstructured Data to 
+Identify Duplicate Cases in Spontaneous Adverse Event Reporting Systems.
+
+Kreimeyer K(1), Menschik D(2), Winiecki S(2), Paul W(2), Barash F(2), Woo EJ(2), 
+Alimchandani M(2), Arya D(2), Zinderman C(2), Forshee R(2), Botsis T(2).
+
+Author information:
+(1)Office of Biostatistics and Epidemiology, Center for Biologics Evaluation and 
+Research, US Food and Drug Administration, 10903 New Hampshire Ave, Silver 
+Spring, MD, 20993-0002, USA. Kory.Kreimeyer@fda.hhs.gov.
+(2)Office of Biostatistics and Epidemiology, Center for Biologics Evaluation and 
+Research, US Food and Drug Administration, 10903 New Hampshire Ave, Silver 
+Spring, MD, 20993-0002, USA.
+
+Comment in
+    Drug Saf. 2017 Jul;40(7):543-546.
+
+INTRODUCTION: Duplicate case reports in spontaneous adverse event reporting 
+systems pose a challenge for medical reviewers to efficiently perform individual 
+and aggregate safety analyses. Duplicate cases can bias data mining by 
+generating spurious signals of disproportional reporting of product-adverse 
+event pairs.
+OBJECTIVE: We have developed a probabilistic record linkage algorithm for 
+identifying duplicate cases in the US Vaccine Adverse Event Reporting System 
+(VAERS) and the US Food and Drug Administration Adverse Event Reporting System 
+(FAERS).
+METHODS: In addition to using structured field data, the algorithm incorporates 
+the non-structured narrative text of adverse event reports by examining clinical 
+and temporal information extracted by the Event-based Text-mining of Health 
+Electronic Records system, a natural language processing tool. The final 
+component of the algorithm is a novel duplicate confidence value that is 
+calculated by a rule-based empirical approach that looks for similarities in a 
+number of criteria between two case reports.
+RESULTS: For VAERS, the algorithm identified 77% of known duplicate pairs with a 
+precision (or positive predictive value) of 95%. For FAERS, it identified 13% of 
+known duplicate pairs with a precision of 100%. The textual information did not 
+improve the algorithm's automated classification for VAERS or FAERS. The 
+empirical duplicate confidence value increased performance on both VAERS and 
+FAERS, mainly by reducing the occurrence of false-positives.
+CONCLUSIONS: The algorithm was shown to be effective at identifying pre-linked 
+duplicate VAERS reports. The narrative text was not shown to be a key component 
+in the automated detection evaluation; however, it is essential for supporting 
+the semi-automated approach that is likely to be deployed at the Food and Drug 
+Administration, where medical reviewers will perform some manual review of the 
+most highly ranked reports identified by the algorithm.
+
+DOI: 10.1007/s40264-017-0523-4
+PMID: 28293864 [Indexed for MEDLINE]

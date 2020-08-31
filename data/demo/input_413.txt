@@ -1,0 +1,44 @@
+413. Healthc Inform Res. 2011 Jun;17(2):101-10. doi: 10.4258/hir.2011.17.2.101. Epub 
+2011 Jun 30.
+
+Development of an electronic claim system based on an integrated electronic 
+health record platform to guarantee interoperability.
+
+Kim HS(1), Cho H, Lee IK.
+
+Author information:
+(1)Department of Medical Information Technology, Daegu Haany University, Daegu, 
+Korea.
+
+OBJECTIVES: We design and develop an electronic claim system based on an 
+integrated electronic health record (EHR) platform. This system is designed to 
+be used for ambulatory care by office-based physicians in the United States. 
+This is achieved by integrating various medical standard technologies for 
+interoperability between heterogeneous information systems.
+METHODS: The developed system serves as a simple clinical data repository, it 
+automatically fills out the Centers for Medicare and Medicaid Services 
+(CMS)-1500 form based on information regarding the patients and physicians' 
+clinical activities. It supports electronic insurance claims by creating 
+reimbursement charges. It also contains an HL7 interface engine to exchange 
+clinical messages between heterogeneous devices.
+RESULTS: The system partially prevents physician malpractice by suggesting 
+proper treatments according to patient diagnoses and supports physicians by 
+easily preparing documents for reimbursement and submitting claim documents to 
+insurance organizations electronically, without additional effort by the user. 
+To show the usability of the developed system, we performed an experiment that 
+compares the time spent filling out the CMS-1500 form directly and time required 
+create electronic claim data using the developed system. From the experimental 
+results, we conclude that the system could save considerable time for physicians 
+in making claim documents.
+CONCLUSIONS: The developed system might be particularly useful for those who 
+need a reimbursement-specialized EHR system, even though the proposed system 
+does not completely satisfy all criteria requested by the CMS and Office of the 
+National Coordinator for Health Information Technology (ONC). This is because 
+the criteria are not sufficient but necessary condition for the implementation 
+of EHR systems. The system will be upgraded continuously to implement the 
+criteria and to offer more stable and transparent transmission of electronic 
+claim data.
+
+DOI: 10.4258/hir.2011.17.2.101
+PMCID: PMC3155167
+PMID: 21886871

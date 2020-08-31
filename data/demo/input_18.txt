@@ -1,0 +1,89 @@
+18. JMIR Med Inform. 2019 Aug 2;7(3):e13802. doi: 10.2196/13802.
+
+Assessing the Availability of Data on Social and Behavioral Determinants in 
+Structured and Unstructured Electronic Health Records: A Retrospective Analysis 
+of a Multilevel Health Care System.
+
+Hatef E(1)(2), Rouhizadeh M(3), Tia I(4), Lasser E(1), Hill-Briggs 
+F(5)(6)(7)(8)(9), Marsteller J(8)(9)(10)(11), Kharrazi H(1)(4)(9)(10)(11).
+
+Author information:
+(1)Center for Population Health IT, Department of Health Policy and Management, 
+Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, United States.
+(2)Johns Hopkins Center for Health Disparities Solutions, Baltimore, MD, United 
+States.
+(3)Center for Clinical Data Analysis, Institute for Clinical and Translational 
+Research, Johns Hopkins School of Medicine, Baltimore, MD, United States.
+(4)Division of Health Sciences Informatics, Johns Hopkins School of Medicine, 
+Baltimore, MD, United States.
+(5)Department of Medicine, Johns Hopkins School of Medicine, Baltimore, MD, 
+United States.
+(6)Department of Health, Behavior, and Society, Johns Hopkins Bloomberg School 
+of Public Health, Baltimore, MD, United States.
+(7)Department of Acute and Chronic Care, Johns Hopkins School of Nursing, 
+Baltimore, MD, United States.
+(8)Welch Center for Prevention, Epidemiology & Clinical Research, Johns Hopkins 
+University, Baltimore, MD, United States.
+(9)Behavioral, Social and Systems Sciences Translational Research Community, 
+Institute for Clinical and Translational Research, Johns Hopkins School of 
+Medicine, Baltimore, MD, United States.
+(10)Center for Health Services and Outcomes Research, Department of Health 
+Policy and Management, Johns Hopkins Bloomberg School of Public Health, 
+Baltimore, MD, United States.
+(11)Armstrong Institute for Patient Safety and Quality, Johns Hopkins School of 
+Medicine, Baltimore, MD, United States.
+
+BACKGROUND: Most US health care providers have adopted electronic health records 
+(EHRs) that facilitate the uniform collection of clinical information. However, 
+standardized data formats to capture social and behavioral determinants of 
+health (SBDH) in structured EHR fields are still evolving and not adopted 
+widely. Consequently, at the point of care, SBDH data are often documented 
+within unstructured EHR fields that require time-consuming and subjective 
+methods to retrieve. Meanwhile, collecting SBDH data using traditional surveys 
+on a large sample of patients is infeasible for health care providers attempting 
+to rapidly incorporate SBDH data in their population health management efforts. 
+A potential approach to facilitate targeted SBDH data collection is applying 
+information extraction methods to EHR data to prescreen the population for 
+identification of immediate social needs.
+OBJECTIVE: Our aim was to examine the availability and characteristics of SBDH 
+data captured in the EHR of a multilevel academic health care system that 
+provides both inpatient and outpatient care to patients with varying SBDH across 
+Maryland.
+METHODS: We measured the availability of selected patient-level SBDH in both 
+structured and unstructured EHR data. We assessed various SBDH including 
+demographics, preferred language, alcohol use, smoking status, social connection 
+and/or isolation, housing issues, financial resource strains, and availability 
+of a home address. EHR's structured data were represented by information 
+collected between January 2003 and June 2018 from 5,401,324 patients. EHR's 
+unstructured data represented information captured for 1,188,202 patients 
+between July 2016 and May 2018 (a shorter time frame because of limited 
+availability of consistent unstructured data). We used text-mining techniques to 
+extract a subset of SBDH factors from EHR's unstructured data.
+RESULTS: We identified a valid address or zip code for 5.2 million (95.00%) of 
+approximately 5.4 million patients. Ethnicity was captured for 2.7 million 
+(50.00%), whereas race was documented for 4.9 million (90.00%) and a preferred 
+language for 2.7 million (49.00%) patients. Information regarding alcohol use 
+and smoking status was coded for 490,348 (9.08%) and 1,728,749 (32.01%) 
+patients, respectively. Using the International Classification of Diseases-10th 
+Revision diagnoses codes, we identified 35,171 (0.65%) patients with information 
+related to social connection/isolation, 10,433 (0.19%) patients with housing 
+issues, and 3543 (0.07%) patients with income/financial resource strain. Of 
+approximately 1.2 million unique patients with unstructured data, 30,893 (2.60%) 
+had at least one clinical note containing phrases referring to social 
+connection/isolation, 35,646 (3.00%) included housing issues, and 11,882 (1.00%) 
+had mentions of financial resource strain.
+CONCLUSIONS: Apart from demographics, SBDH data are not regularly collected for 
+patients. Health care providers should assess the availability and 
+characteristics of SBDH data in EHRs. Evaluating the quality of SBDH data can 
+potentially enable health care providers to modify underlying workflows to 
+improve the documentation, collection, and extraction of SBDH data from EHRs.
+
+©Elham Hatef, Masoud Rouhizadeh, Iddrisu Tia, Elyse Lasser, Felicia Hill-Briggs, 
+Jill Marsteller, Hadi Kharrazi. Originally published in JMIR Medical Informatics 
+(http://medinform.jmir.org), 02.08.2019.
+
+DOI: 10.2196/13802
+PMCID: PMC6696855
+PMID: 31376277
+
+Conflict of interest statement: Conflicts of Interest: None declared.

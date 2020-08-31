@@ -1,0 +1,20 @@
+435. Radiol Manage. 2009 May-Jun;31(3):20-5; quiz 26-7.
+
+An effective approach for choosing an electronic health record.
+
+Rowley R(1).
+
+Author information:
+(1)Practice Fusion, Inc., A San Francisco Based EHR Company, San Francisco, USA. 
+robert@practicefusion.com
+
+With government stimulus money becoming available to encourage healthcare 
+facilities to adopt electronic health record (EHR) systems, the decision to move 
+forward with implementing an EHR system has taken on an urgency not previously 
+seen. The EHR landscape is evolving rapidly and the underlying technology 
+platform is becoming increasingly interconnected. One must make sure that an EHR 
+decision does not lock oneself into technology obsolescence. The best approach 
+for evaluating an EHR is on the basis of:usability, interoperability, and 
+affordability.
+
+PMID: 21591489 [Indexed for MEDLINE]

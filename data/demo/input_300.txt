@@ -1,0 +1,46 @@
+300. PLoS One. 2009 Jul 28;4(7):e6393. doi: 10.1371/journal.pone.0006393.
+
+Large scale application of neural network based semantic role labeling for 
+automated relation extraction from biomedical texts.
+
+Barnickel T(1), Weston J, Collobert R, Mewes HW, Stümpflen V.
+
+Author information:
+(1)Helmholtz Zentrum München, Institute of Bioinformatics and Systems Biology 
+(MIPS), Neuherberg, Germany. thorsten.barnickel@helmholtz-muenchen.de
+
+To reduce the increasing amount of time spent on literature search in the life 
+sciences, several methods for automated knowledge extraction have been 
+developed. Co-occurrence based approaches can deal with large text corpora like 
+MEDLINE in an acceptable time but are not able to extract any specific type of 
+semantic relation. Semantic relation extraction methods based on syntax trees, 
+on the other hand, are computationally expensive and the interpretation of the 
+generated trees is difficult. Several natural language processing (NLP) 
+approaches for the biomedical domain exist focusing specifically on the 
+detection of a limited set of relation types. For systems biology, generic 
+approaches for the detection of a multitude of relation types which in addition 
+are able to process large text corpora are needed but the number of systems 
+meeting both requirements is very limited. We introduce the use of SENNA 
+("Semantic Extraction using a Neural Network Architecture"), a fast and accurate 
+neural network based Semantic Role Labeling (SRL) program, for the large scale 
+extraction of semantic relations from the biomedical literature. A comparison of 
+processing times of SENNA and other SRL systems or syntactical parsers used in 
+the biomedical domain revealed that SENNA is the fastest Proposition Bank 
+(PropBank) conforming SRL program currently available. 89 million biomedical 
+sentences were tagged with SENNA on a 100 node cluster within three days. The 
+accuracy of the presented relation extraction approach was evaluated on two test 
+sets of annotated sentences resulting in precision/recall values of 0.71/0.43. 
+We show that the accuracy as well as processing speed of the proposed semantic 
+relation extraction approach is sufficient for its large scale application on 
+biomedical text. The proposed approach is highly generalizable regarding the 
+supported relation types and appears to be especially suited for 
+general-purpose, broad-scale text mining systems. The presented approach bridges 
+the gap between fast, co-occurrence-based approaches lacking semantic relations 
+and highly specialized and computationally demanding NLP approaches.
+
+DOI: 10.1371/journal.pone.0006393
+PMCID: PMC2712690
+PMID: 19636432 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.

@@ -1,0 +1,80 @@
+528. Animals (Basel). 2017 Sep 26;7(10):74. doi: 10.3390/ani7100074.
+
+VetCompass Australia: A National Big Data Collection System for Veterinary 
+Science.
+
+McGreevy P(1), Thomson P(2), Dhand NK(3), Raubenheimer D(4), Masters S(5), 
+Mansfield CS(6), Baldwin T(7), Soares Magalhaes RJ(8)(9), Rand J(10), Hill 
+P(11), Peaston A(12), Gilkerson J(13), Combs M(14), Raidal S(15), Irwin P(16), 
+Irons P(17), Squires R(18), Brodbelt D(19), Hammond J(20).
+
+Author information:
+(1)Sydney School of Veterinary Science, Faculty of Science, University of 
+Sydney, Sydney, NSW 2006, Australia. paul.mcgreevy@sydney.edu.au.
+(2)School of Life and Environmental Sciences, Faculty of Science, University of 
+Sydney, Sydney, NSW 2006, Australia. peter.thomson@sydney.edu.au.
+(3)Sydney School of Veterinary Science, Faculty of Science, University of 
+Sydney, Sydney, NSW 2006, Australia. navneet.dhand@sydney.edu.au.
+(4)Charles Perkins Centre and School of Life and Environmental Sciences, 
+University of Sydney, Sydney, NSW 2006, Australia. 
+david.raubenheimer@sydney.edu.au.
+(5)Sydney School of Veterinary Science, Faculty of Science, University of 
+Sydney, Sydney, NSW 2006, Australia. sophie.masters@sydney.edu.au.
+(6)Faculty of Veterinary and Agricultural Sciences, University of Melbourne, 
+Werribee, VIC 3030, Australia. cmans@unimelb.edu.au.
+(7)School of Computing and Information Systems, University of Melbourne, 
+Parkville, VIC 3010, Australia. tb@ldwin.net.
+(8)School of Veterinary Science, University of Queensland, Gatton, QLD 4343, 
+Australia. r.magalhaes@uq.edu.au.
+(9)Child Health Research Centre, University of Queensland, South Brisbane, QLD 
+4101, Australia. r.magalhaes@uq.edu.au.
+(10)School of Veterinary Science, University of Queensland, Gatton, QLD 4343, 
+Australia. j.rand@uq.edu.au.
+(11)School of Animal and Veterinary Sciences, University of Adelaide, 
+Roseworthy, SA 5371, Australia. p.hill@adelaide.edu.au.
+(12)School of Animal and Veterinary Sciences, University of Adelaide, 
+Roseworthy, SA 5371, Australia. anne.peaston@adelaide.edu.au.
+(13)Faculty of Veterinary and Agricultural Sciences, University of Melbourne, 
+Parkville, VIC 3010, Australia. jrgilk@unimelb.edu.au.
+(14)School of Animal and Veterinary Science, Faculty of Science, Charles Sturt 
+University, Wagga, NSW 2650, Australia. macombs@csu.edu.au.
+(15)School of Animal and Veterinary Science, Faculty of Science, Charles Sturt 
+University, Wagga, NSW 2650, Australia. shraidal@csu.edu.au.
+(16)School of Veterinary and Life Sciences, Murdoch University, Murdoch, WA 
+6150, Australia. p.irwin@murdoch.edu.au.
+(17)School of Veterinary and Life Sciences, Murdoch University, Murdoch, WA 
+6150, Australia. P.Irons@murdoch.edu.au.
+(18)College of Public Health, Medical and Veterinary Science, James Cook 
+University, Townsville, QLD 4811, Australia. richard.squires@jcu.edu.au.
+(19)Pathobiology and Population Services, Royal Veterinary College, University 
+of London, Hertfordshire AL9 7TA, UK. dbrodbelt@rvc.ac.uk.
+(20)Information and Communications Technology, University of Sydney, NSW 2006, 
+Australia. jeremy.hammond@sydney.edu.au.
+
+VetCompass Australia is veterinary medical records-based research coordinated 
+with the global VetCompass endeavor to maximize its quality and effectiveness 
+for Australian companion animals (cats, dogs, and horses). Bringing together all 
+seven Australian veterinary schools, it is the first nationwide surveillance 
+system collating clinical records on companion-animal diseases and treatments. 
+VetCompass data service collects and aggregates real-time, clinical records for 
+researchers to interrogate, delivering sustainable and cost-effective access to 
+data from hundreds of veterinary practitioners nationwide. Analysis of these 
+clinical records will reveal geographical and temporal trends in the prevalence 
+of inherited and acquired diseases, identify frequently prescribed treatments, 
+revolutionize clinical auditing, help the veterinary profession to rank research 
+priorities, and assure evidence-based companion-animal curricula in veterinary 
+schools. VetCompass Australia will progress in three phases: (1) roll-out of the 
+VetCompass platform to harvest Australian veterinary clinical record data; (2) 
+development and enrichment of the coding (data-presentation) platform; and (3) 
+creation of a world-first, real-time surveillance interface with natural 
+language processing (NLP) technology. The first of these three phases is 
+described in the current article. Advances in the collection and sharing of 
+records from numerous practices will enable veterinary professionals to deliver 
+a vastly improved level of care for companion animals that will improve their 
+quality of life.
+
+DOI: 10.3390/ani7100074
+PMCID: PMC5664033
+PMID: 28954419
+
+Conflict of interest statement: The authors declare no conflicts of interest.

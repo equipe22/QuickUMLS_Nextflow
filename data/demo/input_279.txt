@@ -1,0 +1,23 @@
+279. Stud Health Technol Inform. 2015;210:919-23.
+
+A Cloud Based Real-Time Collaborative Platform for eHealth.
+
+Ionescu B(1), Gadea C(1), Solomon B(1), Ionescu D(1), Stoicu-Tivadar V(2), 
+Trifan M(1).
+
+Author information:
+(1)School of Electrical Engineering and Computer Science, University of Ottawa, 
+Ottawa, Canada.
+(2)Politehnica University Timişoara, Romania.
+
+For more than a decade, the eHealth initiative has been a government concern of 
+many countries. In an Electronic Health Record (EHR) System, there is a need for 
+sharing the data with a group of specialists simultaneously. Collaborative 
+platforms alone are just a part of a solution, while a collaborative platform 
+with parallel editing capabilities and with synchronized data streaming are 
+stringently needed. In this paper, the design and implementation of a 
+collaborative platform used in healthcare is introduced by describing the high 
+level architecture and its implementation. A series of eHealth services are 
+identified and usage examples in a healthcare environment are given.
+
+PMID: 25991290 [Indexed for MEDLINE]

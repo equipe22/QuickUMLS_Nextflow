@@ -1,0 +1,29 @@
+465. Bioinformatics. 2003 Jul 22;19(11):1417-22. doi: 10.1093/bioinformatics/btg160.
+
+MeKE: discovering the functions of gene products from biomedical literature via 
+sentence alignment.
+
+Chiang JH(1), Yu HC.
+
+Author information:
+(1)Department of Computer Science and Information Engineering, National Cheng 
+Kung University, Tainan 701, Taiwan, ROC. jchiang@mail.ncku.edu.tw
+
+MOTIVATION: Research on roles of gene products in cells is accumulating and 
+changing rapidly, but most of the results are still reported in text form and 
+are not directly accessible by computers. To expedite the progress of functional 
+bioinformatics, it is, therefore, important to efficiently process large amounts 
+of biomedical literature and transform the knowledge extracted into a structured 
+format usable by biologists and medical researchers. Our aim was to develop an 
+intelligent text-mining system that will extract from biomedical documents 
+knowledge about the functions of gene products and thus facilitate computing 
+with function.
+RESULTS: We have developed an ontology-based text-mining system to efficiently 
+extract from biomedical literature knowledge about the functions of gene 
+products. We also propose methods of sentence alignment and sentence 
+classification to discover the functions of gene products discussed in digital 
+texts.
+AVAILABILITY: http://ismp.csie.ncku.edu.tw/~yuhc/meke/
+
+DOI: 10.1093/bioinformatics/btg160
+PMID: 12874055 [Indexed for MEDLINE]

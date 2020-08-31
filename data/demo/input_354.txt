@@ -1,0 +1,31 @@
+354. IHI. 2010;2010:240-249. doi: 10.1145/1882992.1883026.
+
+Using Electronic Health Record Systems in Diabetes Care: Emerging Practices.
+
+Veinot TC, Zheng K, Lowery JC, Souden M, Keith R.
+
+While there has been considerable attention devoted to the deployment of 
+electronic health record (EHR) systems, there has been far less attention given 
+to their appropriation for use in clinical encounters - particularly in the 
+context of complex, chronic illness. The Department of Veterans' Affairs (VA) 
+has been at the forefront of EHR adoption and, as such, provides a unique 
+opportunity to examine a mature EHR system in widespread use. Moreover, with a 
+high prevalence of diabetes in its patient population, the VA provides a useful 
+platform for examining EHR use in the context of chronic disease care. We 
+conducted a sequential, exploratory qualitative study at two VA Medical Centers 
+in the Midwest. First, we conducted observations of 64 clinical consultations 
+with diabetes patients. These observations involved 31 different health care 
+providers. Second, using insights from these observations, we conducted 
+in-depth, semi-structured interviews with 39 health care providers focusing on 
+their use of information in diabetes patient care. Field notes and interview 
+transcripts were analyzed using a grounded theory approach. Our analysis 
+generated several categories of EHR use in clinical encounters: priming, 
+structuring, assessing, informing, and continuing. We also outline some 
+mismatches between EHR system design and VA diabetes care practices. We conclude 
+by discussing implications of these emergent system uses for improving the 
+software design of EHRs to better support chronic disease care, as well as for 
+our understanding of the integration of technologies in health care.
+
+DOI: 10.1145/1882992.1883026
+PMCID: PMC4175736
+PMID: 25264545

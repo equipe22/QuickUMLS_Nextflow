@@ -1,0 +1,30 @@
+35. Acad Radiol. 2020 Jan;27(1):6-12. doi: 10.1016/j.acra.2019.08.010. Epub 2019 Sep 
+17.
+
+Essential Elements of Natural Language Processing: What the Radiologist Should 
+Know.
+
+Chen PH(1).
+
+Author information:
+(1)Imaging Institute, Cleveland Clinic Foundation, 9500 Euclid Ave. - P34, 
+Cleveland, OH 44195. Electronic address: chenp2@ccf.org.
+
+Natural language is ubiquitous in the workflow of medical imaging. Radiologists 
+create and consume free text in their daily work, some of which can be amenable 
+to enhancements through automatic processing. Recent advancements in deep 
+learning and "artificial intelligence" have had a significant positive impact on 
+natural language processing (NLP). This article discusses the history of how 
+researchers have extracted data and encoded natural language information for 
+analytical processing, starting from NLP's humble origins in hand-curated, 
+linguistic rules. The evolution of medical NLP including vectorization, word 
+embedding, classification, as well as its use in automated speech recognition, 
+are also explored. Finally, the article will discuss the role of machine 
+learning and neural networks in the context of significant, if incremental, 
+improvements in NLP.
+
+Copyright © 2019 The Association of University Radiologists. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.acra.2019.08.010
+PMID: 31537505

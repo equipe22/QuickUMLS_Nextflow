@@ -1,0 +1,44 @@
+75. EGEMS (Wash DC). 2015 Jul 9;3(2):1142. doi: 10.13063/2327-9214.1142. eCollection 
+2015.
+
+TeenBP: Development and Piloting of an EHR-Linked Clinical Decision Support 
+System to Improve Recognition of Hypertension in Adolescents.
+
+Kharbanda EO(1), Nordin JD(1), Sinaiko AR(2), Ekstrom HL(1), Stultz JM(3), 
+Sherwood NE(1), Fontaine PL(1), Asche SE(1), Dehmer SP(1), Amundson JH(1), 
+Appana DX(1), Bergdall AR(1), Hayes MG(1), O'Connor PJ(1).
+
+Author information:
+(1)HealthPartners Institute for Education and Research.
+(2)University of Minnesota, Department of Pediatrics.
+(3)HealthPartners Medical Group.
+
+CONTEXT: Blood pressure (BP) is routinely measured in children and adolescents 
+during primary care visits. However, elevated BP or hypertension is frequently 
+not diagnosed or evaluated further by primary care providers. Barriers to 
+recognition include lack of clinician buy-in, competing priorities, and 
+complexity of the standard BP tables.
+CASE DESCRIPTION: We have developed and piloted TeenBP- a web-based, electronic 
+health record (EHR) linked system designed to improve recognition of 
+prehypertension and hypertension in adolescents during primary care visits.
+MAJOR THEMES: Important steps in developing TeenBP included the following: 
+review of national BP guidelines, consideration of clinic workflow, engagement 
+of clinical leaders, and evaluation of the impact on clinical sites. Use of a 
+web-based platform has facilitated updates to the TeenBP algorithm and to the 
+message content. In addition, the web-based platform has allowed for development 
+of a sophisticated display of patient-specific information at the point of care. 
+In the TeenBP pilot, conducted at a single pediatric and family practice site 
+with six clinicians, over a five-month period, more than half of BPs in the 
+hypertensive range were clinically recognized. Furthermore, in this small pilot 
+the TeenBP clinical decision support (CDS) was accepted by providers and 
+clinical staff. Effectiveness of the TeenBP CDS will be determined in a two-year 
+cluster-randomized clinical trial, currently underway at 20 primary care sites.
+CONCLUSION: Use of technology to extract and display clinically relevant data 
+stored within the EHR may be a useful tool for improving recognition of 
+adolescent hypertension during busy primary care visits. In the future, the 
+methods developed specifically for TeenBP are likely to be translatable to a 
+wide range of acute and chronic issues affecting children and adolescents.
+
+DOI: 10.13063/2327-9214.1142
+PMCID: PMC4537153
+PMID: 26290886

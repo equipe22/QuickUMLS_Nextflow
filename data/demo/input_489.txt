@@ -1,0 +1,25 @@
+489. IEEE Trans Inf Technol Biomed. 2005 Jun;9(2):239-47. doi: 
+10.1109/titb.2005.847145.
+
+Semantics-based information modeling for the health-care administration sector: 
+the citation platform.
+
+Anagnostakis AG(1), Tzima M, Sakellaris GC, Fotiadis DI, Likas AC.
+
+Author information:
+(1)Unit of Medical Technology and Intelligent Information Systems, Department of 
+Computer Science, University of Ioannina and Biomedical Research 
+Institute-FORTH, Ioannina GR 45110, Greece.
+
+An information brokerage environment for effective information structuring, 
+indexing, and retrieval in the health-care administration sector is presented. 
+The system is based on ontology modeling, natural language processing, 
+extensible markup language, semantics analysis, and behavioral description. 
+Semantics-based information acquisition is achieved through the uniform 
+modeling, representation, and handling of domain-specific knowledge, both 
+content-based and procedural. The system has been validated using information 
+located on several repositories in the web and its performance is reported in 
+terms of precision and recall.
+
+DOI: 10.1109/titb.2005.847145
+PMID: 16138540 [Indexed for MEDLINE]

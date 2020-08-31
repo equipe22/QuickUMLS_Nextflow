@@ -1,0 +1,35 @@
+7. Health Informatics J. 2020 Mar;26(1):388-405. doi: 10.1177/1460458218824742. 
+Epub 2019 Feb 22.
+
+Natural language processing of lifestyle modification documentation.
+
+Shoenbill K(1), Song Y, Gress L, Johnson H, Smith M, Mendonca EA(2).
+
+Author information:
+(1)University of North Carolina at Chapel Hill, USA.
+(2)University of Wisconsin-Madison, USA.
+
+Lifestyle modification, including diet, exercise, and tobacco cessation, is the 
+first-line treatment of many disorders including hypertension, obesity, and 
+diabetes. Lifestyle modification data are not easily retrieved or used in 
+research due to their textual nature. This study addresses this knowledge gap 
+using natural language processing to automatically identify lifestyle 
+modification documentation from electronic health records. Electronic health 
+record notes from hypertension patients were analyzed using an open-source 
+natural language processing tool to retrieve assessment and advice regarding 
+lifestyle modification. These data were classified as lifestyle modification 
+assessment or advice and mapped to a coded standard ontology. Combined lifestyle 
+modification (advice and assessment) recall was 99.27 percent, precision 
+94.44 percent, and correct classification 88.15 percent. Through extraction and 
+transformation of narrative lifestyle modification data to coded data, this 
+critical information can be used in research, metric development, and quality 
+improvement efforts regarding care delivery for multiple medical conditions that 
+benefit from lifestyle modification.
+
+DOI: 10.1177/1460458218824742
+PMCID: PMC6722039
+PMID: 30791802
+
+Conflict of interest statement: Declaration of conflicting interests The 
+author(s) declared no potential conflicts of interest with respect to the 
+research, authorship, and/or publication of this article.

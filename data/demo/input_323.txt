@@ -1,0 +1,40 @@
+323. Database (Oxford). 2017 Jan 1;2017(1):baw156. doi: 10.1093/database/baw156.
+
+BELMiner: adapting a rule-based relation extraction system to extract biological 
+expression language statements from bio-medical literature evidence sentences.
+
+Ravikumar KE(1), Rastegar-Mojarad M(1)(2), Liu H(1).
+
+Author information:
+(1)Department of Health Sciences Research, Mayo Clinic, USA and.
+(2)Department of Health Informatics and Administration, University of 
+Wisconsin-Milwaukee, Milwaukee, WI, USA.
+
+Extracting meaningful relationships with semantic significance from biomedical 
+literature is often a challenging task. BioCreative V track4 challenge for the 
+first time has organized a comprehensive shared task to test the robustness of 
+the text-mining algorithms in extracting semantically meaningful assertions from 
+the evidence statement in biomedical text. In this work, we tested the ability 
+of a rule-based semantic parser to extract Biological Expression Language (BEL) 
+statements from evidence sentences culled out of biomedical literature as part 
+of BioCreative V Track4 challenge. The system achieved an overall best F-measure 
+of 21.29% in extracting the complete BEL statement. For relation extraction, the 
+system achieved an F-measure of 65.13% on test data set. Our system achieved the 
+best performance in five of the six criteria that was adopted for evaluation by 
+the task organizers. Lack of ability to derive semantic inferences, limitation 
+in the rule sets to map the textual extractions to BEL function were some of the 
+reasons for low performance in extracting the complete BEL statement. Post 
+shared task we also evaluated the impact of differential NER components on the 
+ability to extract BEL statements on the test data sets besides making a single 
+change in the rule sets that translate relation extractions into a BEL 
+statement. There is a marked improvement by over 20% in the overall performance 
+of the BELMiner's capability to extract BEL statement on the test set. The 
+system is available as a REST-API at 
+http://54.146.11.205:8484/BELXtractor/finder/.
+DATABASE URL: http://54.146.11.205:8484/BELXtractor/finder/.
+
+© The Author(s) 2017. Published by Oxford University Press.
+
+DOI: 10.1093/database/baw156
+PMCID: PMC5467463
+PMID: 28365720 [Indexed for MEDLINE]

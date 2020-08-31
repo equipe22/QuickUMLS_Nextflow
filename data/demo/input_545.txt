@@ -1,0 +1,68 @@
+545. BMC Health Serv Res. 2017 Feb 6;17(1):117. doi: 10.1186/s12913-017-2049-y.
+
+Addressing the gaps in diabetes care in first nations communities with the 
+reorganizing the approach to diabetes through the application of registries 
+(RADAR): the project protocol.
+
+Eurich DT(1)(2), Majumdar SR(3)(4), Wozniak LA(5)(3), Soprovich A(5)(3), Meneen 
+K(6), Johnson JA(5)(3), Samanani S(6).
+
+Author information:
+(1)School of Public Health, University of Alberta, Edmonton, AB, T6G 1C9, 
+Canada. deurich@ualberta.ca.
+(2)Alliance for Canadian Heath Outcomes Research in Diabetes, University of 
+Alberta, Edmonton, AB, T6G 2E1, Canada. deurich@ualberta.ca.
+(3)Alliance for Canadian Heath Outcomes Research in Diabetes, University of 
+Alberta, Edmonton, AB, T6G 2E1, Canada.
+(4)Department of Medicine, Faculty of Medicine and Dentistry, University of 
+Alberta, Edmonton, AB, T6G 2R7, Canada.
+(5)School of Public Health, University of Alberta, Edmonton, AB, T6G 1C9, 
+Canada.
+(6)OKAKI Health Intelligence Inc, #715, 3553 - 31st NW, Calgary, AB, T2L 2K7, 
+Canada.
+
+BACKGROUND: Type-2 diabetes rates in First Nations communities are 3-5 times 
+higher than the general Canadian population, resulting in a high burden of 
+disease, complications and comorbidity. Limited community nursing capacity, 
+isolated environments and a lack of electronic health records (EHR)/registries 
+lead to a reactive, disorganized approach to diabetes care for many First 
+Nations people. The Reorganizing the Approach to Diabetes through the 
+Application of Registries (RADAR) project was developed in alignments with 
+federal calls for innovative, culturally relevant, community-specific programs 
+for people with type-2 diabetes developed and delivered in partnership with 
+target communities.
+METHODS: RADAR applies both an integrated diabetes EHR/registry system (CARE 
+platform) and centralized care coordinator (CC) service that will support local 
+healthcare. The CC will work with local healthcare workers to support patient 
+and community health needs (using the CARE platform) and build capacity in best 
+practices for type-2 diabetes management. A modified stepped wedge controlled 
+trial design will be used to evaluate the model. During the baseline phase, the 
+CC will work with local healthcare workers to identify patients with type-2 
+diabetes and register them into the CARE platform, but not make any management 
+recommendations. During the intervention phase, the CC will work with local 
+healthcare workers to proactively manage patients with type-2 diabetes, 
+including monitoring and recall of patients, relaying clinical information and 
+coordinating care, facilitated through the shared use of the CARE platform. The 
+RE-AIM framework will provide a comprehensive assessment of the model. The 
+primary outcome measure will be a 10% improvement in any one of A1c, BP, or 
+cholesterol over the baseline values. Secondary endpoints will address other 
+diabetes care indicators including: the proportion of clinical measures 
+completed in accordance with guidelines (e.g., foot and eye examination, receipt 
+of vaccinations, smoking cessation counseling); the number of patients 
+registered in CARE; and the proportion of patients linked to a health services 
+provider. The cost-effectiveness of RADAR specific to these communities will be 
+assessed. Concurrent qualitative assessments will provide contextual 
+information, such as the quality/usability of the CARE platform and the 
+impact/satisfaction with the model.
+DISCUSSION: RADAR combines innovative technology with personalized support to 
+deliver organized diabetes care in remote First Nations communities in Alberta. 
+By improving the ability of First Nations to systematically identify and track 
+diabetes patients and share information seamlessly an overall improvement in the 
+quality of clinical care of First Nations people living with type-2 diabetes on 
+reserve is anticipated.
+TRIAL REGISTRATION: ISRCTN study ID ISRCTN14359671 , retrospectively registered 
+October 7, 2016.
+
+DOI: 10.1186/s12913-017-2049-y
+PMCID: PMC5294874
+PMID: 28166804 [Indexed for MEDLINE]

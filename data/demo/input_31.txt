@@ -1,0 +1,68 @@
+31. JMIR Med Inform. 2019 Oct 31;7(4):e15980. doi: 10.2196/15980.
+
+Cohort Selection for Clinical Trials From Longitudinal Patient Records: Text 
+Mining Approach.
+
+Spasic I(1), Krzeminski D(2), Corcoran P(1), Balinsky A(3).
+
+Author information:
+(1)School of Computer Science & Informatics, Cardiff University, Cardiff, United 
+Kingdom.
+(2)School of Psychology, Cardiff University, Cardiff, United Kingdom.
+(3)School of Mathematics, Cardiff University, Cardiff, United Kingdom.
+
+BACKGROUND: Clinical trials are an important step in introducing new 
+interventions into clinical practice by generating data on their safety and 
+efficacy. Clinical trials need to ensure that participants are similar so that 
+the findings can be attributed to the interventions studied and not to some 
+other factors. Therefore, each clinical trial defines eligibility criteria, 
+which describe characteristics that must be shared by the participants. 
+Unfortunately, the complexities of eligibility criteria may not allow them to be 
+translated directly into readily executable database queries. Instead, they may 
+require careful analysis of the narrative sections of medical records. Manual 
+screening of medical records is time consuming, thus negatively affecting the 
+timeliness of the recruitment process.
+OBJECTIVE: Track 1 of the 2018 National Natural Language Processing Clinical 
+Challenge focused on the task of cohort selection for clinical trials, aiming to 
+answer the following question: Can natural language processing be applied to 
+narrative medical records to identify patients who meet eligibility criteria for 
+clinical trials? The task required the participating systems to analyze 
+longitudinal patient records to determine if the corresponding patients met the 
+given eligibility criteria. We aimed to describe a system developed to address 
+this task.
+METHODS: Our system consisted of 13 classifiers, one for each eligibility 
+criterion. All classifiers used a bag-of-words document representation model. To 
+prevent the loss of relevant contextual information associated with such 
+representation, a pattern-matching approach was used to extract 
+context-sensitive features. They were embedded back into the text as lexically 
+distinguishable tokens, which were consequently featured in the bag-of-words 
+representation. Supervised machine learning was chosen wherever a sufficient 
+number of both positive and negative instances was available to learn from. A 
+rule-based approach focusing on a small set of relevant features was chosen for 
+the remaining criteria.
+RESULTS: The system was evaluated using microaveraged F measure. Overall, 4 
+machine algorithms, including support vector machine, logistic regression, naïve 
+Bayesian classifier, and gradient tree boosting (GTB), were evaluated on the 
+training data using 10-fold cross-validation. Overall, GTB demonstrated the most 
+consistent performance. Its performance peaked when oversampling was used to 
+balance the training data. The final evaluation was performed on previously 
+unseen test data. On average, the F measure of 89.04% was comparable to 3 of the 
+top ranked performances in the shared task (91.11%, 90.28%, and 90.21%). With an 
+F measure of 88.14%, we significantly outperformed these systems (81.03%, 
+78.50%, and 70.81%) in identifying patients with advanced coronary artery 
+disease.
+CONCLUSIONS: The holdout evaluation provides evidence that our system was able 
+to identify eligible patients for the given clinical trial with high accuracy. 
+Our approach demonstrates how rule-based knowledge infusion can improve the 
+performance of machine learning algorithms even when trained on a relatively 
+small dataset.
+
+©Irena Spasic, Dominik Krzeminski, Padraig Corcoran, Alexander Balinsky. 
+Originally published in JMIR Medical Informatics (http://medinform.jmir.org), 
+31.10.2019.
+
+DOI: 10.2196/15980
+PMCID: PMC6913747
+PMID: 31674914
+
+Conflict of interest statement: Conflicts of Interest: None declared.

@@ -1,0 +1,48 @@
+247. Comput Methods Programs Biomed. 2020 May;188:105264. doi: 
+10.1016/j.cmpb.2019.105264. Epub 2019 Dec 10.
+
+Boosting ICD multi-label classification of health records with contextual 
+embeddings and label-granularity.
+
+Blanco A(1), Perez-de-Viñaspre O(2), Pérez A(2), Casillas A(2).
+
+Author information:
+(1)IXA Taldea. UPV-EHU, Manuel Lardizabal Ibilbidea, 1, Donostia 20018, Spain. 
+Electronic address: ablanco061@ikasle.ehu.eus.
+(2)IXA Taldea. UPV-EHU, Manuel Lardizabal Ibilbidea, 1, Donostia 20018, Spain.
+
+BACKGROUND AND OBJECTIVE: This work deals with clinical text mining, a field of 
+Natural Language Processing applied to biomedical informatics. The aim is to 
+classify Electronic Health Records with respect to the International 
+Classification of Diseases, which is the foundation for the identification of 
+international health statistics, and the standard for reporting diseases and 
+health conditions. Within the framework of data mining, the goal is the 
+multi-label classification, as each health record has assigned multiple 
+International Classification of Diseases codes. We investigate five Deep 
+Learning architectures with a dataset obtained from the Basque Country Health 
+System, and six different perspectives derived from shifts in the input and the 
+output.
+METHODS: We evaluate a Feed Forward Neural Network as the baseline and several 
+Recurrent models based on the Bidirectional GRU architecture, putting our 
+research focus on the text representation layer and testing three variants, from 
+standard word embeddings to meta word embeddings techniques and contextual 
+embeddings.
+RESULTS: The results showed that the recurrent models overcome the non-recurrent 
+model. The meta word embeddings techniques are capable of beating the standard 
+word embeddings, but the contextual embeddings exhibit as the most robust for 
+the downstream task overall. Additionally, the label-granularity alone has an 
+impact on the classification performance.
+CONCLUSIONS: The contributions of this work are a) a comparison among five 
+classification approaches based on Deep Learning on a Spanish dataset to cope 
+with the multi-label health text classification problem; b) the study of the 
+impact of document length and label-set size and granularity in the multi-label 
+context; and c) the study of measures to mitigate multi-label text 
+classification problems related to label-set size and sparseness.
+
+Copyright © 2019. Published by Elsevier B.V.
+
+DOI: 10.1016/j.cmpb.2019.105264
+PMID: 31851906
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that there is no conflict of interest.

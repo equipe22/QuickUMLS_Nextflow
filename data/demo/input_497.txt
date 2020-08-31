@@ -1,0 +1,25 @@
+497. Bioinformatics. 2005 Jun;21 Suppl 1:i319-27. doi: 
+10.1093/bioinformatics/bti1011.
+
+Beyond the clause: extraction of phosphorylation information from medline 
+abstracts.
+
+Narayanaswamy M(1), Ravikumar KE, Vijay-Shanker K.
+
+Author information:
+(1)AU-KBC Research Centre, Anna University Chennai, India.
+
+Phosphorylation is an important biochemical reaction that plays a critical role 
+in signal transduction pathways and cell-cycle processes. A text mining system 
+to extract the phosphorylation relation from the literature is reported. The 
+focus of this paper is on the new methods developed and implemented to connect 
+and merge pieces of information about phosphorylation mentioned in different 
+sentences in the text. The effectiveness and accuracy of the system as a whole 
+as well as that of the methods for extraction beyond a clause/sentence is 
+evaluated using an independently annotated dataset, the Phospho.ELM database. 
+The new methods developed to merge pieces of information from different 
+sentences are shown to be effective in significantly raising the recall without 
+much difference in precision.
+
+DOI: 10.1093/bioinformatics/bti1011
+PMID: 15961474 [Indexed for MEDLINE]

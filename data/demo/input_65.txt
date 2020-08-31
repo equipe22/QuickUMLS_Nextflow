@@ -1,0 +1,56 @@
+65. J Biomed Semantics. 2019 Nov 12;10(Suppl 1):23. doi: 10.1186/s13326-019-0211-7.
+
+Text mining brain imaging reports.
+
+Alex B(1)(2)(3), Grover C(4)(5), Tobin R(4), Sudlow C(6), Mair G(7), Whiteley 
+W(7).
+
+Author information:
+(1)School of Informatics, University of Edinburgh, Informatics Forum, 10 
+Crichton Street, Edinburgh, UK. balex@ed.ac.uk.
+(2)Edinburgh Futures Institute, School of Literatures, Languages and Cultures, 
+University of Edinburgh, 50 George Square, Edinburgh, UK. balex@ed.ac.uk.
+(3)The Alan Turing Institute, The British Library, 96 Euston Road, London, UK. 
+balex@ed.ac.uk.
+(4)School of Informatics, University of Edinburgh, Informatics Forum, 10 
+Crichton Street, Edinburgh, UK.
+(5)The Alan Turing Institute, The British Library, 96 Euston Road, London, UK.
+(6)Centre for Medical Informatics, University of Edinburgh, 9 Little France 
+Road, Edinburgh, UK.
+(7)Centre for Clinical Brain Sciences, University of Edinburgh, Chancellor's 
+Building, 49 Little France Crescent, Edinburgh, UK.
+
+BACKGROUND: With the improvements to text mining technology and the availability 
+of large unstructured Electronic Healthcare Records (EHR) datasets, it is now 
+possible to extract structured information from raw text contained within EHR at 
+reasonably high accuracy. We describe a text mining system for classifying 
+radiologists' reports of CT and MRI brain scans, assigning labels indicating 
+occurrence and type of stroke, as well as other observations. Our system, the 
+Edinburgh Information Extraction for Radiology reports (EdIE-R) system, which we 
+describe here, was developed and tested on a collection of radiology reports.The 
+work reported in this paper is based on 1168 radiology reports from the 
+Edinburgh Stroke Study (ESS), a hospital-based register of stroke and transient 
+ischaemic attack patients. We manually created annotations for this data in 
+parallel with developing the rule-based EdIE-R system to identify phenotype 
+information related to stroke in radiology reports. This process was iterative 
+and domain expert feedback was considered at each iteration to adapt and tune 
+the EdIE-R text mining system which identifies entities, negation and relations 
+between entities in each report and determines report-level labels (phenotypes).
+RESULTS: The inter-annotator agreement (IAA) for all types of annotations is 
+high at 96.96 for entities, 96.46 for negation, 95.84 for relations and 94.02 
+for labels. The equivalent system scores on the blind test set are equally high 
+at 95.49 for entities, 94.41 for negation, 98.27 for relations and 96.39 for 
+labels for the first annotator and 96.86, 96.01, 96.53 and 92.61, respectively 
+for the second annotator.
+CONCLUSION: Automated reading of such EHR data at such high levels of accuracies 
+opens up avenues for population health monitoring and audit, and can provide a 
+resource for epidemiological studies. We are in the process of validating EdIE-R 
+in separate larger cohorts in NHS England and Scotland. The manually annotated 
+ESS corpus will be available for research purposes on application.
+
+DOI: 10.1186/s13326-019-0211-7
+PMCID: PMC6849161
+PMID: 31711539 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests

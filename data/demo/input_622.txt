@@ -1,0 +1,71 @@
+622. NPJ Genom Med. 2020 Jul 6;5:29. doi: 10.1038/s41525-020-0137-0. eCollection 
+2020.
+
+Children's rare disease cohorts: an integrative research and clinical genomics 
+initiative.
+
+Rockowitz S(1)(2)(3), LeCompte N(1)(2)(3), Carmack M(1)(2)(3), Quitadamo 
+A(1)(2)(3), Wang L(1)(2)(3), Park M(4)(5), Knight D(4)(5), Sexton E(4)(5), Smith 
+L(4)(5), Sheidley B(4)(5), Field M(6), Holm IA(2)(3)(7), Brownstein CA(2)(3)(7), 
+Agrawal PB(2)(3)(7)(8), Kornetsky S(9), Poduri A(3)(4)(5), Snapper SB(3)(6), 
+Beggs AH(2)(3)(7), Yu TW(2)(3)(7), Williams DA(3)(10), Sliz P(1)(2)(3).
+
+Author information:
+(1)Computational Health Informatics Program, Boston Children's Hospital, Boston, 
+MA 02115 USA.
+(2)The Manton Center for Orphan Disease Research, Boston Children's Hospital, 
+Boston, MA 02115 USA.
+(3)Harvard Medical School, Boston, MA 02115 USA.
+(4)Department of Neurology, F.M. Kirby Neurobiology Center, Boston Children's 
+Hospital, Boston, MA 02115 USA.
+(5)Division of Epilepsy and Clinical Neurophysiology and Epilepsy Genetics 
+Program, Boston Children's Hospital, Boston, MA 02115 USA.
+(6)Division of Gastroenterology, Hepatology and Nutrition, Boston Children's 
+Hospital, Boston, MA 02115 USA.
+(7)Division of Genetics and Genomics, Boston Children's Hospital, Boston, MA 
+02115 USA.
+(8)Division of Newborn Medicine, Boston Children's Hospital, Boston, MA 02115 
+USA.
+(9)Research Administration, Boston Children's Hospital, Boston, MA 02115 USA.
+(10)Division of Hematology/Oncology, Dana-Farber/Boston Children's Cancer and 
+Blood Disorders Center, Boston, MA 02115 USA.
+
+While genomic data is frequently collected under distinct research protocols and 
+disparate clinical and research regimes, there is a benefit in streamlining 
+sequencing strategies to create harmonized databases, particularly in the area 
+of pediatric rare disease. Research hospitals seeking to implement unified 
+genomics workflows for research and clinical practice face numerous challenges, 
+as they need to address the unique requirements and goals of the distinct 
+environments and many stakeholders, including clinicians, researchers and 
+sequencing providers. Here, we present outcomes of the first phase of the 
+Children's Rare Disease Cohorts initiative (CRDC) that was completed at Boston 
+Children's Hospital (BCH). We have developed a broadly sharable database of 2441 
+exomes from 15 pediatric rare disease cohorts, with major contributions from 
+early onset epilepsy and early onset inflammatory bowel disease. All sequencing 
+data is integrated and combined with phenotypic and research data in a genomics 
+learning system (GLS). Phenotypes were both manually annotated and pulled 
+automatically from patient medical records. Deployment of a genomically-ordered 
+relational database allowed us to provide a modular and robust platform for 
+centralized storage and analysis of research and clinical data, currently 
+totaling 8516 exomes and 112 genomes. The GLS integrates analytical systems, 
+including machine learning algorithms for automated variant classification and 
+prioritization, as well as phenotype extraction via natural language processing 
+(NLP) of clinical notes. This GLS is extensible to additional analytic systems 
+and growing research and clinical collections of genomic and other types of 
+data.
+
+© The Author(s) 2020.
+
+DOI: 10.1038/s41525-020-0137-0
+PMCID: PMC7338382
+PMID: 32655885
+
+Conflict of interest statement: Competing interestsS.B.S. participates on the 
+scientific advisory board for Pfizer, Takeda, Janssen, Celgene, Lilly, IFM 
+therapeutics, and Pandion Inc. and consulted for Hoffman La Roche and Amgen. He 
+currently has grant support from Pfizer and Novartis, and in-kind support for 
+sequencing from Regeneron. He has previously received grant funding from Janssen 
+and Merck and in-kind support for sequencing from Merck. T.W.Y. participates on 
+the scientific advisory board of GeneTx Biotherapeutics and Eisai, Inc., and has 
+consulted for Alnylam Pharmaceuticals. The remaining authors declare no 
+competing interests.

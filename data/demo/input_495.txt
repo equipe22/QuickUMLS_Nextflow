@@ -1,0 +1,21 @@
+495. Sheng Wu Yi Xue Gong Cheng Xue Za Zhi. 2007 Feb;24(1):145-8.
+
+[Construction and application of learning science related phenotype ontology].
+
+[Article in Chinese]
+
+Chen L(1), Tao Y, Xie J, Sun X.
+
+Author information:
+(1)Key Laboratory of Molecular and Biomalecular Electronics of Ministry of 
+Education, Southeast University, Nanjing 210096, China.
+
+Based on MeSH-2004, we constructed a Learning Science related phenotype Ontology 
+with active server page (ASP) and database technology. It provides a canonical, 
+systemic and structural term system for the study of learning science and its 
+phenotypes include terms of behavior,psychology and mental disorder. By using 
+this Ontology, we can integrate isomerous data. It will increase the efficiency 
+of information acquisition, management and search,and provide a platform for 
+data sharing and data mining.
+
+PMID: 17333910 [Indexed for MEDLINE]

@@ -1,0 +1,18 @@
+496. AMIA Annu Symp Proc. 2008 Nov 6:1085.
+
+Casepedia: a Web 2.0 case repository enabling collaborative learning.
+
+Patel R(1), Hanratty M, Johnson J, Saxman P, Shah A, Zheng K.
+
+Author information:
+(1)University of Michigan, Ann Arbor, MI, USA.
+
+Clinical cases play an instrumental role in medical school education and the 
+continuing education of practicing physicians. To date, few case repositories 
+are available that are interdisciplinary, searchable, or have properties 
+enabling user contribution and feedback. In this research, we explored the 
+design of such a system called Casepedia, using contextual inquiry and rapid 
+prototyping techniques. Casepedia provides a Web 2.0 platform that will allow 
+medical professionals to publish, comment on, and classify authentic cases.
+
+PMID: 18999234 [Indexed for MEDLINE]

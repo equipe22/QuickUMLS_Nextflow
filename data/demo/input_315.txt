@@ -1,0 +1,23 @@
+315. IEEE/ACM Trans Comput Biol Bioinform. 2010 Jul-Sep;7(3):472-80. doi: 
+10.1109/TCBB.2010.50.
+
+OntoGene in BioCreative II.5.
+
+Rinaldi F(1), Schneider G, Kaljurand K, Clematide S, Vachon T, Romacker M.
+
+Author information:
+(1)Institute of Computational Linguistics, University of Zurich, Zurich, 
+Switzerland. rinaldi@cl.uzh.ch
+
+We describe a system for the detection of mentions of protein-protein 
+interactions in the biomedical scientific literature. The original system was 
+developed as a part of the OntoGene project, which focuses on using advanced 
+computational linguistic techniques for text mining applications in the 
+biomedical domain. In this paper, we focus in particular on the participation to 
+the BioCreative II.5 challenge, where the OntoGene system achieved best-ranked 
+results. Additionally, we describe a feature-analysis experiment performed after 
+the challenge, which shows the unexpected result that one single feature alone 
+performs better than the combination of features used in the challenge.
+
+DOI: 10.1109/TCBB.2010.50
+PMID: 20671319 [Indexed for MEDLINE]

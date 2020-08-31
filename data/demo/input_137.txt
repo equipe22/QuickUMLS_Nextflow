@@ -1,0 +1,75 @@
+137. J Med Internet Res. 2020 Aug 14;22(8):e20773. doi: 10.2196/20773.
+
+Natural Language Processing for Rapid Response to Emergent Diseases: Case Study 
+of Calcium Channel Blockers and Hypertension in the COVID-19 Pandemic.
+
+Neuraz A(1)(2)(3), Lerner I(1)(2), Digan W(2)(4), Paris N(5), Tsopra R(2)(4), 
+Rogier A(2)(4), Baudoin D(2)(4), Cohen KB(6), Burgun A(1)(2)(4), Garcelon 
+N(2)(7), Rance B(2)(4); AP-HP/Universities/INSERM COVID-19 Research 
+Collaboration; AP-HP COVID CDR Initiative(8).
+
+Collaborators: Ancel PY, Bauchet A, Beeker N, Benoit V, Bernaux M, Bellamine A, 
+Bey R, Bourmaud A, Breant S, Burgun A, Carrat F, Caucheteux C, Champ J, Cormont 
+S, Daniel C, Dubiel J, Duclos C, Esteve L, Frank M, Garcelon N, Gramfort A, 
+Griffon N, Grisel O, Guilbaud M, Hassen-Khodja C, Hemery F, Hilka M, Jannot AS, 
+Lambert J, Layese R, Leblanc J, Lebouter L, Lemaitre G, Leprovost D, Lerner I, 
+Sallah KL, Maire A, Mamzer MF, Martel P, Mensch A, Moreau T, Neuraz A, Orlova N, 
+Paris N, Rance B, Ravera H, Rozes A, Salamanca E, Sandrin A, Serre P, Tannier X, 
+Treluyer JM, van Gysel D, Varoquaux G, Jen Vie J, Wack M, Wajsburt P, Wassermann 
+D, Zapletal E.
+
+Author information:
+(1)Department of Biomedical Informatics, Necker-Enfant Malades Hospital, 
+Assistance Publique - Hôpitaux de Paris (AP-HP), Paris, France.
+(2)Centre de Recherche des Cordeliers, INSERM UMRS 1138 Team 22, Université de 
+Paris, Paris, France.
+(3)LIMSI, CNRS, Université Paris Saclay, Orsay, France.
+(4)Department of Biomedical Informatics, Georges Pompidou European Hospital, 
+Assistance Publique - Hôpitaux de Paris (AP-HP), Paris, France.
+(5)DSI WIND, Assistance Publique - Hôpitaux de Paris (AP-HP), Paris, France.
+(6)School of Medicine, University of Colorado, Denver, CO, United States.
+(7)Institut Imagine, INSERM U1163, Université Paris Descartes, Université de 
+Paris, Paris, France.
+(8)Please see acknowledgements for list of collaborators, .
+
+BACKGROUND: A novel disease poses special challenges for informatics solutions. 
+Biomedical informatics relies for the most part on structured data, which 
+require a preexisting data or knowledge model; however, novel diseases do not 
+have preexisting knowledge models. In an emergent epidemic, language processing 
+can enable rapid conversion of unstructured text to a novel knowledge model. 
+However, although this idea has often been suggested, no opportunity has arisen 
+to actually test it in real time. The current coronavirus disease (COVID-19) 
+pandemic presents such an opportunity.
+OBJECTIVE: The aim of this study was to evaluate the added value of information 
+from clinical text in response to emergent diseases using natural language 
+processing (NLP).
+METHODS: We explored the effects of long-term treatment by calcium channel 
+blockers on the outcomes of COVID-19 infection in patients with high blood 
+pressure during in-patient hospital stays using two sources of information: data 
+available strictly from structured electronic health records (EHRs) and data 
+available through structured EHRs and text mining.
+RESULTS: In this multicenter study involving 39 hospitals, text mining increased 
+the statistical power sufficiently to change a negative result for an adjusted 
+hazard ratio to a positive one. Compared to the baseline structured data, the 
+number of patients available for inclusion in the study increased by 2.95 times, 
+the amount of available information on medications increased by 7.2 times, and 
+the amount of additional phenotypic information increased by 11.9 times.
+CONCLUSIONS: In our study, use of calcium channel blockers was associated with 
+decreased in-hospital mortality in patients with COVID-19 infection. This 
+finding was obtained by quickly adapting an NLP pipeline to the domain of the 
+novel disease; the adapted pipeline still performed sufficiently to extract 
+useful information. When that information was used to supplement existing 
+structured data, the sample size could be increased sufficiently to see 
+treatment effects that were not previously statistically detectable.
+
+©Antoine Neuraz, Ivan Lerner, William Digan, Nicolas Paris, Rosy Tsopra, Alice 
+Rogier, David Baudoin, Kevin Bretonnel Cohen, Anita Burgun, Nicolas Garcelon, 
+Bastien Rance, AP-HP/Universities/INSERM COVID-19 Research Collaboration; AP-HP 
+COVID CDR Initiative. Originally published in the Journal of Medical Internet 
+Research (http://www.jmir.org), 14.08.2020.
+
+DOI: 10.2196/20773
+PMCID: PMC7431235
+PMID: 32759101 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interest: None declared.

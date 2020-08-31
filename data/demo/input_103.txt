@@ -1,0 +1,41 @@
+103. JAMIA Open. 2019 Oct 22;2(4):440-446. doi: 10.1093/jamiaopen/ooz055. eCollection 
+2019 Dec.
+
+The development and electronic delivery of case-based learning using a fast 
+healthcare interoperability resource system.
+
+Braunstein ML(1)(2), Oancea I(3), Barry BK(3), Darlington S(3), Steel J(2)(4), 
+Hansen DP(2), Battock J(4), Cheung D(4), Gan G(4), Hooper B(4), Lundin R(4), 
+Nicol D(4), O'Brien J(4), Whittington S(4), Wilkinson C(4), Wong TT(4).
+
+Author information:
+(1)School of Interactive Computing, Georgia Institute of Technology, Atlanta, 
+Georgia, USA.
+(2)The Australian e-Health Research Centre, Commonwealth Scientific and 
+Industrial Research Organisation, Brisbane, Australia.
+(3)School of Clinical Medicine, Faculty of Medicine, The University of 
+Queensland, Brisbane, Australia.
+(4)School of Information Technology and Electrical Engineering, The University 
+of Queensland, Brisbane, Australia.
+
+HL7 International's Fast Healthcare Interoperability Resources (FHIR) standard 
+provides a common format for sharing health data (eg, FHIR resources) and a 
+RESTful Application Programming Interface (eg, FHIR API) for accessing those 
+resources via a FHIR server connected to an electronic health record system or 
+any other system storing clinical data. Substitutable Medical Applications and 
+Reusable Technologies (SMART) leverages FHIR to create an electronic health 
+record (EHR) agnostic app platform. It utilizes the OAuth standard to provide 
+for authorization and authentication. This paper describes the development and 
+informal evaluation of Case Based Learning on FHIR (CBL on FHIR), a prototype 
+EHR-connected FHIR/SMART platform to provide interactive digital cases for use 
+in medical education. The project goals were to provide a more interactive form 
+of CBL than is possible on paper to more realistically simulate clinical 
+decision making and to expose medical students to modern informatics systems and 
+tools for use in patient care.
+
+© The Author(s) 2019. Published by Oxford University Press on behalf of the 
+American Medical Informatics Association.
+
+DOI: 10.1093/jamiaopen/ooz055
+PMCID: PMC6994000
+PMID: 32025640

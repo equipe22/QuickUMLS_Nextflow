@@ -1,0 +1,68 @@
+294. J Biomed Inform. 2015 Feb;53:162-73. doi: 10.1016/j.jbi.2014.10.006. Epub 2014 
+Oct 18.
+
+Using electronic health records for clinical research: the case of the EHR4CR 
+project.
+
+De Moor G(1), Sundgren M(2), Kalra D(3), Schmidt A(4), Dugas M(5), Claerhout 
+B(6), Karakoyun T(7), Ohmann C(7), Lastic PY(8), Ammour N(8), Kush R(9), Dupont 
+D(10), Cuggia M(11), Daniel C(12), Thienpont G(13), Coorevits P(14).
+
+Author information:
+(1)Department of Public Health, Unit of Medical Informatics and Statistics, 
+Ghent University, Ghent, Belgium; The European Institute for Health Records 
+(EuroRec), Sint-Martens-Latem, Belgium; Custodix NV, Sint-Martens-Latem, 
+Belgium.
+(2)AstraZeneca R&D, Mölndal, Sweden.
+(3)University College London, London, UK.
+(4)Pharma Product Development, F Hoffmann-La Roche Ltd, Basel, Switzerland.
+(5)Institute of Medical Informatics, University of Münster, Münster, Germany.
+(6)Custodix NV, Sint-Martens-Latem, Belgium.
+(7)Coordination Centre for Clinical Trials, Heinrich-Heine-University, 
+Duesseldorf, Germany.
+(8)Sanofi R&D, Chilly-Mazarin, France.
+(9)Clinical Data Interchange Standards Consortium (CDISC), United States.
+(10)Data Mining International SA, Geneva, Switzerland.
+(11)INSERM CIC-P, CHU de Rennes, Rennes, France.
+(12)INSERM, UMR_S 1142, LIMICS, Paris, France; CCS SI Patient, AP-HP, Paris, 
+France.
+(13)Research in Advanced Medical Informatics and Telematics vzw (RAMIT), Ghent, 
+Belgium.
+(14)Department of Public Health, Unit of Medical Informatics and Statistics, 
+Ghent University, Ghent, Belgium; The European Institute for Health Records 
+(EuroRec), Sint-Martens-Latem, Belgium. Electronic address: 
+pascal.coorevits@telenet.be.
+
+OBJECTIVES: To describe the IMI EHR4CR project which is designing and 
+developing, and aims to demonstrate, a scalable, widely acceptable and efficient 
+approach to interoperability between EHR systems and clinical research systems.
+METHODS: The IMI EHR4CR project is combining and extending several previously 
+isolated state-of-the-art technical components through a new approach to develop 
+a platform for reusing EHR data to support medical research. This will be 
+achieved through multiple but unified initiatives across different major disease 
+areas (e.g. cardiovascular, cancer) and clinical research use cases (protocol 
+feasibility, patient identification and recruitment, clinical trial execution 
+and serious adverse event reporting), with various local and national 
+stakeholders across several countries and therefore under various legal 
+frameworks.
+RESULTS: An initial instance of the platform has been built, providing 
+communication, security and terminology services to the eleven participating 
+hospitals and ten pharmaceutical companies located in seven European countries. 
+Proof-of-concept demonstrators have been built and evaluated for the protocol 
+feasibility and patient recruitment scenarios. The specifications of the 
+clinical trial execution and the adverse event reporting scenarios have been 
+documented and reviewed.
+CONCLUSIONS: Through a combination of a consortium that brings collectively many 
+years of experience from previous relevant EU projects and of the global conduct 
+of clinical trials, of an approach to ethics that engages many important 
+stakeholders across Europe to ensure acceptability, of a robust iterative design 
+methodology for the platform services that is anchored on requirements of an 
+underlying Service Oriented Architecture that has been designed to be scalable 
+and adaptable, EHR4CR could be well placed to deliver a sound, useful and well 
+accepted pan-European solution for the reuse of hospital EHR data to support 
+clinical research studies.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jbi.2014.10.006
+PMID: 25463966 [Indexed for MEDLINE]

@@ -1,0 +1,28 @@
+268. Pac Symp Biocomput. 2014:352-63.
+
+Towards pathway curation through literature mining--a case study using PharmGKB.
+
+Ravikumar KE(1), Wagholikar KB, Liu H.
+
+Author information:
+(1)Department of Health Sciences Research, College of Medicine, Mayo clinic, 
+Rochester, MN, 55905, USA. KomandurElayavilli.Ravikumar@mayo.edu.
+
+The creation of biological pathway knowledge bases is largely driven by manual 
+effort to curate based on evidences from the scientific literature. It is highly 
+challenging for the curators to keep up with the literature. Text mining 
+applications have been developed in the last decade to assist human curators to 
+speed up the curation pace where majority of them aim to identify the most 
+relevant papers for curation with little attempt to directly extract the pathway 
+information from text. In this paper, we describe a rule-based literature mining 
+system to extract pathway information from text. We evaluated the system using 
+curated pharmacokinetic (PK) and pharmacodynamic (PD) pathways in PharmGKB. The 
+system achieved an F-measure of 63.11% and 34.99% for entity extraction and 
+event extraction respectively against all PubMed abstracts cited in PharmGKB. It 
+may be possible to improve the system performance by incorporating using 
+statistical machine learning approaches. This study also helped us gain insights 
+into the barriers towards automated event extraction from text for pathway 
+curation.
+
+PMCID: PMC3902837
+PMID: 24297561 [Indexed for MEDLINE]

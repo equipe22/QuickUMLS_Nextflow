@@ -1,0 +1,25 @@
+258. AMIA Annu Symp Proc. 2010 Nov 13;2010:336-40.
+
+Throw the bath water out, keep the baby: keeping medically-relevant terms for 
+text mining.
+
+Jarman J(1), Berndt DJ.
+
+Author information:
+(1)James A. Haley VAMC, Tampa, FL;
+
+The purpose of this research is to answer the question, can medically-relevant 
+terms be extracted from text notes and text mined for the purpose of 
+classification and obtain equal or better results than text mining the original 
+note? A novel method is used to extract medically-relevant terms for the purpose 
+of text mining. A dataset of 5,009 EMR text notes (1,151 related to falls) was 
+obtained from a Veterans Administration Medical Center. The dataset was 
+processed with a natural language processing (NLP) application which extracted 
+concepts based on SNOMED-CT terms from the Unified Medical Language System 
+(UMLS) Metathesaurus. SAS Enterprise Miner was used to text mine both the set of 
+complete text notes and the set represented by the extracted concepts. Logistic 
+regression models were built from the results, with the extracted concept model 
+performing slightly better than the complete note model.
+
+PMCID: PMC3041440
+PMID: 21346996 [Indexed for MEDLINE]

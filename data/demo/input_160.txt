@@ -1,0 +1,34 @@
+160. Yearb Med Inform. 2013;8:13-9.
+
+State of the art in clinical informatics: evidence and examples.
+
+McCoy AB(1), Wright A, Eysenbach G, Malin BA, Patterson ES, Xu H, Sittig DF.
+
+Author information:
+(1)Center for Healthcare Quality & Safety, The University of Texas, Health 
+Science Center at Houston (UTHealth), 6410 Fannin St., UTP 1100.43, Houston, TX 
+77030, USA. E-mail: Dean.F.Sittig@uth.tmc.edu.
+
+OBJECTIVE: The field of clinical informatics has expanded substantially in the 
+six decades since its inception. Early research focused on simple demonstrations 
+that health information technology (HIT) such as electronic health records 
+(EHRs), computerized provider order entry (CPOE), and clinical decision support 
+(CDS) systems were feasible and potentially beneficial in clinical practice.
+METHODS: In this review, we present recent evidence on clinical informatics in 
+the United States covering three themes: 1) clinical informatics systems and 
+interventions for providers, including EHRs, CPOE, CDS, and health information 
+exchange; 2) consumer health informatics systems, including personal health 
+records and web-based and mobile HIT; and 3) methods and governance for clinical 
+informatics, including EHR usability; data mining, text mining, natural language 
+processing, privacy, and security.
+RESULTS: Substantial progress has been made in demonstrating that various 
+clinical informatics methodologies and applications improve the structure, 
+process, and outcomes of various facets of the healthcare system.
+CONCLUSION: Over the coming years, much more will be expected from the field. As 
+we move past the "early adopters" in Rogers' diffusion of innovations' curve 
+through the "early majority" and into the "late majority," there will be a 
+crucial need for new research methodologies and clinical applications that have 
+been rigorously demonstrated to work (i.e., to improve health outcomes) in 
+multiple settings with different types of patients and clinicians.
+
+PMID: 23974543 [Indexed for MEDLINE]

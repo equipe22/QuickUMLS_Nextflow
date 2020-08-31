@@ -1,0 +1,28 @@
+330. J Chem Inf Model. 2009 Feb;49(2):263-9. doi: 10.1021/ci800332w.
+
+Extraction of CYP chemical interactions from biomedical literature using natural 
+language processing methods.
+
+Jiao D(1), Wild DJ.
+
+Author information:
+(1)Indiana University School of Informatics, Bloomington, Indiana 47408, USA. 
+djiao@indiana.edu
+
+This paper proposes a system that automatically extracts CYP protein and 
+chemical interactions from journal article abstracts, using natural language 
+processing (NLP) and text mining methods. In our system, we employ a maximum 
+entropy based learning method, using results from syntactic, semantic, and 
+lexical analysis of texts. We first present our system architecture and then 
+discuss the data set for training our machine learning based models and the 
+methods in building components in our system, such as part of speech (POS) 
+tagging, Named Entity Recognition (NER), dependency parsing, and relation 
+extraction. An evaluation of the system is conducted at the end, yielding very 
+promising results: The POS, dependency parsing, and NER components in our system 
+have achieved a very high level of accuracy as measured by precision, ranging 
+from 85.9% to 98.5%, and the precision and the recall of the interaction 
+extraction component are 76.0% and 82.6%, and for the overall system are 68.4% 
+and 72.2%, respectively.
+
+DOI: 10.1021/ci800332w
+PMID: 19434828 [Indexed for MEDLINE]

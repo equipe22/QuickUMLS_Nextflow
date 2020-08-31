@@ -1,0 +1,54 @@
+626. J Public Health Dent. 2016 Mar;76(2):152-6. doi: 10.1111/jphd.12124. Epub 2015 
+Oct 30.
+
+Dental clinical research: an illustration of the value of standardized 
+diagnostic terms.
+
+Kalenderian E(1), Tokede B(1), Ramoni R(2), Khan M(1), Kimmes N(3), White 
+J(4)(5), Vaderhobli R(4)(5), Yansane A(1), Feilzer A(6), Walji M(7).
+
+Author information:
+(1)Department of Oral Health Policy and Epidemiology, Harvard School of Dental 
+Medicine, Boston, MA, USA.
+(2)Center for Biomedical Informatics, Harvard Medical School, Boston, MA, USA.
+(3)Department of Pathology & Radiology, Oregon Health and Science University 
+School of Dentistry, Portland, OR, USA.
+(4)Science Center School of Dentistry at Houston, Houston, TX, USA.
+(5)Department of Preventive and Restorative Dental Sciences, School of 
+Dentistry, University of California, San Francisco, CA, USA.
+(6)Department of Material Science, Academic Centre of Dentistry Amsterdam, 
+Amsterdam, The Netherlands.
+(7)Department of Diagnostic and Biomedical Sciences, University of Texas Health, 
+Houston, TX, USA.
+
+OBJECTIVE: Secondary data are a significant resource for in-depth epidemiologic 
+and public health research. It also allows for effective quality control and 
+clinical outcomes measurement. To illustrate the value of structured diagnostic 
+entry, a use case was developed to quantify adherence to current practice 
+guidelines for managing chronic moderate periodontitis (CMP).
+METHODS: Six dental schools using the same electronic health record (EHR) 
+contribute data to a dental data repository (BigMouth) based on the i2b2 
+data-warehousing platform. Participating institutions are able to query across 
+the full repository without being able to back trace specific data to its 
+originating institution. At each of the three sites whose data are included in 
+this analysis, the Dental Diagnostic System (DDS) terminology was used to 
+document diagnoses in the clinics. We ran multiple queries against this 
+multi-institutional database, and the output was validated by manually reviewing 
+a subset of patient charts.
+RESULTS: Over the period under study, 1,866 patients were diagnosed with CMP. Of 
+these, 15 percent received only periodontal prophylaxis treatment, 20 percent 
+received only periodontal maintenance treatment, and only 41 percent received 
+periodontal maintenance treatment in combination with other AAP guideline 
+treatments.
+CONCLUSIONS: Our results showed that most patients with CMP were not treated 
+according to the AAP guidelines. On the basis of this use case, we conclude that 
+the availability and habitual use of a structured diagnosis in an EHR allow for 
+the aggregation and secondary analyses of clinical data to support downstream 
+analyses for quality improvement and epidemiological assessments.
+
+© 2015 The Authors. Journal of Public Health Dentistry published by Wiley 
+Periodicals, Inc. on behalf of American Association of Public Health Dentistry.
+
+DOI: 10.1111/jphd.12124
+PMCID: PMC5019247
+PMID: 26517578 [Indexed for MEDLINE]

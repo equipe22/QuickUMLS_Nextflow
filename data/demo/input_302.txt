@@ -1,0 +1,36 @@
+302. Home Healthc Now. 2019 Jul/Aug;37(4):222-226. doi: 10.1097/NHH.0000000000000779.
+
+Feasibility Testing of Health Information Technology: Enabled Patient-Reported 
+Outcome Measurement in the Home Health Setting.
+
+Nyirenda J(1), Sun C, Wright S, Rezek G.
+
+Author information:
+(1)Joshua Nyirenda, PhD, MPA, is Director of Science, Quality Insights, 
+Richmond, Virginia. Cynthia Sun, MSN, is a Lead Project Coordinator, Quality 
+Insights, Charleston, West Virginia. Shanen Wright, BA, is Director of 
+Innovation, Quality Insights, Charleston, West Virginia. Gary Rezek, BS, is a 
+Senior Health Research Analyst, Quality Insights, Charleston, West Virginia.
+
+The use of Patient-Reported Outcome Measures (PROMs) to improve patient 
+outcomes, communication, and shared decision-making is of significance to home 
+healthcare. Clinicians have begun to integrate health information technology 
+(HIT) enabled PROM platforms (such as tablets) into routine care to facilitate 
+collection of PROMs. To evaluate the feasibility and suitability of 
+incorporating PROMs into the overall workflow in home healthcare, and 
+integrating data collected with electronic health records (EHRs), we engaged two 
+home healthcare agencies as pilot sites over the course of 4 months. We provided 
+tablets enabled with an app version of the validated Patient-Reported Outcomes 
+Measurement Information System to collect patient data. This was followed by 
+surveys, interviews, and observations on aspects of feasibility, which we 
+analyzed using summary statistics and qualitative analysis. Results show that 
+the implementation of the HIT-enabled PROMs in the home healthcare setting is 
+suitable for workflow, without negatively impacting goals of care. Additionally, 
+the tablets were considered user-friendly by both clinicians and patients. Key 
+to the utility of HIT-enabled PROMs in home healthcare is the integration of the 
+data collected with existing data systems, in order to facilitate quality and 
+improve outcomes, the success of which can depend on EHR platform ownership and 
+the related ability or access to modify EHRs.
+
+DOI: 10.1097/NHH.0000000000000779
+PMID: 31274585 [Indexed for MEDLINE]

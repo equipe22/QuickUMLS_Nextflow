@@ -1,0 +1,33 @@
+585. Conf Proc IEEE Eng Med Biol Soc. 2010;2010:3602-5. doi: 
+10.1109/IEMBS.2010.5627469.
+
+PSYCHE: personalised monitoring systems for care in mental health.
+
+Paradiso R(1), Bianchi AM, Lau K, Scilingo EP.
+
+Author information:
+(1)SMARTEX s.r.l, Prato, Italy. rita@smartex.it
+
+One of the areas of great demand for the need of continuous monitoring, patient 
+participation and medical prediction is that of mood disorders, more 
+specifically bipolar disorders. Due to the unpredictable and episodic nature of 
+bipolar disorder, it is necessary to take the traditional standard procedures of 
+mood assessment through the administration of rating scales and questionnaires 
+and integrate this with tangible data found in emerging research on central and 
+peripheral changes in brain function that may be associated to the clinical 
+status and response to treatment throughout the course of bipolar disorder. This 
+paper presents PSYCHE system, a personal, cost-effective, multi-parametric 
+monitoring system based on textile platforms and portable sensing devices for 
+the long term and short term acquisition of data from selected class of patients 
+affected by mood disorders. The acquired data will be processed and analyzed in 
+the established platform that takes into account the Electronic Health Records 
+(EHR) of the patient, a personalized data referee system, as well as medical 
+analysis in order to verify the diagnosis and help in prognosis of the illness. 
+Constant feedback and monitoring will be used to manage the illness, to give 
+patients support, to facilitate interaction between patient and physician as 
+well as to alert professionals in case of patients relapse and depressive or 
+manic episodes income, as the ultimate goal is to identify signal trends 
+indicating detection and prediction of critical events.
+
+DOI: 10.1109/IEMBS.2010.5627469
+PMID: 21096841 [Indexed for MEDLINE]

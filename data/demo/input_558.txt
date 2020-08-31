@@ -1,0 +1,25 @@
+558. Stud Health Technol Inform. 2020 Jun 16;270:143-147. doi: 10.3233/SHTI200139.
+
+Data Quality Challenges in a Learning Health System.
+
+Sarafidis M(1), Tarousi M(1), Anastasiou A(1), Pitoglou S(2), Lampoukas E(2), 
+Spetsarias A(2), Matsopoulos G(3), Koutsouris D(1).
+
+Author information:
+(1)Institute of Communication and Computer Systems (ICCS), Athens, Greece.
+(2)Research & Development Dpt., Computer Solutions SA, Athens, Greece.
+(3)School of Electrical & Computer Engineering, National Technical University of 
+Athens, Athens, Greece.
+
+This paper discusses the topic of data quality, which concerns the global 
+research and business community and constitutes a challenging task. The data 
+quality prerequisite becomes even more critical when it pertains to critical and 
+sensitive data, such as the healthcare domain data. To begin with, the paper 
+outlines the basic definitions and concepts of data quality and its dimensions. 
+The related research work on data quality assessment is presented and our 
+approach for data quality assurance is introduced. This approach is implemented 
+in our designed cloud platform, called MODELHealth, which is intended for 
+supporting clinical work and administrative decision-making process.
+
+DOI: 10.3233/SHTI200139
+PMID: 32570363 [Indexed for MEDLINE]

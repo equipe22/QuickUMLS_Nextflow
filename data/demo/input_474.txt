@@ -1,0 +1,30 @@
+474. Biomed Res Int. 2014;2014:205239. doi: 10.1155/2014/205239. Epub 2014 Apr 6.
+
+A novel feature selection strategy for enhanced biomedical event extraction 
+using the Turku system.
+
+Xia J(1), Fang AC(2), Zhang X(2).
+
+Author information:
+(1)College of Science, Huazhong Agricultural University, Wuhan, Hubei 430070, 
+China ; Department of Chinese, Translation and Linguistics, City University of 
+Hong Kong, Kowloon, Hong Kong.
+(2)Department of Chinese, Translation and Linguistics, City University of Hong 
+Kong, Kowloon, Hong Kong ; The Halliday Centre for Intelligent Applications of 
+Language Studies, City University of Hong Kong, Kowloon, Hong Kong.
+
+Feature selection is of paramount importance for text-mining classifiers with 
+high-dimensional features. The Turku Event Extraction System (TEES) is the best 
+performing tool in the GENIA BioNLP 2009/2011 shared tasks, which relies heavily 
+on high-dimensional features. This paper describes research which, based on an 
+implementation of an accumulated effect evaluation (AEE) algorithm applying the 
+greedy search strategy, analyses the contribution of every single feature class 
+in TEES with a view to identify important features and modify the feature set 
+accordingly. With an updated feature set, a new system is acquired with enhanced 
+performance which achieves an increased F-score of 53.27% up from 51.21% for 
+Task 1 under strict evaluation criteria and 57.24% according to the approximate 
+span and recursive criterion.
+
+DOI: 10.1155/2014/205239
+PMCID: PMC3997098
+PMID: 24800214 [Indexed for MEDLINE]

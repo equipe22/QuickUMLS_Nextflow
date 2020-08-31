@@ -1,0 +1,41 @@
+92. RETRACTED ARTICLE
+
+Mol Biol Rep. 2014 Dec;41(12):8071-9. doi: 10.1007/s11033-014-3705-5. Epub 2014 
+Sep 10.
+
+Text mining and network analysis of molecular interaction in non-small cell lung 
+cancer by using natural language processing.
+
+Li J(1), Bi L, Sun Y, Lu Z, Lin Y, Bai O, Shao H.
+
+Author information:
+(1)Department of Hematology and Oncology, China-Japan Union Hospital of Jilin 
+University, Changchun, 130031, Jilin, People's Republic of China.
+
+Retraction in
+    Mol Biol Rep. 2015 Oct;42(10):1489.
+
+Lung cancer including non-small cell lung cancer (NSCLC) and small cell lung 
+cancer is one of the most aggressive tumors with high incidence and low survival 
+rate. The typical NSCLC patients account for 80-85 % of the total lung cancer 
+patients. To systemically explore the molecular mechanisms of NSCLC, we 
+performed a molecular network analysis between human and mouse to identify key 
+genes (pathways) involved in the occurrence of NSCLC. We automatically extracted 
+the human-to-mouse orthologous interactions using the GeneWays system by natural 
+language processing and further constructed molecular (gene and its products) 
+networks by mapping the human-to-mouse interactions to NSCLC-related mammalian 
+phenotypes, followed by module analysis using ClusterONE of Cytoscape and 
+pathway enrichment analysis using the database for annotation, visualization and 
+integrated discovery (DAVID) successively. A total of 70 genes were proven to be 
+related to the mammalian phenotypes of NSCLC, and seven genes (ATAD5, BECN1, 
+CDKN2A, FNTB, E2F1, KRAS and PTEN) were found to have a bearing on more than one 
+mammalian phenotype (MP) each. Four network clusters centered by four genes 
+thyroglobulin (TG), neurofibromatosis type-1 (NF1 ), neurofibromatosis type 2 
+(NF2 ) and E2F transcription factor 1 (E2F1) were generated. Genes in the four 
+network modules were enriched in eight KEGG pathways (p value < 0.05), including 
+pathways in cancer, small cell lung cancer, cell cycle and p53 signaling 
+pathway. Genes p53 and E2F1 may play important roles in NSCLC occurrence, and 
+thus can be considered as therapeutic targets for NSCLC.
+
+DOI: 10.1007/s11033-014-3705-5
+PMID: 25205120

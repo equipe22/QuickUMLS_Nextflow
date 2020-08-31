@@ -1,0 +1,52 @@
+306. J Biomed Semantics. 2016 Apr 27;7:22. doi: 10.1186/s13326-016-0059-z. 
+eCollection 2016.
+
+Active learning for ontological event extraction incorporating named entity 
+recognition and unknown word handling.
+
+Han X(1), Kim JJ(2), Kwoh CK(1).
+
+Author information:
+(1)School of Computer Engineering, Nanyang Technological University, 50 Nanyang 
+Avenue, Singapore, 639798 Singapore.
+(2)Data Analytics Department, Institute for Infocomm Research, 1 Fusionopolis 
+Way, Singapore, 138632 Singapore.
+
+BACKGROUND: Biomedical text mining may target various kinds of valuable 
+information embedded in the literature, but a critical obstacle to the extension 
+of the mining targets is the cost of manual construction of labeled data, which 
+are required for state-of-the-art supervised learning systems. Active learning 
+is to choose the most informative documents for the supervised learning in order 
+to reduce the amount of required manual annotations. Previous works of active 
+learning, however, focused on the tasks of entity recognition and 
+protein-protein interactions, but not on event extraction tasks for multiple 
+event types. They also did not consider the evidence of event participants, 
+which might be a clue for the presence of events in unlabeled documents. 
+Moreover, the confidence scores of events produced by event extraction systems 
+are not reliable for ranking documents in terms of informativity for supervised 
+learning. We here propose a novel committee-based active learning method that 
+supports multi-event extraction tasks and employs a new statistical method for 
+informativity estimation instead of using the confidence scores from event 
+extraction systems.
+METHODS: Our method is based on a committee of two systems as follows: We first 
+employ an event extraction system to filter potential false negatives among 
+unlabeled documents, from which the system does not extract any event. We then 
+develop a statistical method to rank the potential false negatives of unlabeled 
+documents 1) by using a language model that measures the probabilities of the 
+expression of multiple events in documents and 2) by using a named entity 
+recognition system that locates the named entities that can be event arguments 
+(e.g. proteins). The proposed method further deals with unknown words in test 
+data by using word similarity measures. We also apply our active learning method 
+for the task of named entity recognition.
+RESULTS AND CONCLUSION: We evaluate the proposed method against the BioNLP 
+Shared Tasks datasets, and show that our method can achieve better performance 
+than such previous methods as entropy and Gibbs error based methods and a 
+conventional committee-based method. We also show that the incorporation of 
+named entity recognition into the active learning for event extraction and the 
+unknown word handling further improve the active learning method. In addition, 
+the adaptation of the active learning method into named entity recognition tasks 
+also improves the document selection for manual annotation of named entities.
+
+DOI: 10.1186/s13326-016-0059-z
+PMCID: PMC4849099
+PMID: 27127603 [Indexed for MEDLINE]

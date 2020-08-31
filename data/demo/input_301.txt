@@ -1,0 +1,66 @@
+301. J Biomed Inform. 2017 Jul;71S:S68-S76. doi: 10.1016/j.jbi.2016.07.019. Epub 2016 
+Aug 3.
+
+A pilot study of a heuristic algorithm for novel template identification from VA 
+electronic medical record text.
+
+Redd AM(1), Gundlapalli AV(2), Divita G(3), Carter ME(4), Tran LT(3), Samore 
+MH(5).
+
+Author information:
+(1)VA Salt Lake City Health Care System, Salt Lake City, UT, United States; 
+Department of Internal Medicine, University of Utah School of Medicine, Salt 
+Lake City, UT, United States. Electronic address: andrew.redd@hsc.utah.edu.
+(2)VA Salt Lake City Health Care System, Salt Lake City, UT, United States; 
+Department of Internal Medicine, University of Utah School of Medicine, Salt 
+Lake City, UT, United States; Department of Biomedical Informatics, University 
+of Utah School of Medicine, Salt Lake City, UT, United States. Electronic 
+address: adi.gundlapalli@hsc.utah.edu.
+(3)VA Salt Lake City Health Care System, Salt Lake City, UT, United States; 
+Department of Biomedical Informatics, University of Utah School of Medicine, 
+Salt Lake City, UT, United States.
+(4)VA Salt Lake City Health Care System, Salt Lake City, UT, United States.
+(5)VA Salt Lake City Health Care System, Salt Lake City, UT, United States; 
+Department of Internal Medicine, University of Utah School of Medicine, Salt 
+Lake City, UT, United States; Department of Biomedical Informatics, University 
+of Utah School of Medicine, Salt Lake City, UT, United States.
+
+RATIONALE: Templates in text notes pose challenges for automated information 
+extraction algorithms. We propose a method that identifies novel templates in 
+plain text medical notes. The identification can then be used to either include 
+or exclude templates when processing notes for information extraction.
+METHODS: The two-module method is based on the framework of information foraging 
+and addresses the hypothesis that documents containing templates and the 
+templates within those documents can be identified by common features. The first 
+module takes documents from the corpus and groups those with common templates. 
+This is accomplished through a binned word count hierarchical clustering 
+algorithm. The second module extracts the templates. It uses the groupings and 
+performs a longest common subsequence (LCS) algorithm to obtain the constituent 
+parts of the templates. The method was developed and tested on a random document 
+corpus of 750 notes derived from a large database of US Department of Veterans 
+Affairs (VA) electronic medical notes.
+RESULTS: The grouping module, using hierarchical clustering, identified 23 
+groups with 3 documents or more, consisting of 120 documents from the 750 
+documents in our test corpus. Of these, 18 groups had at least one common 
+template that was present in all documents in the group for a positive 
+predictive value of 78%. The LCS extraction module performed with 100% positive 
+predictive value, 94% sensitivity, and 83% negative predictive value. The human 
+review determined that in 4 groups the template covered the entire document, 
+with the remaining 14 groups containing a common section template. Among 
+documents with templates, the number of templates per document ranged from 1 to 
+14. The mean and median number of templates per group was 5.9 and 5, 
+respectively.
+DISCUSSION: The grouping method was successful in finding like documents 
+containing templates. Of the groups of documents containing templates, the LCS 
+module was successful in deciphering text belonging to the template and text 
+that was extraneous. Major obstacles to improved performance included documents 
+composed of multiple templates, templates that included other templates embedded 
+within them, and variants of templates. We demonstrate proof of concept of the 
+grouping and extraction method of identifying templates in electronic medical 
+records in this pilot study and propose methods to improve performance and 
+scaling up.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.jbi.2016.07.019
+PMID: 27497780 [Indexed for MEDLINE]

@@ -1,0 +1,37 @@
+587. Methods Inf Med. 2010;49(2):186-95. doi: 10.3414/ME09-02-0018. Epub 2009 Nov 20.
+
+Semantic interoperability in Czech healthcare environment supported by HL7 
+version 3.
+
+Nagy M(1), Hanzlícek P, Precková P, Ríha A, Dioszegi M, Seidl L, Zvárová J.
+
+Author information:
+(1)Center of Biomedical Informatics, ICS AS CR, v.v.i., Pod Vodarenskou vezi 2, 
+182 07 Prague, Czech Republic. nagy@euromise.cz
+
+OBJECTIVES: The data interchange in the Czech healthcare environment is mostly 
+based on national standards. This paper describes a utilization of international 
+standards and nomenclatures for building a pilot semantic interoperability 
+platform (SIP) that would serve to exchange information among electronic health 
+record systems (EHR-Ss) in Czech healthcare. The work was performed by the 
+national research project of the "Information Society" program.
+METHODS: At the beginning of the project a set of requirements the SIP should 
+meet was formulated. Several communication standards (openEHR, HL7 v3, DICOM) 
+were analyzed and HL7 v3 was selected to exchange health records in our 
+solution. Two systems were included in our pilot environment: WinMedicalc 2000 
+and ADAMEKj EHR.
+RESULTS: HL7-based local information models were created to describe the 
+information content of both systems. The concepts from our original information 
+models were mapped to coding systems supported by HL7 (LOINC, SNOMED CT and 
+ICD-10) and the data exchange via HL7 v3 messages was implemented and tested by 
+querying patient administration data. As a gateway between local EHR systems and 
+the HL7 message-based infrastructure, a configurable HL7 Broker was developed.
+CONCLUSIONS: A nationwide implementation of a full-scale SIP based on HL7 v3 
+would include adopting and translating appropriate international coding systems 
+and nomenclatures, and developing implementation guidelines facilitating the 
+migration from national standards to international ones. Our pilot study showed 
+that our approach is feasible but it would demand a huge effort to fully 
+integrate the Czech healthcare system into the European e-health context.
+
+DOI: 10.3414/ME09-02-0018
+PMID: 19936441 [Indexed for MEDLINE]

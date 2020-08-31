@@ -1,0 +1,44 @@
+604. BMC Bioinformatics. 2007 May 9;8 Suppl 3(Suppl 3):S4. doi: 
+10.1186/1471-2105-8-S3-S4.
+
+AlzPharm: integration of neurodegeneration data using RDF.
+
+Lam HY(1), Marenco L, Clark T, Gao Y, Kinoshita J, Shepherd G, Miller P, Wu E, 
+Wong GT, Liu N, Crasto C, Morse T, Stephens S, Cheung KH.
+
+Author information:
+(1)Interdepartmental Program in Computational Biology and Bioinformatics, Yale 
+University, New Haven, CT, USA. Hugo.YK.Lam@yale.edu <Hugo.YK.Lam@yale.edu>
+
+BACKGROUND: Neuroscientists often need to access a wide range of data sets 
+distributed over the Internet. These data sets, however, are typically neither 
+integrated nor interoperable, resulting in a barrier to answering complex 
+neuroscience research questions. Domain ontologies can enable the querying 
+heterogeneous data sets, but they are not sufficient for neuroscience since the 
+data of interest commonly span multiple research domains. To this end, 
+e-Neuroscience seeks to provide an integrated platform for neuroscientists to 
+discover new knowledge through seamless integration of the very diverse types of 
+neuroscience data. Here we present a Semantic Web approach to building this 
+e-Neuroscience framework by using the Resource Description Framework (RDF) and 
+its vocabulary description language, RDF Schema (RDFS), as a standard data model 
+to facilitate both representation and integration of the data.
+RESULTS: We have constructed a pilot ontology for BrainPharm (a subset of 
+SenseLab) using RDFS and then converted a subset of the BrainPharm data into RDF 
+according to the ontological structure. We have also integrated the converted 
+BrainPharm data with existing RDF hypothesis and publication data from a pilot 
+version of SWAN (Semantic Web Applications in Neuromedicine). Our implementation 
+uses the RDF Data Model in Oracle Database 10g release 2 for data integration, 
+query, and inference, while our Web interface allows users to query the data and 
+retrieve the results in a convenient fashion.
+CONCLUSION: Accessing and integrating biomedical data which cuts across multiple 
+disciplines will be increasingly indispensable and beneficial to neuroscience 
+researchers. The Semantic Web approach we undertook has demonstrated a promising 
+way to semantically integrate data sets created independently. It also shows how 
+advanced queries and inferences can be performed over the integrated data, which 
+are hard to achieve using traditional data integration approaches. Our pilot 
+results suggest that our Semantic Web approach is suitable for realizing 
+e-Neuroscience and generic enough to be applied in other biomedical fields.
+
+DOI: 10.1186/1471-2105-8-S3-S4
+PMCID: PMC1892101
+PMID: 17493287 [Indexed for MEDLINE]

@@ -1,0 +1,19 @@
+430. Bioinformatics. 2004 Jan 1;20(1):120-1. doi: 10.1093/bioinformatics/btg369.
+
+GIS: a biomedical text-mining system for gene information discovery.
+
+Chiang JH(1), Yu HC, Hsu HJ.
+
+Author information:
+(1)Department of Computer Science and Information Engineering, National Cheng 
+Kung University, Tainan 701, Taiwan, ROC. jchiang@mail.ncku.edu.tw
+
+We present a biomedical text-mining system focused on four types of gene-related 
+information: biological functions, associated diseases, related genes and 
+gene-gene relations. The aim of this system is to provide researchers an 
+easy-to-use bio-information service that will rapidly survey the rapidly 
+burgeoning biomedical literature.
+AVAILABILITY: http://iir.csie.ncku.edu.tw/~yuhc/gis/
+
+DOI: 10.1093/bioinformatics/btg369
+PMID: 14693818 [Indexed for MEDLINE]

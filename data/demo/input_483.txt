@@ -1,0 +1,49 @@
+483. J Am Med Inform Assoc. 2020 Jul 8:ocaa083. doi: 10.1093/jamia/ocaa083. Online 
+ahead of print.
+
+Piloting a model-to-data approach to enable predictive analytics in health care 
+through patient mortality prediction.
+
+Bergquist T(1), Yan Y(2), Schaffter T(3), Yu T(3), Pejaver V(1), Hammarlund 
+N(1), Prosser J(4), Guinney J(1)(3), Mooney S(1).
+
+Author information:
+(1)Biomedical Informatics and Medical Education, University of Washington, 
+Seattle, Washington, USA.
+(2)Molecular Engineering and Sciences Institute, University of Washington, 
+Seattle, Washington, USA.
+(3)Sage Bionetworks, Seattle, Washington, USA.
+(4)Institute for Translational Health Sciences, University of Washington, 
+Seattle, Washington, USA.
+
+OBJECTIVE: The development of predictive models for clinical application 
+requires the availability of electronic health record (EHR) data, which is 
+complicated by patient privacy concerns. We showcase the "Model to Data" (MTD) 
+approach as a new mechanism to make private clinical data available for the 
+development of predictive models. Under this framework, we eliminate 
+researchers' direct interaction with patient data by delivering containerized 
+models to the EHR data.
+MATERIALS AND METHODS: We operationalize the MTD framework using the Synapse 
+collaboration platform and an on-premises secure computing environment at the 
+University of Washington hosting EHR data. Containerized mortality prediction 
+models developed by a model developer, were delivered to the University of 
+Washington via Synapse, where the models were trained and evaluated. Model 
+performance metrics were returned to the model developer.
+RESULTS: The model developer was able to develop 3 mortality prediction models 
+under the MTD framework using simple demographic features (area under the 
+receiver-operating characteristic curve [AUROC], 0.693), demographics and 5 
+common chronic diseases (AUROC, 0.861), and the 1000 most common features from 
+the EHR's condition/procedure/drug domains (AUROC, 0.921).
+DISCUSSION: We demonstrate the feasibility of the MTD framework to facilitate 
+the development of predictive models on private EHR data, enabled by common data 
+models and containerization software. We identify challenges that both the model 
+developer and the health system information technology group encountered and 
+propose future efforts to improve implementation.
+CONCLUSIONS: The MTD framework lowers the barrier of access to EHR data and can 
+accelerate the development and evaluation of clinical prediction models.
+
+© The Author(s) 2020. Published by Oxford University Press on behalf of the 
+American Medical Informatics Association.
+
+DOI: 10.1093/jamia/ocaa083
+PMID: 32638010

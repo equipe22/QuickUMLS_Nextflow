@@ -1,0 +1,32 @@
+176. Stud Health Technol Inform. 2017;235:131-135.
+
+Linked Data Applications Through Ontology Based Data Access in Clinical 
+Research.
+
+Kock-Schoppenhauer AK(1), Kamann C(1), Ulrich H(1), Duhm-Harbeck P(1), Ingenerf 
+J(1).
+
+Author information:
+(1)IT for Clinical Research, Lübeck (ITCR-L), University of Lübeck, Germany.
+
+Clinical care and research data are widely dispersed in isolated systems based 
+on heterogeneous data models. Biomedicine predominantly makes use of connected 
+datasets based on the Semantic Web paradigm. Initiatives like Bio2RDF created 
+Resource Description Framework (RDF) versions of Omics resources, enabling 
+sophisticated Linked Data applications. In contrast, electronic healthcare 
+records (EHR) data are generated and processed in diverse clinical subsystems 
+within hospital information systems (HIS). Usually, each of them utilizes a 
+relational database system with a different proprietary schema. Semantic 
+integration and access to the data is hardly possible. This paper describes ways 
+of using Ontology Based Data Access (OBDA) for bridging the semantic gap between 
+existing raw data and user-oriented views supported by ontology-based queries. 
+Based on mappings between entities of data schemas and ontologies data can be 
+made available as materialized or virtualized RDF triples ready for querying and 
+processing. Our experiments based on CentraXX for biobank and study management 
+demonstrate the advantages of abstracting away from low level details and 
+semantic mediation. Furthermore, it becomes clear that using a professional 
+platform for Linked Data applications is recommended due to the inherent 
+complexity, the inconvenience to confront end users with SPARQL, and scalability 
+and performance issues.
+
+PMID: 28423769 [Indexed for MEDLINE]

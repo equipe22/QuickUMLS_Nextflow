@@ -1,0 +1,62 @@
+525. BMC Bioinformatics. 2018 Jan 25;19(1):21. doi: 10.1186/s12859-018-2029-1.
+
+Deep learning of mutation-gene-drug relations from the literature.
+
+Lee K(1), Kim B(2), Choi Y(1), Kim S(1), Shin W(2), Lee S(1), Park S(1), Kim 
+S(1), Tan AC(3), Kang J(4)(5).
+
+Author information:
+(1)Department of Computer Science and Engineering, Korea University, Seoul, 
+South Korea.
+(2)Interdisciplinary Graduate Program in Bioinformatics, Korea University, 
+Seoul, South Korea.
+(3)Translational Bioinformatics and Cancer Systems Biology Laboratory, Division 
+of Medical Oncology, Department of Medicine, University of Colorado Anschutz 
+Medical Campus, Aurora, CO, 80045, USA. aikchoon.tan@ucdenver.edu.
+(4)Department of Computer Science and Engineering, Korea University, Seoul, 
+South Korea. kangj@korea.ac.kr.
+(5)Interdisciplinary Graduate Program in Bioinformatics, Korea University, 
+Seoul, South Korea. kangj@korea.ac.kr.
+
+BACKGROUND: Molecular biomarkers that can predict drug efficacy in cancer 
+patients are crucial components for the advancement of precision medicine. 
+However, identifying these molecular biomarkers remains a laborious and 
+challenging task. Next-generation sequencing of patients and preclinical models 
+have increasingly led to the identification of novel gene-mutation-drug 
+relations, and these results have been reported and published in the scientific 
+literature.
+RESULTS: Here, we present two new computational methods that utilize all the 
+PubMed articles as domain specific background knowledge to assist in the 
+extraction and curation of gene-mutation-drug relations from the literature. The 
+first method uses the Biomedical Entity Search Tool (BEST) scoring results as 
+some of the features to train the machine learning classifiers. The second 
+method uses not only the BEST scoring results, but also word vectors in a deep 
+convolutional neural network model that are constructed from and trained on 
+numerous documents such as PubMed abstracts and Google News articles. Using the 
+features obtained from both the BEST search engine scores and word vectors, we 
+extract mutation-gene and mutation-drug relations from the literature using 
+machine learning classifiers such as random forest and deep convolutional neural 
+networks. Our methods achieved better results compared with the state-of-the-art 
+methods. We used our proposed features in a simple machine learning model, and 
+obtained F1-scores of 0.96 and 0.82 for mutation-gene and mutation-drug relation 
+classification, respectively. We also developed a deep learning classification 
+model using convolutional neural networks, BEST scores, and the word embeddings 
+that are pre-trained on PubMed or Google News data. Using deep learning, the 
+classification accuracy improved, and F1-scores of 0.96 and 0.86 were obtained 
+for the mutation-gene and mutation-drug relations, respectively.
+CONCLUSION: We believe that our computational methods described in this research 
+could be used as an important tool in identifying molecular biomarkers that 
+predict drug responses in cancer patients. We also built a database of these 
+mutation-gene-drug relations that were extracted from all the PubMed abstracts. 
+We believe that our database can prove to be a valuable resource for precision 
+medicine researchers.
+
+DOI: 10.1186/s12859-018-2029-1
+PMCID: PMC5784504
+PMID: 29368597 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: Not 
+applicable CONSENT FOR PUBLICATION: Not applicable COMPETING INTERESTS: The 
+authors declare that they have no competing interests. PUBLISHER’S NOTE: 
+Springer Nature remains neutral with regard to jurisdictional claims in 
+published maps and institutional affiliations.

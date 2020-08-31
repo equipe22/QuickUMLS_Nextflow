@@ -1,0 +1,42 @@
+285. BMC Bioinformatics. 2008 Apr 29;9 Suppl 5(Suppl 5):S5. doi: 
+10.1186/1471-2105-9-S5-S5.
+
+Facilitating the development of controlled vocabularies for metabolomics 
+technologies with text mining.
+
+Spasić I(1), Schober D, Sansone SA, Rebholz-Schuhmann D, Kell DB, Paton NW.
+
+Author information:
+(1)Manchester Centre for Integrative Systems Biology, The University of 
+Manchester, 131 Princess Street, Manchester, M1 7ND, UK. 
+i.spasic@manchester.ac.uk
+
+BACKGROUND: Many bioinformatics applications rely on controlled vocabularies or 
+ontologies to consistently interpret and seamlessly integrate information 
+scattered across public resources. Experimental data sets from metabolomics 
+studies need to be integrated with one another, but also with data produced by 
+other types of omics studies in the spirit of systems biology, hence the 
+pressing need for vocabularies and ontologies in metabolomics. However, it is 
+time-consuming and non trivial to construct these resources manually.
+RESULTS: We describe a methodology for rapid development of controlled 
+vocabularies, a study originally motivated by the needs for vocabularies 
+describing metabolomics technologies. We present case studies involving two 
+controlled vocabularies (for nuclear magnetic resonance spectroscopy and gas 
+chromatography) whose development is currently underway as part of the 
+Metabolomics Standards Initiative. The initial vocabularies were compiled 
+manually, providing a total of 243 and 152 terms. A total of 5,699 and 2,612 new 
+terms were acquired automatically from the literature. The analysis of the 
+results showed that full-text articles (especially the Materials and Methods 
+sections) are the major source of technology-specific terms as opposed to paper 
+abstracts.
+CONCLUSIONS: We suggest a text mining method for efficient corpus-based term 
+acquisition as a way of rapidly expanding a set of controlled vocabularies with 
+the terms used in the scientific literature. We adopted an integrative approach, 
+combining relatively generic software and data resources for time- and 
+cost-effective development of a text mining tool for expansion of controlled 
+vocabularies across various domains, as a practical alternative to both manual 
+term collection and tailor-made named entity recognition methods.
+
+DOI: 10.1186/1471-2105-9-S5-S5
+PMCID: PMC2367623
+PMID: 18460187 [Indexed for MEDLINE]

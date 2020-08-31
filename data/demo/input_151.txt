@@ -1,0 +1,36 @@
+151. J Biomed Inform. 2010 Apr;43(2):173-89. doi: 10.1016/j.jbi.2009.11.001. Epub 
+2009 Nov 10.
+
+Beyond genes, proteins, and abstracts: Identifying scientific claims from 
+full-text biomedical articles.
+
+Blake C(1).
+
+Author information:
+(1)School of Library and Information Science, University of Illinois at Urbana 
+Champaign, Champaign, IL 61820-3302, USA. clblake@illinois.edu
+
+Massive increases in electronically available text have spurred a variety of 
+natural language processing methods to automatically identify relationships from 
+text; however, existing annotated collections comprise only bioinformatics 
+(gene-protein) or clinical informatics (treatment-disease) relationships. This 
+paper introduces the Claim Framework that reflects how authors across biomedical 
+spectrum communicate findings in empirical studies. The Framework captures 
+different levels of evidence by differentiating between explicit and implicit 
+claims, and by capturing under-specified claims such as correlations, 
+comparisons, and observations. The results from 29 full-text articles show that 
+authors report fewer than 7.84% of scientific claims in an abstract, thus 
+revealing the urgent need for text mining systems to consider the full-text of 
+an article rather than just the abstract. The results also show that authors 
+typically report explicit claims (77.12%) rather than an observations (9.23%), 
+correlations (5.39%), comparisons (5.11%) or implicit claims (2.7%). Informed by 
+the initial manual annotations, we introduce an automated approach that uses 
+syntax and semantics to identify explicit claims automatically and measure the 
+degree to which each feature contributes to the overall precision and recall. 
+Results show that a combination of semantics and syntax is required to achieve 
+the best system performance.
+
+2009 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jbi.2009.11.001
+PMID: 19900574 [Indexed for MEDLINE]

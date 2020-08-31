@@ -1,0 +1,43 @@
+320. Clin Pharmacol Ther. 2020 Jun 23. doi: 10.1002/cpt.1966. Online ahead of print.
+
+An Electronic Health Record Text Mining Tool to Collect Real-World Drug 
+Treatment Outcomes: A Validation Study in Patients With Metastatic Renal Cell 
+Carcinoma.
+
+van Laar SA(1), Gombert-Handoko KB(1), Guchelaar HJ(1), Zwaveling J(1).
+
+Author information:
+(1)Department of Clinical Pharmacy and Toxicology, Leiden University Medical 
+Center, Leiden, The Netherlands.
+
+Real-world evidence can close the inferential gap between marketing 
+authorization studies and clinical practice. However, the current standard for 
+real-world data extraction from electronic health records (EHRs) for treatment 
+evaluation is manual review (MR), which is time-consuming and laborious. 
+Clinical Data Collector (CDC) is a novel natural language processing and text 
+mining software tool for both structured and unstructured EHR data and only 
+shows relevant EHR sections improving efficiency. We investigated CDC as a 
+real-world data (RWD) collection method, through application of CDC queries for 
+patient inclusion and information extraction on a cohort of patients with 
+metastatic renal cell carcinoma (RCC) receiving systemic drug treatment. 
+Baseline patient characteristics, disease characteristics, and treatment 
+outcomes were extracted and these were compared with MR for validation. One 
+hundred patients receiving 175 treatments were included using CDC, which 
+corresponded to 99% with MR. Calculated median overall survival was 21.7 months 
+(95% confidence interval (CI) 18.7-24.8) vs. 21.7 months (95% CI 18.6-24.8) and 
+progression-free survival 8.9 months (95% CI 5.4-12.4) vs. 7.6 months (95% CI 
+5.7-9.4) for CDC vs. MR, respectively. Highest F1-score was found for 
+cancer-related variables (88.1-100), followed by comorbidities (71.5-90.4) and 
+adverse drug events (53.3-74.5), with most diverse scores on international 
+metastatic RCC database criteria (51.4-100). Mean data collection time was 
+12 minutes (CDC) vs. 86 minutes (MR). In conclusion, CDC is a promising tool for 
+retrieving RWD from EHRs because the correct patient population can be 
+identified as well as relevant outcome data, such as overall survival and 
+progression-free survival.
+
+© 2020 The Authors. Clinical Pharmacology & Therapeutics published by Wiley 
+Periodicals LLC on behalf of American Society for Clinical Pharmacology and 
+Therapeutics.
+
+DOI: 10.1002/cpt.1966
+PMID: 32575147

@@ -1,0 +1,44 @@
+480. Am J Manag Care. 2020 Jan 1;26(1):e21-e27. doi: 10.37765/ajmc.2020.42149.
+
+e-Consult implementation success: lessons from 5 county-based delivery systems.
+
+Knox M(1), Murphy EJ, Leslie T, Wick R, Tuot DS.
+
+Author information:
+(1)University of California, Berkeley, School of Public Health, 2121 Berkeley 
+Way West, Room 5435, Berkeley, CA 94720. Email: margae@berkeley.edu.
+
+Comment in
+    Am J Manag Care. 2020 Apr 1;26(4):e104-e105.
+
+OBJECTIVES: Electronic consultation, or e-consult, systems improve specialty 
+care access by conveying specialist expertise to primary care clinicians (PCCs) 
+without requiring specialist visits. Our study evaluates organizational factors 
+for e-consult implementation across 5 publicly financed, county-based health 
+systems in California. Each system serves 40,000 to 180,000 culturally and 
+linguistically diverse patients across 4 to 19 primary care locations.
+STUDY DESIGN: We interviewed leaders whose systems received grant funding 
+between 2015 and 2017 to plan and implement e-consult. Interviews discussed 
+platform selection, electronic health record (EHR) compatibility, PCC and 
+specialist opinions, and project governance. We also collected implementing 
+systems' platform operations metrics.
+METHODS: Mixed methods, including semistructured interviews and quantitative 
+platform metrics. Interviews were analyzed in alignment with the Consolidated 
+Framework for Implementation Research inner setting domain.
+RESULTS: Three of the 5 systems successfully implemented e-consults. System 1 
+sustained implementation across 27 specialties, system 2 achieved fragmented 
+implementation, and system 3 reported early-stage implementation. Existing 
+PCC-specialist relationships emerged as the strongest facilitator. E-consult-EHR 
+technology integration was also important, although an add-on platform enabled 
+e-consult expansion in system 2. Although all systems faced challenges, such as 
+project management resourcing, systems 4 and 5 abandoned implementation amid 
+compound climate and readiness barriers.
+CONCLUSIONS: Successful e-consult implementations in public delivery systems 
+leveraged (1) prior primary care and specialty care clinician relationships and 
+(2) integrated EHR and e-consult platforms. This contrasts with common 
+expectations that new technology will overcome care delivery gaps. Findings add 
+to existing e-consult implementation literature that emphasizes reimbursement 
+and leadership champions.
+
+DOI: 10.37765/ajmc.2020.42149
+PMID: 31951363

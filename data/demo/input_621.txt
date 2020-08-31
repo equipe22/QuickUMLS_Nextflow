@@ -1,0 +1,53 @@
+621. Pediatrics. 2015 Jul;136(1):e215-24. doi: 10.1542/peds.2015-0673. Epub 2015 Jun 
+22.
+
+Comparative Effectiveness Research Through a Collaborative Electronic Reporting 
+Consortium.
+
+Fiks AG(1), Grundmeier RW(2), Steffes J(3), Adams WG(4), Kaelber DC(5), Pace 
+WD(6), Wasserman RC(7); Comparative Effectiveness Research Through Collaborative 
+Electronic Reporting (CER2) Consortium.
+
+Author information:
+(1)The Pediatric Research Consortium, Department of Biomedical and Health 
+Informatics, Center for Pediatric Clinical Effectiveness, and PolicyLab at The 
+Children's Hospital of Philadelphia, Philadelphia, Pennsylvania; Pediatric 
+Research in Office Settings, American Academy of Pediatrics, Elk Grove Village, 
+Illinois; fiks@email.chop.edu.
+(2)Department of Biomedical and Health Informatics.
+(3)Pediatric Research in Office Settings, American Academy of Pediatrics, Elk 
+Grove Village, Illinois;
+(4)Boston University School of Medicine, Boston, Massachusetts;
+(5)Departments of Internal Medicine, Pediatrics, and Epidemiology and 
+Biostatistics and the Center for Clinical Informatics Research and Education, 
+The MetroHealth System, Case Western Reserve University, Cleveland, Ohio;
+(6)American Academy of Family Physicians National Research Network, Leawood, 
+Kansas; and.
+(7)Pediatric Research in Office Settings, American Academy of Pediatrics, Elk 
+Grove Village, Illinois; Department of Pediatrics, University of Vermont College 
+of Medicine, Burlington, Vermont.
+
+The United States lacks a system to use routinely collected electronic health 
+record (EHR) clinical data to conduct comparative effectiveness research (CER) 
+on pediatric drug therapeutics and other child health topics. This Special 
+Article describes the creation and details of a network of EHR networks devised 
+to use clinical data in EHRs for conducting CER, led by the American Academy of 
+Pediatrics Pediatric Research in Office Settings (PROS). To achieve this goal, 
+PROS has linked data from its own EHR-based "ePROS" network with data from 
+independent practices and health systems across the United States. Beginning 
+with 4 of proof-of-concept retrospective CER studies on psychotropic and asthma 
+medication use and side effects with a planned full-scale prospective CER study 
+on treatment of pediatric hypertension, the Comparative Effectiveness Research 
+Through Collaborative Electronic Reporting (CER(2)) collaborators are developing 
+a platform to advance the methodology of pediatric pharmacoepidemiology. CER(2) 
+will provide a resource for future CER studies in pediatric drug therapeutics 
+and other child health topics. This article outlines the vision for and present 
+composition of this network, governance, and challenges and opportunities for 
+using the network to advance child health and health care. The goal of this 
+network is to engage child health researchers from around the United States in 
+participating in collaborative research using the CER(2) database.
+
+Copyright © 2015 by the American Academy of Pediatrics.
+
+DOI: 10.1542/peds.2015-0673
+PMID: 26101357 [Indexed for MEDLINE]

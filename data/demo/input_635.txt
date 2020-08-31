@@ -1,0 +1,56 @@
+635. Infect Control Hosp Epidemiol. 2018 Jul;39(7):826-833. doi: 10.1017/ice.2018.97. 
+Epub 2018 May 17.
+
+Real-Time, Automated Detection of Ventilator-Associated Events: Avoiding Missed 
+Detections, Misclassifications, and False Detections Due to Human Error.
+
+Shenoy ES(1), Rosenthal ES(2), Shao YP(3), Biswal S(4), Ghanta M(3), Ryan EE(1), 
+Suslak D(1), Swanson N(1), Junior VM(3), Hooper DC(1), Westover MB(2).
+
+Author information:
+(1)1Infection Control Unit,Massachusetts General Hospital,Boston,Massachusetts.
+(2)3Harvard Medical School,Boston,Massachusetts.
+(3)4Department of Neurology,Massachusetts General Hospital,Boston,Massachusetts.
+(4)7Department of Computer Science,Georgia Institute of Technology College of 
+Computing,Atlanta,Georgia.
+
+OBJECTIVETo validate a system to detect ventilator associated events (VAEs) 
+autonomously and in real time.DESIGNRetrospective review of ventilated patients 
+using a secure informatics platform to identify VAEs (ie, automated 
+surveillance) compared to surveillance by infection control (IC) staff (ie, 
+manual surveillance), including development and validation cohorts.SETTINGThe 
+Massachusetts General Hospital, a tertiary-care academic health center, during 
+January-March 2015 (development cohort) and January-March 2016 (validation 
+cohort).PATIENTSVentilated patients in 4 intensive care units.METHODSThe 
+automated process included (1) analysis of physiologic data to detect increases 
+in positive end-expiratory pressure (PEEP) and fraction of inspired oxygen 
+(FiO2); (2) querying the electronic health record (EHR) for leukopenia or 
+leukocytosis and antibiotic initiation data; and (3) retrieval and 
+interpretation of microbiology reports. The cohorts were evaluated as follows: 
+(1) manual surveillance by IC staff with independent chart review; (2) automated 
+surveillance detection of ventilator-associated condition (VAC), 
+infection-related ventilator-associated complication (IVAC), and possible VAP 
+(PVAP); (3) senior IC staff adjudicated manual surveillance-automated 
+surveillance discordance. Outcomes included sensitivity, specificity, positive 
+predictive value (PPV), and manual surveillance detection errors. Errors 
+detected during the development cohort resulted in algorithm updates applied to 
+the validation cohort.RESULTSIn the development cohort, there were 1,325 
+admissions, 479 ventilated patients, 2,539 ventilator days, and 47 VAEs. In the 
+validation cohort, there were 1,234 admissions, 431 ventilated patients, 2,604 
+ventilator days, and 56 VAEs. With manual surveillance, in the development 
+cohort, sensitivity was 40%, specificity was 98%, and PPV was 70%. In the 
+validation cohort, sensitivity was 71%, specificity was 98%, and PPV was 87%. 
+With automated surveillance, in the development cohort, sensitivity was 100%, 
+specificity was 100%, and PPV was 100%. In the validation cohort, sensitivity 
+was 85%, specificity was 99%, and PPV was 100%. Manual surveillance detection 
+errors included missed detections, misclassifications, and false 
+detections.CONCLUSIONSManual surveillance is vulnerable to human error. 
+Automated surveillance is more accurate and more efficient for VAE 
+surveillance.Infect Control Hosp Epidemiol 2018;826-833.
+
+DOI: 10.1017/ice.2018.97
+PMCID: PMC6776240
+PMID: 29769151 [Indexed for MEDLINE]
+
+Conflict of interest statement: Potential conflicts of interest: All authors 
+report no conflicts of interest relevant to this article.

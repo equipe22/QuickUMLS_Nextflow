@@ -1,0 +1,57 @@
+192. J Biomed Inform. 2016 Dec;64:158-167. doi: 10.1016/j.jbi.2016.10.008. Epub 2016 
+Oct 11.
+
+Text mining electronic hospital records to automatically classify admissions 
+against disease: Measuring the impact of linking data sources.
+
+Kocbek S(1), Cavedon L(2), Martinez D(3), Bain C(4), Manus CM(5), Haffari G(6), 
+Zukerman I(6), Verspoor K(3).
+
+Author information:
+(1)Kinghorn Centre for Clinical Genomics, Garvan Institute of Medical Research, 
+Sydney, Australia; School of Science, RMIT University, Melbourne, Australia; 
+Department of Computing and Information Systems, University of Melbourne, 
+Melbourne, Australia. Electronic address: skocbek@gmail.com.
+(2)School of Science, RMIT University, Melbourne, Australia.
+(3)Department of Computing and Information Systems, University of Melbourne, 
+Melbourne, Australia.
+(4)Mercy Health, Heidelberg, Australia; Faculty of Information Technology, 
+Monash University, Clayton, Australia.
+(5)Health Informatics Department, Alfred Hospital, Melbourne, Australia; Now 
+with OzeScribe, Melbourne, Australia.
+(6)Faculty of Information Technology, Monash University, Clayton, Australia.
+
+OBJECTIVE: Text and data mining play an important role in obtaining insights 
+from Health and Hospital Information Systems. This paper presents a text mining 
+system for detecting admissions marked as positive for several diseases: Lung 
+Cancer, Breast Cancer, Colon Cancer, Secondary Malignant Neoplasm of Respiratory 
+and Digestive Organs, Multiple Myeloma and Malignant Plasma Cell Neoplasms, 
+Pneumonia, and Pulmonary Embolism. We specifically examine the effect of linking 
+multiple data sources on text classification performance.
+METHODS: Support Vector Machine classifiers are built for eight data source 
+combinations, and evaluated using the metrics of Precision, Recall and F-Score. 
+Sub-sampling techniques are used to address unbalanced datasets of medical 
+records. We use radiology reports as an initial data source and add other 
+sources, such as pathology reports and patient and hospital admission data, in 
+order to assess the research question regarding the impact of the value of 
+multiple data sources. Statistical significance is measured using the Wilcoxon 
+signed-rank test. A second set of experiments explores aspects of the system in 
+greater depth, focusing on Lung Cancer. We explore the impact of feature 
+selection; analyse the learning curve; examine the effect of restricting 
+admissions to only those containing reports from all data sources; and examine 
+the impact of reducing the sub-sampling. These experiments provide better 
+understanding of how to best apply text classification in the context of 
+imbalanced data of variable completeness.
+RESULTS: Radiology questions plus patient and hospital admission data contribute 
+valuable information for detecting most of the diseases, significantly improving 
+performance when added to radiology reports alone or to the combination of 
+radiology and pathology reports.
+CONCLUSION: Overall, linking data sources significantly improved classification 
+performance for all the diseases examined. However, there is no single approach 
+that suits all scenarios; the choice of the most effective combination of data 
+sources depends on the specific disease to be classified.
+
+Copyright Â© 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jbi.2016.10.008
+PMID: 27742349 [Indexed for MEDLINE]

@@ -1,0 +1,42 @@
+441. Behav Res Methods. 2020 Feb;52(1):264-278. doi: 10.3758/s13428-019-01223-3.
+
+WordSeg: Standardizing unsupervised word form segmentation from text.
+
+Bernard M(1)(2), Thiolliere R(1), Saksida A(3), Loukatou GR(1), Larsen E(1)(2), 
+Johnson M(4), Fibla L(1)(5), Dupoux E(1)(2), Daland R(6), Cao XN(1)(2), Cristia 
+A(7).
+
+Author information:
+(1)LSCP, Département d'études Cognitives, ENS, EHESS, CNRS, PSL Research 
+University, 29, rue d'Ulm, 75005, Paris, France.
+(2)INRIA, Villers-lès-Nancy, France.
+(3)Institute for Maternal and Child Health - IRCCS "Burlo Garofolo" - Trieste, 
+Trieste, Italy.
+(4)Macquarie University, Sydney, Australia.
+(5)University of East Anglia, Norwich, UK.
+(6)University of California, Los Angeles, Los Angeles, CA, USA.
+(7)LSCP, Département d'études Cognitives, ENS, EHESS, CNRS, PSL Research 
+University, 29, rue d'Ulm, 75005, Paris, France. alecristia@gmail.com.
+
+A basic task in first language acquisition likely involves discovering the 
+boundaries between words or morphemes in input where these basic units are not 
+overtly segmented. A number of unsupervised learning algorithms have been 
+proposed in the last 20 years for these purposes, some of which have been 
+implemented computationally, but whose results remain difficult to compare 
+across papers. We created a tool that is open source, enables reproducible 
+results, and encourages cumulative science in this domain. WordSeg has a modular 
+architecture: It combines a set of corpora description routines, multiple 
+algorithms varying in complexity and cognitive assumptions (including several 
+that were not publicly available, or insufficiently documented), and a rich 
+evaluation package. In the paper, we illustrate the use of this package by 
+analyzing a corpus of child-directed speech in various ways, which further 
+allows us to make recommendations for experimental design of follow-up work. 
+Supplementary materials allow readers to reproduce every result in this paper, 
+and detailed online instructions further enable them to go beyond what we have 
+done. Moreover, the system can be installed within container software that 
+ensures a stable and reliable environment. Finally, by virtue of its modular 
+architecture and transparency, WordSeg can work as an open-source platform, to 
+which other researchers can add their own segmentation algorithms.
+
+DOI: 10.3758/s13428-019-01223-3
+PMID: 30937845 [Indexed for MEDLINE]

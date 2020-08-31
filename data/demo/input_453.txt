@@ -1,0 +1,26 @@
+453. Trends Genet. 2019 May;35(5):317-318. doi: 10.1016/j.tig.2019.01.007. Epub 2019 
+Feb 21.
+
+Electronic Health Records Are the Next Frontier for the Genetics of Substance 
+Use Disorders.
+
+Sanchez-Roige S(1), Palmer AA(2).
+
+Author information:
+(1)Department of Psychiatry, University of California San Diego, La Jolla, CA, 
+92093, USA. Electronic address: sanchezroige@ucsd.edu.
+(2)Department of Psychiatry, University of California San Diego, La Jolla, CA, 
+92093, USA; Institute for Genomic Medicine, University of California San Diego, 
+La Jolla, CA, 92093, USA.
+
+Compared with other psychiatric disorders of similar heritabilities, the 
+progress of substance use disorders (SUD) genetics has been slow. With the 
+growing availability of large-scale biobanks with extensive phenotypes from 
+electronic health records (EHR) and genotypes across millions of individuals, 
+this platform is the next tool to accelerate SUD genetics research.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.tig.2019.01.007
+PMCID: PMC6984003
+PMID: 30797598 [Indexed for MEDLINE]

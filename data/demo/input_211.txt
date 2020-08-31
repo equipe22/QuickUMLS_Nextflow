@@ -1,0 +1,39 @@
+211. J Biomed Inform. 2010 Dec;43(6):953-61. doi: 10.1016/j.jbi.2010.08.003. Epub 
+2010 Aug 13.
+
+Detecting hedge cues and their scope in biomedical text with conditional random 
+fields.
+
+Agarwal S(1), Yu H.
+
+Author information:
+(1)Medical Informatics, University of Wisconsin-Milwaukee, Milwaukee, WI, USA.
+
+OBJECTIVE: Hedging is frequently used in both the biological literature and 
+clinical notes to denote uncertainty or speculation. It is important for 
+text-mining applications to detect hedge cues and their scope; otherwise, 
+uncertain events are incorrectly identified as factual events. However, due to 
+the complexity of language, identifying hedge cues and their scope in a sentence 
+is not a trivial task. Our objective was to develop an algorithm that would 
+automatically detect hedge cues and their scope in biomedical literature.
+METHODOLOGY: We used conditional random fields (CRFs), a supervised 
+machine-learning algorithm, to train models to detect hedge cue phrases and 
+their scope in biomedical literature. The models were trained on the publicly 
+available BioScope corpus. We evaluated the performance of the CRF models in 
+identifying hedge cue phrases and their scope by calculating recall, precision 
+and F1-score. We compared our models with three competitive baseline systems.
+RESULTS: Our best CRF-based model performed statistically better than the 
+baseline systems, achieving an F1-score of 88% and 86% in detecting hedge cue 
+phrases and their scope in biological literature and an F1-score of 93% and 90% 
+in detecting hedge cue phrases and their scope in clinical notes.
+CONCLUSIONS: Our approach is robust, as it can identify hedge cues and their 
+scope in both biological and clinical text. To benefit text-mining applications, 
+our system is publicly available as a Java API and as an online application at 
+http://hedgescope.askhermes.org. To our knowledge, this is the first publicly 
+available system to detect hedge cues and their scope in biomedical literature.
+
+Copyright © 2010 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jbi.2010.08.003
+PMCID: PMC2991497
+PMID: 20709188 [Indexed for MEDLINE]

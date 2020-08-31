@@ -1,0 +1,30 @@
+460. BMC Bioinformatics. 2005 Apr 22;6:103. doi: 10.1186/1471-2105-6-103.
+
+Using co-occurrence network structure to extract synonymous gene and protein 
+names from MEDLINE abstracts.
+
+Cohen AM(1), Hersh WR, Dubay C, Spackman K.
+
+Author information:
+(1)Department of Medical Informatics and Clinical Epidemiology, School of 
+Medicine, Oregon Health & Science University, 3181 S,W, Sam Jackson Park Road, 
+Portland, Oregon 97239-3098, USA. cohenaa@ohsu.edu
+
+BACKGROUND: Text-mining can assist biomedical researchers in reducing 
+information overload by extracting useful knowledge from large collections of 
+text. We developed a novel text-mining method based on analyzing the network 
+structure created by symbol co-occurrences as a way to extend the capabilities 
+of knowledge extraction. The method was applied to the task of automatic gene 
+and protein name synonym extraction.
+RESULTS: Performance was measured on a test set consisting of about 50,000 
+abstracts from one year of MEDLINE. Synonyms retrieved from curated genomics 
+databases were used as a gold standard. The system obtained a maximum F-score of 
+22.21% (23.18% precision and 21.36% recall), with high efficiency in the use of 
+seed pairs.
+CONCLUSION: The method performs comparably with other studied methods, does not 
+rely on sophisticated named-entity recognition, and requires little initial seed 
+knowledge.
+
+DOI: 10.1186/1471-2105-6-103
+PMCID: PMC1090552
+PMID: 15847682 [Indexed for MEDLINE]

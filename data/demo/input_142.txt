@@ -1,0 +1,29 @@
+142. LREC Int Conf Lang Resour Eval. 2016 May;2016(W23):6-12.
+
+Reproducibility in Natural Language Processing: A Case Study of Two R Libraries 
+for Mining PubMed/MEDLINE.
+
+Cohen KB(1), Xia J(2), Roeder C(1)(2), Hunter LE(1).
+
+Author information:
+(1)Biomedical Text Mining Group Computational Bioscience Program, University of 
+Colorado School of Medicine.
+(2)Department of Bio-statistics, College of Informatics, Hubei Key Laboratory of 
+Agricultural Bioinformatics, Huazhong Agricultural University.
+
+There is currently a crisis in science related to highly publicized failures to 
+reproduce large numbers of published studies. The current work proposes, by way 
+of case studies, a methodology for moving the study of reproducibility in 
+computational work to a full stage beyond that of earlier work. Specifically, it 
+presents a case study in attempting to reproduce the reports of two R libraries 
+for doing text mining of the PubMed/MEDLINE repository of scientific 
+publications. The main findings are that a rational paradigm for reproduction of 
+natural language processing papers can be established; the advertised 
+functionality was difficult, but not impossible, to reproduce; and 
+reproducibility studies can produce additional insights into the functioning of 
+the published system. Additionally, the work on reproducibility lead to the 
+production of novel user-centered documentation that has been accessed 260 times 
+since its publication-an average of once a day per library.
+
+PMCID: PMC5860830
+PMID: 29568821

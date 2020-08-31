@@ -1,0 +1,40 @@
+608. BMJ Open. 2019 Sep 18;9(9):e029582. doi: 10.1136/bmjopen-2019-029582.
+
+From EHR to PHR: let's get the record straight.
+
+Symons JD(1), Ashrafian H(2), Dunscombe R(3), Darzi A(2).
+
+Author information:
+(1)Institute of Global Health Innovation, Imperial College London, London, UK 
+j.symons@imperial.ac.uk.
+(2)Institute of Global Health Innovation, Imperial College London, London, UK.
+(3)Salford Royal NHS Foundation Trust, Salford, UK.
+
+This article reflects on the changing nature of health information access and 
+the transition of focus from electronic health records (EHRs) to personal health 
+records (PHRs) along with the challenges and need for alignment of national 
+initiatives for EHR and PHR in the National Health Service (NHS) of the UK. The 
+importance of implementing integrated EHRs as a route to enhance the quality of 
+health delivery has been increasingly understood. EHRs, however, carry several 
+limitations that include major fragmentation through multiple providers and 
+protocols throughout the NHS. Questions over ownership and control of data 
+further complicate the potential for fully utilising records. Analysing the 
+previous initiatives and the current landscape, we identify that adopting a 
+patient health record system can empower patients and allow better harmonisation 
+of clinical data at a national level. We propose regional PHR 'hubs' to provide 
+a universal interface that integrates digital health data at a regional level 
+with further integration at a national level. We propose that these PHR hubs 
+will reduce the complexity of connections, decrease governance challenges and 
+interoperability issues while also providing a safe platform for high-quality 
+scalable and sustainable digital solutions, including artificial intelligence 
+across the UK NHS, serving as an exemplar for other countries which wish to 
+realise the full value of healthcare records.
+
+© Author(s) (or their employer(s)) 2019. Re-use permitted under CC BY. Published 
+by BMJ.
+
+DOI: 10.1136/bmjopen-2019-029582
+PMCID: PMC6756332
+PMID: 31537566 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.

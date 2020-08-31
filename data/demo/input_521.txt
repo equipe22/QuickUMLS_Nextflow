@@ -1,0 +1,53 @@
+521. Appl Clin Inform. 2018 Jul;9(3):541-552. doi: 10.1055/s-0038-1666844. Epub 2018 
+Jul 18.
+
+Electronic Health Record Interactions through Voice: A Review.
+
+Kumah-Crystal YA(1), Pirtle CJ(1), Whyte HM(2), Goode ES(2), Anders SH(1)(3), 
+Lehmann CU(1).
+
+Author information:
+(1)Department of Biomedical Informatics, Vanderbilt University Medical Center, 
+Vanderbilt University, Nashville, Tennessee, United States.
+(2)Department of Computer Science, Vanderbilt University College of Arts and 
+Science, Vanderbilt University, Nashville, Tennessee, United States.
+(3)Department of Anesthesiology, Vanderbilt University Medical Center, 
+Vanderbilt University, Nashville, Tennessee, United States.
+
+BACKGROUND: Usability problems in the electronic health record (EHR) lead to 
+workflow inefficiencies when navigating charts and entering or retrieving data 
+using standard keyboard and mouse interfaces. Voice input technology has been 
+used to overcome some of the challenges associated with conventional interfaces 
+and continues to evolve as a promising way to interact with the EHR.
+OBJECTIVE: This article reviews the literature and evidence on voice input 
+technology used to facilitate work in the EHR. It also reviews the benefits and 
+challenges of implementation and use of voice technologies, and discusses 
+emerging opportunities with voice assistant technology.
+METHODS: We performed a systematic review of the literature to identify articles 
+that discuss the use of voice technology to facilitate health care work. We 
+searched MEDLINE and the Google search engine to identify relevant articles. We 
+evaluated articles that discussed the strengths and limitations of voice 
+technology to facilitate health care work. Consumer articles from leading 
+technology publications addressing emerging use of voice assistants were 
+reviewed to ascertain functionalities in existing consumer applications.
+RESULTS: Using a MEDLINE search, we identified 683 articles that were reviewed 
+for inclusion eligibility. The references of included articles were also 
+reviewed. Sixty-one papers that discussed the use of voice tools in health care 
+were included, of which 32 detailed the use of voice technologies in production 
+environments. Articles were organized into three domains: Voice for (1) 
+documentation, (2) commands, and (3) interactive response and navigation for 
+patients. Of 31 articles that discussed usability attributes of consumer voice 
+assistant technology, 12 were included in the review.
+CONCLUSION: We highlight the successes and challenges of voice input 
+technologies in health care and discuss opportunities to incorporate emerging 
+voice assistant technologies used in the consumer domain.
+
+Georg Thieme Verlag KG Stuttgart · New York.
+
+DOI: 10.1055/s-0038-1666844
+PMCID: PMC6051768
+PMID: 30040113 [Indexed for MEDLINE]
+
+Conflict of interest statement: The author's institution has developed an 
+in-kind relationship with Nuance Communications Inc., which provides their 
+software platform for Vanderbilt researchers to develop voice assistance tools.

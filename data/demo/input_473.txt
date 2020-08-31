@@ -1,0 +1,53 @@
+473. PeerJ. 2020 Feb 17;8:e8580. doi: 10.7717/peerj.8580. eCollection 2020.
+
+DISNET: a framework for extracting phenotypic disease information from public 
+sources.
+
+Lagunes-García G(1), Rodríguez-González A(1)(2), Prieto-Santamaría L(1), García 
+Del Valle EP(1), Zanin M(1), Menasalvas-Ruiz E(1).
+
+Author information:
+(1)Centro de Tecnología Biomédica, Universidad Politécnica de Madrid, Pozuelo de 
+Alarcón, Madrid, Spain.
+(2)Escuela Técnica Superior de Ingenieros Informáticos, Universidad Politécnica 
+de Madrid, Boadilla del Monte, Madrid, Spain.
+
+BACKGROUND: Within the global endeavour of improving population health, one 
+major challenge is the identification and integration of medical knowledge 
+spread through several information sources. The creation of a comprehensive 
+dataset of diseases and their clinical manifestations based on information from 
+public sources is an interesting approach that allows one not only to complement 
+and merge medical knowledge but also to increase it and thereby to interconnect 
+existing data and analyse and relate diseases to each other. In this paper, we 
+present DISNET (http://disnet.ctb.upm.es/), a web-based system designed to 
+periodically extract the knowledge from signs and symptoms retrieved from 
+medical databases, and to enable the creation of customisable disease networks.
+METHODS: We here present the main features of the DISNET system. We describe how 
+information on diseases and their phenotypic manifestations is extracted from 
+Wikipedia and PubMed websites; specifically, texts from these sources are 
+processed through a combination of text mining and natural language processing 
+techniques.
+RESULTS: We further present the validation of our system on Wikipedia and PubMed 
+texts, obtaining the relevant accuracy. The final output includes the creation 
+of a comprehensive symptoms-disease dataset, shared (free access) through the 
+system's API. We finally describe, with some simple use cases, how a user can 
+interact with it and extract information that could be used for subsequent 
+analyses.
+DISCUSSION: DISNET allows retrieving knowledge about the signs, symptoms and 
+diagnostic tests associated with a disease. It is not limited to a specific 
+category (all the categories that the selected sources of information offer us) 
+and clinical diagnosis terms. It further allows to track the evolution of those 
+terms through time, being thus an opportunity to analyse and observe the 
+progress of human knowledge on diseases. We further discussed the validation of 
+the system, suggesting that it is good enough to be used to extract diseases and 
+diagnostically-relevant terms. At the same time, the evaluation also revealed 
+that improvements could be introduced to enhance the system's reliability.
+
+©2020 Lagunes-García et al.
+
+DOI: 10.7717/peerj.8580
+PMCID: PMC7032061
+PMID: 32110491
+
+Conflict of interest statement: Massimiliano Zanin is an Academic Editor for 
+PeerJ.

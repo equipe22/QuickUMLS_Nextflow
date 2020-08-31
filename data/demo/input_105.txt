@@ -1,0 +1,35 @@
+105. Stud Health Technol Inform. 2020 Jun 16;270:347-351. doi: 10.3233/SHTI200180.
+
+On the Construction of Multilingual Corpora for Clinical Text Mining.
+
+Villena F(1)(2), Eisenmann U(1), Knaup P(1), Dunstan J(2)(3), Ganzinger M(1).
+
+Author information:
+(1)Institute of Medical Biometry and Informatics, Heidelberg University, 
+Germany.
+(2)Center of Medical Informatics and Telemedicine, University of Chile, Chile.
+(3)Center for Mathematical Modeling, University of Chile, Chile.
+
+The amount of digital data derived from healthcare processes have increased 
+tremendously in the last years. This applies especially to unstructured data, 
+which are often hard to analyze due to the lack of available tools to process 
+and extract information. Natural language processing is often used in medicine, 
+but the majority of tools used by researchers are developed primarily for the 
+English language. For developing and testing natural language processing 
+methods, it is important to have a suitable corpus, specific to the medical 
+domain that covers the intended target language. To improve the potential of 
+natural language processing research, we developed tools to derive language 
+specific medical corpora from publicly available text sources. n order to 
+extract medicine-specific unstructured text data, openly available pub-lications 
+from biomedical journals were used in a four-step process: (1) medical journal 
+databases were scraped to download the articles, (2) the articles were parsed 
+and consolidated into a single repository, (3) the content of the repository was 
+de-scribed, and (4) the text data and the codes were released. In total, 93 969 
+articles were retrieved, with a word count of 83 868 501 in three different 
+languages (German, English, and Spanish) from two medical journal databases Our 
+results show that unstructured text data extraction from openly available 
+medical journal databases for the construction of unified corpora of medical 
+text data can be achieved through web scraping techniques.
+
+DOI: 10.3233/SHTI200180
+PMID: 32570404 [Indexed for MEDLINE]

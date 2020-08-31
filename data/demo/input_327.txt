@@ -1,0 +1,41 @@
+327. Int J Med Inform. 2009 Dec;78(12):e47-58. doi: 10.1016/j.ijmedinf.2009.03.010. 
+Epub 2009 May 15.
+
+Classifying disease outbreak reports using n-grams and semantic features.
+
+Conway M(1), Doan S, Kawazoe A, Collier N.
+
+Author information:
+(1)National Institute of Informatics, Tokyo, Japan. mike@nii.ac.jp
+
+INTRODUCTION: This paper explores the benefits of using n-grams and semantic 
+features for the classification of disease outbreak reports, in the context of 
+the BioCaster disease outbreak report text mining system. A novel feature of 
+this work is the use of a general purpose semantic tagger - the USAS tagger - to 
+generate features.
+BACKGROUND: We outline the application context for this work (the BioCaster 
+epidemiological text mining system), before going on to describe the 
+experimental data used in our classification experiments (the 1000 document 
+BioCaster corpus). FEATURE SETS: Three broad groups of features are used in this 
+work: Named Entity based features, n-gram features, and features derived from 
+the USAS semantic tagger.
+METHODOLOGY: Three standard machine learning algorithms - Naïve Bayes, the 
+Support Vector Machine algorithm, and the C4.5 decision tree algorithm - were 
+used for classifying experimental data (that is, the BioCaster corpus). Feature 
+selection was performed using the chi(2) feature selection algorithm. Standard 
+text classification performance metrics - Accuracy, Precision, Recall, 
+Specificity and F-score - are reported.
+RESULTS: A feature representation composed of unigrams, bigrams, trigrams and 
+features derived from a semantic tagger, in conjunction with the Naïve Bayes 
+algorithm and feature selection yielded the highest classification accuracy (and 
+F-score). This result was statistically significant compared to a baseline 
+unigram representation and to previous work on the same task. However, it was 
+feature selection rather than semantic tagging that contributed most to the 
+improved performance.
+CONCLUSION: This study has shown that for the classification of disease outbreak 
+reports, a combination of bag-of-words, n-grams and semantic features, in 
+conjunction with feature selection, increases classification accuracy at a 
+statistically significant level compared to previous work in this domain.
+
+DOI: 10.1016/j.ijmedinf.2009.03.010
+PMID: 19447070 [Indexed for MEDLINE]

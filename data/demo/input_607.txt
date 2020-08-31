@@ -1,0 +1,64 @@
+607. Acad Emerg Med. 2019 Jan;26(1):97-105. doi: 10.1111/acem.13520. Epub 2018 Aug 
+16.
+
+Priorities to Overcome Barriers Impacting Data Science Application in Emergency 
+Care Research.
+
+Puskarich MA(1), Callaway C(2), Silbergleit R(3), Pines JM(4), Obermeyer Z(5), 
+Wright DW(6), Hsia RY(7), Shah MN(8), Monte AA(9), Limkakeng AT Jr(10), Meisel 
+ZF(11), Levy PD(12).
+
+Author information:
+(1)The Department of Emergency Medicine, University of Mississippi Medical 
+Center, Jackson, MS.
+(2)The Department of Emergency Medicine, University of Pittsburgh, Pittsburgh, 
+PA.
+(3)The Department of Emergency Medicine, University of Michigan, Ann Arbor, MI.
+(4)The Departments of Emergency Medicine and Health Policy & Management, George 
+Washington University, Washington, DC.
+(5)Brigham and Women's Hospital, Harvard Medical School, Boston, MA.
+(6)The Departments of Emergency Medicine and Health Policy & Management, Emory 
+University, Atlanta, GA.
+(7)The Department of Emergency Medicine, The Institute of Health Policy Studies, 
+University of California San Francisco, San Francisco, CA.
+(8)The Department of Emergency Medicine, University of Wisconsin-Madison, 
+Madison, WI.
+(9)The Department of Emergency Medicine, University of Colorado School of 
+Medicine, Aurora, CO.
+(10)The Division of Emergency Medicine, Duke University School of Medicine, 
+Durham, NC.
+(11)The Perelman School of Medicine, University of Pennsylvania, Philadelphia, 
+PA.
+(12)The Department of Emergency Medicine and Integrative Biosciences Center, 
+Wayne State University, Detroit, MI.
+
+For a variety of reasons including cheap computing, widespread adoption of 
+electronic medical records, digitalization of imaging and biosignals, and rapid 
+development of novel technologies, the amount of health care data being 
+collected, recorded, and stored is increasing at an exponential rate. Yet 
+despite these advances, methods for the valid, efficient, and ethical 
+utilization of these data remain underdeveloped. Emergency care research, in 
+particular, poses several unique challenges in this rapidly evolving field. A 
+group of content experts was recently convened to identify research priorities 
+related to barriers to the application of data science to emergency care 
+research. These recommendations included: 1) developing methods for 
+cross-platform identification and linkage of patients; 2) creating central, 
+deidentified, open-access databases; 3) improving methodologies for 
+visualization and analysis of intensively sampled data; 4) developing methods to 
+identify and standardize electronic medical record data quality; 5) improving 
+and utilizing natural language processing; 6) developing and utilizing syndrome 
+or complaint-based based taxonomies of disease; 7) developing practical and 
+ethical framework to leverage electronic systems for controlled trials; 8) 
+exploring technologies to help enable clinical trials in the emergency setting; 
+and 9) training emergency care clinicians in data science and data scientists in 
+emergency care medicine. The background, rationale, and conclusions of these 
+recommendations are included in the present article.
+
+© 2018 by the Society for Academic Emergency Medicine.
+
+DOI: 10.1111/acem.13520
+PMCID: PMC6637965
+PMID: 30019795 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no relevant financial 
+information or potential conflicts to disclose.

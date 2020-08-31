@@ -1,0 +1,52 @@
+166. J Biomed Inform. 2015 Dec;58 Suppl(Suppl):S203-10. doi: 
+10.1016/j.jbi.2015.08.003. Epub 2015 Aug 28.
+
+Coronary artery disease risk assessment from unstructured electronic health 
+records using text mining.
+
+Jonnagaddala J(1), Liaw ST(2), Ray P(3), Kumar M(4), Chang NW(5), Dai HJ(6).
+
+Author information:
+(1)School of Public Health and Community Medicine, University of New South 
+Wales, Australia; Asia-Pacific Ubiquitous Healthcare Research Centre, University 
+of New South Wales, Australia; Prince of Wales Clinical School, University of 
+New South Wales, Australia.
+(2)School of Public Health and Community Medicine, University of New South 
+Wales, Australia. Electronic address: siaw@unsw.edu.au.
+(3)Asia-Pacific Ubiquitous Healthcare Research Centre, University of New South 
+Wales, Australia.
+(4)Prince of Wales Clinical School, University of New South Wales, Australia.
+(5)Institution of Information Science, Academia Sinica, Taiwan; Graduate 
+Institute of Biomedical Electronics and Bioinformatics, National Taiwan 
+University, Taiwan.
+(6)Department of Computer Science and Information Engineering, National Taitung 
+University, Taiwan. Electronic address: hjdai@nttu.edu.tw.
+
+Coronary artery disease (CAD) often leads to myocardial infarction, which may be 
+fatal. Risk factors can be used to predict CAD, which may subsequently lead to 
+prevention or early intervention. Patient data such as co-morbidities, 
+medication history, social history and family history are required to determine 
+the risk factors for a disease. However, risk factor data are usually embedded 
+in unstructured clinical narratives if the data is not collected specifically 
+for risk assessment purposes. Clinical text mining can be used to extract data 
+related to risk factors from unstructured clinical notes. This study presents 
+methods to extract Framingham risk factors from unstructured electronic health 
+records using clinical text mining and to calculate 10-year coronary artery 
+disease risk scores in a cohort of diabetic patients. We developed a rule-based 
+system to extract risk factors: age, gender, total cholesterol, HDL-C, blood 
+pressure, diabetes history and smoking history. The results showed that the 
+output from the text mining system was reliable, but there was a significant 
+amount of missing data to calculate the Framingham risk score. A systematic 
+approach for understanding missing data was followed by implementation of 
+imputation strategies. An analysis of the 10-year Framingham risk scores for 
+coronary artery disease in this cohort has shown that the majority of the 
+diabetic patients are at moderate risk of CAD.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jbi.2015.08.003
+PMCID: PMC4985289
+PMID: 26319542 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest The authors declare that 
+there are no conflicts of interest.

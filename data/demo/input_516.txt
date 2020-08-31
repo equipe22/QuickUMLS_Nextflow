@@ -1,0 +1,29 @@
+516. AMIA Annu Symp Proc. 2013 Nov 16;2013:1558-67. eCollection 2013.
+
+Enabling cross-platform clinical decision support through Web-based decision 
+support in commercial electronic health record systems: proposal and evaluation 
+of initial prototype implementations.
+
+Zhang M(1), Velasco FT(2), Musser RC(3), Kawamoto K(1).
+
+Author information:
+(1)University of Utah, Salt Lake City, UT;
+(2)Texas Health Resources, Arlington, TX;
+(3)Duke University Health System, Durham, NC.
+
+Enabling clinical decision support (CDS) across multiple electronic health 
+record (EHR) systems has been a desired but largely unattained aim of clinical 
+informatics, especially in commercial EHR systems. A potential opportunity for 
+enabling such scalable CDS is to leverage vendor-supported, Web-based CDS 
+development platforms along with vendor-supported application programming 
+interfaces (APIs). Here, we propose a potential staged approach for enabling 
+such scalable CDS, starting with the use of custom EHR APIs and moving towards 
+standardized EHR APIs to facilitate interoperability. We analyzed three 
+commercial EHR systems for their capabilities to support the proposed approach, 
+and we implemented prototypes in all three systems. Based on these analyses and 
+prototype implementations, we conclude that the approach proposed is feasible, 
+already supported by several major commercial EHR vendors, and potentially 
+capable of enabling cross-platform CDS at scale.
+
+PMCID: PMC3900165
+PMID: 24551426 [Indexed for MEDLINE]

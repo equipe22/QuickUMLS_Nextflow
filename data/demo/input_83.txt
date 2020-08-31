@@ -1,0 +1,38 @@
+83. J Cardiovasc Transl Res. 2017 Jun;10(3):313-321. doi: 10.1007/s12265-017-9752-2. 
+Epub 2017 Jun 5.
+
+Text Mining of the Electronic Health Record: An Information Extraction Approach 
+for Automated Identification and Subphenotyping of HFpEF Patients for Clinical 
+Trials.
+
+Jonnalagadda SR(1)(2), Adupa AK(3), Garg RP(3), Corona-Cox J(4), Shah SJ(4).
+
+Author information:
+(1)Division of Health and Biomedical Informatics, Department of Preventive 
+Medicine, Northwestern University Feinberg School of Medicine, Chicago, IL, 
+60611, USA. sidjreddy@gmail.com.
+(2)Microsoft Corporation, 555 110th Ave NE, Bellevue, WA, 98004, USA. 
+sidjreddy@gmail.com.
+(3)Division of Health and Biomedical Informatics, Department of Preventive 
+Medicine, Northwestern University Feinberg School of Medicine, Chicago, IL, 
+60611, USA.
+(4)Division of Cardiology, Department of Medicine, Northwestern University 
+Feinberg School of Medicine, Chicago, IL, 60611, USA.
+
+Precision medicine requires clinical trials that are able to efficiently enroll 
+subtypes of patients in whom targeted therapies can be tested. To reduce the 
+large amount of time spent screening, identifying, and recruiting patients with 
+specific subtypes of heterogeneous clinical syndromes (such as heart failure 
+with preserved ejection fraction [HFpEF]), we need prescreening systems that are 
+able to automate data extraction and decision-making tasks. However, a major 
+obstacle is the vast amount of unstructured free-form text in medical records. 
+Here we describe an information extraction-based approach that automatically 
+converts unstructured text into structured data, which is cross-referenced 
+against eligibility criteria using a rule-based system to determine which 
+patients qualify for a major HFpEF clinical trial (PARAGON). We show that we can 
+achieve a sensitivity and positive predictive value of 0.95 and 0.86, 
+respectively. Our open-source algorithm could be used to efficiently identify 
+and subphenotype patients with HFpEF and other disorders.
+
+DOI: 10.1007/s12265-017-9752-2
+PMID: 28585184 [Indexed for MEDLINE]

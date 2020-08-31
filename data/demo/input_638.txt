@@ -1,0 +1,88 @@
+638. Int J Risk Saf Med. 2015;27 Suppl 1:S108-9. doi: 10.3233/JRS-150711.
+
+Cognitive IT-systems for big data analysis in medicine.
+
+Isakova J.
+
+BACKGROUND: Rapid development of medicine requires regular update of clinical 
+data evidence. This task accomplishment requires participation of numerous 
+specialists in evidence-based medicine, who are proficient in various 
+statistical methods and can work with big data analysis tools in biomedical 
+sciences. This, in turn, requires significant time and other resources. Today, 
+at the peak of IT development, cognitive systems in the field of medicine with 
+special technologies of data collection and analysis, is the start of a new 
+trend.
+OBJECTIVE: The development of cognitive IT system for drug prescription with the 
+potential to analyze automatically the information about drugs effectiveness and 
+safety on the basis of clinical practice experience and scientific data 
+according to evidence levels and patients' personal characteristics.
+METHODS: The cognitive system was developed with the use of United Medical 
+Knowledge Base (UMKB). UMKB is a semantic network of medical knowledge, which is 
+structured according to the medical ontologies and the theory of fuzzy logic. 
+UMKB is being filled simultaneously in all the areas of medicine. From one side 
+it is filled by means of the linguistic module analyzing medical texts, from the 
+second side - by academic institutions, from the third side - by the cognitive 
+IT systems with the data from electronic health records (EHRs). Native language 
+of UMKB is Russian. It is designed primarily for use in the Russian clinical 
+practice. However the platform for filling knowledge is multilingual and 
+supports any other languages. This means that the practice of world schools may 
+also be integrated and used in UMKB. The peculiarity lies in the fact that UMKB 
+is presented as a semantic network where biomedical knowledge are structured 
+according to certain medical ontologies (special rules of information storage 
+that 𠄼carries𠄽 data: phenomena, processes, simple and complex concepts in 
+medicine, - in the form of interrelated objects). The keystone underlying UMKB 
+is the model of medical knowledge representation, which is able to describe any 
+area of medicine. With the help of this model one can accurately simulate risk 
+factors, etiology, and pathogenesis of a disease (probability, time of 
+development and the sequence of pathological signs at each stage of a disease). 
+While describing pathological and compensatory mechanisms the database provides 
+an opportunity to clarify a lot of conditions that affect this mechanism. It is 
+also simple to simulate structural and functional features of the concept and 
+its relationships (for example, compensatory mechanisms, reflexes, complex 
+anatomical structures, all the features of variant anatomy and other 
+characteristics), which form reactivity and resistance of the organism. All this 
+is very important for cognitive IT systems concerning personalized and 
+evidence-based medicine. When describing medical knowledge there are often 
+situations of uncertainty, lack of sufficiently complete and accurate data on 
+the subject area, poorly understood phenomena, conflicting theories or imprecise 
+concepts. Semantic network of UMKB presents complex relationships among medical 
+concepts characterized by the following features: type and direction of 
+relationship, its weight and value, accuracy and personalization of the weight 
+or value of relationship, date of actualization. Multifactorial influence on the 
+weight or value of relationship, a lot of elementary and intermediate traits 
+that influence weight, the moment of actualization are supported to formalize. 
+United Medical Knowledge Base is a large-scale project, its main goal is to 
+increase the quality and duration of life through personalized care based on 
+evidence that can only be achieved by combining medical big data from various 
+fields of biomedical sciences.
+RESULTS: On the basis of UMKB a prototype of the cognitive IT system PharmExpert 
+with analytical potential was developed. PharmExpert is a clinical decision 
+support system for drug prescribing, which is integrated into medical 
+information system at health institutions and analyzes electronic health records 
+(EHRs) in any format of the background mode, correcting drug therapy according 
+to personal patient's profile and data about compatibility of the drugs. The 
+system has a very important function - self-learning that will help it to absorb 
+a huge mountain of medical data from routine clinical practice in the nearest 
+future. Now it works on the basis of data from UMKB, handbooks in pharmacology, 
+summaries of medical products characteristics (SmPCs), available reviews of 
+scientific literature and clinical guidelines on drugs interactions and 
+compatibility. In the short term, at the stage of clinical testing, PharmExpert 
+memorizing all the cases of clinical experience and the reaction of the 
+physicians (accepting or ignoring the recommendations of the system), will be 
+able to realize self-learning function by rebuilding ties and remodeling 
+knowledge of the semantic network according to clinical data and generating the 
+best standards of drug therapy taking into account personal characteristics of 
+the patient and levels of data evidence. Working in the background mode is one 
+of the most important advantages of the system. The physician is not asked to 
+enter any additional data beyond that the specialist enters into the EHR on an 
+everyday basis. Now PharmExpert is installed in the medical information systems 
+of the range of clinical centers in the Russian Federation.
+CONCLUSIONS: We developed a prototype of cognitive IT system for drug 
+prescription with the potential to analyze automatically the information about 
+drugs effectiveness and safety on the basis of clinical practice experience and 
+scientific data according to evidence levels and patients' personal 
+characteristics. The system is based on the structured semantic network of 
+medical knowledge from UMKB.
+
+DOI: 10.3233/JRS-150711
+PMID: 26639685

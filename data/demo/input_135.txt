@@ -1,0 +1,58 @@
+135. J Biomed Inform. 2017 Aug;72:77-84. doi: 10.1016/j.jbi.2017.06.016. Epub 2017 
+Jun 15.
+
+Text mining applied to electronic cardiovascular procedure reports to identify 
+patients with trileaflet aortic stenosis and coronary artery disease.
+
+Small AM(1), Kiss DH(1), Zlatsin Y(2), Birtwell DL(3), Williams H(3), Guerraty 
+MA(1), Han Y(1), Anwaruddin S(1), Holmes JH(2), Chirinos JA(1), Wilensky RL(1), 
+Giri J(1), Rader DJ(4).
+
+Author information:
+(1)Department of Medicine and Cardiovascular Institute, University of 
+Pennsylvania Perelman School of Medicine, PA, USA.
+(2)Institute for Biomedical Informatics, University of Pennsylvania, 
+Philadelphia, PA, USA.
+(3)Institute for Translational Medicine and Therapeutics, University of 
+Pennsylvania Perelman School of Medicine, Philadelphia, PA, USA.
+(4)Department of Medicine and Cardiovascular Institute, University of 
+Pennsylvania Perelman School of Medicine, PA, USA; Institute for Translational 
+Medicine and Therapeutics, University of Pennsylvania Perelman School of 
+Medicine, Philadelphia, PA, USA; Department of Genetics, University of 
+Pennsylvania Perelman School of Medicine, PA, USA. Electronic address: 
+rader@mail.med.upenn.edu.
+
+BACKGROUND: Interrogation of the electronic health record (EHR) using billing 
+codes as a surrogate for diagnoses of interest has been widely used for clinical 
+research. However, the accuracy of this methodology is variable, as it reflects 
+billing codes rather than severity of disease, and depends on the disease and 
+the accuracy of the coding practitioner. Systematic application of text mining 
+to the EHR has had variable success for the detection of cardiovascular 
+phenotypes. We hypothesize that the application of text mining algorithms to 
+cardiovascular procedure reports may be a superior method to identify patients 
+with cardiovascular conditions of interest.
+METHODS: We adapted the Oracle product Endeca, which utilizes text mining to 
+identify terms of interest from a NoSQL-like database, for purposes of searching 
+cardiovascular procedure reports and termed the tool "PennSeek". We imported 
+282,569 echocardiography reports representing 81,164 individuals and 27,205 
+cardiac catheterization reports representing 14,567 individuals from 
+non-searchable databases into PennSeek. We then applied clinical criteria to 
+these reports in PennSeek to identify patients with trileaflet aortic stenosis 
+(TAS) and coronary artery disease (CAD). Accuracy of patient identification by 
+text mining through PennSeek was compared with ICD-9 billing codes.
+RESULTS: Text mining identified 7115 patients with TAS and 9247 patients with 
+CAD. ICD-9 codes identified 8272 patients with TAS and 6913 patients with CAD. 
+4346 patients with AS and 6024 patients with CAD were identified by both 
+approaches. A randomly selected sample of 200-250 patients uniquely identified 
+by text mining was compared with 200-250 patients uniquely identified by billing 
+codes for both diseases. We demonstrate that text mining was superior, with a 
+positive predictive value (PPV) of 0.95 compared to 0.53 by ICD-9 for TAS, and a 
+PPV of 0.97 compared to 0.86 for CAD.
+CONCLUSION: These results highlight the superiority of text mining algorithms 
+applied to electronic cardiovascular procedure reports in the identification of 
+phenotypes of interest for cardiovascular research.
+
+Copyright © 2017. Published by Elsevier Inc.
+
+DOI: 10.1016/j.jbi.2017.06.016
+PMID: 28624641 [Indexed for MEDLINE]

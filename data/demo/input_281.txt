@@ -1,0 +1,47 @@
+281. J Biomed Inform. 2015 Dec;58 Suppl(Suppl):S183-8. doi: 
+10.1016/j.jbi.2015.06.013. Epub 2015 Jun 29.
+
+Using local lexicalized rules to identify heart disease risk factors in clinical 
+notes.
+
+Karystianis G(1), Dehghan A(1), Kovacevic A(2), Keane JA(3), Nenadic G(4).
+
+Author information:
+(1)School of Computer Science, University of Manchester, Manchester, UK; The 
+Christie NHS Foundation Trust, Manchester, UK.
+(2)Faculty of Technical Sciences, University of Novi Sad, Novi Sad, Serbia.
+(3)School of Computer Science, University of Manchester, Manchester, UK; 
+Manchester Institute of Biotechnology, University of Manchester, UK.
+(4)School of Computer Science, University of Manchester, Manchester, UK; Health 
+eResearch Centre, The Farr Institute of Health Informatics Research, Manchester, 
+UK; Manchester Institute of Biotechnology, University of Manchester, UK. 
+Electronic address: g.nenadic@manchester.ac.uk.
+
+Heart disease is the leading cause of death globally and a significant part of 
+the human population lives with it. A number of risk factors have been 
+recognized as contributing to the disease, including obesity, coronary artery 
+disease (CAD), hypertension, hyperlipidemia, diabetes, smoking, and family 
+history of premature CAD. This paper describes and evaluates a methodology to 
+extract mentions of such risk factors from diabetic clinical notes, which was a 
+task of the i2b2/UTHealth 2014 Challenge in Natural Language Processing for 
+Clinical Data. The methodology is knowledge-driven and the system implements 
+local lexicalized rules (based on syntactical patterns observed in notes) 
+combined with manually constructed dictionaries that characterize the domain. A 
+part of the task was also to detect the time interval in which the risk factors 
+were present in a patient. The system was applied to an evaluation set of 514 
+unseen notes and achieved a micro-average F-score of 88% (with 86% precision and 
+90% recall). While the identification of CAD family history, medication and some 
+of the related disease factors (e.g. hypertension, diabetes, hyperlipidemia) 
+showed quite good results, the identification of CAD-specific indicators proved 
+to be more challenging (F-score of 74%). Overall, the results are encouraging 
+and suggested that automated text mining methods can be used to process clinical 
+notes to identify risk factors and monitor progression of heart disease on a 
+large-scale, providing necessary data for clinical and epidemiological studies.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jbi.2015.06.013
+PMCID: PMC4974302
+PMID: 26133479 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

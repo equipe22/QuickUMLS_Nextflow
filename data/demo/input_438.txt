@@ -1,0 +1,30 @@
+438. J Biomed Inform. 2009 Oct;42(5):923-36. doi: 10.1016/j.jbi.2009.07.007. Epub 
+2009 Jul 29.
+
+Rule-based information extraction from patients' clinical data.
+
+Mykowiecka A(1), Marciniak M, Kupść A.
+
+Author information:
+(1)Institute of Computer Science PAS, ul. J.K. Ordona 21, 01-237 Warszawa, 
+Poland. agn@ipipan.waw.pl
+
+The paper describes a rule-based information extraction (IE) system developed 
+for Polish medical texts. We present two applications designed to select data 
+from medical documentation in Polish: mammography reports and hospital records 
+of diabetic patients. First, we have designed a special ontology that 
+subsequently had its concepts translated into two separate models, represented 
+as typed feature structure (TFS) hierarchies, complying with the format required 
+by the IE platform we adopted. Then, we used dedicated IE grammars to process 
+documents and fill in templates provided by the models. In particular, in the 
+grammars, we addressed such linguistic issues as: ambiguous keywords, negation, 
+coordination or anaphoric expressions. Resolving some of these problems has been 
+deferred to a post-processing phase where the extracted information is further 
+grouped and structured into more complex templates. To this end, we defined 
+special heuristic algorithms on the basis of sample data. The evaluation of the 
+implemented procedures shows their usability for clinical data extraction tasks. 
+For most of the evaluated templates, precision and recall well above 80% were 
+obtained.
+
+DOI: 10.1016/j.jbi.2009.07.007
+PMID: 19646551 [Indexed for MEDLINE]

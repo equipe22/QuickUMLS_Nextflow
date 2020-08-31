@@ -1,0 +1,42 @@
+357. J Biomed Semantics. 2017 Nov 9;8(1):51. doi: 10.1186/s13326-017-0157-6.
+
+Entity recognition in the biomedical domain using a hybrid approach.
+
+Basaldella M(1), Furrer L(2), Tasso C(1), Rinaldi F(3).
+
+Author information:
+(1)Università degli Studi di Udine, Via delle Scienze 208, Udine, 33100, Italy.
+(2)University of Zurich, Institute of Computational Linguistics and Swiss 
+Institute of Bioinformatics, Andreasstrasse 15, Zürich, CH-8050, Switzerland.
+(3)University of Zurich, Institute of Computational Linguistics and Swiss 
+Institute of Bioinformatics, Andreasstrasse 15, Zürich, CH-8050, Switzerland. 
+rinaldi@cl.uzh.ch.
+
+BACKGROUND: This article describes a high-recall, high-precision approach for 
+the extraction of biomedical entities from scientific articles.
+METHOD: The approach uses a two-stage pipeline, combining a dictionary-based 
+entity recognizer with a machine-learning classifier. First, the OGER entity 
+recognizer, which has a bias towards high recall, annotates the terms that 
+appear in selected domain ontologies. Subsequently, the Distiller framework uses 
+this information as a feature for a machine learning algorithm to select the 
+relevant entities only. For this step, we compare two different supervised 
+machine-learning algorithms: Conditional Random Fields and Neural Networks.
+RESULTS: In an in-domain evaluation using the CRAFT corpus, we test the 
+performance of the combined systems when recognizing chemicals, cell types, 
+cellular components, biological processes, molecular functions, organisms, 
+proteins, and biological sequences. Our best system combines dictionary-based 
+candidate generation with Neural-Network-based filtering. It achieves an overall 
+precision of 86% at a recall of 60% on the named entity recognition task, and a 
+precision of 51% at a recall of 49% on the concept recognition task.
+CONCLUSION: These results are to our knowledge the best reported so far in this 
+particular task.
+
+DOI: 10.1186/s13326-017-0157-6
+PMCID: PMC5679148
+PMID: 29122011 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: Not 
+applicable. CONSENT FOR PUBLICATION: Not applicable. COMPETING INTERESTS: The 
+authors declare that they have no competing interests. PUBLISHER’S NOTE: 
+Springer Nature remains neutral with regard to jurisdictional claims in 
+published maps and institutional affiliations.

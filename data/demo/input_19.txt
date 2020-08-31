@@ -1,0 +1,31 @@
+19. J Chem Inf Model. 2018 Feb 26;58(2):244-251. doi: 10.1021/acs.jcim.7b00608. Epub 
+2018 Jan 29.
+
+Text Mining Metal-Organic Framework Papers.
+
+Park S(1), Kim B(1), Choi S(1), Boyd PG(2), Smit B(2), Kim J(1).
+
+Author information:
+(1)Department of Chemical and Biomolecular Engineering, Korea Advanced Institute 
+of Science and Technology (KAIST) , 291 Daehak-ro, Yuseong-gu, Daejeon 34141, 
+Republic of Korea.
+(2)Laboratory of Molecular Simulation, Institut des Sciences et Ingénierie 
+Chimiques, Valais, Ecole Polytechnique Fédérale de Lausanne (EPFL) , Rue de 
+l'Industrie 17, CH-1951 Sion, Switzerland.
+
+We have developed a simple text mining algorithm that allows us to identify 
+surface area and pore volumes of metal-organic frameworks (MOFs) using 
+manuscript html files as inputs. The algorithm searches for common units (e.g., 
+m2/g, cm3/g) associated with these two quantities to facilitate the search. From 
+the sample set data of over 200 MOFs, the algorithm managed to identify 90% and 
+88.8% of the correct surface area and pore volume values. Further application to 
+a test set of randomly chosen MOF html files yielded 73.2% and 85.1% accuracies 
+for the two respective quantities. Most of the errors stem from unorthodox 
+sentence structures that made it difficult to identify the correct data as well 
+as bolded notations of MOFs (e.g., 1a) that made it difficult identify its real 
+name. These types of tools will become useful when it comes to discovering 
+structure-property relationships among MOFs as well as collecting a large set of 
+data for references.
+
+DOI: 10.1021/acs.jcim.7b00608
+PMID: 29227671 [Indexed for MEDLINE]

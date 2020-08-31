@@ -1,0 +1,25 @@
+79. Stud Health Technol Inform. 2012;180:554-8.
+
+A web-based tool for patients cohorts and Clinical Trials management.
+
+Fraccaro P(1), Giacomini M.
+
+Author information:
+(1)Dept. of communication, University of Genoa.
+
+Clinical Trials (CTs) play an increasingly important role in modern medicine. 
+Often these types of studies, especially in the final phases, require 
+collaboration between several hospitals, laboratories and institutions in 
+different places or countries. The solution proposed is a template which 
+exploits the principles of Networked Clinical Research and the strengths of 
+Clinical Data Management Systems (CDMSs) commonly used (Electronic Data Capture 
+(EDC), Electronic Medical Record (EMR) and Electronic Health Record (EHR). 
+Therefore, the basic structure is a highly normalized and standardized database 
+which is managed by a web platform and, only by recording the required 
+information and developing web pages starting from predefined templates, it is 
+possible to carry out new projects. The result is a hybrid CDMS which preserves 
+the flexibility and user autonomy of EDC systems; and contemporarily, permits 
+the creation of patients cohorts, as in EMR and EHR systems, in which to realize 
+simultaneously different multicentric CTs in several medical fields.
+
+PMID: 22874252 [Indexed for MEDLINE]

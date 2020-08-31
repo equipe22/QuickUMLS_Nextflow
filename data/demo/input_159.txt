@@ -1,0 +1,27 @@
+159. Methods Mol Biol. 2008;453:471-91. doi: 10.1007/978-1-60327-429-6_25.
+
+Text mining.
+
+Clegg AB(1), Shepherd AJ.
+
+Author information:
+(1)Institute of Structural Molecular Biology, School of Crystallography, 
+Birkbeck College, University of London, London, United Kingdom.
+
+One of the fastest-growing fields in bioinformatics is text mining: the 
+application of natural language processing techniques to problems of knowledge 
+management and discovery, using large collections of biological or biomedical 
+text such as MEDLINE. The techniques used in text mining range from the very 
+simple (e.g., the inference of relationships between genes from frequent 
+proximity in documents) to the complex and computationally intensive (e.g., the 
+analysis of sentence structures with parsers in order to extract facts about 
+protein-protein interactions from statements in the text). This chapter presents 
+a general introduction to some of the key principles and challenges of natural 
+language processing, and introduces some of the tools available to end-users and 
+developers. A case study describes the construction and testing of a simple tool 
+designed to tackle a task that is crucial to almost any application of text 
+mining in bioinformatics--identifying gene/protein names in text and mapping 
+them onto records in an external database.
+
+DOI: 10.1007/978-1-60327-429-6_25
+PMID: 18712320 [Indexed for MEDLINE]

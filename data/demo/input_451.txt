@@ -1,0 +1,49 @@
+451. Drug Saf. 2020 Sep;43(9):905-915. doi: 10.1007/s40264-020-00945-0.
+
+Information Visualization Platform for Postmarket Surveillance Decision Support.
+
+Spiker J(1), Kreimeyer K(1), Dang O(2), Boxwell D(2), Chan V(2), Cheng C(2), 
+Gish P(2), Lardieri A(2), Wu E(2), De S(2), Naidoo J(1), Lehmann H(3), Rosner 
+GL(1), Ball R(2), Botsis T(4).
+
+Author information:
+(1)The Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University 
+School of Medicine, Baltimore, MD, USA.
+(2)Office of Surveillance and Epidemiology, Center for Drug Evaluation and 
+Research, US FDA, Silver Spring, MD, USA.
+(3)Division of Health Sciences Informatics, Johns Hopkins University School of 
+Medicine, Baltimore, MD, USA.
+(4)The Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University 
+School of Medicine, Baltimore, MD, USA. tbotsis1@jhmi.edu.
+
+INTRODUCTION: The US FDA receives more than 2 million postmarket reports each 
+year. Safety Evaluators (SEs) review these reports, as well as external 
+information, to identify potential safety signals. With the increasing number of 
+reports and the size of external information, more efficient solutions for data 
+integration and decision making are needed.
+OBJECTIVES: The aim of this study was to develop an interactive decision support 
+application for drug safety surveillance that integrates and visualizes 
+information from postmarket reports, product labels, and biomedical literature.
+METHODS: We conducted multiple meetings with a group of seven SEs at the FDA to 
+collect the requirements for the Information Visualization Platform (InfoViP). 
+Using infographic design principles, we implemented the InfoViP prototype 
+version as a modern web application using the integrated information collected 
+from the FDA Adverse Event Reporting System, the DailyMed repository, and 
+PubMed. The same group of SEs evaluated the InfoViP prototype functionalities 
+using a simple evaluation form and provided input for potential enhancements.
+RESULTS: The SEs described their workflows and overall expectations around the 
+automation of time-consuming tasks, including the access to the visualization of 
+external information. We developed a set of wireframes, shared them with the 
+SEs, and finalized the InfoViP design. The InfoViP prototype architecture relied 
+on a javascript and a python-based framework, as well as an existing tool for 
+the processing of free-text information in all sources. This natural language 
+processing tool supported multiple functionalities, especially the construction 
+of time plots for individual postmarket reports and groups of reports. Overall, 
+we received positive comments from the SEs during the InfoViP prototype 
+evaluation and addressed their suggestions in the final version.
+CONCLUSIONS: The InfoViP system uses context-driven interactive visualizations 
+and informatics tools to assist FDA SEs in synthesizing data from multiple 
+sources for their case series analyses.
+
+DOI: 10.1007/s40264-020-00945-0
+PMID: 32445187

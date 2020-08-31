@@ -1,0 +1,63 @@
+204. JMIR Res Protoc. 2019 Aug 26;8(8):13914. doi: 10.2196/13914.
+
+A Systematic Framework for Analyzing Patient-Generated Narrative Data: Protocol 
+for a Content Analysis.
+
+Zolnoori M(1), Balls-Berry JE(1)(2), Brockman TA(3)(4), Patten CA(3)(4), Huang 
+M(1), Yao L(1).
+
+Author information:
+(1)Department of Health Sciences Research, Mayo Clinic, Rochester, MN, United 
+States.
+(2)College of Medicine and Science, Mayo Clinic, Rochester, MN, United States.
+(3)Community Engagement Program, Center for Clinical and Translational Science, 
+Mayo Clinic, Rochester, MN, United States.
+(4)Department of Psychiatry and Psychology, Mayo Clinic, Rochester, MN, United 
+States.
+
+BACKGROUND: Patient narrative data in online health care forums (communities) 
+are receiving increasing attention from the scientific community for 
+implementing patient-centered care. Natural language processing (NLP) methods 
+are gaining more and more attention because of the enormous data volume. 
+However, state-of-the-art NLP still cannot meet the need of high-resolution 
+analysis of patients' narratives. Manual qualitative analysis still plays a 
+pivotal role in answering complicated research questions from analyzing patient 
+narratives.
+OBJECTIVE: This study aimed to develop a systematic framework for qualitative 
+analysis of patient-generated narratives in online health care forums.
+METHODS: Our systematic framework consists of 4 phases: (1) data collection, (2) 
+data preparation, (3) content analysis, and (4) interpretation of the results. 
+Data collection and data preparation phases are constructed based on text mining 
+methods for identifying appropriate online health forums for data collection, 
+differentiating posts of patients from other stakeholders, protecting patients' 
+privacy, sampling, and choosing the unit of analysis. Content analysis phase is 
+built on the framework method, which facilitates and accelerates the 
+identification of patterns and themes by an interdisciplinary research team. In 
+the end, the focus of interpretation of the results phase is to measure the data 
+quality and interpret the findings regarding the dimensions and aspects of 
+patients' experiences and concerns in their original contexts.
+RESULTS: We demonstrated the usability of the proposed systematic framework 
+using 2 case studies: one on determining factors affecting patients' attitudes 
+toward antidepressants and another on identifying the disease management 
+strategies in patient with diabetes facing financial difficulties. The framework 
+provides a clear step-by-step process for systematic content analysis of patient 
+narratives and produces high-quality structured results that can be used for 
+describing patterns or regularities in patients' experiences, generating and 
+testing hypotheses, and identifying areas of improvement in the health care 
+systems.
+CONCLUSIONS: The systematic framework is a rigorous and standardized method for 
+qualitative analysis of patient narratives. Findings obtained through such a 
+process indicate authentic dimensions and aspects of patient experiences and 
+shed light on patients' concerns, needs, preferences, and values, which are the 
+core of patient-centered care.
+INTERNATIONAL REGISTERED REPORT IDENTIFIER (IRRID): RR1-10.2196/13914.
+
+©Maryam Zolnoori, Joyce E Balls-Berry, Tabetha A Brockman, Christi A Patten, 
+Ming Huang, Lixia Yao. Originally published in JMIR Research Protocols 
+(http://www.researchprotocols.org), 26.08.2019.
+
+DOI: 10.2196/13914
+PMCID: PMC6786846
+PMID: 31452524
+
+Conflict of interest statement: Conflicts of Interest: None declared.

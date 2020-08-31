@@ -1,0 +1,31 @@
+193. J Psycholinguist Res. 2015 Apr;44(2):127-39. doi: 10.1007/s10936-014-9283-9.
+
+TypingSuite: integrated software for presenting stimuli, and collecting and 
+analyzing typing data.
+
+Mazerolle EL(1), Marchand Y.
+
+Author information:
+(1)Department of Psychology and Neuroscience, Dalhousie University, Halifax, NS, 
+Canada.
+
+Research into typing patterns has broad applications in both psycholinguistics 
+and biometrics (i.e., improving security of computer access via each user's 
+unique typing patterns). We present a new software package, TypingSuite, which 
+can be used for presenting visual and auditory stimuli, collecting typing data, 
+and summarizing and analyzing the data. TypingSuite is a Java-based software 
+package that is platform-independent and open-source. To validate TypingSuite as 
+a beneficial tool for researchers who are interested in keystroke dynamics, two 
+studies were conducted. First, a behavioural experiment based on single word 
+typing was conducted that replicated two well-known findings in typing research, 
+namely the lexicality and frequency effects. The results confirmed that words 
+are typed faster than pseudowords and that high frequency words are typed faster 
+than low frequency words. Second, in regard to biometrics, it was also shown 
+that typing data from the same user are more similar than data from different 
+users. Because TypingSuite allows its users to easily implement an experiment 
+and to collect and analyze data within a single software package, it holds 
+promise for being a valuable educational and research tool in language-related 
+sciences such as psycholinguistics and natural language processing.
+
+DOI: 10.1007/s10936-014-9283-9
+PMID: 24488018 [Indexed for MEDLINE]

@@ -1,0 +1,36 @@
+293. Nihon Hoshasen Gijutsu Gakkai Zasshi. 2010 Sep 20;66(9):1229-36. doi: 
+10.6009/jjrt.66.1229.
+
+[Development of the method for the similarity detection of descriptions in 
+radiology reports using structuring technology].
+
+[Article in Japanese]
+
+Futami H(1), Yamagishi H, Kawaguchi O, Tsukamoto N, Fujii H, Kasamatsu T, Ando 
+Y, Osada M, Kubo A.
+
+Author information:
+(1)System Integration Division, Toshiba Medical Systems Corporation.
+
+Radiologists often spend much time for re-reading some of the past free-text 
+radiology reports and determining interval changes in the physical findings when 
+creating a report for long term cases. The aim of this study was to propose the 
+method to detect semantic similar descriptions in the free-text reports using 
+the structuring method based on text-mining technology. In a previous study, we 
+had developed the structuring method that can semantically analyze the free-text 
+reports and convert them into the description unit consisting of five items: 
+finding/diagnosis, modifier, region, regional modifier, and confidence. Our 
+developed prototype system extracted similar descriptions from the free-text 
+reports by calculating the similarity index between description units. We 
+confirmed similar descriptions extracted by the system applied to free-text 
+reports of cases which had more than one chest CT examination written in actual 
+clinical situation. As a result, it became available to identify candidates of 
+similar descriptions from free-text reports. In some cases regarding practical 
+use, the similar descriptions could not be identified in the sentences which 
+used paraphrasing or where the findings had status changes. A solution of 
+identifying similarity in these cases was necessary to improve the method. With 
+the presented method here, it is expected that interval changes in the findings 
+can be visualized and applied it to support diagnosis.
+
+DOI: 10.6009/jjrt.66.1229
+PMID: 20975244 [Indexed for MEDLINE]

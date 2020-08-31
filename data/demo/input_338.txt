@@ -1,0 +1,42 @@
+338. J Biomed Inform. 2017 Aug;72:120-131. doi: 10.1016/j.jbi.2017.07.001. Epub 2017 
+Jul 4.
+
+Leveraging syntax to better capture the semantics of elliptical coordinated 
+compound noun phrases.
+
+Blake C(1), Rindflesch T(2).
+
+Author information:
+(1)School of Information Sciences, University of Illinois at Urbana Champaign, 
+USA; National Library of Medicine, NIH, Bethesda, USA. Electronic address: 
+clblake@illinois.edu.
+(2)National Library of Medicine, NIH, Bethesda, USA.
+
+Full-text scientific articles are increasingly available, but capturing the 
+meaning conveyed within an article automatically remains a bottleneck for 
+semantic search and reasoning systems. In this paper we consider elliptical 
+coordinated compound noun phrases that authors use to save space in an article. 
+Systems that do not attend to coordination would incorrectly interpret "breast 
+or lung cancer" as a body part (breast) and a disease (lung cancer) rather than 
+two diseases. The algorithmic approach introduced in this paper uses a 
+generate-and-test strategy where candidate expansions for forward, backward and 
+complex ellipses are generated from syntactic dependencies. Dependencies are 
+also used to create a dictionary of non-coordinated noun phrases that is used 
+during the test phrase. Experiments on 21,280 full-text articles show that more 
+than a million noun phrases were impacted by coordinated ellipses. The system 
+achieves 73.07% precision, 75.38% recall, 74.23% F-score and 94.72% accuracy for 
+new noun phrases in the development set. The precision was higher for backward 
+(82.62 vs. 78.63) and forward expansions (64.82 vs. 60.17) and lower for complex 
+expansions (63.41 vs. 72.59) in a test set. On average 10.79% of all noun 
+phrases would be missed if coordination were not resolved, which corresponds to 
+48 new noun phrases per article in the journal Carcinogenesis, 52 new phrases 
+per article in Diabetes, and 56 new phrases per article in Endocrinology. 
+Results also show coordinated ellipses are more prevalent in abstracts (12.31% 
+of all noun phrases) than in the body of an article (10.70%). To further test 
+the generalizability of this approach the system (without modification) was used 
+on two new collections.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jbi.2017.07.001
+PMID: 28687199 [Indexed for MEDLINE]

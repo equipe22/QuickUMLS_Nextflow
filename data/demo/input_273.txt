@@ -1,0 +1,63 @@
+273. JMIR Med Inform. 2019 Nov 26;7(4):e14502. doi: 10.2196/14502.
+
+Using a Large Margin Context-Aware Convolutional Neural Network to Automatically 
+Extract Disease-Disease Association from Literature: Comparative Analytic Study.
+
+Lai PT(1), Lu WL(2), Kuo TR(2), Chung CR(2), Han JC(2), Tsai RT(#)(2), Horng 
+JT(#)(2)(3).
+
+Author information:
+(1)Department of Computer Science National Tsing Hua University, Hsinchu, 
+Province of China Taiwan.
+(2)Department of Computer Science & Information Engineering, National Central 
+University, Taoyuan, Province of China Taiwan.
+(3)Department of Bioinformatics and Medical Engineering, Asia University, 
+Taichung, Province of China Taiwan.
+(#)Contributed equally
+
+BACKGROUND: Research on disease-disease association (DDA), like comorbidity and 
+complication, provides important insights into disease treatment and drug 
+discovery, and a large body of the literature has been published in the field. 
+However, using current search tools, it is not easy for researchers to retrieve 
+information on the latest DDA findings. First, comorbidity and complication 
+keywords pull up large numbers of PubMed studies. Second, disease is not 
+highlighted in search results. Finally, DDA is not identified, as currently no 
+disease-disease association extraction (DDAE) dataset or tools are available.
+OBJECTIVE: As there are no available DDAE datasets or tools, this study aimed to 
+develop (1) a DDAE dataset and (2) a neural network model for extracting DDA 
+from the literature.
+METHODS: In this study, we formulated DDAE as a supervised machine learning 
+classification problem. To develop the system, we first built a DDAE dataset. We 
+then employed two machine learning models, support vector machine and 
+convolutional neural network, to extract DDA. Furthermore, we evaluated the 
+effect of using the output layer as features of the support vector machine-based 
+model. Finally, we implemented large margin context-aware convolutional neural 
+network architecture to integrate context features and convolutional neural 
+networks through the large margin function.
+RESULTS: Our DDAE dataset consisted of 521 PubMed abstracts. Experiment results 
+showed that the support vector machine-based approach achieved an F1 measure of 
+80.32%, which is higher than the convolutional neural network-based approach 
+(73.32%). Using the output layer of convolutional neural network as a feature 
+for the support vector machine does not further improve the performance of 
+support vector machine. However, our large margin context-aware-convolutional 
+neural network achieved the highest F1 measure of 84.18% and demonstrated that 
+combining the hinge loss function of support vector machine with a convolutional 
+neural network into a single neural network architecture outperforms other 
+approaches.
+CONCLUSIONS: To facilitate the development of text-mining research for DDAE, we 
+developed the first publicly available DDAE dataset consisting of disease 
+mentions, Medical Subject Heading IDs, and relation annotations. We developed 
+different conventional machine learning models and neural network architectures 
+and evaluated their effects on our DDAE dataset. To further improve DDAE 
+performance, we propose an large margin context-aware-convolutional neural 
+network model for DDAE that outperforms other approaches.
+
+©Po-Ting Lai, Wei-Liang Lu, Ting-Rung Kuo, Chia-Ru Chung, Jen-Chieh Han, Richard 
+Tzong-Han Tsai, Jorng-Tzong Horng. Originally published in JMIR Medical 
+Informatics (http://medinform.jmir.org), 26.11.2019.
+
+DOI: 10.2196/14502
+PMCID: PMC6913619
+PMID: 31769759
+
+Conflict of interest statement: Conflicts of Interest: None declared.

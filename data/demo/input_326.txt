@@ -1,0 +1,56 @@
+326. J Med Internet Res. 2019 Feb 20;21(2):e12783. doi: 10.2196/12783.
+
+Tweet Classification Toward Twitter-Based Disease Surveillance: New Data, 
+Methods, and Evaluations.
+
+Wakamiya S(1)(2)(3), Morita M(4), Kano Y(5), Ohkuma T(6), Aramaki E(1)(2)(3).
+
+Author information:
+(1)Institute for Research Initiatives, Nara Institute of Science and Technology, 
+Ikoma, Japan.
+(2)Graduate School of Science and Technology, Nara Institute of Science and 
+Technology, Ikoma, Japan.
+(3)Data Science Center, Nara Institute of Science and Technology, Ikoma, Japan.
+(4)Okayama University, Okayama, Japan.
+(5)Shizuoka University, Hamamatsu, Japan.
+(6)Fuji Xerox Co., Ltd., Yokohama, Japan.
+
+BACKGROUND: The amount of medical and clinical-related information on the Web is 
+increasing. Among the different types of information available, social 
+media-based data obtained directly from people are particularly valuable and are 
+attracting significant attention. To encourage medical natural language 
+processing (NLP) research exploiting social media data, the 13th NII Testbeds 
+and Community for Information access Research (NTCIR-13) Medical natural 
+language processing for Web document (MedWeb) provides pseudo-Twitter messages 
+in a cross-language and multi-label corpus, covering 3 languages (Japanese, 
+English, and Chinese) and annotated with 8 symptom labels (such as cold, fever, 
+and flu). Then, participants classify each tweet into 1 of the 2 categories: 
+those containing a patient's symptom and those that do not.
+OBJECTIVE: This study aimed to present the results of groups participating in a 
+Japanese subtask, English subtask, and Chinese subtask along with discussions, 
+to clarify the issues that need to be resolved in the field of medical NLP.
+METHODS: In summary, 8 groups (19 systems) participated in the Japanese subtask, 
+4 groups (12 systems) participated in the English subtask, and 2 groups (6 
+systems) participated in the Chinese subtask. In total, 2 baseline systems were 
+constructed for each subtask. The performance of the participant and baseline 
+systems was assessed using the exact match accuracy, F-measure based on 
+precision and recall, and Hamming loss.
+RESULTS: The best system achieved exactly 0.880 match accuracy, 0.920 F-measure, 
+and 0.019 Hamming loss. The averages of match accuracy, F-measure, and Hamming 
+loss for the Japanese subtask were 0.720, 0.820, and 0.051; those for the 
+English subtask were 0.770, 0.850, and 0.037; and those for the Chinese subtask 
+were 0.810, 0.880, and 0.032, respectively.
+CONCLUSIONS: This paper presented and discussed the performance of systems 
+participating in the NTCIR-13 MedWeb task. As the MedWeb task settings can be 
+formalized as the factualization of text, the achievement of this task could be 
+directly applied to practical clinical applications.
+
+©Shoko Wakamiya, Mizuki Morita, Yoshinobu Kano, Tomoko Ohkuma, Eiji Aramaki. 
+Originally published in the Journal of Medical Internet Research 
+(http://www.jmir.org), 20.02.2019.
+
+DOI: 10.2196/12783
+PMCID: PMC6401666
+PMID: 30785407 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interest: None declared.

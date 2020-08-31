@@ -1,0 +1,46 @@
+380. Stud Health Technol Inform. 2011;168:57-64.
+
+A student-centred electronic health record system for clinical education.
+
+Elliott K(1), Judd T, McColl G.
+
+Author information:
+(1)Medical Education Unit, Melbourne Medical School, The University of 
+Melbourne. kaelli@unimelb.edu.au
+
+INTRODUCTION: Electronic Health Record (EHR) systems are an increasingly 
+important feature of the national healthcare system [1]. However, little 
+research has investigated the impact this will have on medical students' 
+learning. As part of an innovative technology platform for a new masters level 
+program in medicine, we are developing a student-centred EHR system for clinical 
+education. A prototype was trialed with medical students over several weeks 
+during 2010. This paper reports on the findings of the trial, which had the 
+overall aim of assisting our understanding of how trainee doctors might use an 
+EHR system for learning and communication in a clinical setting.
+BACKGROUND: In primary care and hospital settings, EHR systems offer potential 
+benefits to medical students' learning: Longitudinal tracking of clinical 
+progress towards established learning objectives [2]; Capacity to search across 
+a substantial body of records [3]; Integration with online medical databases 
+[3]; Development of expertise in creating, accessing and managing high quality 
+EHRs [4]. While concerns have been raised that EHR systems may alter the 
+interaction between teachers and students [3], and may negatively influence 
+physician-patient communication [6], there is general consensus that the EHR is 
+changing the current practice environment and teaching practice needs to 
+respond.
+METHODS: Final year medical students on clinical placement at a large university 
+teaching hospital were recruited for the trial. Following a four-week period of 
+use, semi-structured interviews were conducted with 10 participants. 
+Audio-recorded interviews were transcribed and data analysed for emerging 
+themes. Study participants were also surveyed about the importance of EHR 
+systems in general, their familiarity with them, and general perceptions of 
+sharing patient records.
+CONCLUSIONS: Medical students in this pilot study identified a number of 
+educational, practical and administrative advantages that the student-centred 
+EHR system offered over their existing ad-hoc procedures for recording patient 
+encounters. Findings from this preliminary study point to the need to introduce 
+and instruct students' on the use of EHR systems from their earliest clinical 
+encounters, and to closely integrate learning activities based on the EHR system 
+with established learning objectives. Further research is required to evaluate 
+the impact of student-centred EHR systems on learning outcomes.
+
+PMID: 21893912 [Indexed for MEDLINE]

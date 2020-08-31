@@ -1,0 +1,28 @@
+353. J Biomed Inform. 2009 Oct;42(5):905-11. doi: 10.1016/j.jbi.2008.12.012. Epub 
+2009 Jan 23.
+
+Feature selection techniques for maximum entropy based biomedical named entity 
+recognition.
+
+Saha SK(1), Sarkar S, Mitra P.
+
+Author information:
+(1)Department of Computer Science and Engineering, Indian Institute of 
+Technology, Kharagpur, West Bengal 721 302, India. sujan.kr.saha@gmail.com
+
+Named entity recognition is an extremely important and fundamental task of 
+biomedical text mining. Biomedical named entities include mentions of proteins, 
+genes, DNA, RNA, etc which often have complex structures, but it is challenging 
+to identify and classify such entities. Machine learning methods like CRF, MEMM 
+and SVM have been widely used for learning to recognize such entities from an 
+annotated corpus. The identification of appropriate feature templates and the 
+selection of the important feature values play a very important role in the 
+success of these methods. In this paper, we provide a study on word clustering 
+and selection based feature reduction approaches for named entity recognition 
+using a maximum entropy classifier. The identification and selection of features 
+are largely done automatically without using domain knowledge. The performance 
+of the system is found to be superior to existing systems which do not use 
+domain knowledge.
+
+DOI: 10.1016/j.jbi.2008.12.012
+PMID: 19535010 [Indexed for MEDLINE]

@@ -1,0 +1,53 @@
+573. BMJ Open. 2018 Feb 12;8(2):e019698. doi: 10.1136/bmjopen-2017-019698.
+
+Using big data to improve cardiovascular care and outcomes in China: a protocol 
+for the CHinese Electronic health Records Research in Yinzhou (CHERRY) Study.
+
+Lin H(#)(1), Tang X(#)(2), Shen P(1), Zhang D(2), Wu J(3), Zhang J(3), Lu P(3), 
+Si Y(2), Gao P(2).
+
+Author information:
+(1)Yinzhou District Center for Disease Control and Prevention, Ningbo, China.
+(2)Department of Epidemiology and Biostatistics, Peking University Health 
+Science Center, Beijing, China.
+(3)Wonders Information Co.Ltd, Shanghai, China.
+(#)Contributed equally
+
+INTRODUCTION: Data based on electronic health records (EHRs) are rich with 
+individual-level longitudinal measurement information and are becoming an 
+increasingly common data source for clinical risk prediction worldwide. However, 
+few EHR-based cohort studies are available in China. Harnessing EHRs for 
+research requires a full understanding of data linkages, management, and data 
+quality in large data sets, which presents unique analytical opportunities and 
+challenges. The purpose of this study is to provide a framework to establish a 
+uniquely integrated EHR database in China for scientific research.
+METHODS AND ANALYSIS: The CHinese Electronic health Records Research in Yinzhou 
+(CHERRY) Study will extract individual participant data within the regional 
+health information system of an eastern coastal area of China to establish a 
+longitudinal population-based ambispective cohort study for cardiovascular care 
+and outcomes research. A total of 1 053 565 Chinese adults aged over 18 years 
+were registered in the health information system in 2009, and there were 23 394 
+deaths from 1 January 2009 to 31 December 2015. The study will include 
+information from multiple epidemiological surveys; EHRs for chronic disease 
+management; and health administrative, clinical, laboratory, drug and electronic 
+medical record (EMR) databases. Follow-up of fatal and non-fatal clinical events 
+is achieved through records linkage to the regional system of disease 
+surveillance, chronic disease management and EMRs (based on diagnostic codes 
+from the International Classification of Diseases, tenth revision). The CHERRY 
+Study will provide a unique platform and serve as a valuable big data resource 
+for cardiovascular risk prediction and population management, for primary and 
+secondary prevention of cardiovascular events in China.
+ETHICS AND DISSEMINATION: The CHERRY Study was approved by the Peking University 
+Institutional Review Board (IRB00001052-16011) in April 2016. Results of the 
+study will be disseminated through published journal articles, conferences and 
+seminar presentations, and on the study website (http://www.cherry-study.org).
+
+© Article author(s) (or their employer(s) unless otherwise stated in the text of 
+the article) 2018. All rights reserved. No commercial use is permitted unless 
+otherwise expressly granted.
+
+DOI: 10.1136/bmjopen-2017-019698
+PMCID: PMC5829949
+PMID: 29440217 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.

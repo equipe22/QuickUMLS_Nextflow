@@ -1,0 +1,46 @@
+275. Database (Oxford). 2014 May 21;2014:bau038. doi: 10.1093/database/bau038. Print 
+2014.
+
+iSimp in BioC standard format: enhancing the interoperability of a sentence 
+simplification system.
+
+Peng Y(1), Tudor CO(2), Torii M(2), Wu CH(2), Vijay-Shanker K(3).
+
+Author information:
+(1)Department of Computer and Information Sciences, University of Delaware, 18 
+Amstel Ave, Newark, DE 19716, USA and Center for Bioinformatics and 
+Computational Biology, University of Delaware, 15 Innovation Way, Newark, DE 
+19711, USA yfpeng@udel.edu.
+(2)Department of Computer and Information Sciences, University of Delaware, 18 
+Amstel Ave, Newark, DE 19716, USA and Center for Bioinformatics and 
+Computational Biology, University of Delaware, 15 Innovation Way, Newark, DE 
+19711, USADepartment of Computer and Information Sciences, University of 
+Delaware, 18 Amstel Ave, Newark, DE 19716, USA and Center for Bioinformatics and 
+Computational Biology, University of Delaware, 15 Innovation Way, Newark, DE 
+19711, USA.
+(3)Department of Computer and Information Sciences, University of Delaware, 18 
+Amstel Ave, Newark, DE 19716, USA and Center for Bioinformatics and 
+Computational Biology, University of Delaware, 15 Innovation Way, Newark, DE 
+19711, USA.
+
+This article reports the use of the BioC standard format in our sentence 
+simplification system, iSimp, and demonstrates its general utility. iSimp is 
+designed to simplify complex sentences commonly found in the biomedical text, 
+and has been shown to improve existing text mining applications that rely on the 
+analysis of sentence structures. By adopting the BioC format, we aim to make 
+iSimp readily interoperable with other applications in the biomedical domain. To 
+examine the utility of iSimp in BioC, we implemented a rule-based relation 
+extraction system that uses iSimp as a preprocessing module and BioC for data 
+exchange. Evaluation on the training corpus of BioNLP-ST 2011 GENIA Event 
+Extraction (GE) task showed that iSimp sentence simplification improved the 
+recall by 3.2% without reducing precision. The iSimp simplification-annotated 
+corpora, both our previously used corpus and the GE corpus in the current study, 
+have been converted into the BioC format and made publicly available at the 
+project's Web site: http://research.bioinformatics.udel.edu/isimp/. Database 
+URL:http://research.bioinformatics.udel.edu/isimp/
+
+© The Author(s) 2014. Published by Oxford University Press.
+
+DOI: 10.1093/database/bau038
+PMCID: PMC4028706
+PMID: 24850848 [Indexed for MEDLINE]

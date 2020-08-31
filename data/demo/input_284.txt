@@ -1,0 +1,39 @@
+284. J Am Med Inform Assoc. 2013 Sep-Oct;20(5):859-66. doi: 
+10.1136/amiajnl-2013-001625. Epub 2013 Apr 20.
+
+Combining rules and machine learning for extraction of temporal expressions and 
+events from clinical narratives.
+
+Kovacevic A(1), Dehghan A, Filannino M, Keane JA, Nenadic G.
+
+Author information:
+(1)Faculty of Technical Sciences, University of Novi Sad, Novi Sad, Serbia.
+
+OBJECTIVE: Identification of clinical events (eg, problems, tests, treatments) 
+and associated temporal expressions (eg, dates and times) are key tasks in 
+extracting and managing data from electronic health records. As part of the i2b2 
+2012 Natural Language Processing for Clinical Data challenge, we developed and 
+evaluated a system to automatically extract temporal expressions and events from 
+clinical narratives. The extracted temporal expressions were additionally 
+normalized by assigning type, value, and modifier.
+MATERIALS AND METHODS: The system combines rule-based and machine learning 
+approaches that rely on morphological, lexical, syntactic, semantic, and 
+domain-specific features. Rule-based components were designed to handle the 
+recognition and normalization of temporal expressions, while conditional random 
+fields models were trained for event and temporal recognition.
+RESULTS: The system achieved micro F scores of 90% for the extraction of 
+temporal expressions and 87% for clinical event extraction. The normalization 
+component for temporal expressions achieved accuracies of 84.73% (expression's 
+type), 70.44% (value), and 82.75% (modifier).
+DISCUSSION: Compared to the initial agreement between human annotators (87-89%), 
+the system provided comparable performance for both event and temporal 
+expression mining. While (lenient) identification of such mentions is 
+achievable, finding the exact boundaries proved challenging.
+CONCLUSIONS: The system provides a state-of-the-art method that can be used to 
+support automated identification of mentions of clinical events and temporal 
+expressions in narratives either to support the manual review process or as a 
+part of a large-scale processing of electronic health databases.
+
+DOI: 10.1136/amiajnl-2013-001625
+PMCID: PMC3756271
+PMID: 23605114 [Indexed for MEDLINE]

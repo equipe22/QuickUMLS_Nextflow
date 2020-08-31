@@ -1,0 +1,42 @@
+548. Acad Med. 2014 Mar;89(3):399-403. doi: 10.1097/ACM.0000000000000149.
+
+Simulated electronic health record (Sim-EHR) curriculum: teaching EHR skills and 
+use of the EHR for disease management and prevention.
+
+Milano CE(1), Hardman JA, Plesiu A, Rdesinski RE, Biagioli FE.
+
+Author information:
+(1)Dr. Milano is assistant professor, Department of Family Medicine, Oregon 
+Health & Science University, Portland, Oregon. Dr. Hardman is assistant 
+professor, Department of Medicine, Oregon Health & Science University, Portland, 
+Oregon. Dr. Plesiu is an intern, Kettering Medical Center, Kettering, Ohio. Ms. 
+Rdesinski is a research associate, Department of Family Medicine, Oregon Health 
+& Science University, Portland, Oregon. Dr. Biagioli is associate professor, 
+Department of Family Medicine, Oregon Health & Science University, Portland, 
+Oregon.
+
+Electronic health records (EHRs) can improve many aspects of patient care, yet 
+few formal EHR curricula exist to teach optimal use to students and other 
+trainees. The Simulated EHR (Sim-EHR) curriculum was introduced in January 2011 
+at Oregon Health & Science University (OHSU) to provide learners with a safe 
+hands-on environment in which to apply evidence-based guidelines while learning 
+EHR skills. Using an EHR training platform identical to the OHSU EHR system, 
+learners review and correct a simulated medical chart for a complex virtual 
+patient with chronic diseases and years of fragmented care. They write orders 
+and prescriptions, create an evidence-based plan of care for indicated disease 
+prevention and management, and review their work in a small-group setting. 
+Third-year students complete the Sim-EHR curriculum as part of the required 
+family medicine clerkship; their chart work is assessed using a rubric tied to 
+the curriculum's general and specific objectives. As of January 2014, 406 
+third-year OHSU medical students, on campus or at remote clerkship sites, and 21 
+OHSU internal medicine interns had completed simulated charts.In this article, 
+the authors describe the development and implementation of the Sim-EHR 
+curriculum, with a focus on use of the curriculum in the family medicine 
+clerkship. They also share preliminary findings and lessons learned. They 
+suggest that the Sim-EHR curriculum is an effective, interactive method for 
+providing learners with EHR skills education while demonstrating how a 
+well-organized chart helps ensure safe, efficient, and quality patient care.
+
+DOI: 10.1097/ACM.0000000000000149
+PMCID: PMC4035239
+PMID: 24448035 [Indexed for MEDLINE]

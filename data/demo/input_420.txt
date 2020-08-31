@@ -1,0 +1,31 @@
+420. Med Inform Internet Med. 2004 Jun;29(2):169-83. doi: 
+10.1080/14639230412331280422.
+
+Automatic construction of gene relation networks using text mining and gene 
+expression data.
+
+Karopka T(1), Scheel T, Bansemer S, Glass A.
+
+Author information:
+(1)Institute of Medical Informatics and Biometry, University of Rostock, 
+Rembrandt-Strasse 16/17, 18055 Rostock, Germany. 
+thomas.karopka@medizin.uni-rostock.de
+
+Microarray gene expression analysis is a powerful high-throughput technique that 
+enables researchers to monitor the expression of thousands of genes 
+simultaneously. Using this methodology huge amounts of data are produced which 
+have to be analysed. Clustering algorithms are used to group genes together 
+based on a predefined distance measure. However, clustering algorithms do not 
+necessarily group the genes in a biological meaningful way. Additional 
+information is needed to improve the identification of disease relevant genes. 
+The primary objective of our project is to support the analysis of microarray 
+gene expression data by construction of gene relation networks (GRNs). Required 
+information can not be found in a structured representation like a database. In 
+contrast, a large number of relations are described in biomedical literature. 
+The main outcome of this project is the implementation of a software system that 
+provides clinicians and researchers with a tool that supports the analysis of 
+microarray gene expression data by mapping known relationships from the 
+biomedical literature to local gene expression experiments.
+
+DOI: 10.1080/14639230412331280422
+PMID: 15370996 [Indexed for MEDLINE]

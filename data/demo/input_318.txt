@@ -1,0 +1,33 @@
+318. IEEE/ACM Trans Comput Biol Bioinform. 2010 Jul-Sep;7(3):428-41. doi: 
+10.1109/TCBB.2010.47.
+
+BioLMiner System: interaction normalization task and interaction pair task in 
+the BioCreative II.5 challenge.
+
+Chen Y(1), Liu F, Manderick B.
+
+Author information:
+(1)Computational Modeling Lab, Vrije Universiteit Brussel, Brussels, Belgium. 
+yifechen@vub.ac.be
+
+This paper describes a Biological Literature Miner (BioLMiner) system and its 
+implementation. BioLMiner is a text mining system for biological literature, 
+whose purpose is to extract useful information from biological literature, 
+including gene and protein names, normalized gene and protein names, and 
+protein-protein interaction pairs. BioLMiner has three main subsystems in a 
+pipeline structure: a gene mention recognizer (GMRer), a gene normalizer (GNer), 
+and a protein-protein interaction pair extractor (PPIEor). All these subsystems 
+are developed based on the machine learning techniques including support vector 
+machines (SVMs) and conditional random fields (CRFs) together with carefully 
+designed informative features. At the same time, BioLMiner makes use of some 
+biological specific resources and existing natural language processing tools. In 
+order to evaluate and compare BioLMiner, it is adapted to participate in two 
+tasks of the BioCreative II.5 challenge: interaction normalization task (INT) 
+using GNer and interaction pair task (IPT) using PPIEor. Our system is among the 
+highest performing systems on the two tasks from which it can be seen that GMRer 
+provides a good support for the INT and IPT although its performance is not 
+evaluated, and the methods developed in GNer and PPIEor are extended well to the 
+BioCreative II.5 tasks.
+
+DOI: 10.1109/TCBB.2010.47
+PMID: 20671315 [Indexed for MEDLINE]

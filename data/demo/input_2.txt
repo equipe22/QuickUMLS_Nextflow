@@ -1,0 +1,44 @@
+2. J Am Coll Radiol. 2018 Mar;15(3 Pt B):554-562. doi: 10.1016/j.jacr.2017.12.017. 
+Epub 2018 Feb 13.
+
+Evaluating Report Text Variation and Informativeness: Natural Language 
+Processing of CT Chest Imaging for Pulmonary Embolism.
+
+Huesch MD(1), Cherian R(1), Labib S(1), Mahraj R(2).
+
+Author information:
+(1)Department of Radiology, Milton S. Hershey Medical Center, Hershey, 
+Pennsylvania.
+(2)Department of Radiology, Milton S. Hershey Medical Center, Hershey, 
+Pennsylvania. Electronic address: rmahraj@pennstatehealth.psu.edu.
+
+OBJECTIVE: The aim of this study was to quantify the variability of language in 
+free text reports of pulmonary embolus (PE) studies and to gauge the 
+informativeness of free text to predict PE diagnosis using machine learning as 
+proxy for human understanding.
+MATERIALS AND METHODS: All 1,133 consecutive chest CTs with contrast studies 
+performed under a PE protocol and ordered in the emergency department in 2016 
+were selected from our departmental electronic workflow system. We used 
+commercial text-mining and predictive analytics software to parse and describe 
+all report text and to generate a suite of machine learning rules that sought to 
+predict the "gold standard" radiological diagnosis of PE.
+RESULTS: There was extensive variation in the length of Findings section and 
+Impression section texts across the reports, only marginally associated with a 
+positive PE diagnosis. A marked concentration of terms was found: for example, 
+20 words were used in the Findings section of 93% of the reports, and 896 of 
+2,296 distinct words were each used in only one report's Impression section. In 
+the validation set, machine learning rules had perfect sensitivity but imperfect 
+specificity, a low positive predictive value of 73%, and a misclassification 
+rate of 3%.
+CONCLUSION: Use of free text reporting was associated with extensive variability 
+in report length and report terms used. Interpretation of the free text was a 
+difficult machine learning task and suggests potential difficulty for human 
+recipients in fully understanding such reports. These results support the 
+prospective assessment of the impact of a fully structured report template with 
+at least some mandatory discrete fields on ease of use of reports and their 
+understanding.
+
+Copyright © 2018. Published by Elsevier Inc.
+
+DOI: 10.1016/j.jacr.2017.12.017
+PMID: 29396123 [Indexed for MEDLINE]

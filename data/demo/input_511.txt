@@ -1,0 +1,40 @@
+511. Datenbank Spektrum. 2017;17(1):29-34. doi: 10.1007/s13222-016-0245-2. Epub 2017 
+Jan 18.
+
+LIVIVO - the Vertical Search Engine for Life Sciences.
+
+Müller B(1), Poley C(1), Pössel J(1), Hagelstein A(1), Gübitz T(1).
+
+Author information:
+(1)Applied Research and Innovation, German National Library of Medicine ZB MED - 
+Information Centre for Life Sciences, Gleueler Str. 60, 50931 Cologne, North 
+Rhine-Westphalia Germany.
+
+The explosive growth of literature and data in the life sciences challenges 
+researchers to keep track of current advancements in their disciplines. Novel 
+approaches in the life science like the One Health paradigm require integrated 
+methodologies in order to link and connect heterogeneous information from 
+databases and literature resources. Current publications in the life sciences 
+are increasingly characterized by the employment of trans-disciplinary 
+methodologies comprising molecular and cell biology, genetics, genomic, 
+epigenomic, transcriptional and proteomic high throughput technologies with data 
+from humans, plants, and animals. The literature search engine LIVIVO empowers 
+retrieval functionality by incorporating various literature resources from 
+medicine, health, environment, agriculture and nutrition. LIVIVO is developed 
+in-house by ZB MED - Information Centre for Life Sciences. It provides a 
+user-friendly and usability-tested search interface with a corpus of 55 Million 
+citations derived from 50 databases. Standardized application programming 
+interfaces are available for data export and high throughput retrieval. The 
+search functions allow for semantic retrieval with filtering options based on 
+life science entities. The service oriented architecture of LIVIVO uses four 
+different implementation layers to deliver search services. A Knowledge 
+Environment is developed by ZB MED to deal with the heterogeneity of data as an 
+integrative approach to model, store, and link semantic concepts within 
+literature resources and databases. Future work will focus on the exploitation 
+of life science ontologies and on the employment of NLP technologies in order to 
+improve query expansion, filters in faceted search, and concept based relevancy 
+rankings in LIVIVO.
+
+DOI: 10.1007/s13222-016-0245-2
+PMCID: PMC5750838
+PMID: 29368755

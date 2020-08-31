@@ -1,0 +1,30 @@
+392. Bioinformatics. 2008 Jan 15;24(2):296-8. doi: 10.1093/bioinformatics/btm557. 
+Epub 2007 Nov 15.
+
+Text processing through Web services: calling Whatizit.
+
+Rebholz-Schuhmann D(1), Arregui M, Gaudan S, Kirsch H, Jimeno A.
+
+Author information:
+(1)European Bioinformatics Institute, Wellcome Trust Genome Campus, Hinxton, 
+Cambridge, CB10 1SD, UK. rebholz@ebi.ac.uk
+
+Text-mining (TM) solutions are developing into efficient services to researchers 
+in the biomedical research community. Such solutions have to scale with the 
+growing number and size of resources (e.g. available controlled vocabularies), 
+with the amount of literature to be processed (e.g. about 17 million documents 
+in PubMed) and with the demands of the user community (e.g. different methods 
+for fact extraction). These demands motivated the development of a server-based 
+solution for literature analysis. Whatizit is a suite of modules that analyse 
+text for contained information, e.g. any scientific publication or Medline 
+abstracts. Special modules identify terms and then link them to the 
+corresponding entries in bioinformatics databases such as UniProtKb/Swiss-Prot 
+data entries and gene ontology concepts. Other modules identify a set of 
+selected annotation types like the set produced by the EBIMed analysis pipeline 
+for proteins. In the case of Medline abstracts, Whatizit offers access to EBI's 
+in-house installation via PMID or term query. For large quantities of the user's 
+own text, the server can be operated in a streaming mode 
+(http://www.ebi.ac.uk/webservices/whatizit).
+
+DOI: 10.1093/bioinformatics/btm557
+PMID: 18006544 [Indexed for MEDLINE]

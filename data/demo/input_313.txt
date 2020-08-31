@@ -1,0 +1,29 @@
+313. Stud Health Technol Inform. 2014;205:594-8.
+
+A framework for evaluating and utilizing medical terminology mappings.
+
+Hussain S(1), Sun H(2), Sinaci A(3), Erturkmen GB(3), Mead C(4), Gray AJ(5), 
+McGuinness DL(6), Prud'Hommeaux E(7), Daniel C(1), Forsberg K(8).
+
+Author information:
+(1)INSERM, U1142, LIMICS, AP-HP, F-75006, Paris, France.
+(2)Advanced Clinical Applications Research Group, Agfa HealthCare, Gent, 
+Belgium.
+(3)Software Research, Development and Consultancy Ltd., Turkey.
+(4)W3C Health Care and Life Sciences IG.
+(5)School of Mathematical and Computer Sciences, Heriot-Watt University, UK.
+(6)Department of Computer Science, Rensselaer Polytechnic Institute, Troy, US.
+(7)World Wide Web Consortium (W3C), MIT, Cambridge, MA, USA.
+(8)AstraZeneca, Sweden.
+
+Use of medical terminologies and mappings across them are considered to be 
+crucial pre-requisites for achieving interoperable eHealth applications. Built 
+upon the outcomes of several research projects, we introduce a framework for 
+evaluating and utilizing terminology mappings that offers a platform for i) 
+performing various mappings strategies, ii) representing terminology mappings 
+together with their provenance information, and iii) enabling terminology 
+reasoning for inferring both new and erroneous mappings. We present the results 
+of the introduced framework from SALUS project where we evaluated the quality of 
+both existing and inferred terminology mappings among standard terminologies.
+
+PMID: 25160255 [Indexed for MEDLINE]

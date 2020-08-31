@@ -1,0 +1,31 @@
+436. Stud Health Technol Inform. 2020 Jun 16;270:761-765. doi: 10.3233/SHTI200263.
+
+Natural Language Processing for Detecting Medication-Related Notes in Heart 
+Failure Telehealth Patients.
+
+Eggerth A(1)(2), Kreiner K(1), Hayn D(1), Pfeifer B(1)(3), Pölzl G(4), 
+Egelseer-Bründl T(3), Schreier G(1)(2).
+
+Author information:
+(1)AIT Austrian Institute of Technology GmbH, Graz, Austria.
+(2)Graz University of Technology, Graz, Austria.
+(3)Landesinstitut für Integrierte Versorgung - LIV Tirol, Innsbruck, Austria.
+(4)Department of Internal Medicine III, Cardiology and Angiology, Medical 
+University Innsbruck, Innsbruck, Austria.
+
+Heart Failure is a severe chronic disease of the heart. Telehealth networks 
+implement closed-loop healthcare paradigms for optimal treatment of the 
+patients. For comprehensive documentation of medication treatment, health 
+professionals create free text collaboration notes in addition to structured 
+information. To make this valuable source of information available for adherence 
+analyses, we developed classifiers for automated categorization of notes based 
+on natural language processing, which allows filtering of relevant entries to 
+spare data analysts from tedious manual screening. Furthermore, we identified 
+potential improvements of the queries for structured treatment documentation. 
+For 3,952 notes, the majority of the manually annotated category tags was 
+medication-related. The highest F1-measure of our developed classifiers was 
+0.90. We conclude that our approach is a valuable tool to support adherence 
+research based on datasets containing free-text entries.
+
+DOI: 10.3233/SHTI200263
+PMID: 32570485 [Indexed for MEDLINE]

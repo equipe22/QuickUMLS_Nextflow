@@ -1,0 +1,41 @@
+11. J Biomed Inform. 2019 Dec;100:103324. doi: 10.1016/j.jbi.2019.103324. Epub 2019 
+Oct 31.
+
+DiseaSE: A biomedical text analytics system for disease symptom extraction and 
+characterization.
+
+Abulaish M(1), Parwez MA(2), Jahiruddin(3).
+
+Author information:
+(1)Department of Computer Science, South Asian University, Delhi, India. 
+Electronic address: abulaish@sau.ac.in.
+(2)Department of Computer Science, Jamia Millia Islamia, Delhi, India. 
+Electronic address: aslamparwez.jmi@gmail.com.
+(3)Department of Computer Science, Jamia Millia Islamia, Delhi, India. 
+Electronic address: jahiruddin@jmi.ac.in.
+
+Due to increasing volume and unstructured nature of the scientific literatures 
+in biomedical domain, most of the information embedded within them remain 
+untapped. This paper presents a biomedical text analytics system, DiseaSE 
+(Disease Symptom Extraction), to identify and extract disease symptoms and their 
+associations from biomedical text documents retrieved from the PubMed database. 
+It implements various NLP and information extraction techniques to convert text 
+documents into record-size information components that are represented as 
+semantic triples and processed using TextRank and other ranking techniques to 
+identify feasible disease symptoms. Eight different diseases, including dengue, 
+malaria, cholera, diarrhoea, influenza, meningitis, leishmaniasis, and kala-azar 
+are considered for experimental evaluation of the proposed DiseaSE system. On 
+analysis, we found that the DiseaSE system is able to identify new symptoms that 
+are even not catalogued on standard websites such as Center for Disease Control 
+(CDC), World Health Organization (WHO), and National Health Survey (NHS). The 
+proposed DiseaSE system also aims to compile generic associations between a 
+disease and its symptoms, and presents a graph-theoretic analysis and 
+visualization scheme to characterize disease at different levels of granularity. 
+The identified disease symptoms and their associations could be useful to 
+generate a biomedical knowledgebase (e.g., a disease ontology) for the 
+development of e-health and disease surveillance systems.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jbi.2019.103324
+PMID: 31678590

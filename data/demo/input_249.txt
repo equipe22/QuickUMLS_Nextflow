@@ -1,0 +1,50 @@
+249. PLoS One. 2017 Dec 20;12(12):e0189663. doi: 10.1371/journal.pone.0189663. 
+eCollection 2017.
+
+eGARD: Extracting associations between genomic anomalies and drug responses from 
+text.
+
+Mahmood ASMA(1), Rao S(2), McGarvey P(2)(3), Wu C(1)(3)(4), Madhavan S(2)(5), 
+Vijay-Shanker K(1).
+
+Author information:
+(1)Department of Computer and Information Science, University of Delaware, 
+Newark, Delaware, United States of America.
+(2)Innovation Center For Biomedical Informatics, Georgetown University, 
+Washington D.C, United States of America.
+(3)Protein Information Resource, Georgetown University Medical Center, 
+Washington D.C, United States of America.
+(4)Center for Bioinformatics and Computational Biology, University of Delaware, 
+Newark, Delaware, United States of America.
+(5)Lombardi Comprehensive Cancer Center, Georgetown University Medical Center, 
+Washington D.C, United States of America.
+
+Tumor molecular profiling plays an integral role in identifying genomic 
+anomalies which may help in personalizing cancer treatments, improving patient 
+outcomes and minimizing risks associated with different therapies. However, 
+critical information regarding the evidence of clinical utility of such 
+anomalies is largely buried in biomedical literature. It is becoming prohibitive 
+for biocurators, clinical researchers and oncologists to keep up with the 
+rapidly growing volume and breadth of information, especially those that 
+describe therapeutic implications of biomarkers and therefore relevant for 
+treatment selection. In an effort to improve and speed up the process of 
+manually reviewing and extracting relevant information from literature, we have 
+developed a natural language processing (NLP)-based text mining (TM) system 
+called eGARD (extracting Genomic Anomalies association with Response to Drugs). 
+This system relies on the syntactic nature of sentences coupled with various 
+textual features to extract relations between genomic anomalies and drug 
+response from MEDLINE abstracts. Our system achieved high precision, recall and 
+F-measure of up to 0.95, 0.86 and 0.90, respectively, on annotated evaluation 
+datasets created in-house and obtained externally from PharmGKB. Additionally, 
+the system extracted information that helps determine the confidence level of 
+extraction to support prioritization of curation. Such a system will enable 
+clinical researchers to explore the use of published markers to stratify 
+patients upfront for 'best-fit' therapies and readily generate hypotheses for 
+new clinical trials.
+
+DOI: 10.1371/journal.pone.0189663
+PMCID: PMC5738129
+PMID: 29261751 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.

@@ -1,0 +1,58 @@
+295. Comput Methods Programs Biomed. 2014 Nov;117(2):277-91. doi: 
+10.1016/j.cmpb.2014.07.010. Epub 2014 Aug 10.
+
+Gquest: modeling patient questionnaires and administering them through a mobile 
+platform application.
+
+Lanzola G(1), Ginardi MG(2), Mazzanti A(3), Quaglini S(2).
+
+Author information:
+(1)Department of Electrical, Computer and Biomedical Engineering, University of 
+Pavia, Italy. Electronic address: giordano.lanzola@unipv.it.
+(2)Department of Electrical, Computer and Biomedical Engineering, University of 
+Pavia, Italy.
+(3)IRCCS Foundation "S. Maugeri", Pavia, Italy.
+
+BACKGROUND: The use of surveys is becoming popular in the health care industry 
+for acquiring information useful to the accomplishment of several studies. 
+Besides their exploitation on a large scale for conducting epidemiological 
+studies, surveys are being increasingly carried out on a narrower perspective 
+through the administration of questionnaires aimed at assessing the quality of 
+life perceived by patients or their clinical status during mid- or long-term 
+treatments. This is useful for managing resources or optimizing and 
+individualizing treatments.
+OBJECTIVES: This paper describes Gquest, a platform for modeling, generating and 
+administering questionnaires through mobile devices such as smartphones or 
+tablets. Gquest was motivated by the need of administering questionnaires during 
+home treatments, albeit its applicability is rather general. The main 
+requirement was to have a very simple, clean and easy to use platform able to 
+support (a) physicians in the design and delivery of questionnaires and (b) 
+outpatients in sending self-recorded outcomes to the clinical staff.
+METHODS: Gquest has two basic components. The first one is a model devised for 
+representing questionnaires which is extremely flexible. It allows the 
+generation of questions and answers of different types, supports adaptivity in 
+the dialog with the user and enforces simple consistency rules for checking his 
+input. The second component is an application able to run instances of those 
+questionnaires. It downloads questionnaires over the air in terms of XML files 
+from a server and stores them locally into the mobile repository. Questionnaires 
+become then available to the user, who in our case is a patient or one of his 
+relatives. The user can select which one to fill-in, according to his needs 
+and/or the specific treatment protocol. The selected questionnaire may be 
+filled-in all at once or be completed in subsequent steps over time since any 
+input provided is persisted on a local database. Finally, when a questionnaire 
+is closed all the answers are transparently synchronized to a server for further 
+evaluation or statistical purposes.
+RESULTS: The platform has been exploited and tested in two medical domains where 
+questionnaires have very different purposes; a quality of life pilot survey 
+involving patients with atrial fibrillation within the EU-funded project 
+MobiGuide, and an investigation of the users' needs during the requirements 
+elicitation phase of a telemedicine project for the safe discharge of fragile 
+patients.
+CONCLUSIONS: Gquest proved to be a suitable tool for dealing with a wide variety 
+of question types and has been positively accepted by the patients enrolled in 
+the pilot study.
+
+Copyright © 2014 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.cmpb.2014.07.010
+PMID: 25154645 [Indexed for MEDLINE]

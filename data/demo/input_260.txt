@@ -1,0 +1,33 @@
+260. J Am Med Inform Assoc. 2010 May-Jun;17(3):253-64. doi: 
+10.1136/jamia.2009.002295.
+
+caTIES: a grid based system for coding and retrieval of surgical pathology 
+reports and tissue specimens in support of translational research.
+
+Crowley RS(1), Castine M, Mitchell K, Chavan G, McSherry T, Feldman M.
+
+Author information:
+(1)Department of Biomedical Informatics, University of Pittsburgh School of 
+Medicine, Pittsburgh, Pennsylvania 15232, USA. crowleyrs@upmc.edu
+
+The authors report on the development of the Cancer Tissue Information 
+Extraction System (caTIES)--an application that supports collaborative tissue 
+banking and text mining by leveraging existing natural language processing 
+methods and algorithms, grid communication and security frameworks, and query 
+visualization methods. The system fills an important need for text-derived 
+clinical data in translational research such as tissue-banking and clinical 
+trials. The design of caTIES addresses three critical issues for informatics 
+support of translational research: (1) federation of research data sources 
+derived from clinical systems; (2) expressive graphical interfaces for 
+concept-based text mining; and (3) regulatory and security model for supporting 
+multi-center collaborative research. Implementation of the system at several 
+Cancer Centers across the country is creating a potential network of caTIES 
+repositories that could provide millions of de-identified clinical reports to 
+users. The system provides an end-to-end application of medical natural language 
+processing to support multi-institutional translational research programs.
+
+DOI: 10.1136/jamia.2009.002295
+PMCID: PMC2995710
+PMID: 20442142 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None.

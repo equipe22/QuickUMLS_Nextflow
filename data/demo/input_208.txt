@@ -1,0 +1,52 @@
+208. BMC Bioinformatics. 2019 Aug 17;20(1):430. doi: 10.1186/s12859-019-3005-0.
+
+Mapping anatomical related entities to human body parts based on wikipedia in 
+discharge summaries.
+
+Wang Y(1), Fan X(2), Chen L(1), Chang EI(3), Ananiadou S(4), Tsujii J(4)(5), Xu 
+Y(6)(7).
+
+Author information:
+(1)State Key Laboratory of Software Development Environment and Key Laboratory 
+of Biomechanics and Mechanobiology of Ministry of Education and Research 
+Institute of Beihang University in Shenzhen, Beijing Advanced Innovation Center 
+for Biomedical Engineering, Beihang University, Xueyuan Road No.37, Beijing, 
+100191, China.
+(2)Bioengineering College of Chongqing University, Shazheng Street No. 174, 
+Chongqing, 400044, China.
+(3)Microsoft Research, Danling Street No. 5, Beijing, 100080, China.
+(4)The National Centre for Text Mining, School of Computer Science, The 
+University of Manchester, Manchester, UK.
+(5)Artificial Intelligence Research Center (AIRC), Tokyo, Japan.
+(6)State Key Laboratory of Software Development Environment and Key Laboratory 
+of Biomechanics and Mechanobiology of Ministry of Education and Research 
+Institute of Beihang University in Shenzhen, Beijing Advanced Innovation Center 
+for Biomedical Engineering, Beihang University, Xueyuan Road No.37, Beijing, 
+100191, China. xuyan04@gmail.com.
+(7)Microsoft Research, Danling Street No. 5, Beijing, 100080, China. 
+xuyan04@gmail.com.
+
+*: Background Consisting of dictated free-text documents such as discharge 
+summaries, medical narratives are widely used in medical natural language 
+processing. Relationships between anatomical entities and human body parts are 
+crucial for building medical text mining applications. To achieve this, we 
+establish a mapping system consisting of a Wikipedia-based scoring algorithm and 
+a named entity normalization method (NEN). The mapping system makes full use of 
+information available on Wikipedia, which is a comprehensive Internet medical 
+knowledge base. We also built a new ontology, Tree of Human Body Parts (THBP), 
+from core anatomical parts by referring to anatomical experts and Unified 
+Medical Language Systems (UMLS) to make the mapping system efficacious for 
+clinical treatments. *: Result The gold standard is derived from 50 discharge 
+summaries from our previous work, in which 2,224 anatomical entities are 
+included. The F1-measure of the baseline system is 70.20%, while our algorithm 
+based on Wikipedia achieves 86.67% with the assistance of NEN. *: Conclusions We 
+construct a framework to map anatomical entities to THBP ontology using 
+normalization and a scoring algorithm based on Wikipedia. The proposed framework 
+is proven to be much more effective and efficient than the main baseline system.
+
+DOI: 10.1186/s12859-019-3005-0
+PMCID: PMC6697955
+PMID: 31419946 [Indexed for MEDLINE]
+
+Conflict of interest statement: The computational resource for this study is 
+provided by Microsoft Research Asia.

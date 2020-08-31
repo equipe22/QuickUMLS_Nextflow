@@ -1,0 +1,23 @@
+373. Pac Symp Biocomput. 2008:556-67.
+
+Assisted curation: does text mining really help?
+
+Alex B(1), Grover C, Haddow B, Kabadjov M, Klein E, Matthews M, Roebuck S, Tobin 
+R, Wang X.
+
+Author information:
+(1)School of Informatics, University of Edinburgh, EH8 9LW, UK. 
+balex@inf.ed.ac.uk
+
+Although text mining shows considerable promise as a tool for supporting the 
+curation of biomedical text, there is little concrete evidence as to its 
+effectiveness. We report on three experiments measuring the extent to which 
+curation can be speeded up with assistance from Natural Language Processing 
+(NLP), together with subjective feedback from curators on the usability of a 
+curation tool that integrates NLP hypotheses for protein-protein interactions 
+(PPIs). In our curation scenario, we found that a maximum speed-up of 1/3 in 
+curation time can be expected if NLP output is perfectly accurate. The 
+preference of one curator for consistent NLP output and output with high recall 
+needs to be confirmed in a larger study with several curators.
+
+PMID: 18229715 [Indexed for MEDLINE]

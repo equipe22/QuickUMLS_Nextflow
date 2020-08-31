@@ -1,0 +1,40 @@
+41. Appl Clin Inform. 2017 Apr 26;8(2):396-411. doi: 10.4338/ACI-2016-10-RA-0169.
+
+Application of Natural Language Processing and Network Analysis Techniques to 
+Post-market Reports for the Evaluation of Dose-related Anti-Thymocyte Globulin 
+Safety Patterns.
+
+Botsis T(1), Foster M, Arya N, Kreimeyer K, Pandey A, Arya D.
+
+Author information:
+(1)Taxiarchis Botsis, Office of Biostatistics & Epidemiology | Center for 
+Biologics Evaluation and Research | FDA, 10903 New Hampshire Ave, WO71 - 1232, 
+Silver Spring, MD 20993-0002, E-mail: Taxiarchis.Botsis@fda.hhs.gov.
+
+OBJECTIVE: To evaluate the feasibility of automated dose and adverse event 
+information retrieval in supporting the identification of safety patterns.
+METHODS: We extracted all rabbit Anti-Thymocyte Globulin (rATG) reports 
+submitted to the United States Food and Drug Administration Adverse Event 
+Reporting System (FAERS) from the product's initial licensure in April 16, 1984 
+through February 8, 2016. We processed the narratives using the Medication 
+Extraction (MedEx) and the Event-based Text-mining of Health Electronic Records 
+(ETHER) systems and retrieved the appropriate medication, clinical, and temporal 
+information. When necessary, the extracted information was manually curated. 
+This process resulted in a high quality dataset that was analyzed with the 
+Pattern-based and Advanced Network Analyzer for Clinical Evaluation and 
+Assessment (PANACEA) to explore the association of rATG dosing with 
+post-transplant lymphoproliferative disorder (PTLD).
+RESULTS: Although manual curation was necessary to improve the data quality, 
+MedEx and ETHER supported the extraction of the appropriate information. We 
+created a final dataset of 1,380 cases with complete information for rATG dosing 
+and date of administration. Analysis in PANACEA found that PTLD was associated 
+with cumulative doses of rATG >8 mg/kg, even in periods where most of the 
+submissions to FAERS reported low doses of rATG.
+CONCLUSION: We demonstrated the feasibility of investigating a dose-related 
+safety pattern for a particular product in FAERS using a set of automated tools.
+
+DOI: 10.4338/ACI-2016-10-RA-0169
+PMCID: PMC6241747
+PMID: 28447098 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interest None declared.

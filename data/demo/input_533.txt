@@ -1,0 +1,30 @@
+533. Data Brief. 2020 Jan 3;28:105090. doi: 10.1016/j.dib.2019.105090. eCollection 
+2020 Feb.
+
+WET: Word embedding-topic distribution vectors for MOOC video lectures dataset.
+
+Kastrati Z(1), Kurti A(1), Imran AS(2).
+
+Author information:
+(1)Dept. of Computer Science and Media Technology, Linnaeus University, Växjö, 
+Sweden.
+(2)Dept. of Computer Science, Norwegian University of Science and Technology, 
+Trondheim, Norway.
+
+In this article, we present a dataset containing word embeddings and document 
+topic distribution vectors generated from MOOCs video lecture transcripts. 
+Transcripts of 12,032 video lectures from 200 courses were collected from 
+Coursera learning platform. This large corpus of transcripts was used as input 
+to two well-known NLP techniques, namely Word2Vec and Latent Dirichlet 
+Allocation (LDA) to generate word embeddings and topic vectors, respectively. We 
+used Word2Vec and LDA implementation in the Gensim package in Python. The data 
+presented in this article are related to the research article entitled 
+"Integrating word embeddings and document topics with deep learning in a video 
+classification framework" [1]. The dataset is hosted in the Mendeley Data 
+repository [2].
+
+© 2020 The Author(s).
+
+DOI: 10.1016/j.dib.2019.105090
+PMCID: PMC6950834
+PMID: 31921958

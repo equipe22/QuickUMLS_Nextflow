@@ -1,0 +1,77 @@
+605. Genome Med. 2015 Jul 3;7(1):67. doi: 10.1186/s13073-015-0181-z. eCollection 
+2015.
+
+Prospective participant selection and ranking to maximize actionable 
+pharmacogenetic variants and discovery in the eMERGE Network.
+
+Crosslin DR(1), Robertson PD(2), Carrell DS(3), Gordon AS(2), Hanna DS(4), Burt 
+A(5), Fullerton SM(6), Scrol A(3), Ralston J(4), Leppig K(4), Hartzler A(4), 
+Baldwin E(4), Andrade Md(7), Kullo IJ(8), Tromp G(9), Doheny KF(10), Ritchie 
+MD(11), Crane PK(12), Nickerson DA(2), Larson EB(3), Jarvik GP(1).
+
+Author information:
+(1)Department of Medicine, Division of Medical Genetics, University of 
+Washington, 1705 NE Pacific Street, Seattle, 98195 WA USA ; Department of Genome 
+Sciences, University of Washington, 3720 15th Avenue NE, Seattle, 98195 WA USA.
+(2)Department of Genome Sciences, University of Washington, 3720 15th Avenue NE, 
+Seattle, 98195 WA USA.
+(3)Group Health Research Institute, Group Health Cooperative, 1730 Minor Avenue, 
+Seattle, 98101 WA USA.
+(4)Department of Pathology, University of Washington, 1959 NE Pacific Street, 
+Seattle, 98195 WA USA.
+(5)Department of Medicine, Division of Medical Genetics, University of 
+Washington, 1705 NE Pacific Street, Seattle, 98195 WA USA.
+(6)Department of Bioethics and Humanities, University of Washington, 1959 NE 
+Pacific Street, Seattle, 98195 WA USA.
+(7)Division of Biomedical Statistics and Informatics, Mayo Clinic, 200 First 
+Street SW, Rochester, 55905 MN USA.
+(8)Division of Cardiovascular Diseases, Mayo Clinic, 200 First Street SW, 
+Rochester, 55905 MN USA.
+(9)The Sigfried and Janet Weis Center for Research, Geisinger Health System, 100 
+North Academy Avenue, Danville, 17882 PA USA.
+(10)Center for Inherited Disease Research, Johns Hopkins University School of 
+Medicine, 333 Cassell Drive, Baltimore, 21224 MD USA.
+(11)Center for Systems Genomics, Department of Biochemistry and Molecular 
+Biology, Pennsylvania State University, 512A Wartik Laboratory, University Park, 
+16802 PA USA ; Biomedical and Translational Informatics, Geisinger Health 
+System, 100 North Academy Avenue, Danville, 17882 PA USA.
+(12)Division of General Internal Medicine, University of Washington, 325 Ninth 
+Avenue, Seattle, 981014 WA USA.
+
+BACKGROUND: In an effort to return actionable results from variant data to 
+electronic health records (EHRs), participants in the Electronic Medical Records 
+and Genomics (eMERGE) Network are being sequenced with the targeted 
+Pharmacogenomics Research Network sequence platform (PGRNseq). This 
+cost-effective, highly-scalable, and highly-accurate platform was created to 
+explore rare variation in 84 key pharmacogenetic genes with strong drug 
+phenotype associations.
+METHODS: To return Clinical Laboratory Improvement Amendments (CLIA) results to 
+our participants at the Group Health Cooperative, we sequenced the DNA of 900 
+participants (61 % female) with non-CLIA biobanked samples. We then selected 450 
+of those to be re-consented, to redraw blood, and ultimately to validate CLIA 
+variants in anticipation of returning the results to the participant and EHR. 
+These 450 were selected using an algorithm we designed to harness data from 
+self-reported race, diagnosis and procedure codes, medical notes, laboratory 
+results, and variant-level bioinformatics to ensure selection of an informative 
+sample. We annotated the multi-sample variant call format by a combination of 
+SeattleSeq and SnpEff tools, with additional custom variables including evidence 
+from ClinVar, OMIM, HGMD, and prior clinical associations.
+RESULTS: We focused our analyses on 27 actionable genes, largely driven by the 
+Clinical Pharmacogenetics Implementation Consortium. We derived a ranking system 
+based on the total number of coding variants per participant (75.2±14.7), and 
+the number of coding variants with high or moderate impact (11.5±3.9). Notably, 
+we identified 11 stop-gained (1 %) and 519 missense (20 %) variants out of a 
+total of 1785 in these 27 genes. Finally, we prioritized variants to be returned 
+to the EHR with prior clinical evidence of pathogenicity or annotated as 
+stop-gain for the following genes: CACNA1S and RYR1 (malignant hyperthermia); 
+SCN5A, KCNH2, and RYR2 (arrhythmia); and LDLR (high cholesterol).
+CONCLUSIONS: The incorporation of genetics into the EHR for clinical decision 
+support is a complex undertaking for many reasons including lack of prior 
+consent for return of results, lack of biospecimens collected in a CLIA 
+environment, and EHR integration. Our study design accounts for these hurdles 
+and is an example of a pilot system that can be utilized before expanding to an 
+entire health system.
+
+DOI: 10.1186/s13073-015-0181-z
+PMCID: PMC4517371
+PMID: 26221186

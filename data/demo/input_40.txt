@@ -1,0 +1,62 @@
+40. JAMIA Open. 2019 Apr;2(1):150-159. doi: 10.1093/jamiaopen/ooy057. Epub 2019 Jan 
+4.
+
+Weakly supervised natural language processing for assessing patient-centered 
+outcome following prostate cancer treatment.
+
+Banerjee I(1), Li K(2), Seneviratne M(1)(3), Ferrari M(4), Seto T(5), Brooks 
+JD(4), Rubin DL(1)(6)(7), Hernandez-Boussard T(1)(7)(8).
+
+Author information:
+(1)Department of Biomedical Data Science, Stanford University School of 
+Medicine, Medical School Office Building (MSOB), 1265 Welch Road, Stanford, 
+California 94305-5479, USA.
+(2)Stanford University School of Medicine, 291 Campus Drive, Stanford, 
+California 94305-5479, USA.
+(3)Department of Biomedical Informatics, Stanford University School of Medicine, 
+Medical School Office Building (MSOB), 1265 Welch Road, Stanford, California 
+94305-5479, USA.
+(4)Department of Urology - Divisions, Stanford University School of Medicine, 
+875 Blake Wilbur, Stanford, California 94305-5479, USA.
+(5)IRT Research Technology, Stanford University School of Medicine, Stanford, 
+California 94305-5479, USA.
+(6)Department of Radiology, Stanford University School of Medicine, Stanford, 
+California 94305-5479, USA.
+(7)Department of Medicine (Biomedical Informatics), Stanford University School 
+of Medicine, Medical School Office Building (MSOB), 1265 Welch Road, Stanford, 
+California 94305-5479, USA.
+(8)Department of Surgery, Stanford University School of Medicine, 300 Pasteur 
+Drive Stanford, California 94305-2200, USA.
+
+BACKGROUND: The population-based assessment of patient-centered outcomes (PCOs) 
+has been limited by the efficient and accurate collection of these data. Natural 
+language processing (NLP) pipelines can determine whether a clinical note within 
+an electronic medical record contains evidence on these data. We present and 
+demonstrate the accuracy of an NLP pipeline that targets to assess the presence, 
+absence, or risk discussion of two important PCOs following prostate cancer 
+treatment: urinary incontinence (UI) and bowel dysfunction (BD).
+METHODS: We propose a weakly supervised NLP approach which annotates electronic 
+medical record clinical notes without requiring manual chart review. A weighted 
+function of neural word embedding was used to create a sentence-level vector 
+representation of relevant expressions extracted from the clinical notes. 
+Sentence vectors were used as input for a multinomial logistic model, with 
+output being either presence, absence or risk discussion of UI/BD. The 
+classifier was trained based on automated sentence annotation depending only on 
+domain-specific dictionaries (weak supervision).
+RESULTS: The model achieved an average F1 score of 0.86 for the sentence-level, 
+three-tier classification task (presence/absence/risk) in both UI and BD. The 
+model also outperformed a pre-existing rule-based model for note-level 
+annotation of UI with significant margin.
+CONCLUSIONS: We demonstrate a machine learning method to categorize clinical 
+notes based on important PCOs that trains a classifier on sentence vector 
+representations labeled with a domain-specific dictionary, which eliminates the 
+need for manual engineering of linguistic rules or manual chart review for 
+extracting the PCOs. The weakly supervised NLP pipeline showed promising 
+sensitivity and specificity for identifying important PCOs in unstructured 
+clinical text notes compared to rule-based algorithms.
+
+DOI: 10.1093/jamiaopen/ooy057
+PMCID: PMC6482003
+PMID: 31032481
+
+Conflict of interest statement: Conflict of interest statement. None declared.

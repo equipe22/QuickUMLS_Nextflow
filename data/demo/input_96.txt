@@ -1,0 +1,45 @@
+96. J Hosp Manag Health Policy. 2019 Sep;3:22. doi: 10.21037/jhmhp.2019.08.01. Epub 
+2019 Sep 3.
+
+A Health System's Pilot Experience with Using Social Knowledge Networking (SKN) 
+Technology to Enable Meaningful Use of EHR Medication Reconciliation Technology.
+
+Rangachari P(1), Dellsperger KC(2), Rethemeyer RK(3).
+
+Author information:
+(1)Department of Interdisciplinary Health Sciences College of Allied Health 
+Sciences Augusta University, Augusta, GA.
+(2)Cardiovascular Division, Department of Medicine, Medical College of Georgia, 
+Augusta University, Augusta, GA.
+(3)Rockefeller College of Public Affairs and Policy, University at Albany, State 
+University of New York (SUNY), Albany, NY.
+
+Similar to issues faced in health systems across USA, AU Health, based in 
+Augusta, Georgia, faced a scenario of low physician engagement in, and 
+limited-use of its Electronic Health Record (EHR) Medication Reconciliation 
+(MedRec) technology, which translated to high rates of medication discrepancies 
+and low accuracy of the patient's active medication list, during transitions of 
+care. In fall 2016, a two-year grant was secured from the U.S. Agency for 
+Healthcare Research and Quality (AHRQ), to pilot a Social Knowledge Networking 
+(SKN) system pertaining to "EHR-MedRec," to enable AU Health to progress from 
+"limited use" of EHR MedRec technology, to "meaningful use." The rationale 
+behind an SKN system, is that it could provide a platform for inter-professional 
+knowledge exchange on practice issues related to EHR MedRec, across diverse 
+provider subgroups and care settings, to highlight adverse consequences of gaps 
+in practice for patient safety, and emphasize the value of adhering to 
+best-practices in EHR MedRec. This, in turn, is expected to increase provider 
+engagement in addressing issues related to EHR MedRec, and promote 
+inter-professional learning of best-practices, to create a foundation for 
+practice change or improvement (e.g., Meaningful Use of EHR MedRec technology). 
+This Case Report describes AU Health's experiences with this novel initiative to 
+pilot an SKN system for enabling Meaningful Use of EHR MedRec technology. It 
+also discusses lessons learned in regard to the potential of an SKN system to 
+enable inter-professional learning and practice improvement in the context of 
+EHR MedRec, which, in turn, helps identify strategies and practice implications 
+for healthcare managers.
+
+DOI: 10.21037/jhmhp.2019.08.01
+PMCID: PMC6813792
+PMID: 31656950
+
+Conflict of interest statement: Conflicts of Interest: None to declare.

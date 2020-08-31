@@ -1,0 +1,51 @@
+232. Appl Clin Inform. 2015 Aug 5;6(3):488-505. doi: 10.4338/ACI-2014-12-RA-0115. 
+eCollection 2015.
+
+A Standards-Based Architecture Proposal for Integrating Patient mHealth Apps to 
+Electronic Health Record Systems.
+
+Marceglia S(1), Fontelo P(2), Rossi E(3), Ackerman MJ(2).
+
+Author information:
+(1)Lister Hill National Center for Biomedical Communications, U.S. National 
+Library of Medicine , Bethesda, MD 20994, USA ; Clinical Center for 
+Neurostimulation , Neurotechnology, and Movement DisordersFondazione IRCCS 
+Ca'Granda Ospedale Maggiore Policlinico, Milan, Italy.
+(2)Lister Hill National Center for Biomedical Communications, U.S. National 
+Library of Medicine , Bethesda, MD 20994, USA.
+(3)eHealthLAB, Dipartimento di Elettronica, Informazione e Bioingegneria , 
+Politecnico di Milano, Milan, Italy.
+
+BACKGROUND: Mobile health Applications (mHealth Apps) are opening the way to 
+patients' responsible and active involvement with their own healthcare 
+management. However, apart from Apps allowing patient's access to their 
+electronic health records (EHRs), mHealth Apps are currently developed as 
+dedicated "island systems".
+OBJECTIVE: Although much work has been done on patient's access to EHRs, 
+transfer of information from mHealth Apps to EHR systems is still low. This 
+study proposes a standards-based architecture that can be adopted by mHealth 
+Apps to exchange information with EHRs to support better quality of care.
+METHODS: Following the definition of requirements for the EHR/mHealth App 
+information exchange recently proposed, and after reviewing current standards, 
+we designed the architecture for EHR/mHealth App integration. Then, as a case 
+study, we modeled a system based on the proposed architecture aimed to support 
+home monitoring for congestive heart failure patients. We simulated such process 
+using, on the EHR side, OpenMRS, an open source longitudinal EHR and, on the 
+mHealth App side, the iOS platform.
+RESULTS: The integration architecture was based on the bi-directional exchange 
+of standard documents (clinical document architecture rel2 - CDA2). In the 
+process, the clinician "prescribes" the home monitoring procedures by creating a 
+CDA2 prescription in the EHR that is sent, encrypted and de-identified, to the 
+mHealth App to create the monitoring calendar. At the scheduled time, the App 
+alerts the patient to start the monitoring. After the measurements are done, the 
+App generates a structured CDA2-compliant monitoring report and sends it to the 
+EHR, thus avoiding local storage.
+CONCLUSIONS: The proposed architecture, even if validated only in a simulation 
+environment, represents a step forward in the integration of personal mHealth 
+Apps into the larger health-IT ecosystem, allowing the bi-directional data 
+exchange between patients and healthcare professionals, supporting the patient's 
+engagement in self-management and self-care.
+
+DOI: 10.4338/ACI-2014-12-RA-0115
+PMCID: PMC4586338
+PMID: 26448794 [Indexed for MEDLINE]

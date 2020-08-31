@@ -1,0 +1,41 @@
+374. BMC Med Res Methodol. 2020 May 7;20(1):107. doi: 10.1186/s12874-020-00993-1.
+
+Association between antipsychotic drug dose and length of clinical notes: a 
+proxy of disease severity?
+
+Sørup FKH(1), Brunak S(1), Eriksson R(2).
+
+Author information:
+(1)Disease Systems Biology program, Novo Nordisk Foundation Center for Protein 
+Research, University of Copenhagen, Blegdamsvej 3B, DK-2200, Copenhagen N, 
+Denmark.
+(2)Disease Systems Biology program, Novo Nordisk Foundation Center for Protein 
+Research, University of Copenhagen, Blegdamsvej 3B, DK-2200, Copenhagen N, 
+Denmark. robert.eriksson@cpr.ku.dk.
+
+BACKGROUND: Most structured clinical data, such as diagnosis codes, are not 
+sufficient to obtain precise phenotypes and assess disease burden. Text mining 
+of clinical notes could provide a basis for detailed profiles of phenotypic 
+traits. The objective of the current study was to determine whether drug dose, 
+regardless of polypharmacy, is associated with the length of clinical notes, and 
+to determine the frequency of adverse events per word in clinical notes.
+METHODS: In this observational study, we utilized restricted-access data from an 
+electronic patient record system. Using three methods (defined daily dose, 
+olanzapine equivalents, and chlorpromazine equivalents) we calculated 
+antipsychotic dose equivalents and compared these with the number of words 
+recorded per treatment day. For each normalization method, the frequencies of 
+adverse events per word in manually curated samples were compared to dose 
+intervals.
+RESULTS: The length of clinical notes per treatment day was positively 
+associated with the prescribed dose for all normalization methods. The number of 
+adverse events per word was stable over the analyzed dose spectrum.
+CONCLUSIONS: Assuming that drug dose increases with the severity of disease, the 
+length of clinical notes can serve as a proxy for disease severity. Due to the 
+near-linear relationship, correction of daily word count is unnecessary when 
+text mining for potential adverse drug reactions.
+
+DOI: 10.1186/s12874-020-00993-1
+PMCID: PMC7204249
+PMID: 32381026
+
+Conflict of interest statement: The authors have no conflicts of interest.

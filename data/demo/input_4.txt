@@ -1,0 +1,47 @@
+4. J Biomed Inform. 2019 Oct;98:103268. doi: 10.1016/j.jbi.2019.103268. Epub 2019 
+Aug 14.
+
+An interpretable natural language processing system for written medical 
+examination assessment.
+
+Sarker A(1), Klein AZ(2), Mee J(3), Harik P(3), Gonzalez-Hernandez G(2).
+
+Author information:
+(1)Department of Biostatistics, Epidemiology and Informatics, Perelman School of 
+Medicine, University of Pennsylvania, Philadelphia, PA, USA. Electronic address: 
+abeed@pennmedicine.upenn.edu.
+(2)Department of Biostatistics, Epidemiology and Informatics, Perelman School of 
+Medicine, University of Pennsylvania, Philadelphia, PA, USA.
+(3)National Board of Medical Examiners, Philadelphia, PA, USA.
+
+OBJECTIVE: The assessment of written medical examinations is a tedious and 
+expensive process, requiring significant amounts of time from medical experts. 
+Our objective was to develop a natural language processing (NLP) system that can 
+expedite the assessment of unstructured answers in medical examinations by 
+automatically identifying relevant concepts in the examinee responses.
+MATERIALS AND METHODS: Our NLP system, Intelligent Clinical Text Evaluator 
+(INCITE), is semi-supervised in nature. Learning from a limited set of fully 
+annotated examples, it sequentially applies a series of customized text 
+comparison and similarity functions to determine if a text span represents an 
+entry in a given reference standard. Combinations of fuzzy matching and set 
+intersection-based methods capture inexact matches and also fragmented concepts. 
+Customizable, dynamic similarity-based matching thresholds allow the system to 
+be tailored for examinee responses of different lengths.
+RESULTS: INCITE achieved an average F1-score of 0.89 (precision = 0.87, 
+recall = 0.91) against human annotations over held-out evaluation data. Fuzzy 
+text matching, dynamic thresholding and the incorporation of supervision using 
+annotated data resulted in the biggest jumps in performances.
+DISCUSSION: Long and non-standard expressions are difficult for INCITE to 
+detect, but the problem is mitigated by the use of dynamic thresholding (i.e., 
+varying the similarity threshold for a text span to be considered a match). 
+Annotation variations within exams and disagreements between annotators were the 
+primary causes for false positives. Small amounts of annotated data can 
+significantly improve system performance.
+CONCLUSIONS: The high performance and interpretability of INCITE will likely 
+significantly aid the assessment process and also help mitigate the impact of 
+manual assessment inconsistencies.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jbi.2019.103268
+PMID: 31421211

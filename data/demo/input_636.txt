@@ -1,0 +1,73 @@
+636. J Vis Exp. 2020 May 15;(159):10.3791/60794. doi: 10.3791/60794.
+
+Implementation of a Real-Time Psychosis Risk Detection and Alerting System Based 
+on Electronic Health Records using CogStack.
+
+Wang T(1), Oliver D(2), Msosa Y(3), Colling C(4), Spada G(2), Roguski Ł(5), 
+Folarin A(3), Stewart R(6), Roberts A(7), Dobson RJB(8), Fusar-Poli P(9).
+
+Author information:
+(1)Department of Biostatistics and Health Informatics, Institute of Psychiatry, 
+Psychology and Neuroscience, King's College London; tao.wang@kcl.ac.uk.
+(2)Early Psychosis: Interventions and Clinical-detection (EPIC) lab, Department 
+of Psychosis Studies, Institute of Psychiatry, Psychology & Neuroscience, King's 
+College London.
+(3)Department of Biostatistics and Health Informatics, Institute of Psychiatry, 
+Psychology and Neuroscience, King's College London.
+(4)National Institute for Health Research, Maudsley Biomedical Research Centre, 
+South London and Maudsley National Health Service (NHS) Foundation Trust.
+(5)Institute of Health Informatics, University College London.
+(6)National Institute for Health Research, Maudsley Biomedical Research Centre, 
+South London and Maudsley National Health Service (NHS) Foundation Trust; 
+Department of Psychological Medicine, Institute of Psychiatry, Psychology and 
+Neuroscience, King's College London.
+(7)Department of Biostatistics and Health Informatics, Institute of Psychiatry, 
+Psychology and Neuroscience, King's College London; National Institute for 
+Health Research, Maudsley Biomedical Research Centre, South London and Maudsley 
+National Health Service (NHS) Foundation Trust.
+(8)Department of Biostatistics and Health Informatics, Institute of Psychiatry, 
+Psychology and Neuroscience, King's College London; National Institute for 
+Health Research, Maudsley Biomedical Research Centre, South London and Maudsley 
+National Health Service (NHS) Foundation Trust; Institute of Health Informatics, 
+University College London; Health Data Research UK London, University College 
+London.
+(9)Early Psychosis: Interventions and Clinical-detection (EPIC) lab, Department 
+of Psychosis Studies, Institute of Psychiatry, Psychology & Neuroscience, King's 
+College London; National Institute for Health Research, Maudsley Biomedical 
+Research Centre, South London and Maudsley National Health Service (NHS) 
+Foundation Trust; OASIS service, South London and Maudsley National Health 
+Service (NHS) Foundation Trust; Department of Brain and Behavioral Sciences, 
+University of Pavia.
+
+Recent studies have shown that an automated, lifespan-inclusive, 
+transdiagnostic, and clinically based, individualized risk calculator provides a 
+powerful system for supporting the early detection of individuals at-risk of 
+psychosis at a large scale, by leveraging electronic health records (EHRs). This 
+risk calculator has been externally validated twice and is undergoing 
+feasibility testing for clinical implementation. Integration of this risk 
+calculator in clinical routine should be facilitated by prospective feasibility 
+studies, which are required to address pragmatic challenges, such as missing 
+data, and the usability of this risk calculator in a real-world and routine 
+clinical setting. Here, we present an approach for a prospective implementation 
+of a real-time psychosis risk detection and alerting service in a real-world EHR 
+system. This method leverages the CogStack platform, which is an open-source, 
+lightweight, and distributed information retrieval and text extraction system. 
+The CogStack platform incorporates a set of services that allow for full-text 
+search of clinical data, lifespan-inclusive, real-time calculation of psychosis 
+risk, early risk-alerting to clinicians, and the visual monitoring of patients 
+over time. Our method includes: 1) ingestion and synchronization of data from 
+multiple sources into the CogStack platform, 2) implementation of a risk 
+calculator, whose algorithm was previously developed and validated, for timely 
+computation of a patient's risk of psychosis, 3) creation of interactive 
+visualizations and dashboards to monitor patients' health status over time, and 
+4) building automated alerting systems to ensure that clinicians are notified of 
+patients at-risk, so that appropriate actions can be pursued. This is the first 
+ever study that has developed and implemented a similar detection and alerting 
+system in clinical routine for early detection of psychosis.
+
+DOI: 10.3791/60794
+PMCID: PMC7272223
+PMID: 32478737
+
+Conflict of interest statement: Disclosures: The authors have nothing to 
+disclose.

@@ -1,0 +1,37 @@
+606. Healthc Inform. 2011 Nov;28(11):8-10, 12-7.
+
+Postcards from the imaging informatics road. Despite policy complexities, 
+diagnostic imaging informatics makes progress on multiple fronts.
+
+Hagland M.
+
+The current strategic landscape for imaging informatics is one filled with great 
+contrasts and paradoxes. On the one hand, because imaging informatics was not 
+explicitly addressed in Stage 1 of the meaningful use requirements under the 
+American Recovery and Reinvestment Act/Health Information Technology for 
+Economic and Clinical Health Act (ARRA-HITECH) legislation, it instantly lost 
+some of the environment of turbo-charged energy characterized by areas that were 
+directly addressed by the HITECH Act, such as quality data reporting, care 
+management, and of course, core electronic health record (EHR) development. On 
+the other hand, an interesting combination of factors--rapidly advancing 
+technology, the expansion of the image archiving concept across different 
+medical specialties, and the inclusion of diagnostic image-sharing as one 
+element in the development of health information exchange (HIE) arrangements 
+nationwide--is nonetheless pushing imaging informatics forward towards new 
+innovations. The five articles below provide readers with different glimpses of 
+the path ahead for imaging informatics. The first presents a look at the current 
+policy and reimbursement landscape. Each of the four subsequent articles delve 
+into different aspects of innovation, from a process developed at a public 
+hospital to improve and speed up the diagnostic process for trauma patients, to 
+a radiology-specific financial analytics solution in the group practice setting, 
+to an advance in cardiology information systems, to a self-developed federated 
+image viewing platform at one of the nation's largest integrated health systems. 
+Each of those initiatives is very different; yet it is clear that a great deal 
+of innovation is taking place across the US. healthcare system when it comes to 
+imaging informatics. With a landscape filled with uncertainties and potential 
+policy, reimbursement, and industry shifts in the offing, CIOs, CMIOs, and other 
+healthcare IT leaders will need to think very strategically where this critical 
+area fits into their organizations' overall clinical IT strategies going 
+forward.
+
+PMID: 22125817 [Indexed for MEDLINE]

@@ -1,0 +1,22 @@
+491. Proc Annu Symp Comput Appl Med Care. 1993:289-93.
+
+Modelling for natural language understanding.
+
+Baud R(1), Lovis C, Alpay L, Rassinoux AM, Scherrer JR, Nowlan A, Rector A.
+
+Author information:
+(1)University State Hospital of Geneva, Switzerland.
+
+Natural Language Understanding (NLU) is a rapidly growing field in medical 
+informatics. Its potential for tomorrow's applications is important. However, it 
+is limited by its ability to ground its components on a solid model of the 
+domain. This opens the way for the emergence of the discipline of medical domain 
+modelling, as part of the vast field of Knowledge Base (KB) engineering. This 
+article aims at describing the current development of a multilingual natural 
+language system, strongly oriented towards the semantics of the domain. Special 
+emphasis is presently given to the task of building a domain model, and to 
+establish direct links with the language platform. The result is a model-driven 
+NLU system. Numerous benefits are expected in the long term.
+
+PMCID: PMC2248520
+PMID: 8130480 [Indexed for MEDLINE]

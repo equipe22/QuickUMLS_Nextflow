@@ -1,0 +1,20 @@
+515. Zhongguo Yi Liao Qi Xie Za Zhi. 2009 Nov;33(6):421-4.
+
+[The design of smart data collection system for EHR].
+
+[Article in Chinese]
+
+Li XY(1), Yan ZZ, Lv HJ.
+
+Author information:
+(1)School of Communication and Information Engineering, Shanghai University, 
+Shanghai, 200072. perseverance@shu.edu.cn
+
+This paper presents the design of smart data collection system to deal with the 
+drawbacks like EHR data second hand input which is time-consuming and EHR's poor 
+usability. The system comprises security certification, information management 
+and data transmission modules. Through WLAN, EHR data can transmit between smart 
+terminals and server. Also it provides a real-time communication platform for 
+both terminal users and medical care personnel.
+
+PMID: 20352914 [Indexed for MEDLINE]

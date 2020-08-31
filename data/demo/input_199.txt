@@ -1,0 +1,42 @@
+199. J Biomed Inform. 2014 Dec;52:386-93. doi: 10.1016/j.jbi.2014.08.001. Epub 2014 
+Aug 10.
+
+Classification of CT pulmonary angiography reports by presence, chronicity, and 
+location of pulmonary embolism with natural language processing.
+
+Yu S(1), Kumamaru KK(2), George E(2), Dunne RM(3), Bedayat A(4), Neykov M(5), 
+Hunsaker AR(3), Dill KE(6), Cai T(5), Rybicki FJ(2).
+
+Author information:
+(1)Partners HealthCare Personalized Medicine, Brigham and Women's Hospital & 
+Harvard Medical School, Boston, MA, United States. Electronic address: 
+syu7@partners.org.
+(2)Applied Imaging Science Laboratory, Department of Radiology, Brigham and 
+Women's Hospital & Harvard Medical School, Boston, MA, United States.
+(3)Thoracic Imaging, Department of Radiology, Brigham and Women's Hospital & 
+Harvard Medical School, Boston, MA, United States.
+(4)Applied Imaging Science Laboratory, Department of Radiology, Brigham and 
+Women's Hospital & Harvard Medical School, Boston, MA, United States; Department 
+of Radiology, University of Massachusetts Medical School, Worcester, MA, United 
+States.
+(5)Department of Biostatistics, Harvard School of Public Health, Boston, MA, 
+United States.
+(6)Department of Radiology, University of Chicago, Chicago, IL, United States.
+
+In this paper we describe an efficient tool based on natural language processing 
+for classifying the detail state of pulmonary embolism (PE) recorded in CT 
+pulmonary angiography reports. The classification tasks include: PE present vs. 
+absent, acute PE vs. others, central PE vs. others, and subsegmental PE vs. 
+others. Statistical learning algorithms were trained with features extracted 
+using the NLP tool and gold standard labels obtained via chart review from two 
+radiologists. The areas under the receiver operating characteristic curves (AUC) 
+for the four tasks were 0.998, 0.945, 0.987, and 0.986, respectively. We 
+compared our classifiers with bag-of-words Naive Bayes classifiers, a standard 
+text mining technology, which gave AUC 0.942, 0.765, 0.766, and 0.712, 
+respectively.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jbi.2014.08.001
+PMCID: PMC4261018
+PMID: 25117751 [Indexed for MEDLINE]

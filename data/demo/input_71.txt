@@ -1,0 +1,38 @@
+71. J Biomed Inform. 2015 Dec;58 Suppl(Suppl):S143-9. doi: 
+10.1016/j.jbi.2015.08.009. Epub 2015 Aug 21.
+
+Mining heart disease risk factors in clinical text with named entity recognition 
+and distributional semantic models.
+
+Urbain J(1).
+
+Author information:
+(1)Milwaukee School of Engineering, Milwaukee, WI, United States; CTSI of SE 
+Wisconsin/Medical College of Wisconsin, Milwaukee, WI, United States. Electronic 
+address: urbain@msoe.edu.
+
+We present the design, and analyze the performance of a multi-stage natural 
+language processing system employing named entity recognition, Bayesian 
+statistics, and rule logic to identify and characterize heart disease risk 
+factor events in diabetic patients over time. The system was originally 
+developed for the 2014 i2b2 Challenges in Natural Language in Clinical Data. The 
+system's strengths included a high level of accuracy for identifying named 
+entities associated with heart disease risk factor events. The system's primary 
+weakness was due to inaccuracies when characterizing the attributes of some 
+events. For example, determining the relative time of an event with respect to 
+the record date, whether an event is attributable to the patient's history or 
+the patient's family history, and differentiating between current and prior 
+smoking status. We believe these inaccuracies were due in large part to the lack 
+of an effective approach for integrating context into our event detection model. 
+To address these inaccuracies, we explore the addition of a distributional 
+semantic model for characterizing contextual evidence of heart disease risk 
+factor events. Using this semantic model, we raise our initial 2014 i2b2 
+Challenges in Natural Language of Clinical data F1 score of 0.838 to 0.890 and 
+increased precision by 10.3% without use of any lexicons that might bias our 
+results.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jbi.2015.08.009
+PMCID: PMC4984540
+PMID: 26305514 [Indexed for MEDLINE]

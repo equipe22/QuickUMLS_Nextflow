@@ -1,0 +1,80 @@
+629. J Med Internet Res. 2017 Aug 21;19(8):e294. doi: 10.2196/jmir.7881.
+
+Development and Deployment of the OpenMRS-Ebola Electronic Health Record System 
+for an Ebola Treatment Center in Sierra Leone.
+
+Oza S(1)(2), Jazayeri D(3)(4), Teich JM(3)(5), Ball E(3)(6), Nankubuge PA(4), 
+Rwebembera J(4), Wing K(1)(2), Sesay AA(2), Kanter AS(3)(7), Ramos GD(4), Walton 
+D(4)(5), Cummings R(2)(8), Checchi F(1)(2)(8), Fraser HS(3)(9).
+
+Author information:
+(1)Faculty of Epidemiology and Population Health, London School of Hygiene and 
+Tropical Medicine, London, United Kingdom.
+(2)Save the Children International, Kerry Town, Sierra Leone.
+(3)OpenMRS Inc, Indianapolis, IN, United States.
+(4)ThoughtWorks, Kampala, Uganda.
+(5)Brigham and Women's Hospital, Boston, MA, United States.
+(6)Partners In Health, Boston, MA, United States.
+(7)Columbia University, New York City, NY, United States.
+(8)Save the Children UK, London, United Kingdom.
+(9)University of Leeds, Leeds, United Kingdom.
+
+BACKGROUND: Stringent infection control requirements at Ebola treatment centers 
+(ETCs), which are specialized facilities for isolating and treating Ebola 
+patients, create substantial challenges for recording and reviewing patient 
+information. During the 2014-2016 West African Ebola epidemic, paper-based data 
+collection systems at ETCs compromised the quality, quantity, and 
+confidentiality of patient data. Electronic health record (EHR) systems have the 
+potential to address such problems, with benefits for patient care, 
+surveillance, and research. However, no suitable software was available for 
+deployment when large-scale ETCs opened as the epidemic escalated in 2014.
+OBJECTIVE: We present our work on rapidly developing and deploying 
+OpenMRS-Ebola, an EHR system for the Kerry Town ETC in Sierra Leone. We describe 
+our experience, lessons learned, and recommendations for future health 
+emergencies.
+METHODS: We used the OpenMRS platform and Agile software development approaches 
+to build OpenMRS-Ebola. Key features of our work included daily communications 
+between the development team and ground-based operations team, iterative 
+processes, and phased development and implementation. We made design decisions 
+based on the restrictions of the ETC environment and regular user feedback. To 
+evaluate the system, we conducted predeployment user questionnaires and compared 
+the EHR records with duplicate paper records.
+RESULTS: We successfully built OpenMRS-Ebola, a modular stand-alone EHR system 
+with a tablet-based application for infectious patient wards and a desktop-based 
+application for noninfectious areas. OpenMRS-Ebola supports patient tracking 
+(registration, bed allocation, and discharge); recording of vital signs and 
+symptoms; medication and intravenous fluid ordering and monitoring; laboratory 
+results; clinician notes; and data export. It displays relevant patient 
+information to clinicians in infectious and noninfectious zones. We implemented 
+phase 1 (patient tracking; drug ordering and monitoring) after 2.5 months of 
+full-time development. OpenMRS-Ebola was used for 112 patient registrations, 569 
+prescription orders, and 971 medication administration recordings. We were 
+unable to fully implement phases 2 and 3 as the ETC closed because of a decrease 
+in new Ebola cases. The phase 1 evaluation suggested that OpenMRS-Ebola worked 
+well in the context of the rollout, and the user feedback was positive.
+CONCLUSIONS: To our knowledge, OpenMRS-Ebola is the most comprehensive adaptable 
+clinical EHR built for a low-resource setting health emergency. It is designed 
+to address the main challenges of data collection in highly infectious 
+environments that require robust infection prevention and control measures and 
+it is interoperable with other electronic health systems. Although we built and 
+deployed OpenMRS-Ebola more rapidly than typical software, our work highlights 
+the challenges of having to develop an appropriate system during an emergency 
+rather than being able to rapidly adapt an existing one. Lessons learned from 
+this and previous emergencies should be used to ensure that a set of 
+well-designed, easy-to-use, pretested health software is ready for quick 
+deployment in future.
+
+©Shefali Oza, Darius Jazayeri, Jonathan M Teich, Ellen Ball, Patricia Alexandra 
+Nankubuge, Job Rwebembera, Kevin Wing, Alieu Amara Sesay, Andrew S Kanter, 
+Glauber D Ramos, David Walton, Rachael Cummings, Francesco Checchi, Hamish S 
+Fraser. Originally published in the Journal of Medical Internet Research 
+(http://www.jmir.org), 21.08.2017.
+
+DOI: 10.2196/jmir.7881
+PMCID: PMC5583502
+PMID: 28827211 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interest: DJ, PN, JR, GR, and DW 
+are (or were) employees of ThoughtWorks during the course of this project and 
+manuscript preparation. None of the other authors declare any conflicts of 
+interest.

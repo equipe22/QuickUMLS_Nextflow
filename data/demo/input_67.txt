@@ -1,0 +1,36 @@
+67. NPJ Digit Med. 2019 Dec 17;2:130. doi: 10.1038/s41746-019-0208-8. eCollection 
+2019.
+
+Desiderata for delivering NLP to accelerate healthcare AI advancement and a Mayo 
+Clinic NLP-as-a-service implementation.
+
+Wen A(1), Fu S(1), Moon S(1), El Wazir M(2), Rosenbaum A(2), Kaggal VC(3), Liu 
+S(1), Sohn S(1), Liu H(1), Fan J(1).
+
+Author information:
+(1)1Division of Digital Health Sciences, Department of Health Sciences Research, 
+Mayo Clinic, Rochester, MN USA.
+(2)2Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN USA.
+(3)3Advanced Analytics Service Unit, Department of Information Technology, Mayo 
+Clinic, Rochester, MN USA.
+
+Data is foundational to high-quality artificial intelligence (AI). Given that a 
+substantial amount of clinically relevant information is embedded in 
+unstructured data, natural language processing (NLP) plays an essential role in 
+extracting valuable information that can benefit decision making, administration 
+reporting, and research. Here, we share several desiderata pertaining to 
+development and usage of NLP systems, derived from two decades of experience 
+implementing clinical NLP at the Mayo Clinic, to inform the healthcare AI 
+community. Using a framework, we developed as an example implementation, the 
+desiderata emphasize the importance of a user-friendly platform, efficient 
+collection of domain expert inputs, seamless integration with clinical data, and 
+a highly scalable computing infrastructure.
+
+© The Author(s) 2019.
+
+DOI: 10.1038/s41746-019-0208-8
+PMCID: PMC6917754
+PMID: 31872069
+
+Conflict of interest statement: Competing interestsThe authors declare no 
+competing interests

@@ -1,0 +1,40 @@
+308. J Digit Imaging. 2020 Jun 3. doi: 10.1007/s10278-020-00350-0. Online ahead of 
+print.
+
+A Scalable Natural Language Processing for Inferring BT-RADS Categorization from 
+Unstructured Brain Magnetic Resonance Reports.
+
+Lee SJ(1), Weinberg BD(1), Gore A(1), Banerjee I(2).
+
+Author information:
+(1)Department of Radiology and Imaging Sciences, Emory University School of 
+Medicine, 1364 Clifton Road NE, Suite D112, Atlanta, GA, 30322, USA.
+(2)Department of Biomedical Informatics, Emory University School of Medicine, 
+Woodruff Memorial Research Building, Office 4103, 101 Woodruff Circle, 4th Floor 
+East, Atlanta, GA, 30322, USA. imon.banerjee@emory.edu.
+
+The aim of this study is to develop an automated classification method for Brain 
+Tumor Reporting and Data System (BT-RADS) categories from unstructured and 
+structured brain magnetic resonance imaging (MR) reports. This retrospective 
+study included 1410 BT-RADS structured reports dated from January 2014 to 
+December 2017 and a test set of 109 unstructured brain MR reports dated from 
+January 2010 to December 2014. Text vector representations and semantic word 
+embeddings were generated from individual report sections (i.e., "History," 
+"Findings," etc.) using Tf-idf statistics and a fine-tuned word2vec model, 
+respectively. Section-wise ensemble models were trained using gradient boosting 
+(XGBoost), elastic net regularization, and random forests, and classification 
+accuracy was evaluated on an independent test set of unstructured brain MR 
+reports and a validation set of BT-RADS structured reports. Section-wise 
+ensemble models using XGBoost and word2vec semantic word embeddings were more 
+accurate than those using Tf-idf statistics when classifying unstructured 
+reports, with an f1 score of 0.72. In contrast, models using traditional Tf-idf 
+statistics outperformed the word2vec semantic approach for categorization from 
+structured reports, with an f1 score of 0.98. Proposed natural language 
+processing pipeline is capable of inferring BT-RADS report scores from 
+unstructured reports after training on structured report data. Our study 
+provides a detailed experimentation process and may provide guidance for the 
+development of RADS-focused information extraction (IE) applications from 
+structured and unstructured radiology reports.
+
+DOI: 10.1007/s10278-020-00350-0
+PMID: 32495125

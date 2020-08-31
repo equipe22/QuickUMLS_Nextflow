@@ -1,0 +1,46 @@
+385. Jt Comm J Qual Patient Saf. 2017 Jul;43(7):353-360. doi: 
+10.1016/j.jcjq.2017.03.006. Epub 2017 Apr 20.
+
+Designing and Implementing an Electronic Patient Registry to Improve Warfarin 
+Monitoring in the Ambulatory Setting.
+
+Lee SY, Cherian R, Ly I, Horton C, Salley AL, Sarkar U.
+
+Comment in
+    Jt Comm J Qual Patient Saf. 2017 Jul;43(7):351-352.
+
+BACKGROUND: Warfarin requires individualized dosing and monitoring in the 
+ambulatory setting for protection against thromboembolic disease. Yet in 
+multiple settings, patients spend upwards of 30% of time outside the therapeutic 
+range, subjecting them to an increased risk of adverse events. At an urban, 
+publicly funded clinic, the electronic health record (EHR) would not support 
+integration with extant warfarin management software, which led to the creation 
+and implementation of an electronic patient registry and a complementary 
+team-based work flow to provide real-time health-system-level data for warfarin 
+patients.
+METHODS: Creation of the registry, which began in August 2014, entailed use of 
+an existing platform, which could interface with the outpatient EHR. The 
+registry was designed to help ensure regular testing and monitoring of patients 
+while enabling identification of patients and subpopulations with suboptimal 
+management. The work flow used for the clinic's warfarin patients was also 
+redesigned. An assessment indicated that the registry identified 341 (96%) of 
+357 patients actively seen in the clinic.
+RESULTS: For the cohort of the 357 patients in the registry, the no-show rate 
+decreased from 31% (preimplementation, August 2014-December 2014) to 21% 
+(postimplementation, January 2015-November 2015). The ratio of visits to 
+no-shows increased from 2.3 to 4.0 visits.
+CONCLUSION: Design and implementation of an electronic registry in conjunction 
+with a complementary work flow established an active tracking system that 
+improved treatment monitoring for patients on anticoagulation therapy. Registry 
+creation also facilitated assessment of the quality of care and laid the 
+groundwork for ongoing evaluation and quality improvement efforts.
+
+Copyright © 2017 The Joint Commission. Published by Elsevier Inc. All rights 
+reserved.
+
+DOI: 10.1016/j.jcjq.2017.03.006
+PMCID: PMC5489234
+PMID: 28648221 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interest. The authors report no 
+conflicts of interest.

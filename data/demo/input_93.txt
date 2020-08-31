@@ -1,0 +1,40 @@
+93. Healthc Inform Res. 2013 Dec;19(4):271-7. doi: 10.4258/hir.2013.19.4.271. Epub 
+2013 Dec 31.
+
+Archetype Model-Driven Development Framework for EHR Web System.
+
+Kobayashi S(1), Kimura E(2), Ishihara K(2).
+
+Author information:
+(1)Department of Bioreguratory Medicine, Graduate School of Ehime University, 
+Ehime, Japan.
+(2)Department of Medical Informatics, Graduate School of Ehime University, 
+Ehime, Japan.
+
+OBJECTIVES: This article describes the Web application framework for Electronic 
+Health Records (EHRs) we have developed to reduce construction costs for EHR 
+sytems.
+METHODS: The openEHR project has developed clinical model driven architecture 
+for future-proof interoperable EHR systems. This project provides the 
+specifications to standardize clinical domain model implementations, upon which 
+the ISO/CEN 13606 standards are based. The reference implementation has been 
+formally described in Eiffel. Moreover C# and Java implementations have been 
+developed as reference. While scripting languages had been more popular because 
+of their higher efficiency and faster development in recent years, they had not 
+been involved in the openEHR implementations. From 2007, we have used the Ruby 
+language and Ruby on Rails (RoR) as an agile development platform to implement 
+EHR systems, which is in conformity with the openEHR specifications.
+RESULTS: We implemented almost all of the specifications, the Archetype 
+Definition Language parser, and RoR scaffold generator from archetype. Although 
+some problems have emerged, most of them have been resolved.
+CONCLUSIONS: We have provided an agile EHR Web framework, which can build up Web 
+systems from archetype models using RoR. The feasibility of the archetype model 
+to provide semantic interoperability of EHRs has been demonstrated and we have 
+verified that that it is suitable for the construction of EHR systems.
+
+DOI: 10.4258/hir.2013.19.4.271
+PMCID: PMC3920039
+PMID: 24523991
+
+Conflict of interest statement: No potential conflict of interest relevant to 
+this article was reported.

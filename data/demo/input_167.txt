@@ -1,0 +1,47 @@
+167. J Am Med Inform Assoc. 2020 Feb 1;27(2):315-329. doi: 10.1093/jamia/ocz162.
+
+Mining social media for prescription medication abuse monitoring: a review and 
+proposal for a data-centric framework.
+
+Sarker A(1), DeRoos A(2), Perrone J(3).
+
+Author information:
+(1)Department of Biomedical Informatics, Emory University School of Medicine, 
+Atlanta, Georgia, USA.
+(2)College of Arts and Sciences, University of Pennsylvania, Philadelphia, 
+Pennsylvania, USA.
+(3)Department of Emergency Medicine, Perelman School of Medicine, University of 
+Pennsylvania, Philadelphia, Pennsylvania, USA.
+
+OBJECTIVE: Prescription medication (PM) misuse and abuse is a major health 
+problem globally, and a number of recent studies have focused on exploring 
+social media as a resource for monitoring nonmedical PM use. Our objectives are 
+to present a methodological review of social media-based PM abuse or misuse 
+monitoring studies, and to propose a potential generalizable, data-centric 
+processing pipeline for the curation of data from this resource.
+MATERIALS AND METHODS: We identified studies involving social media, PMs, and 
+misuse or abuse (inclusion criteria) from Medline, Embase, Scopus, Web of 
+Science, and Google Scholar. We categorized studies based on multiple 
+characteristics including but not limited to data size; social media source(s); 
+medications studied; and primary objectives, methods, and findings.
+RESULTS: A total of 39 studies met our inclusion criteria, with 31 (∼79.5%) 
+published since 2015. Twitter has been the most popular resource, with Reddit 
+and Instagram gaining popularity recently. Early studies focused mostly on 
+manual, qualitative analyses, with a growing trend toward the use of 
+data-centric methods involving natural language processing and machine learning.
+DISCUSSION: There is a paucity of standardized, data-centric frameworks for 
+curating social media data for task-specific analyses and near real-time 
+surveillance of nonmedical PM use. Many existing studies do not quantify human 
+agreements for manual annotation tasks or take into account the presence of 
+noise in data.
+CONCLUSION: The development of reproducible and standardized data-centric 
+frameworks that build on the current state-of-the-art methods in data and text 
+mining may enable effective utilization of social media data for understanding 
+and monitoring nonmedical PM use.
+
+© The Author(s) 2019. Published by Oxford University Press on behalf of the 
+American Medical Informatics Association.
+
+DOI: 10.1093/jamia/ocz162
+PMCID: PMC7025330
+PMID: 31584645

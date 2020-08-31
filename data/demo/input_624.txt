@@ -1,0 +1,32 @@
+624. Perspect Health Inf Manag. 2014 Jan 1;11(Winter):1d. eCollection 2014.
+
+Giving raw data a chance to talk: a demonstration of exploratory visual 
+analytics with a pediatric research database using Microsoft Live Labs Pivot to 
+promote cohort discovery, research, and quality assessment.
+
+Viangteeravat T(1), Nagisetty NS(2).
+
+Author information:
+(1)The Biomedical Informatics Core at the Children's Foundation Research 
+Institute and assistant professor of biomedical informatics in the Department of 
+Pediatrics at the University of Tennessee Health Science Center in Memphis, TN.
+(2)The Children's Foundation Research Institute at Le Bonheur Children's 
+Hospital in Memphis, TN.
+
+Secondary use of large and open data sets provides researchers with an 
+opportunity to address high-impact questions that would otherwise be 
+prohibitively expensive and time consuming to study. Despite the availability of 
+data, generating hypotheses from huge data sets is often challenging, and the 
+lack of complex analysis of data might lead to weak hypotheses. To overcome 
+these issues and to assist researchers in building hypotheses from raw data, we 
+are working on a visual and analytical platform called PRD Pivot. PRD Pivot is a 
+de-identified pediatric research database designed to make secondary use of rich 
+data sources, such as the electronic health record (EHR). The development of 
+visual analytics using Microsoft Live Labs Pivot makes the process of data 
+elaboration, information gathering, knowledge generation, and complex 
+information exploration transparent to tool users and provides researchers with 
+the ability to sort and filter by various criteria, which can lead to strong, 
+novel hypotheses.
+
+PMCID: PMC3995483
+PMID: 24808811 [Indexed for MEDLINE]

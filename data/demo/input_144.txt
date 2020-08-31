@@ -1,0 +1,31 @@
+144. BMC Bioinformatics. 2011 Oct 3;12 Suppl 8(Suppl 8):S13. doi: 
+10.1186/1471-2105-12-S8-S13.
+
+Detection of interaction articles and experimental methods in biomedical 
+literature.
+
+Schneider G(1), Clematide S, Rinaldi F.
+
+Author information:
+(1)Institute of Computational Linguistics, University of Zurich, 8050 Zurich, 
+Switzerland.
+
+BACKGROUND: This article describes the approaches taken by the OntoGene group at 
+the University of Zurich in dealing with two tasks of the BioCreative III 
+competition: classification of articles which contain curatable protein-protein 
+interactions (PPI-ACT) and extraction of experimental methods (PPI-IMT).
+RESULTS: Two main achievements are described in this paper: (a) a system for 
+document classification which crucially relies on the results of an advanced 
+pipeline of natural language processing tools; (b) a system which is capable of 
+detecting all experimental methods mentioned in scientific literature, and 
+listing them with a competitive ranking (AUC iP/R > 0.5).
+CONCLUSIONS: The results of the BioCreative III shared evaluation clearly 
+demonstrate that significant progress has been achieved in the domain of 
+biomedical text mining in the past few years. Our own contribution, together 
+with the results of other participants, provides evidence that natural language 
+processing techniques have become by now an integral part of advanced text 
+mining approaches.
+
+DOI: 10.1186/1471-2105-12-S8-S13
+PMCID: PMC3269936
+PMID: 22151872 [Indexed for MEDLINE]

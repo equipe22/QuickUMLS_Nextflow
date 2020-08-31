@@ -1,0 +1,37 @@
+467. Bioinformatics. 2010 Jan 1;26(1):111-9. doi: 10.1093/bioinformatics/btp602. Epub 
+2009 Oct 22.
+
+Evaluation of linguistic features useful in extraction of interactions from 
+PubMed; application to annotating known, high-throughput and predicted 
+interactions in I2D.
+
+Niu Y(1), Otasek D, Jurisica I.
+
+Author information:
+(1)Ontario Cancer Institute, UHN, 101 College Street, Toronto, Ontario M5G1L7, 
+Canada. yniu@uhnres.utoronto.ca
+
+MOTIVATION: Identification and characterization of protein-protein interactions 
+(PPIs) is one of the key aims in biological research. While previous research in 
+text mining has made substantial progress in automatic PPI detection from 
+literature, the need to improve the precision and recall of the process remains. 
+More accurate PPI detection will also improve the ability to extract 
+experimental data related to PPIs and provide multiple evidence for each 
+interaction.
+RESULTS: We developed an interaction detection method and explored the 
+usefulness of various features in automatically identifying PPIs in text. The 
+results show that our approach outperforms other systems using the AImed 
+dataset. In the tests where our system achieves better precision with reduced 
+recall, we discuss possible approaches for improvement. In addition to test 
+datasets, we evaluated the performance on interactions from five human-curated 
+databases-BIND, DIP, HPRD, IntAct and MINT-where our system consistently 
+identified evidence for approximately 60% of interactions when both proteins 
+appear in at least one sentence in the PubMed abstract. We then applied the 
+system to extract articles from PubMed to annotate known, high-throughput and 
+interologous interactions in I(2)D.
+AVAILABILITY: The data and software are available at: http://www.cs.utoronto.ca/ 
+approximately juris/data/BI09/.
+
+DOI: 10.1093/bioinformatics/btp602
+PMCID: PMC2796811
+PMID: 19850753 [Indexed for MEDLINE]

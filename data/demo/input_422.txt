@@ -1,0 +1,58 @@
+422. J Biomed Inform. 2012 Feb;45(1):82-92. doi: 10.1016/j.jbi.2011.09.001. Epub 2011 
+Sep 17.
+
+Incorporating personalized gene sequence variants, molecular genetics knowledge, 
+and health knowledge into an EHR prototype based on the Continuity of Care 
+Record standard.
+
+Jing X(1), Kay S, Marley T, Hardiker NR, Cimino JJ.
+
+Author information:
+(1)Laboratory for Informatics Development, NIH Clinical Center and National 
+Library of Medicine, Bethesda, MD, USA. xia.jing@nih.gov
+
+OBJECTIVES: The current volume and complexity of genetic tests, and the 
+molecular genetics knowledge and health knowledge related to interpretation of 
+the results of those tests, are rapidly outstripping the ability of individual 
+clinicians to recall, understand and convey to their patients information 
+relevant to their care. The tailoring of molecular genetics knowledge and health 
+knowledge in clinical settings is important both for the provision of 
+personalized medicine and to reduce clinician information overload. In this 
+paper we describe the incorporation, customization and demonstration of 
+molecular genetic data (mainly sequence variants), molecular genetics knowledge 
+and health knowledge into a standards-based electronic health record (EHR) 
+prototype developed specifically for this study.
+METHODS: We extended the CCR (Continuity of Care Record), an existing EHR 
+standard for representing clinical data, to include molecular genetic data. An 
+EHR prototype was built based on the extended CCR and designed to display 
+relevant molecular genetics knowledge and health knowledge from an existing 
+knowledge base for cystic fibrosis (OntoKBCF). We reconstructed test records 
+from published case reports and represented them in the CCR schema. We then used 
+the EHR to dynamically filter molecular genetics knowledge and health knowledge 
+from OntoKBCF using molecular genetic data and clinical data from the test 
+cases.
+RESULTS: The molecular genetic data were successfully incorporated in the CCR by 
+creating a category of laboratory results called "Molecular Genetics" and 
+specifying a particular class of test ("Gene Mutation Test") in this category. 
+Unlike other laboratory tests reported in the CCR, results of tests in this 
+class required additional attributes ("Molecular Structure" and "Molecular 
+Position") to support interpretation by clinicians. These results, along with 
+clinical data (age, sex, ethnicity, diagnostic procedures, and therapies) were 
+used by the EHR to filter and present molecular genetics knowledge and health 
+knowledge from OntoKBCF.
+CONCLUSIONS: This research shows a feasible model for delivering patient 
+sequence variants and presenting tailored molecular genetics knowledge and 
+health knowledge via a standards-based EHR system prototype. EHR standards can 
+be extended to include the necessary patient data (as we have demonstrated in 
+the case of the CCR), while knowledge can be obtained from external knowledge 
+bases that are created and maintained independently from the EHR. This approach 
+can form the basis for a personalized medicine framework, a more comprehensive 
+standards-based EHR system and a potential platform for advancing translational 
+research by both disseminating results and providing opportunities for new 
+insights into phenotype-genotype relationships.
+
+Copyright © 2011 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jbi.2011.09.001
+PMCID: PMC3272091
+PMID: 21946299 [Indexed for MEDLINE]

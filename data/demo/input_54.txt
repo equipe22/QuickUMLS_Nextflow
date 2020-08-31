@@ -1,0 +1,52 @@
+54. BMC Bioinformatics. 2016 Dec 13;17(1):528. doi: 10.1186/s12859-016-1396-8.
+
+Microbial phenomics information extractor (MicroPIE): a natural language 
+processing tool for the automated acquisition of prokaryotic phenotypic 
+characters from text sources.
+
+Mao J(1), Moore LR(2), Blank CE(3), Wu EH(1), Ackerman M(2), Ranade S(1), Cui 
+H(4).
+
+Author information:
+(1)School of Information, University of Arizona, Tucson, 85721, AZ, USA.
+(2)Department of Biological Sciences, University of Southern Maine, Portland, 
+04103, ME, USA.
+(3)Department of Geosciences, University of Montana, Missoula, 59812, MT, USA.
+(4)School of Information, University of Arizona, Tucson, 85721, AZ, USA. 
+hongcui@email.arizona.edu.
+
+BACKGROUND: The large-scale analysis of phenomic data (i.e., full phenotypic 
+traits of an organism, such as shape, metabolic substrates, and growth 
+conditions) in microbial bioinformatics has been hampered by the lack of tools 
+to rapidly and accurately extract phenotypic data from existing legacy text in 
+the field of microbiology. To quickly obtain knowledge on the distribution and 
+evolution of microbial traits, an information extraction system needed to be 
+developed to extract phenotypic characters from large numbers of taxonomic 
+descriptions so they can be used as input to existing phylogenetic analysis 
+software packages.
+RESULTS: We report the development and evaluation of Microbial Phenomics 
+Information Extractor (MicroPIE, version 0.1.0). MicroPIE is a natural language 
+processing application that uses a robust supervised classification algorithm 
+(Support Vector Machine) to identify characters from sentences in prokaryotic 
+taxonomic descriptions, followed by a combination of algorithms applying 
+linguistic rules with groups of known terms to extract characters as well as 
+character states. The input to MicroPIE is a set of taxonomic descriptions 
+(clean text). The output is a taxon-by-character matrix-with taxa in the rows 
+and a set of 42 pre-defined characters (e.g., optimum growth temperature) in the 
+columns. The performance of MicroPIE was evaluated against a gold standard 
+matrix and another student-made matrix. Results show that, compared to the gold 
+standard, MicroPIE extracted 21 characters (50%) with a Relaxed F1 score > 0.80 
+and 16 characters (38%) with Relaxed F1 scores ranging between 0.50 and 0.80. 
+Inclusion of a character prediction component (SVM) improved the overall 
+performance of MicroPIE, notably the precision. Evaluated against the same gold 
+standard, MicroPIE performed significantly better than the undergraduate 
+students.
+CONCLUSION: MicroPIE is a promising new tool for the rapid and efficient 
+extraction of phenotypic character information from prokaryotic taxonomic 
+descriptions. However, further development, including incorporation of 
+ontologies, will be necessary to improve the performance of the extraction for 
+some character types.
+
+DOI: 10.1186/s12859-016-1396-8
+PMCID: PMC5153691
+PMID: 27955641 [Indexed for MEDLINE]

@@ -1,0 +1,52 @@
+631. Database (Oxford). 2016 Feb 11;2016:bav121. doi: 10.1093/database/bav121. Print 
+2016.
+
+Portal of medical data models: information infrastructure for medical research 
+and healthcare.
+
+Dugas M(1), Neuhaus P(2), Meidt A(2), Doods J(2), Storck M(2), Bruland P(2), 
+Varghese J(2).
+
+Author information:
+(1)Institute of Medical Informatics, University of Münster, Germany European 
+Research Center for Information Systems (ERCIS) dugas@uni-muenster.de.
+(2)Institute of Medical Informatics, University of Münster, Germany.
+
+INTRODUCTION: Information systems are a key success factor for medical research 
+and healthcare. Currently, most of these systems apply heterogeneous and 
+proprietary data models, which impede data exchange and integrated data analysis 
+for scientific purposes. Due to the complexity of medical terminology, the 
+overall number of medical data models is very high. At present, the vast 
+majority of these models are not available to the scientific community. The 
+objective of the Portal of Medical Data Models (MDM, 
+https://medical-data-models.org) is to foster sharing of medical data models.
+METHODS: MDM is a registered European information infrastructure. It provides a 
+multilingual platform for exchange and discussion of data models in medicine, 
+both for medical research and healthcare. The system is developed in 
+collaboration with the University Library of Münster to ensure sustainability. A 
+web front-end enables users to search, view, download and discuss data models. 
+Eleven different export formats are available (ODM, PDF, CDA, CSV, MACRO-XML, 
+REDCap, SQL, SPSS, ADL, R, XLSX). MDM contents were analysed with descriptive 
+statistics.
+RESULTS: MDM contains 4387 current versions of data models (in total 10,963 
+versions). 2475 of these models belong to oncology trials. The most common 
+keyword (n = 3826) is 'Clinical Trial'; most frequent diseases are breast 
+cancer, leukemia, lung and colorectal neoplasms. Most common languages of data 
+elements are English (n = 328,557) and German (n = 68,738). Semantic annotations 
+(UMLS codes) are available for 108,412 data items, 2453 item groups and 35,361 
+code list items. Overall 335,087 UMLS codes are assigned with 21,847 unique 
+codes. Few UMLS codes are used several thousand times, but there is a long tail 
+of rarely used codes in the frequency distribution.
+DISCUSSION: Expected benefits of the MDM portal are improved and accelerated 
+design of medical data models by sharing best practice, more standardised data 
+models with semantic annotation and better information exchange between 
+information systems, in particular Electronic Data Capture (EDC) and Electronic 
+Health Records (EHR) systems. Contents of the MDM portal need to be further 
+expanded to reach broad coverage of all relevant medical domains. Database URL: 
+https://medical-data-models.org.
+
+© The Author(s) 2016. Published by Oxford University Press.
+
+DOI: 10.1093/database/bav121
+PMCID: PMC4750548
+PMID: 26868052 [Indexed for MEDLINE]

@@ -1,0 +1,37 @@
+627. Amyotroph Lateral Scler Frontotemporal Degener. 2015;17(1-2):1-14. doi: 
+10.3109/21678421.2015.1047455. Epub 2015 May 22.
+
+State of the field: An informatics-based systematic review of the SOD1-G93A 
+amyotrophic lateral sclerosis transgenic mouse model.
+
+Kim RB(1), Irvin CW(1), Tilva KR(1), Mitchell CS(1).
+
+Author information:
+(1)a Department of Biomedical Engineering , Georgia Institute of Technology & 
+Emory University , Atlanta , Georgia , USA.
+
+Numerous sub-cellular through system-level disturbances have been identified in 
+over 1300 articles examining the superoxide dismutase-1 guanine 93 to alanine 
+(SOD1-G93A) transgenic mouse amyotrophic lateral sclerosis (ALS) 
+pathophysiology. Manual assessment of such a broad literature base is daunting. 
+We performed a comprehensive informatics-based systematic review or 'field 
+analysis' to agnostically compute and map the current state of the field. Text 
+mining of recaptured articles was used to quantify published data topic breadth 
+and frequency. We constructed a nine-category pathophysiological function-based 
+ontology to systematically organize and quantify the field's primary data. 
+Results demonstrated that the distribution of primary research belonging to each 
+category is: systemic measures an motor function, 59%; inflammation, 46%; 
+cellular energetics, 37%; proteomics, 31%; neural excitability, 22%; apoptosis, 
+20%; oxidative stress, 18%; aberrant cellular chemistry, 14%; axonal transport, 
+10%. We constructed a SOD1-G93A field map that visually illustrates and 
+categorizes the 85% most frequently assessed sub-topics. Finally, we present the 
+literature-cited significance of frequently published terms and uncover thinly 
+investigated areas. In conclusion, most articles individually examine at least 
+two categories, which is indicative of the numerous underlying 
+pathophysiological interrelationships. An essential future path is examination 
+of cross-category pathophysiological interrelationships and their 
+co-correspondence to homeostatic regulation and disease progression.
+
+DOI: 10.3109/21678421.2015.1047455
+PMCID: PMC4724331
+PMID: 25998063 [Indexed for MEDLINE]

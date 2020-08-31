@@ -1,0 +1,29 @@
+455. Conf Proc IEEE Eng Med Biol Soc. 2010;2010:1081-4. doi: 
+10.1109/IEMBS.2010.5627316.
+
+A knowledge engineering approach to recognizing and extracting sequences of 
+nucleic acids from scientific literature.
+
+García-Remesal M(1), Maojo V, Crespo J.
+
+Author information:
+(1)Biomedical Informatics Group and the Dept. Inteligencia Artificial, 
+Universidad Politécnica de Madrid, Campus de Montegancedo S/N, 28660 Boadilla 
+del Monte, Spain. mgarcia@informed.dia.fi.upm.es
+
+In this paper we present a knowledge engineering approach to automatically 
+recognize and extract genetic sequences from scientific articles. To carry out 
+this task, we use a preliminary recognizer based on a finite state machine to 
+extract all candidate DNA/RNA sequences. The latter are then fed into a 
+knowledge-based system that automatically discards false positives and refines 
+noisy and incorrectly merged sequences. We created the knowledge base by 
+manually analyzing different manuscripts containing genetic sequences. Our 
+approach was evaluated using a test set of 211 full-text articles in PDF format 
+containing 3134 genetic sequences. For such set, we achieved 87.76% precision 
+and 97.70% recall respectively. This method can facilitate different research 
+tasks. These include text mining, information extraction, and information 
+retrieval research dealing with large collections of documents containing 
+genetic sequences.
+
+DOI: 10.1109/IEMBS.2010.5627316
+PMID: 21096556 [Indexed for MEDLINE]

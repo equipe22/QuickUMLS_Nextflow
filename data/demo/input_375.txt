@@ -1,0 +1,43 @@
+375. Artif Intell Med. 2014 Sep;62(1):11-21. doi: 10.1016/j.artmed.2014.06.002. Epub 
+2014 Jun 21.
+
+Cross-hospital portability of information extraction of cancer staging 
+information.
+
+Martinez D(1), Pitson G(2), MacKinlay A(3), Cavedon L(4).
+
+Author information:
+(1)Department of Computing and Information Systems, The University of Melbourne, 
+Doug McDonell Building, Parkville, 3010 VIC, Australia. Electronic address: 
+david.martinez.iraola@gmail.com.
+(2)Barwon Health, Geelong Hospital, 1/75 Bellerine Street, Geelong, 3220 VIC, 
+Australia.
+(3)Department of Computing and Information Systems, The University of Melbourne, 
+Doug McDonell Building, Parkville, 3010 VIC, Australia.
+(4)School of Computer Science and IT, RMIT University, 124 Latrobe St, 
+Melbourne, 3000 VIC, Australia.
+
+OBJECTIVE: We address the task of extracting information from free-text 
+pathology reports, focusing on staging information encoded by the TNM 
+(tumour-node-metastases) and ACPS (Australian clinico-pathological stage) 
+systems. Staging information is critical for diagnosing the extent of cancer in 
+a patient and for planning individualised treatment. Extracting such information 
+into more structured form saves time, improves reporting, and underpins the 
+potential for automated decision support.
+METHODS AND MATERIAL: We investigate the portability of a text mining model 
+constructed from records from one health centre, by applying it directly to the 
+extraction task over a set of records from a different health centre, with 
+different reporting narrative characteristics. Other than a simple normalisation 
+step on features associated with target labels, we apply the models from one 
+system directly to the other.
+RESULTS: The best F-scores for in-hospital experiments are 81%, 85%, and 94% 
+(for staging T, N, and M respectively), while best cross-hospital F-scores reach 
+84%, 81%, and 91% for the same respective categories.
+CONCLUSIONS: Our performance results compare favourably to the best levels 
+reported in the literature, and--most relevant to our aim here--the cross-corpus 
+results demonstrate the portability of the models we developed.
+
+Copyright © 2014 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.artmed.2014.06.002
+PMID: 25001545 [Indexed for MEDLINE]

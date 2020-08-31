@@ -1,0 +1,57 @@
+99. BMC Med Inform Decis Mak. 2018 Jul 23;18(Suppl 2):65. doi: 
+10.1186/s12911-018-0630-x.
+
+Evaluating semantic relations in neural word embeddings with biomedical and 
+general domain knowledge bases.
+
+Chen Z(1), He Z(2), Liu X(1), Bian J(3).
+
+Author information:
+(1)Department of Computer Science, Florida State University, Tallahassee, FL, 
+USA.
+(2)School of Information, Florida State University, 142 Collegiate Loop, 
+Tallahassee, FL, 32306, USA. zhe.he@cci.fsu.edu.
+(3)Department of Health Outcomes and Biomedical Informatics, University of 
+Florida, Gainesville, FL, USA.
+
+Erratum in
+    BMC Med Inform Decis Mak. 2018 Aug 22;18(1):73.
+
+BACKGROUND: In the past few years, neural word embeddings have been widely used 
+in text mining. However, the vector representations of word embeddings mostly 
+act as a black box in downstream applications using them, thereby limiting their 
+interpretability. Even though word embeddings are able to capture semantic 
+regularities in free text documents, it is not clear how different kinds of 
+semantic relations are represented by word embeddings and how 
+semantically-related terms can be retrieved from word embeddings.
+METHODS: To improve the transparency of word embeddings and the interpretability 
+of the applications using them, in this study, we propose a novel approach for 
+evaluating the semantic relations in word embeddings using external knowledge 
+bases: Wikipedia, WordNet and Unified Medical Language System (UMLS). We trained 
+multiple word embeddings using health-related articles in Wikipedia and then 
+evaluated their performance in the analogy and semantic relation term retrieval 
+tasks. We also assessed if the evaluation results depend on the domain of the 
+textual corpora by comparing the embeddings of health-related Wikipedia articles 
+with those of general Wikipedia articles.
+RESULTS: Regarding the retrieval of semantic relations, we were able to retrieve 
+diverse semantic relations in the nearest neighbors of a given word. Meanwhile, 
+the two popular word embedding approaches, Word2vec and GloVe, obtained 
+comparable results on both the analogy retrieval task and the semantic relation 
+retrieval task, while dependency-based word embeddings had much worse 
+performance in both tasks. We also found that the word embeddings trained with 
+health-related Wikipedia articles obtained better performance in the 
+health-related relation retrieval tasks than those trained with general 
+Wikipedia articles.
+CONCLUSION: It is evident from this study that word embeddings can group terms 
+with diverse semantic relations together. The domain of the training corpus does 
+have impact on the semantic relations represented by word embeddings. We thus 
+recommend using domain-specific corpus to train word embeddings for 
+domain-specific text mining tasks.
+
+DOI: 10.1186/s12911-018-0630-x
+PMCID: PMC6069806
+PMID: 30066651 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: Not 
+applicable. CONSENT FOR PUBLICATION: Not applicable. COMPETING INTERESTS: The 
+authors declare that they have no competing interests.

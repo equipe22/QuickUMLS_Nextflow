@@ -1,0 +1,60 @@
+44. Appl Clin Inform. 2018 Oct;9(4):791-802. doi: 10.1055/s-0038-1675179. Epub 2018 
+Oct 24.
+
+User Testing an Information Foraging Tool for Ambulatory Surgical Site Infection 
+Surveillance.
+
+Karavite DJ(1), Miller MW(1), Ramos MJ(1), Rettig SL(2), Ross RK(3), Xiao R(4), 
+Muthu N(1)(5), Localio AR(4), Gerber JS(3)(5), Coffin SE(3)(5), Grundmeier 
+RW(1)(5).
+
+Author information:
+(1)Department of Biomedical and Health Informatics, Children's Hospital of 
+Philadelphia, Philadelphia, Pennsylvania, United States.
+(2)Department of Infection Prevention and Control, Children's Hospital of 
+Philadelphia, Philadelphia, Pennsylvania, United States.
+(3)Division of Infectious Disease, Children's Hospital of Philadelphia, 
+Philadelphia, Pennsylvania, United States.
+(4)Department of Biostatistics, Epidemiology and Informatics, Perelman School of 
+Medicine, University of Pennsylvania, Philadelphia, Pennsylvania, United States.
+(5)Department of Pediatrics, Perelman School of Medicine at the University of 
+Pennsylvania, Philadelphia, Pennsylvania, United States.
+
+BACKGROUND: Surveillance for surgical site infections (SSIs) after ambulatory 
+surgery in children requires a detailed manual chart review to assess criteria 
+defined by the National Health and Safety Network (NHSN). Electronic health 
+records (EHRs) impose an inefficient search process where infection 
+preventionists must manually review every postsurgical encounter (< 30 days). 
+Using text mining and business intelligence software, we developed an 
+information foraging application, the SSI Workbench, to visually present which 
+postsurgical encounters included SSI-related terms and synonyms, antibiotic, and 
+culture orders.
+OBJECTIVE: This article compares the Workbench and EHR on four dimensions: (1) 
+effectiveness, (2) efficiency, (3) workload, and (4) usability.
+METHODS: Comparative usability test of Workbench and EHR. Objective test metrics 
+are time per case, encounters reviewed per case, time per encounter, and 
+retrieval of information meeting NHSN definitions. Subjective measures are 
+cognitive load using the National Aeronautics and Space Administration (NASA) 
+Task Load Index (NASA TLX), and a questionnaire on system usability and utility.
+RESULTS: Eight infection preventionists participated in the test. There was no 
+difference in effectiveness as subjects retrieved information from all cases, 
+using both systems, to meet the NHSN criteria. There was no difference in 
+efficiency in time per case between the Workbench and EHR (8.58 vs. 7.39 
+minutes, p = 0.36). However, with the Workbench subjects opened fewer encounters 
+per case (3.0 vs. 7.5, p = 0.002), spent more time per encounter (2.23 vs. 0.92 
+minutes, p = 0.002), rated the Workbench lower in cognitive load (NASA TLX, 24 
+vs. 33, p = 0.02), and significantly higher in measures of usability.
+CONCLUSION: Compared with the EHR, the Workbench was more usable, short, and 
+reduced cognitive load. In overall efficiency, the Workbench did not save time, 
+but demonstrated a shift from between-encounter foraging to within-encounter 
+foraging and was rated as significantly more efficient. Our results suggest that 
+infection surveillance can be better supported by systems applying information 
+foraging theory.
+
+Georg Thieme Verlag KG Stuttgart · New York.
+
+DOI: 10.1055/s-0038-1675179
+PMCID: PMC6200553
+PMID: 30357777 [Indexed for MEDLINE]
+
+Conflict of interest statement: None.

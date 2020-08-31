@@ -1,0 +1,50 @@
+56. J Am Med Inform Assoc. 2019 May 1;26(5):438-446. doi: 10.1093/jamia/ocy189.
+
+deepBioWSD: effective deep neural word sense disambiguation of biomedical text 
+data.
+
+Pesaranghader A(1)(2), Matwin S(1)(2), Sokolova M(2)(3)(4), Pesaranghader A(3).
+
+Author information:
+(1)Faculty of Computer Science, Dalhousie University, Halifax, NS B3H 4R2, 
+Canada.
+(2)Institute for Big Data Analytics, Dalhousie University, Halifax, NS B3H 4R2, 
+Canada.
+(3)School of Electrical Engineering and Computer Science, University of Ottawa, 
+Ottawa, ON K1N 6N5, Canada.
+(4)School of Epidemiology and Public Health, University of Ottawa, University of 
+Ottawa, Ottawa, ON K1G 5Z3, Canada.
+
+OBJECTIVE: In biomedicine, there is a wealth of information hidden in 
+unstructured narratives such as research articles and clinical reports. To 
+exploit these data properly, a word sense disambiguation (WSD) algorithm 
+prevents downstream difficulties in the natural language processing applications 
+pipeline. Supervised WSD algorithms largely outperform un- or semisupervised and 
+knowledge-based methods; however, they train 1 separate classifier for each 
+ambiguous term, necessitating a large number of expert-labeled training data, an 
+unattainable goal in medical informatics. To alleviate this need, a single model 
+that shares statistical strength across all instances and scales well with the 
+vocabulary size is desirable.
+MATERIALS AND METHODS: Built on recent advances in deep learning, our deepBioWSD 
+model leverages 1 single bidirectional long short-term memory network that makes 
+sense prediction for any ambiguous term. In the model, first, the Unified 
+Medical Language System sense embeddings will be computed using their text 
+definitions; and then, after initializing the network with these embeddings, it 
+will be trained on all (available) training data collectively. This method also 
+considers a novel technique for automatic collection of training data from 
+PubMed to (pre)train the network in an unsupervised manner.
+RESULTS: We use the MSH WSD dataset to compare WSD algorithms, with macro and 
+micro accuracies employed as evaluation metrics. deepBioWSD outperforms existing 
+models in biomedical text WSD by achieving the state-of-the-art performance of 
+96.82% for macro accuracy.
+CONCLUSIONS: Apart from the disambiguation improvement and unsupervised 
+training, deepBioWSD depends on considerably less number of expert-labeled data 
+as it learns the target and the context terms jointly. These merit deepBioWSD to 
+be conveniently deployable in real-time biomedical applications.
+
+© The Author(s) 2019. Published by Oxford University Press on behalf of the 
+American Medical Informatics Association. All rights reserved. For Permissions, 
+please email: journals.permissions@oup.com.
+
+DOI: 10.1093/jamia/ocy189
+PMID: 30811548 [Indexed for MEDLINE]

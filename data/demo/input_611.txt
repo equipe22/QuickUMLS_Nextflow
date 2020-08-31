@@ -1,0 +1,73 @@
+611. Sports Health. 2019 Sep/Oct;11(5):440-445. doi: 10.1177/1941738119854759. Epub 
+2019 Jul 2.
+
+Lessons on Data Collection and Curation From the NFL Injury Surveillance 
+Program.
+
+Dreyer NA(1), Mack CD(2), Anderson RB(3)(4), Wojtys EM(5), Hershman EB(6), Sills 
+A(7).
+
+Author information:
+(1)Center for Advanced Evidence Generation, Real-World & Analytic Solutions, 
+IQVIA, Cambridge, Massachusetts.
+(2)Center for Advanced Evidence Generation, Real-World & Analytic Solutions, 
+IQVIA, Research Triangle Park, North Carolina.
+(3)Foot and Ankle Institute, OrthoCarolina, Charlotte, North Carolina.
+(4)Sports Foot/Ankle, Titletown Sports Medicine, Green Bay, Wisconsin.
+(5)MedSport, Department of Orthopaedic Surgery, University of Michigan, Ann 
+Arbor, Michigan.
+(6)Department of Orthopaedic Surgery, Lenox Hill Hospital, North Shore-LIJ 
+Orthopaedic Institute, North Shore-LIJ Healthcare System, New York, New York.
+(7)National Football League, New York, New York.
+
+BACKGROUND: "Research-ready" evidence platforms that link sports data with 
+anonymized electronic health records (EHRs) or other data are important tools 
+for evaluating injury occurrence in response to changes in games, training, 
+rules, and other factors. While there is agreement that high-quality data are 
+essential, there is little evidence to guide data curation.
+HYPOTHESIS: We hypothesized that an EHR used in the course of clinical care and 
+curated for research readiness can provide a robust evidence platform. Our 
+purpose was to describe the data curation used for active injury surveillance by 
+the National Football League (NFL).
+STUDY DESIGN: Dynamic cohort study.
+LEVEL OF EVIDENCE: Level 2.
+METHODS: Players provide informed consent for research activities through the 
+collective bargaining process. A league-wide EHR is used to record injuries that 
+come to the attention of the teams' athletic trainers and physicians, NFL 
+medical spotters, or unaffiliated neurotrauma consultants. Information about 
+football activities and injuries are linkable by player, setting, and event to 
+other sports-related data, including game statistics and game-day stadium 
+quality measures, using a unique player identification designed to protect 
+player privacy. Ongoing data curation is used to review data completeness and 
+accuracy and is adjusted over time in response to findings.
+RESULTS: The core data curation activities include monthly injury summaries to 
+team staff, queries to resolve incomplete reporting, and periodic external 
+checks. Experiences derived from producing more than 100 reports per year on 
+diverse topics are used to update coding training and related guidance documents 
+in response to missing data or inconsistent coding that is observed. Roughly 20% 
+more injuries were recorded for the same "reportable" injuries after switching 
+from targeted reporting to an EHR.
+CONCLUSION: Research-ready databases need systematic curation for quality and 
+completeness, along with related action plans. More injuries were reported 
+through EHR than through targeted reporting.
+CLINICAL RELEVANCE: Evidence-driven decision-making thrives on reliable data 
+fine-tuned through systematic use, review, and ongoing adjustments to the 
+curation process.
+
+DOI: 10.1177/1941738119854759
+PMCID: PMC6745812
+PMID: 31265352 [Indexed for MEDLINE]
+
+Conflict of interest statement: The following authors declared potential 
+conflicts of interest: N.A.D. and C.D.M. are employed by IQVIA; R.B.A. received 
+consulting fees from Amniox, Artelon, Arthrex, Bioventus, DJO, Wright Medical, 
+and Zimmer Biomet, and royalties from Arthrex, Biomet, Wright Medical, and 
+Zimmer Biomet; E.M.W. received travel payments from the National Football League 
+(NFL) and AOSSM and payments from the NFL and NIAMS/KAI, he also serves as 
+editor in chief for Sports Health; E.B.H. received consulting fees and royalties 
+from Active Implants Corp and royalties from Zimmer Biomet; and A.S. is employed 
+by the NFL. This research program was funded by the NFL and approved by the 
+National Football League Players Association under a collectively bargained 
+agreement pertaining to NFL player research. The authors assert that these 
+results are presented clearly, honestly, and without fabrication, falsification, 
+or inappropriate data manipulation.

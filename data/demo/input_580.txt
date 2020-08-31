@@ -1,0 +1,60 @@
+580. Drug Alcohol Depend. 2019 Nov 1;204:107557. doi: 
+10.1016/j.drugalcdep.2019.107557. Epub 2019 Sep 16.
+
+Regular cannabis use, with and without tobacco co-use, is associated with 
+respiratory disease.
+
+Winhusen T(1), Theobald J(2), Kaelber DC(3), Lewis D(2).
+
+Author information:
+(1)Addiction Sciences Division, Department of Psychiatry and Behavioral 
+Neuroscience, University of Cincinnati College of Medicine, 3131 Harvey Avenue, 
+Cincinnati, OH 45229, USA. Electronic address: winhust@uc.edu.
+(2)Addiction Sciences Division, Department of Psychiatry and Behavioral 
+Neuroscience, University of Cincinnati College of Medicine, 3131 Harvey Avenue, 
+Cincinnati, OH 45229, USA.
+(3)Department of Information Services, The MetroHealth System, Cleveland, OH, 
+USA; Departments of Internal Medicine, Pediatrics, and Population and 
+Quantitative Health Sciences, Case Western Reserve University, Cleveland, OH, 
+USA; The Center for Clinical Informatics Research and Education, The MetroHealth 
+System, Cleveland, OH, USA.
+
+BACKGROUND: Cannabis use is a potential risk factor for respiratory disease but 
+its role apart from tobacco use is unclear. We evaluated the association between 
+regular cannabis use, with and without tobacco co-use, and onset of asthma, 
+chronic obstructive pulmonary disease (COPD), and pneumonia.
+METHODS: Analysis of a limited data set obtained through IBM Watson Health 
+Explorys, an electronic-health-record-integration platform. Matched controls 
+using Mahalanobis distance within propensity score calipers were defined for: 1) 
+cannabis-using patients (n = 8932); and subgroups of cannabis-using patients: 2) 
+with an encounter diagnosis for tobacco use disorder (TUD; n = 4678); and 3) 
+without a TUD diagnosis (non-TUD; n = 4254). Patients had at least: one recorded 
+blood pressure measurement and one blood chemistry lab result in the MetroHealth 
+System (Cleveland, Ohio). Cannabis-using patients had an encounter diagnosis of 
+cannabis abuse/dependence and/or ≥2 cannabis-positive urine drug screens (UDSs). 
+Control patients, not having cannabis-related diagnoses or cannabis-positive 
+UDSs, were matched to the cannabis-using patients on demographics, residential 
+zip code median income, body mass index, and, for the total sample, TUD-status.
+RESULTS: Regular cannabis use was significantly associated with greater risk for 
+asthma (odds ratio (OR) = 1.44; adjusted odds ratio (aOR) = 1.50; OR = 1.32), 
+COPD (OR = 1.56; aOR = 1.44; OR = 2.17), and pneumonia (OR = 1.80; OR = 1.84; 
+OR = 2.13) in the total sample and TUD and non-TUD subgroups, respectively. 
+TUD-patients had the greatest prevalence of respiratory disease, regardless of 
+cannabis-use indication.
+CONCLUSIONS: Regular cannabis use is associated with significantly greater risk 
+of respiratory disease regardless of TUD status. Future research to understand 
+the impact of cannabis use on respiratory health is warranted.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.drugalcdep.2019.107557
+PMCID: PMC6878136
+PMID: 31557578 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations of interest: TW, JT, and DL declare 
+no conflicts of interest. DCK is the Chief Medical Informatics Officer of the 
+MetroHealth System. In exchange for contributing de-identified data to the 
+Explorys network, the MetroHealth System receives access to the Explorys Cohort 
+Discovery tool, which was used to conduct this study. Neither DCK nor the 
+MetroHealth System have any direct financial ties to Explorys (IBM Watson 
+Health).

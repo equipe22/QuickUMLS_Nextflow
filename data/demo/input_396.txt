@@ -1,0 +1,50 @@
+396. BMJ Open Qual. 2017 Oct 21;6(2):e000102. doi: 10.1136/bmjoq-2017-000102. 
+eCollection 2017.
+
+Improving best possible medication history with vulnerable patients at an urban 
+safety net academic hospital using pharmacy technicians.
+
+Sadasivaiah S(1), Smith DE(2), Goldman S(1), Ratanawongsa N(3).
+
+Author information:
+(1)Department of Medicine, University of California San Francisco, Zuckerberg 
+San Francisco General Hospital and Trauma Center, San Francisco, California, 
+USA.
+(2)Department of Public Health, Zuckerberg San Francisco General Hospital and 
+Trauma Center, San Francisco, California, USA.
+(3)Department of Medicine, UCSF Center for Vulnerable Populations at Zuckerberg 
+San Francisco General Hospital, San Francisco, California, USA.
+
+BACKGROUND: Best possible medication history (BPMH) enhances the care of safety 
+net patients, especially those with limited English proficiency and limited 
+health literacy who are most vulnerable to medication error during the hospital 
+admission process. Our large urban academic safety net centre faced numerous 
+barriers to achieve BPMH among hospitalised patients including communication 
+barriers that increase the time and complexity of eliciting BPMH, frequent 
+provider turnover at our training institution and lack of an electronic health 
+record (EHR) medication reconciliation tool to facilitate BPMH collection and 
+monitoring.
+DESIGN: Leveraging opportunities afforded by the US federal incentive EHR 
+programme, our multidisciplinary team designed an EHR-facilitated medication 
+reconciliation programme by which pharmacy technicians engaged newly admitted 
+patients and their caregivers at the bedside to develop and electronically 
+document the BPMH.
+STRATEGY: Prior to this intervention, pharmacy technicians had no role in BPMH. 
+Providers collected home medications documented on paper notes without a 
+consistent methodology. With each plan-do-study-act (PDSA) cycle since the 
+programme began, the goal was to increase the per cent of BPMH completed by a 
+pharmacy technician. Individual PDSA cycles targeted either the pharmacy 
+technicians by expanding their pool of eligible patients or provider engagement 
+with the pharmacy technician workflow.
+RESULTS: By optimising not only the health information technology platform but 
+also the operational processes, the programme achieved a nearly 80% generation 
+of BPMH completed by a highly trained pharmacy technician, surpassing its 
+intended goal of 50% BPMH completion by a pharmacy technician on admission.
+CONCLUSION: An EHR-facilitated tool improved BPMH at an urban academic safety 
+net hospital using pharmacy technicians.
+
+DOI: 10.1136/bmjoq-2017-000102
+PMCID: PMC5699117
+PMID: 29450283
+
+Conflict of interest statement: Competing interests: None declared.

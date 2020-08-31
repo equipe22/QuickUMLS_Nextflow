@@ -1,0 +1,47 @@
+540. Database (Oxford). 2019 Jan 1;2019:baz084. doi: 10.1093/database/baz084.
+
+The extraction of complex relationships and their conversion to biological 
+expression language (BEL) overview of the BioCreative VI (2017) BEL track.
+
+Madan S(1), Szostak J(2), Komandur Elayavilli R(3), Tsai RT(4), Ali M(5), Qian 
+L(6), Rastegar-Mojarad M(3), Hoeng J(2), Fluck J(1).
+
+Author information:
+(1)Fraunhofer Institute for Algorithms and Scientific Computing, Schloss 
+Birlinghoven, 53754 Sankt Augustin, Germany.
+(2)Philip Morris International R&D, Philip Morris Products S.A., Quai Jeanrenaud 
+5, 2000 Neuchatel, Switzerland.
+(3)Department of Health Sciences Research, Mayo Clinic, 200 First St. SW, 
+Rochester, MN 55905, USA.
+(4)Department of Computer Science and Information Engineering, National Central 
+University, Taiwan, R.O.C., Taiwan 320.
+(5)Friedrich Wilhelm University of Bonn, 53012 Bonn, Germany.
+(6)NLP Lab, School of Computer Science and Technology, Soochow University, 
+Suzhou, 215006 Suzhou, China.
+
+Knowledge of the molecular interactions of biological and chemical entities and 
+their involvement in biological processes or clinical phenotypes is important 
+for data interpretation. Unfortunately, this knowledge is mostly embedded in the 
+literature in such a way that it is unavailable for automated data analysis 
+procedures. Biological expression language (BEL) is a syntax representation 
+allowing for the structured representation of a broad range of biological 
+relationships. It is used in various situations to extract such knowledge and 
+transform it into BEL networks. To support the tedious and time-intensive 
+extraction work of curators with automated methods, we developed the BEL track 
+within the framework of BioCreative Challenges. Within the BEL track, we provide 
+training data and an evaluation environment to encourage the text mining 
+community to tackle the automatic extraction of complex BEL relationships. In 
+2017 BioCreative VI, the 2015 BEL track was repeated with new test data. 
+Although only minor improvements in text snippet retrieval for given statements 
+were achieved during this second BEL task iteration, a significant increase of 
+BEL statement extraction performance from provided sentences could be seen. The 
+best performing system reached a 32% F-score for the extraction of complete BEL 
+statements and with the given named entities this increased to 49%. This time, 
+besides rule-based systems, new methods involving hierarchical sequence labeling 
+and neural networks were applied for BEL statement extraction.
+
+© The Author(s) 2019. Published by Oxford University Press.
+
+DOI: 10.1093/database/baz084
+PMCID: PMC6787548
+PMID: 31603193 [Indexed for MEDLINE]

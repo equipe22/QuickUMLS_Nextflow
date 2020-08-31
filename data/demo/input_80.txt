@@ -1,0 +1,33 @@
+80. Comput Math Methods Med. 2015;2015:910423. doi: 10.1155/2015/910423. Epub 2015 
+Aug 10.
+
+A Relation Extraction Framework for Biomedical Text Using Hybrid Feature Set.
+
+Muzaffar AW(1), Azam F(1), Qamar U(1).
+
+Author information:
+(1)National University of Sciences and Technology (NUST), H-12, Islamabad 44000, 
+Pakistan.
+
+The information extraction from unstructured text segments is a complex task. 
+Although manual information extraction often produces the best results, it is 
+harder to manage biomedical data extraction manually because of the exponential 
+increase in data size. Thus, there is a need for automatic tools and techniques 
+for information extraction in biomedical text mining. Relation extraction is a 
+significant area under biomedical information extraction that has gained much 
+importance in the last two decades. A lot of work has been done on biomedical 
+relation extraction focusing on rule-based and machine learning techniques. In 
+the last decade, the focus has changed to hybrid approaches showing better 
+results. This research presents a hybrid feature set for classification of 
+relations between biomedical entities. The main contribution of this research is 
+done in the semantic feature set where verb phrases are ranked using Unified 
+Medical Language System (UMLS) and a ranking algorithm. Support Vector Machine 
+and Naïve Bayes, the two effective machine learning techniques, are used to 
+classify these relations. Our approach has been validated on the standard 
+biomedical text corpus obtained from MEDLINE 2001. Conclusively, it can be 
+articulated that our framework outperforms all state-of-the-art approaches used 
+for relation extraction on the same corpus.
+
+DOI: 10.1155/2015/910423
+PMCID: PMC4546954
+PMID: 26347797 [Indexed for MEDLINE]

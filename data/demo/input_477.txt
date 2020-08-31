@@ -1,0 +1,38 @@
+477. Bioinformatics. 2006 Mar 1;22(5):597-605. doi: 10.1093/bioinformatics/btk016. 
+Epub 2005 Dec 20.
+
+BioContrasts: extracting and exploiting protein-protein contrastive relations 
+from biomedical literature.
+
+Kim JJ(1), Zhang Z, Park JC, Ng SK.
+
+Author information:
+(1)Computer Science Division & AITrc, Korea Advanced Institute of Science and 
+Technology, Yuseong-gu, Daejeon 305-701, South Korea.
+
+MOTIVATION: Contrasts are useful conceptual vehicles for learning processes and 
+exploratory research of the unknown. For example, contrastive information 
+between proteins can reveal what similarities, divergences and relations there 
+are of the two proteins, leading to invaluable insights for better understanding 
+about the proteins. Such contrastive information are found to be reported in the 
+biomedical literature. However, there have been no reported attempts in current 
+biomedical text mining work that systematically extract and present such useful 
+contrastive information from the literature for exploitation.
+RESULTS: Our BioContrasts system extracts protein-protein contrastive 
+information from MEDLINE abstracts and presents the information to biologists in 
+a web-application for exploitation. Contrastive information are identified in 
+the text abstracts with contrastive negation patterns such as 'A but not B'. A 
+total of 799 169 pairs of contrastive expressions were successfully extracted 
+from 2.5 million MEDLINE abstracts. Using grounding of contrastive protein names 
+to Swiss-Prot entries, we were able to produce 41 471 pieces of contrasts 
+between Swiss-Prot protein entries. These contrastive pieces of information are 
+then presented via a user-friendly interactive web portal that can be exploited 
+for applications such as the refinement of biological pathways.
+AVAILABILITY: BioContrasts can be accessed at 
+http://biocontrasts.i2r.a-star.edu.sg. It is also mirrored at 
+http://biocontrasts.biopathway.org.
+SUPPLEMENTARY INFORMATION: Supplementary materials are available at 
+Bioinformatics online.
+
+DOI: 10.1093/bioinformatics/btk016
+PMID: 16368768 [Indexed for MEDLINE]

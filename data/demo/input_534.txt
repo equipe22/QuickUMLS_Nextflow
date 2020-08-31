@@ -1,0 +1,38 @@
+534. Hum Mutat. 2008 Mar;29(3):333-44. doi: 10.1002/humu.20629.
+
+CoagMDB: a database analysis of missense mutations within four conserved domains 
+in five vitamin K-dependent coagulation serine proteases using a text-mining 
+tool.
+
+Saunders RE(1), Perkins SJ.
+
+Author information:
+(1)Department of Biochemistry and Molecular Biology, University College London, 
+London, United Kingdom.
+
+Central repositories of mutations that combine structural, sequence, and 
+phenotypic information in related proteins will facilitate the diagnosis and 
+molecular understanding of diseases associated with them. Coagulation involves 
+the sequential activation of serine proteases and regulators in order to yield 
+stable blood clots while maintaining hemostasis. Five coagulation serine 
+proteases-factor VII (F7), factor IX (F9), factor X (F10), protein C (PROC), and 
+thrombin (F2)-exhibit high sequence similarities and all require vitamin K. All 
+five of these were incorporated into an interactive database of mutations named 
+CoagMDB (http://www.coagMDB.org; last accessed: 9 August 2007). The large number 
+of mutations involved (especially for factor IX) and the increasing problem of 
+out-of-date databases required the development of new database management tools. 
+A text mining tool automatically scans full-length references to identify and 
+extract mutations. High recall rates between 96 and 99% and precision rates of 
+87 to 93% were achieved. Text mining significantly reduces the time and 
+expertise required to maintain the databases and offers a solution to the 
+problem of locus-specific database management and upkeep. A total of 875 
+mutations were extracted from 1,279 literature sources. Of these, 116 correspond 
+to Gla domains, 86 to the N-terminal EGF domain, 73 to the C-terminal EGF 
+domain, and 477 to the serine protease domain. The combination of text mining 
+and consensus domain structures enables mutations to be correlated with 
+experimentally-measurable phenotypes based on either low protein levels (Type I) 
+or reduced functional activities (Type II), respectively. A tendency for the 
+conservation of phenotype with structural location was identified.
+
+DOI: 10.1002/humu.20629
+PMID: 18058827 [Indexed for MEDLINE]

@@ -1,0 +1,44 @@
+523. Int J Med Inform. 2019 Sep;129:388-393. doi: 10.1016/j.ijmedinf.2019.07.001. 
+Epub 2019 Jul 4.
+
+Feasibility of a voice-enabled automated platform for medical data collection: 
+CardioCube.
+
+Jadczyk T(1), Kiwic O(1), Khandwalla RM(2), Grabowski K(1), Rudawski S(1), 
+Magaczewski P(1), Benyahia H(1), Wojakowski W(1), Henry TD(3).
+
+Author information:
+(1)Research and Development Division, CardioCube Corp., Los Angeles, CA, United 
+States.
+(2)Cedars-Sinai Medical Center, Los Angeles, CA, United States.
+(3)The Carl and Edyth Lindner Center for Research and Education at The Christ 
+Hospital, Cincinnati, OH 45219, United States. Electronic address: 
+Tim.Henry@thechristhospital.com.
+
+AIM: A feasibility study was conducted to evaluate implementation of a 
+voice-enabled automated platform for collection of medical data from patients 
+with cardiovascular disease: CardioCube.
+METHODS: The study enrolled 22 individuals (10 males, 45.5%) including 9 
+patients with cardiovascular disease and 13 healthy participants. Utilizing (1) 
+voice-enabled patient registration software implemented on the Amazon Echo and 
+(2) web-based electronic health record (EHR) system, study participants verbally 
+answered a set of clinical questions. Primary endpoint: accuracy of ​the 
+​CardioCube system. Secondary endpoints: acceptability, usability and technical 
+performance. The study was performed at the Outpatient Cardiology Clinic, 
+Cedars-Sinai Medical Center, Los Angeles, CA, USA.
+RESULTS: The CardioCube system collected 432 data points with a high agreement 
+level between verbally provided data and corresponding EHR information (accuracy 
+97.51%). The CardioCube was able to automatically generate a summarized medical 
+report, which was instantly available for a doctor in the web-based EHR system. 
+Patients reported CardioCube was "easy to use". Applicability of the system was 
+graded excellent by the medical staff. A single session utilized less than 
+0.002% of available computational resources.
+CONCLUSION: CardioCube can collect, index and document medical data using a 
+voice interface. In this pilot study, CardioCube supported healthcare 
+professionals by performing time-consuming paperwork during patient 
+registration.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijmedinf.2019.07.001
+PMID: 31445282 [Indexed for MEDLINE]

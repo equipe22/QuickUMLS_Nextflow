@@ -1,0 +1,56 @@
+602. Eur J Surg Oncol. 2019 Jul;45(7):1163-1170. doi: 10.1016/j.ejso.2019.01.007. 
+Epub 2019 Jan 4.
+
+Implementation of Value Based Breast Cancer Care.
+
+van Egdom LSE(1), Lagendijk M(2), van der Kemp MH(3), van Dam JH(4), Mureau 
+MAM(5), Hazelzet JA(6), Koppert LB(2).
+
+Author information:
+(1)Department of Surgical Oncology, Erasmus MC Cancer Institute, University 
+Medical Center Rotterdam, Rotterdam, the Netherlands. Electronic address: 
+l.vanegdom@erasmusmc.nl.
+(2)Department of Surgical Oncology, Erasmus MC Cancer Institute, University 
+Medical Center Rotterdam, Rotterdam, the Netherlands.
+(3)Value Based HealthCare Strategy & Tactics, VDKMP, Amsterdam, the Netherlands.
+(4)Department of Surgical Oncology, Erasmus MC Cancer Institute, University 
+Medical Center Rotterdam, Rotterdam, the Netherlands; Department of Surgery, 
+Havenziekenhuis, Rotterdam, the Netherlands.
+(5)Department of Plastic and Reconstructive Surgery, Erasmus MC, Cancer 
+Institute, Rotterdam, the Netherlands.
+(6)Department of Public Health, Erasmus MC, University Medical Center Rotterdam, 
+Rotterdam, the Netherlands.
+
+Comment in
+    Eur J Surg Oncol. 2019 Jul;45(7):1299.
+    Eur J Surg Oncol. 2019 Jul;45(7):1300.
+
+PURPOSE: Adding value of care to patients is crucial for all stakeholders. The 
+use of both provider and patient reported outcome data was implemented in a 
+single academic breast cancer center. We describe the development of the 
+outcomes set, data integration within electronical health records (EHR) and 
+clinical use.
+METHODS: An Integrated Practice Unit (IPU) was constructed providing the full 
+care cycle for breast cancer patients. Provider reported outcomes and patient 
+reported outcomes (PROs) were defined, reflecting the entire cycle of care and 
+long-term sustainability of quality of life. Multidisciplinary provider and 
+patient perspectives were obtained via focus groups and surveys. Patient 
+pathways were redesigned in order to identify suitable opportunities for data 
+collection during the entire care cycle.
+RESULTS: A Standard Set for Breast Cancer Outcomes together with case-mix 
+variables and timelines was agreed upon within the IPU. A secure electronic 
+platform, directly linked to the EHR, was designed to measure PROs during the 
+outpatient phase. First year evaluation showed a decrease of response rates over 
+time, from 83.3% at baseline to 45.2% at 12 months after surgery. Patients 
+reacted positively to the use of PROMs in daily clinical cancer care.
+CONCLUSION: Assessment of patient reported as well as provider reported outcomes 
+was implemented within our standard of breast cancer care. For this, dedicated 
+resources, change of culture and practice, and improved knowledge and awareness 
+about Value-based healthcare (VBHC) were essential. Our proposed framework aims 
+to serve as a blueprint for implementation of VBHC in daily care.
+
+Copyright © 2019 Elsevier Ltd, BASO ~ The Association for Cancer Surgery, and 
+the European Society of Surgical Oncology. All rights reserved.
+
+DOI: 10.1016/j.ejso.2019.01.007
+PMID: 30638807 [Indexed for MEDLINE]

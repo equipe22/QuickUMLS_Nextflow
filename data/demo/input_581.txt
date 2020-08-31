@@ -1,0 +1,42 @@
+581. Front Oncol. 2019 May 22;9:375. doi: 10.3389/fonc.2019.00375. eCollection 2019.
+
+Electronic Health Record-Based Screening for Major Cancers: A 9-Year Experience 
+in Minhang District of Shanghai, China.
+
+He D(1), Xu W(2)(3), Su H(1), Li W(1), Zhou J(1), Yao B(1), Xu D(1), He N(2)(3).
+
+Author information:
+(1)Center for Disease Control and Prevention of Minhang District, Shanghai, 
+China.
+(2)Department of Epidemiology, School of Public Health, Fudan University, 
+Shanghai, China.
+(3)Key Laboratory of Public Health Safety, Ministry of Education, Fudan 
+University, Shanghai, China.
+
+Background: An electronic health record (e-HR) system has been developed in 
+Minhang District of Shanghai, China, since 2005, making it convenient for local 
+health institutions to provide integrative and comprehensive health care and 
+management for major diseases. Methods: In 2008, an e-HR-based cancer prevention 
+program was initiated to screen multiple cancers, including colorectal, gastric, 
+liver, lung, cervical, and breast cancers, and provide subsequent health 
+education and health management to cancer patients and high-risk individuals. 
+This study was designed in prospective analysis, based on the constructive 
+analysis of key information, observation of cancer screening and healthcare 
+processes and organizations, and stages of cancers detected by the e-HR-based 
+programs. Results: From 2008 to 2016, health education was conducted for over 5 
+million attendances, and more than 3 million screening tests were performed for 
+eligible residents over 40 years old. A total of 2,948 cancer cases were 
+detected, accounting for 13.3% of all newly diagnosed cancers in the district 
+during the 9-year period. Thirty point seven percent detected cancer cases were 
+at the early stage, significantly higher than the 22.9% in cases identified by 
+e-HR-based follow-up and 13.8% in cases diagnosed due to signs or symptoms. More 
+than 136,000 residents were identified as individuals at high risk of cancer and 
+subject to sustainable clinical follow-up and health management. Conclusions: 
+The successful application of e-HR system in cancer prevention and control in 
+Minhang district of Shanghai, China, implies that the system may act as an 
+extendable and sustainable infrastructure for comprehensive health care and 
+services for a broad spectrum of diseases and health events.
+
+DOI: 10.3389/fonc.2019.00375
+PMCID: PMC6538689
+PMID: 31179238

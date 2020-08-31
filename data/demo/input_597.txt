@@ -1,0 +1,29 @@
+597. AMIA Annu Symp Proc. 2011;2011:960-8. Epub 2011 Oct 22.
+
+OpenMRS, a global medical records system collaborative: factors influencing 
+successful implementation.
+
+Mohammed-Rajput NA(1), Smith DC, Mamlin B, Biondich P, Doebbeling BN; Open MRS 
+Collaborative Investigators.
+
+Author information:
+(1)Regenstrief Institute, Inc., Indianapolis, IN, USA.
+
+OpenMRS is an open-source, robust electronic health record (EHR) platform that 
+is supported by a large global network and used in over forty countries. We 
+explored what factors lead to successful implementation of OpenMRS in resource 
+constrained settings. Data sources included in-person and telephone key 
+informant interviews, focus groups and responses to an electronic survey from 10 
+sites in 7 countries. Qualitative data was coded through independent coding, 
+discussion and consensus. The most common perceived benefits of implementation 
+were for providing clinical care, reporting to funders, managing operations and 
+research. Successful implementation factors include securing adequate 
+infrastructure, and sociotechnical system factors, particularly adequate 
+staffing, computers, and ability to use software. Strategic and tactical 
+planning were successful strategies, including understanding and addressing the 
+infrastructure and human costs involved, training or hiring personnel 
+technically capable of modifying the software and integrating it into the daily 
+work flow to meet clinicians' needs.
+
+PMCID: PMC3243141
+PMID: 22195155 [Indexed for MEDLINE]

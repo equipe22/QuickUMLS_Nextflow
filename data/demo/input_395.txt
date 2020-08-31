@@ -1,0 +1,52 @@
+395. BMC Med Res Methodol. 2011 Apr 10;11:43. doi: 10.1186/1471-2288-11-43.
+
+Implementation of workflow engine technology to deliver basic clinical decision 
+support functionality.
+
+Huser V(1), Rasmussen LV, Oberg R, Starren JB.
+
+Author information:
+(1)Biomedical Informatics Research Center, Marshfield Clinic, Marshfield, WI, 
+USA. vojtech.huser@gmail.com
+
+BACKGROUND: Workflow engine technology represents a new class of software with 
+the ability to graphically model step-based knowledge. We present application of 
+this novel technology to the domain of clinical decision support. Successful 
+implementation of decision support within an electronic health record (EHR) 
+remains an unsolved research challenge. Previous research efforts were mostly 
+based on healthcare-specific representation standards and execution engines and 
+did not reach wide adoption. We focus on two challenges in decision support 
+systems: the ability to test decision logic on retrospective data prior 
+prospective deployment and the challenge of user-friendly representation of 
+clinical logic.
+RESULTS: We present our implementation of a workflow engine technology that 
+addresses the two above-described challenges in delivering clinical decision 
+support. Our system is based on a cross-industry standard of XML (extensible 
+markup language) process definition language (XPDL). The core components of the 
+system are a workflow editor for modeling clinical scenarios and a workflow 
+engine for execution of those scenarios. We demonstrate, with an open-source and 
+publicly available workflow suite, that clinical decision support logic can be 
+executed on retrospective data. The same flowchart-based representation can also 
+function in a prospective mode where the system can be integrated with an EHR 
+system and respond to real-time clinical events. We limit the scope of our 
+implementation to decision support content generation (which can be EHR system 
+vendor independent). We do not focus on supporting complex decision support 
+content delivery mechanisms due to lack of standardization of EHR systems in 
+this area. We present results of our evaluation of the flowchart-based graphical 
+notation as well as architectural evaluation of our implementation using an 
+established evaluation framework for clinical decision support architecture.
+CONCLUSIONS: We describe an implementation of a free workflow technology 
+software suite (available at http://code.google.com/p/healthflow) and its 
+application in the domain of clinical decision support. Our implementation 
+seamlessly supports clinical logic testing on retrospective data and offers a 
+user-friendly knowledge representation paradigm. With the presented software 
+implementation, we demonstrate that workflow engine technology can provide a 
+decision support platform which evaluates well against an established clinical 
+decision support architecture evaluation framework. Due to cross-industry usage 
+of workflow engine technology, we can expect significant future functionality 
+enhancements that will further improve the technology's capacity to serve as a 
+clinical decision support platform.
+
+DOI: 10.1186/1471-2288-11-43
+PMCID: PMC3079703
+PMID: 21477364 [Indexed for MEDLINE]

@@ -1,0 +1,44 @@
+305. Eur J Clin Pharmacol. 2020 Sep;76(9):1291-1299. doi: 10.1007/s00228-020-02898-w. 
+Epub 2020 Jun 3.
+
+Aggregation and analysis of indication-symptom relationships for drugs approved 
+in the USA.
+
+Punyala A(1), Lankapalli R(2), Hindman D(3), Racz R(4).
+
+Author information:
+(1)Weill Cornell Medical College, New York, NY, USA.
+(2)Division of Applied Regulatory Science, US Food and Drug Administration, 
+Silver Spring, MD, USA.
+(3)Emergency Department, Phoenix Children's Hospital, Phoenix, AZ, USA.
+(4)Division of Applied Regulatory Science, US Food and Drug Administration, 
+Silver Spring, MD, USA. Rebecca.Racz@fda.hhs.gov.
+
+PURPOSE: Drug indications and disease symptoms often confound adverse event 
+reports in real-world datasets, including electronic health records and reports 
+in the FDA Adverse Event Reporting System (FAERS). A thorough, standardized set 
+of indications and symptoms is needed to identify these confounders in such 
+datasets for drug research and safety assessment. The aim of this study is to 
+create a comprehensive list of drug-indication associations and disease-symptom 
+associations using multiple resources, including existing databases and natural 
+language processing.
+METHODS: Drug indications for drugs approved in the USA were extracted from two 
+databases, RxNorm and Side Effect Resource (SIDER). Symptoms for these 
+indications were extracted from MedlinePlus and using natural language 
+processing from PubMed abstracts.
+RESULTS: A total of 1361 unique drugs, 1656 unique indications, and 2201 unique 
+symptoms were extracted from a wide variety of MedDRA System Organ Classes. 
+Text-mining precision was maximized at 0.65 by examining Term Frequency Inverse 
+Document Frequency (TF-IDF) scores of the disease-symptom associations.
+CONCLUSION: The drug-indication associations and disease-symptom associations 
+collected in this study may be useful in identifying confounders in other 
+datasets, such as safety reports. With further refinement and additional drugs, 
+indications, and symptoms, this dataset may become a quality resource for 
+disease symptoms.
+
+DOI: 10.1007/s00228-020-02898-w
+PMCID: PMC7419351
+PMID: 32495081
+
+Conflict of interest statement: RR’s spouse is an employee of AstraZeneca. All 
+other authors declare no conflict of interest.

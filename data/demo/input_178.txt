@@ -1,0 +1,38 @@
+178. BMC Med Inform Decis Mak. 2012 Apr 30;12 Suppl 1(Suppl 1):S5. doi: 
+10.1186/1472-6947-12-S1-S5.
+
+Semantic text mining support for lignocellulose research.
+
+Meurs MJ(1), Murphy C, Morgenstern I, Butler G, Powlowski J, Tsang A, Witte R.
+
+Author information:
+(1)Department of Computer Science and Software Engineering, Concordia 
+University, Montréal, QC, Canada. mjmeurs@encs.concordia.ca
+
+BACKGROUND: Biofuels produced from biomass are considered to be promising 
+sustainable alternatives to fossil fuels. The conversion of lignocellulose into 
+fermentable sugars for biofuels production requires the use of enzyme cocktails 
+that can efficiently and economically hydrolyze lignocellulosic biomass. As many 
+fungi naturally break down lignocellulose, the identification and 
+characterization of the enzymes involved is a key challenge in the research and 
+development of biomass-derived products and fuels. One approach to meeting this 
+challenge is to mine the rapidly-expanding repertoire of microbial genomes for 
+enzymes with the appropriate catalytic properties.
+RESULTS: Semantic technologies, including natural language processing, 
+ontologies, semantic Web services and Web-based collaboration tools, promise to 
+support users in handling complex data, thereby facilitating knowledge-intensive 
+tasks. An ongoing challenge is to select the appropriate technologies and 
+combine them in a coherent system that brings measurable improvements to the 
+users. We present our ongoing development of a semantic infrastructure in 
+support of genomics-based lignocellulose research. Part of this effort is the 
+automated curation of knowledge from information on fungal enzymes that is 
+available in the literature and genome resources.
+CONCLUSIONS: Working closely with fungal biology researchers who manually curate 
+the existing literature, we developed ontological natural language processing 
+pipelines integrated in a Web-based interface to assist them in two main tasks: 
+mining the literature for relevant knowledge, and at the same time providing 
+rich and semantically linked information.
+
+DOI: 10.1186/1472-6947-12-S1-S5
+PMCID: PMC3339392
+PMID: 22595090 [Indexed for MEDLINE]

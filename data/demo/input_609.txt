@@ -1,0 +1,50 @@
+609. Elife. 2020 Jul 7;9:e58227. doi: 10.7554/eLife.58227.
+
+Augmented curation of clinical notes from a massive EHR system reveals symptoms 
+of impending COVID-19 diagnosis.
+
+Wagner T(#)(1), Shweta F(#)(2), Murugadoss K(1), Awasthi S(1), Venkatakrishnan 
+AJ(1), Bade S(3), Puranik A(1), Kang M(1), Pickering BW(2), O'Horo JC(2), Bauer 
+PR(2), Razonable RR(2), Vergidis P(2), Temesgen Z(2), Rizza S(2), Mahmood M(2), 
+Wilson WR(2), Challener D(2), Anand P(3), Liebers M(1), Doctor Z(1), Silvert 
+E(1), Solomon H(1), Anand A(3), Barve R(3), Gores G(2), Williams AW(2), Morice 
+WG 2nd(2)(4), Halamka J(2), Badley A(2), Soundararajan V(1).
+
+Author information:
+(1)nference, Cambridge, United States.
+(2)Mayo Clinic, Rochester, United States.
+(3)nference Labs, Bangalore, India.
+(4)Mayo Clinic Laboratories, Rochester, United States.
+(#)Contributed equally
+
+Understanding temporal dynamics of COVID-19 symptoms could provide fine-grained 
+resolution to guide clinical decision-making. Here, we use deep neural networks 
+over an institution-wide platform for the augmented curation of clinical notes 
+from 77,167 patients subjected to COVID-19 PCR testing. By contrasting 
+Electronic Health Record (EHR)-derived symptoms of COVID-19-positive (COVIDpos; 
+n = 2,317) versus COVID-19-negative (COVIDneg; n = 74,850) patients for the week 
+preceding the PCR testing date, we identify anosmia/dysgeusia (27.1-fold), 
+fever/chills (2.6-fold), respiratory difficulty (2.2-fold), cough (2.2-fold), 
+myalgia/arthralgia (2-fold), and diarrhea (1.4-fold) as significantly amplified 
+in COVIDpos over COVIDneg patients. The combination of cough and fever/chills 
+has 4.2-fold amplification in COVIDpos patients during the week prior to PCR 
+testing, in addition to anosmia/dysgeusia, constitutes the earliest EHR-derived 
+signature of COVID-19. This study introduces an Augmented Intelligence platform 
+for the real-time synthesis of institutional biomedical knowledge. The platform 
+holds tremendous potential for scaling up curation throughput, thus enabling 
+EHR-powered early disease diagnosis.
+
+© 2020, Wagner et al.
+
+DOI: 10.7554/eLife.58227
+PMCID: PMC7410498
+PMID: 32633720 [Indexed for MEDLINE]
+
+Conflict of interest statement: TW, KM, SA, AV, SB, AP, MK, PA, ML, ZD, ES, HS, 
+AA, RB, VS is an employee of nference and has financial interests in the 
+company. FS, BP, JO, PB, RR, PV, ZT, SR, MM, WW, DC, GG, AW, WM, JH, AB has a 
+Financial Conflict of Interest in technology used in the research and with Mayo 
+Clinic may stand to gain financially from the successful outcome of the 
+research. This research has been reviewed by the Mayo Clinic Conflict of 
+Interest Review Board and is being conducted in compliance with Mayo Clinic 
+Conflict of Interest policies.

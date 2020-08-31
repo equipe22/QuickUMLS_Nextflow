@@ -1,0 +1,35 @@
+504. Bioinformatics. 2004 Nov 22;20(17):3206-13. doi: 10.1093/bioinformatics/bth386. 
+Epub 2004 Jul 1.
+
+BioRAT: extracting biological information from full-length papers.
+
+Corney DP(1), Buxton BF, Langdon WB, Jones DT.
+
+Author information:
+(1)Bioinformatics Unit, Department of Computer Science, University College 
+London, Gower Street, London, WC1E 6BT, UK. d.corney@cs.ucl.ac.uk
+
+MOTIVATION: Converting the vast quantity of free-format text found in journals 
+into a concise, structured format makes the researcher's quest for information 
+easier. Recently, several information extraction systems have been developed 
+that attempt to simplify the retrieval and analysis of biological and medical 
+data. Most of this work has used the abstract alone, owing to the convenience of 
+access and the quality of data. Abstracts are generally available through 
+central collections with easy direct access (e.g. PubMed). The full-text papers 
+contain more information, but are distributed across many locations (e.g. 
+publishers' web sites, journal web sites and local repositories), making access 
+more difficult. In this paper, we present BioRAT, a new information extraction 
+(IE) tool, specifically designed to perform biomedical IE, and which is able to 
+locate and analyse both abstracts and full-length papers. BioRAT is a Biological 
+Research Assistant for Text mining, and incorporates a document search ability 
+with domain-specific IE.
+RESULTS: We show first, that BioRAT performs as well as existing systems, when 
+applied to abstracts; and second, that significantly more information is 
+available to BioRAT through the full-length papers than via the abstracts alone. 
+Typically, less than half of the available information is extracted from the 
+abstract, with the majority coming from the body of each paper. Overall, BioRAT 
+recalled 20.31% of the target facts from the abstracts with 55.07% precision, 
+and achieved 43.6% recall with 51.25% precision on full-length papers.
+
+DOI: 10.1093/bioinformatics/bth386
+PMID: 15231534 [Indexed for MEDLINE]

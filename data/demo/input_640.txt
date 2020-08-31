@@ -1,0 +1,90 @@
+640. BMC Health Serv Res. 2019 Sep 11;19(1):659. doi: 10.1186/s12913-019-4491-5.
+
+Design of MARQUIS2: study protocol for a mentored implementation study of an 
+evidence-based toolkit to improve patient safety through medication 
+reconciliation.
+
+Mixon AS(1), Smith GR Jr(2), Mallouk M(3), Nieva HR(4), Kripalani S(5), Rennke 
+S(6), Chu E(7), Sridharan A(8), Dalal A(4), Mueller S(4), Williams M(9), 
+Wetterneck T(10), Stein JM(11), Stolldorf D(12), Howell E(13), Orav J(4), 
+Labonville S(4), Levin B(4), Yoon C(4), Gresham M(4), Goldstein J(14), Platt 
+S(3), Nyenpan C(3), Schnipper JL(4); MARQUIS2 Site Leaders; MARQUIS2 Study 
+Group.
+
+Collaborators: Sen S, Badr S, Murphy M, Vasilopoulos C, Vlasimsky T, Roussel C, 
+Arole O, Berescu LD, Arifuddowla A, Main H, Pickle S, Singleton C, Asplund B, 
+Delrue A, Forgione A, Shipman C, Brunetti L, Ahmed H, Gonzales A, Molla M, 
+Bojerek S, Nguyen A, El-Kareh R, Koenig K, Succari L, Kincaid S, Proctor P, 
+Pendleton R, Baughman A, Boothe K, Szablowski K, Akande O, Tichy E, Zheng C, 
+Centafont R, Jahrstorfer R, Jaser L, John I, Curtin M, Swindler J, Marcus J, 
+Osten R, Yaw T, Al-Jammali Z, Doherty N, Hamilton B, Hugais M, Lee S, Sabatini 
+P, Eabisa E, Mello J, Burton J, Fink E, Biondo A, Huynh T, Kormorny K, Khoury A, 
+Ruf K, Pierce D, Lowther C, Edholm K, Mullin S, Murphy N, Norstrom J, Driscoll 
+L, Cabie M, Cadorette A, John S, D'Silva A, Picot-Vierra L.
+
+Author information:
+(1)GRECC, VA Tennessee Valley Healthcare System and Section of Hospital 
+Medicine, Vanderbilt University Medical Center, Suite 450, 2525 West End Avenue, 
+Nashville, TN, 37203, USA. Amanda.S.Mixon@vumc.org.
+(2)Hospital Medicine, Northwestern Feinberg School of Medicine, Chicago, IL, 
+USA.
+(3)Center for Quality Improvement, Society of Hospital Medicine, Philadelphia, 
+PA, USA.
+(4)Division of General Medicine, Brigham and Women's Hospital, Harvard Medical 
+School, Boston, MA, USA.
+(5)Section of Hospital Medicine, Vanderbilt University Medical Center, 
+Nashville, TN, USA.
+(6)Division of Hospital Medicine, University of California San Francisco Medical 
+Center, San Francisco, CA, USA.
+(7)Division of Hospital Medicine, Parkland Health and Hospital System and 
+Department of Internal Medicine, University of Texas Southwestern School of 
+Medicine, Dallas, TX, USA.
+(8)Howard County General Hospital, Columbia, MD, USA.
+(9)Department of Internal Medicine, University of Kentucky, Lexington, KY, USA.
+(10)Division of General Internal Medicine, University of Wisconsin, Madison, WI, 
+USA.
+(11)1Unit, Atlanta, GA, USA.
+(12)School of Nursing, Vanderbilt University, Nashville, TN, USA.
+(13)Division of Collaborative Inpatient Medicine Service, Johns Hopkins Bayview 
+Medical Center, Baltimore, MD, USA.
+(14)Center for Hospital Innovation and Improvement, Society of Hospital 
+Medicine, Philadelphia, PA, USA.
+
+BACKGROUND: The first Multi-center Medication Reconciliation Quality Improvement 
+Study (MARQUIS1) demonstrated that implementation of a medication reconciliation 
+best practices toolkit decreased total unintentional medication discrepancies in 
+five hospitals. We sought to implement the MARQUIS toolkit in more diverse 
+hospitals, incorporating lessons learned from MARQUIS1.
+METHODS: MARQUIS2 is a pragmatic, mentored implementation QI study which 
+collected clinical and implementation outcomes. Sites implemented a revised 
+toolkit, which included interventions from these domains: 1) best possible 
+medication history (BPMH)-taking; 2) discharge medication reconciliation and 
+patient/caregiver counseling; 3) identifying and defining clinician roles and 
+responsibilities; 4) risk stratification; 5) health information technology 
+improvements; 6) improved access to medication sources; 7) identification and 
+correction of real-time discrepancies; and, 8) stakeholder engagement. Eight 
+hospitalists mentored the sites via one site visit and monthly phone calls over 
+the 18-month intervention period. Each site's local QI team assessed 
+opportunities to improve, implemented at least one of the 17 toolkit components, 
+and accessed a variety of resources (e.g. implementation manual, webinars, and 
+workshops). Outcomes to be assessed will include unintentional medication 
+discrepancies per patient.
+DISCUSSION: A mentored multi-center medication reconciliation QI initiative 
+using a best practices toolkit was successfully implemented across 18 medical 
+centers. The 18 participating sites varied in size, teaching status, location, 
+and electronic health record (EHR) platform. We introduce barriers to 
+implementation and lessons learned from MARQUIS1, such as the importance of 
+utilizing dedicated, trained medication history takers, simple EHR solutions, 
+clarifying roles and responsibilities, and the input of patients and families 
+when improving medication reconciliation.
+
+DOI: 10.1186/s12913-019-4491-5
+PMCID: PMC6737715
+PMID: 31511070 [Indexed for MEDLINE]
+
+Conflict of interest statement: Dr. Schnipper has received funding from 
+Mallinckrodt Pharmaceuticals for an investigated-initiated study of 
+opioid-related adverse drug events and from Portola Pharmaceuticals for an 
+investigator-initiated study of inpatients who decline subcutaneous venous 
+thromboembolism prophylaxis. No other authors have conflicts of interest or 
+financial disclosures.

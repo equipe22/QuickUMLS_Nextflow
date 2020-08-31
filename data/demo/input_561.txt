@@ -1,0 +1,95 @@
+561. Using nationwide ‘big data’ from linked electronic health records to help 
+improve outcomes in cardiovascular diseases: 33 studies using methods from 
+epidemiology, informatics, economics and social science in the ClinicAl disease 
+research using LInked Bespoke studies and Electronic health Records (CALIBER) 
+programme.
+
+Hemingway H(1)(2), Feder GS(3), Fitzpatrick NK(1)(2), Denaxas S(1)(2), Shah 
+AD(1)(2), Timmis AD(2)(4)(5).
+
+Southampton (UK): NIHR Journals Library; 2017 Jan.
+Programme Grants for Applied Research.
+
+Author information:
+(1)Institute of Health Informatics, University College London, London, UK
+(2)Farr Institute of Health Informatics Research, University College London, 
+London, UK
+(3)Centre for Academic Primary Care, School of Social and Community Medicine, 
+University of Bristol, Bristol, UK
+(4)Barts Health NHS Trust, London, UK
+(5)Farr Institute of Health Informatics Research, Queen Mary University of 
+London, London, UK
+
+BACKGROUND: Electronic health records (EHRs), when linked across primary and 
+secondary care and curated for research use, have the potential to improve our 
+understanding of care quality and outcomes.
+OBJECTIVE: To evaluate new opportunities arising from linked EHRs for improving 
+quality of care and outcomes for patients at risk of or with coronary disease 
+across the patient journey.
+DESIGN: Epidemiological cohort, health informatics, health economics and 
+ethnographic approaches were used.
+SETTING: 230 NHS hospitals and 226 general practices in England and Wales.
+PARTICIPANTS: Up to 2 million initially healthy adults, 100,000 people with 
+stable coronary artery disease (SCAD) and up to 300,000 patients with acute 
+coronary syndrome.
+MAIN OUTCOME MEASURES: Quality of care, fatal and non-fatal cardiovascular 
+disease (CVD) events.
+DATA PLATFORM AND METHODS: We created a novel research platform [ClinicAl 
+disease research using LInked Bespoke studies and Electronic health Records 
+(CALIBER)] based on linkage of four major sources of EHR data in primary care 
+and national registries. We carried out 33 complementary studies within the 
+CALIBER framework. We developed a web-based clinical decision support system 
+(CDSS) in hospital chest pain clinics. We established a novel consented 
+prognostic clinical cohort of SCAD patients.
+RESULTS: CALIBER was successfully established as a valid research platform based 
+on linked EHR data in nearly 2 million adults with > 600 EHR phenotypes 
+implemented on the web portal (see https://caliberresearch.org/portal). Despite 
+national guidance, key opportunities for investigation and treatment were missed 
+across the patient journey, resulting in a worse prognosis for patients in the 
+UK compared with patients in health systems in other countries. Our novel, 
+contemporary, high-resolution studies showed heterogeneous associations for CVD 
+risk factors across CVDs. The CDSS did not alter the decision-making behaviour 
+of clinicians in chest pain clinics. Prognostic models using real-world data 
+validly discriminated risk of death and events, and were used in 
+cost-effectiveness decision models.
+CONCLUSIONS: Emerging ‘big data’ opportunities arising from the linkage of 
+records at different stages of a patient’s journey are vital to the generation 
+of actionable insights into the diagnosis, risk stratification and 
+cost-effective treatment of people at risk of, or with, CVD.
+FUTURE WORK: The vast majority of NHS data remain inaccessible to research and 
+this hampers efforts to improve efficiency and quality of care and to drive 
+innovation. We propose three priority directions for further research. First, 
+there is an urgent need to ‘unlock’ more detailed data within hospitals for the 
+scale of the UK’s 65 million population. Second, there is a need for scaled 
+approaches to using EHRs to design and carry out trials, and interpret the 
+implementation of trial results. Third, large-scale, disease agnostic genetic 
+and biological collections linked to such EHRs are required in order to deliver 
+precision medicine and to innovate discovery.
+STUDY REGISTRATION: CALIBER studies are registered as follows: study 2 – 
+NCT01569139, study 4 – NCT02176174 and NCT01164371, study 5 – NCT01163513, 
+studies 6 and 7 – NCT01804439, study 8 – NCT02285322, and studies 26–29 – 
+NCT01162187. Optimising the Management of Angina is registered as Current 
+Controlled Trials ISRCTN54381840.
+FUNDING: The National Institute for Health Research (NIHR) Programme Grants for 
+Applied Research programme (RP-PG-0407-10314) (all 33 studies) and additional 
+funding from the Wellcome Trust (study 1), Medical Research Council Partnership 
+grant (study 3), Servier (study 16), NIHR Research Methods Fellowship funding 
+(study 19) and NIHR Research for Patient Benefit (study 33).
+
+The CALIBER programme linked four sources of electronic health record data to 
+create a research platform and used that to identify ways of improving care for 
+people at risk of, or with, cardiovascular diseases.
+
+Copyright © Queen’s Printer and Controller of HMSO 2017. This work was produced 
+by Hemingway et al. under the terms of a commissioning contract issued by the 
+Secretary of State for Health. This issue may be freely reproduced for the 
+purposes of private research and study and extracts (or indeed, the full report) 
+may be included in professional journals provided that suitable acknowledgement 
+is made and the reproduction is not associated with any form of advertising. 
+Applications for commercial reproduction should be addressed to: NIHR Journals 
+Library, National Institute for Health Research, Evaluation, Trials and Studies 
+Coordinating Centre, Alpha House, University of Southampton Science Park, 
+Southampton SO16 7NS, UK.
+
+DOI: 10.3310/pgfar05040
+PMID: 28151614

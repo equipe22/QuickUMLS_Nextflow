@@ -1,0 +1,24 @@
+434. Rev Med Suisse. 2015 May 13;11(474):1069-73.
+
+["MonDossierMedical.ch": an efficient tool for sharing medical data between 
+patients and doctors].
+
+[Article in French]
+
+Rosemberg A, Plaut O, Sepulchre X, Spahni S.
+
+"MonDossierMedical.ch" is a project led by the canton of Geneva, making it 
+possible for every patient to access his own electronic health record (EHR) and 
+to share the medical files with his doctors. It was introduced across the canton 
+in mid-2013, and provided to all patients free of charge. it is based on the 
+first Swiss-wide e-health-compliant pilot project "e-toile". The canton of 
+Geneva developed "e-toile" as a public-private partnership together with Swiss 
+Post and it was launched in 2009 in some of the canton's municipalities. Back 
+then, Geneva's EHR represented the first Swiss attempt to link all healthcare 
+professionals in the treatment chain. Today, it serves more than 4,600 patients 
+and 380 physicians. This number is growing regularly, as well as the health care 
+institutions (physicians, private hospitals, labs) joining the community. Added 
+value tools, such as a shared care plan and a shared medication list will make 
+the platform even more attractive.
+
+PMID: 26118230 [Indexed for MEDLINE]

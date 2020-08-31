@@ -1,0 +1,43 @@
+535. EGEMS (Wash DC). 2013 Sep 10;1(1):1025. doi: 10.13063/2327-9214.1025. 
+eCollection 2013.
+
+Preparing Electronic Clinical Data for Quality Improvement and Comparative 
+Effectiveness Research: The SCOAP CERTAIN Automation and Validation Project.
+
+Devine EB(1), Capurro D(1), van Eaton E(1), Alfonso-Cristancho R(1), Devlin 
+A(1), Yanez ND(1), Yetisgen-Yildiz M(1), Flum DR(1), Tarczy-Hornoch P(1).
+
+Author information:
+(1)University of Washington.
+
+BACKGROUND: The field of clinical research informatics includes creation of 
+clinical data repositories (CDRs) used to conduct quality improvement (QI) 
+activities and comparative effectiveness research (CER). Ideally, CDR data are 
+accurately and directly abstracted from disparate electronic health records 
+(EHRs), across diverse health-systems.
+OBJECTIVE: Investigators from Washington State's Surgical Care Outcomes and 
+Assessment Program (SCOAP) Comparative Effectiveness Research Translation 
+Network (CERTAIN) are creating such a CDR. This manuscript describes the 
+automation and validation methods used to create this digital infrastructure.
+METHODS: SCOAP is a QI benchmarking initiative. Data are manually abstracted 
+from EHRs and entered into a data management system. CERTAIN investigators are 
+now deploying Caradigm's Amalga™ tool to facilitate automated abstraction of 
+data from multiple, disparate EHRs. Concordance is calculated to compare data 
+automatically to manually abstracted. Performance measures are calculated 
+between Amalga and each parent EHR. Validation takes place in repeated loops, 
+with improvements made over time. When automated abstraction reaches the current 
+benchmark for abstraction accuracy - 95% - itwill 'go-live' at each site.
+PROGRESS TO DATE: A technical analysis was completed at 14 sites. Five sites are 
+contributing; the remaining sites prioritized meeting Meaningful Use criteria. 
+Participating sites are contributing 15-18 unique data feeds, totaling 13 
+surgical registry use cases. Common feeds are registration, laboratory, 
+transcription/dictation, radiology, and medications. Approximately 50% of 1,320 
+designated data elements are being automatically abstracted-25% from structured 
+data; 25% from text mining.
+CONCLUSION: In semi-automating data abstraction and conducting a rigorous 
+validation, CERTAIN investigators will semi-automate data collection to conduct 
+QI and CER, while advancing the Learning Healthcare System.
+
+DOI: 10.13063/2327-9214.1025
+PMCID: PMC4371452
+PMID: 25848565

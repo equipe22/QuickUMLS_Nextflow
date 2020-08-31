@@ -1,0 +1,26 @@
+205. BMC Med Inform Decis Mak. 2012 Apr 30;12 Suppl 1(Suppl 1):S3. doi: 
+10.1186/1472-6947-12-S1-S3.
+
+ASCOT: a text mining-based web-service for efficient search and assisted 
+creation of clinical trials.
+
+Korkontzelos I(1), Mu T, Ananiadou S.
+
+Author information:
+(1)National Centre for Text Mining & School of Computer Science, The University 
+of Manchester, Manchester M1 7DN, UK. Ioannis.Korkontzelos@manchester.ac.uk
+
+Clinical trials are mandatory protocols describing medical research on humans 
+and among the most valuable sources of medical practice evidence. Searching for 
+trials relevant to some query is laborious due to the immense number of existing 
+protocols. Apart from search, writing new trials includes composing detailed 
+eligibility criteria, which might be time-consuming, especially for new 
+researchers. In this paper we present ASCOT, an efficient search application 
+customised for clinical trials. ASCOT uses text mining and data mining methods 
+to enrich clinical trials with metadata, that in turn serve as effective tools 
+to narrow down search. In addition, ASCOT integrates a component for 
+recommending eligibility criteria based on a set of selected protocols.
+
+DOI: 10.1186/1472-6947-12-S1-S3
+PMCID: PMC3339391
+PMID: 22595088 [Indexed for MEDLINE]

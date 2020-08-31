@@ -1,0 +1,20 @@
+493. Medinfo. 1995;8 Pt 2:1656.
+
+LUCID: a semi-automated ICD-9 encoding system.
+
+Michel PA(1), Lovis C, Baud R.
+
+Author information:
+(1)Geneva University Hospital, Switzerland.
+
+The natural language approach to diagnosis encoding will certainly become a 
+widespread technique during the second half of this decade. Accessing standard 
+codes by numbers and keywords will be more and more considered a loss of time 
+and efficiency. We present a demonstration of a natural language based encoding 
+system for ICD, called LUCID, which considerably alleviates the burden of coding 
+with ICD classification and enhances the quality of the encoded list of 
+diagnoses. This tool, delivered on a PC platform, is very convivial and provides 
+a versatile interface to any existing application based on Microsoft Windows 
+standards.
+
+PMID: 8591529 [Indexed for MEDLINE]

@@ -1,0 +1,27 @@
+233. Stud Health Technol Inform. 2015;216:45-9.
+
+Towards the Implementation of an openEHR-based Open Source EHR Platform (a 
+vision paper).
+
+Pazos Gutiérrez P(1).
+
+Author information:
+(1)openEHR en Español, Asociación Chilena de Informática en Salud, CaboLabs.
+
+Healthcare Information Systems are a big business. Currently there is an 
+explosion of EHR/EMR products available on the market, and the best tools are 
+really expensive. Many developing countries and healthcare providers cannot 
+access such tools, and for those who can, there is not a clear strategy for the 
+evolution, scaling, and cost of these electronic health products. The lack of 
+standard-based implementations conduct to the creation of isolated information 
+silos that cannot be exploited (i.e. shared between providers to promote a 
+holistic view of each patient's medical history). This paper exposes the main 
+elements behind a Standard-based Open Source EHR Platform that is future-proof 
+and allows to evolve and scale with minimal cost. The proposed EHR Architecture 
+is based on openEHR specifications, adding elements emerged from research and 
+development experiences, leading to a design that can be implemented in any 
+modern technology. Different implementations will be interoperable by design. 
+This Platform will leverage contexts of scarce resources, reusing clinical 
+knowledge, a common set of software components and services.
+
+PMID: 26262007 [Indexed for MEDLINE]

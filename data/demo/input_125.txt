@@ -1,0 +1,37 @@
+125. Drug Discov Today. 2016 May;21(5):826-35. doi: 10.1016/j.drudis.2016.03.006. 
+Epub 2016 Mar 12.
+
+Application of an automated natural language processing (NLP) workflow to enable 
+federated search of external biomedical content in drug discovery and 
+development.
+
+McEntire R(1), Szalkowski D(2), Butler J(3), Kuo MS(2), Chang M(2), Chang M(3), 
+Freeman D(4), McQuay S(5), Patel J(2), McGlashen M(2), Cornell WD(6), Xu JJ(2).
+
+Author information:
+(1)Knowledge Discovery/Knowledge Management, Merck & Co., USA. Electronic 
+address: robin_mcentire@merck.com.
+(2)Knowledge Discovery/Knowledge Management, Merck & Co., USA.
+(3)Linguamatics Solutions, USA.
+(4)Informatics IT, Merck & Co., USA.
+(5)Linguamatics Limited, UK.
+(6)Knowledge Discovery/Knowledge Management, Merck & Co., USA. Electronic 
+address: wdcornell@yahoo.com.
+
+External content sources such as MEDLINE(®), National Institutes of Health (NIH) 
+grants and conference websites provide access to the latest breaking biomedical 
+information, which can inform pharmaceutical and biotechnology company pipeline 
+decisions. The value of the sites for industry, however, is limited by the use 
+of the public internet, the limited synonyms, the rarity of batch searching 
+capability and the disconnected nature of the sites. Fortunately, many sites now 
+offer their content for download and we have developed an automated internal 
+workflow that uses text mining and tailored ontologies for programmatic search 
+and knowledge extraction. We believe such an efficient and secure approach 
+provides a competitive advantage to companies needing access to the latest 
+information for a range of use cases and complements manually curated commercial 
+sources.
+
+Copyright © 2016. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.drudis.2016.03.006
+PMID: 26979546 [Indexed for MEDLINE]

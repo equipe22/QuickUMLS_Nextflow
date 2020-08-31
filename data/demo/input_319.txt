@@ -1,0 +1,42 @@
+319. FASEB J. 2013 Sep;27(9):3437-45. doi: 10.1096/fj.12-222653. Epub 2013 May 22.
+
+Anti-interleukin-5 and multiple autoantibodies are associated with human 
+atherosclerotic diseases and serum interleukin-5 levels.
+
+Ishigami T(1), Abe K, Aoki I, Minegishi S, Ryo A, Matsunaga S, Matsuoka K, 
+Takeda H, Sawasaki T, Umemura S, Endo Y.
+
+Author information:
+(1)Yokohama City University Graduate School of Medicine, Department of Medical 
+Science and Cardio-renal Medicine, 3-9, Fukuura, Kanazawa-ku, Yokohama-city, 
+Kanagawa-ken, 236-0004, Japan. tommmish@hotmail.com
+
+Atherosclerotic diseases, such as coronary artery disease and peripheral artery 
+disease, are systemic disorders and among the leading causes of mortality and 
+morbidity throughout the world. However, the exact pathophysiological mechanisms 
+underlying the development of atherosclerosis remain unknown; currently, 
+atherosclerosis is thought to involve an inflammatory process. Systemic 
+inflammatory reactions and accumulation of immune cells in atherosclerotic 
+lesions in situ are considered essential. We have comprehensively analyzed 
+autoantibodies in patients with atherosclerosis by means of a newly developed 
+high-throughput autoantibody analysis system. A wide range of autoantibodies was 
+found in sera from patients with atherosclerosis. After we statistically 
+analyzed the titers of each autoantibody with conventional techniques, the 
+results underwent text-mining analyses based on natural language processing. 
+Combinatory analysis revealed a close association between anti-interleukin 
+(IL)-5 antibody and atherosclerosis. Titers of anti-IL-5 antibodies and serum 
+IL-5 concentrations were also closely associated with other risk factors, such 
+as low-density lipoprotein cholesterol, serum creatinine, fasting plasma 
+glucose, gender, and age, suggesting that suppressed IL-5 function mediated by 
+autoantibodies in patients with atherosclerosis plays an important role in the 
+disease process. To validate the clinical significance of these findings, we 
+computed the specificity and sensitivity of titers of anti-IL-5 autoantibodies 
+for human atherosclerosis. When antibody titers of 1.49 were assumed to predict 
+the presence of atherosclerosis, the sensitivity was 95.0% and the specificity 
+91.0%, with an area under the curve of 0.940. Our results provide important 
+clues to understanding the role of autoantibody-mediated immune reactions in 
+human atherosclerosis and suggest novel therapeutic opportunities for management 
+of the disease.
+
+DOI: 10.1096/fj.12-222653
+PMID: 23699176 [Indexed for MEDLINE]

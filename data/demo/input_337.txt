@@ -1,0 +1,41 @@
+337. J Am Med Inform Assoc. 2012 Sep-Oct;19(5):888-96. doi: 
+10.1136/amiajnl-2012-000808. Epub 2012 May 3.
+
+Coreference resolution of medical concepts in discharge summaries by exploiting 
+contextual information.
+
+Dai HJ(1), Chen CY, Wu CY, Lai PT, Tsai RT, Hsu WL.
+
+Author information:
+(1)Department of Computer Science, National Tsing Hua University, Hsinchu, 
+Taiwan, ROC.
+
+OBJECTIVE: Patient discharge summaries provide detailed medical information 
+about hospitalized patients and are a rich resource of data for clinical record 
+text mining. The textual expressions of this information are highly variable. In 
+order to acquire a precise understanding of the patient, it is important to 
+uncover the relationship between all instances in the text. In natural language 
+processing (NLP), this task falls under the category of coreference resolution.
+DESIGN: A key contribution of this paper is the application of 
+contextual-dependent rules that describe relationships between coreference 
+pairs. To resolve phrases that refer to the same entity, the authors use these 
+rules in three representative NLP systems: one rule-based, another based on the 
+maximum entropy model, and the last a system built on the Markov logic network 
+(MLN) model.
+RESULTS: The experimental results show that the proposed MLN-based system 
+outperforms the baseline system (exact match) by average F-scores of 4.3% and 
+5.7% on the Beth and Partners datasets, respectively. Finally, the three systems 
+were integrated into an ensemble system, further improving performance to 
+87.21%, which is 4.5% more than the official i2b2 Track 1C average (82.7%).
+CONCLUSION: In this paper, the main challenges in the resolution of coreference 
+relations in patient discharge summaries are described. Several rules are 
+proposed to exploit contextual information, and three approaches presented. 
+While single systems provided promising results, an ensemble approach combining 
+the three systems produced a better performance than even the best single 
+system.
+
+DOI: 10.1136/amiajnl-2012-000808
+PMCID: PMC3422837
+PMID: 22556185 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None.

@@ -1,0 +1,28 @@
+126. Genomics Inform. 2018 Sep;16(3):75-77. doi: 10.5808/GI.2018.16.3.75. Epub 2018 
+Sep 30.
+
+GNI Corpus Version 1.0: Annotated Full-Text Corpus of Genomics &amp; Informatics 
+to Support Biomedical Information Extraction.
+
+Oh SY(1), Kim JH(1), Kim SJ(1), Nam HJ(1), Park HS(1)(2).
+
+Author information:
+(1)Bioinformatics Laboratory, ELTEC College of Engineering, Ewha Womans 
+University, Seoul 03760, Korea.
+(2)Center for Convergence Research of Advanced Technologies, Ewha Womans 
+University, Seoul 03760, Korea.
+
+Genomics &amp; Informatics (NLM title abbreviation: Genomics Inform) is the 
+official journal of the Korea Genome Organization. Text corpus for this journal 
+annotated with various levels of linguistic information would be a valuable 
+resource as the process of information extraction requires syntactic, semantic, 
+and higher levels of natural language processing. In this study, we publish our 
+new corpus called GNI Corpus version 1.0, extracted and annotated from full 
+texts of Genomics &amp; Informatics, with NLTK (Natural Language ToolKit)-based 
+text mining script. The preliminary version of the corpus could be used as a 
+training and testing set of a system that serves a variety of functions for 
+future biomedical text mining.
+
+DOI: 10.5808/GI.2018.16.3.75
+PMCID: PMC6187819
+PMID: 30309207

@@ -1,0 +1,45 @@
+58. PLoS One. 2016 Oct 5;11(10):e0163794. doi: 10.1371/journal.pone.0163794. 
+eCollection 2016.
+
+PubMedPortable: A Framework for Supporting the Development of Text Mining 
+Applications.
+
+Döring K(1), Grüning BA(2), Telukunta KK(2), Thomas P(3), Günther S(1).
+
+Author information:
+(1)Pharmaceutical Bioinformatics, Institute of Pharmaceutical Sciences, 
+Albert-Ludwigs University, 79104 Freiburg, Germany.
+(2)Bioinformatics, Institute of Computer Science, Albert-Ludwigs University, 
+79110 Freiburg, Germany.
+(3)Language Technology Lab, German Research Center for Artificial Intelligence, 
+DFKI GmbH, 10559 Berlin, Germany.
+
+Information extraction from biomedical literature is continuously growing in 
+scope and importance. Many tools exist that perform named entity recognition, 
+e.g. of proteins, chemical compounds, and diseases. Furthermore, several 
+approaches deal with the extraction of relations between identified entities. 
+The BioCreative community supports these developments with yearly open 
+challenges, which led to a standardised XML text annotation format called BioC. 
+PubMed provides access to the largest open biomedical literature repository, but 
+there is no unified way of connecting its data to natural language processing 
+tools. Therefore, an appropriate data environment is needed as a basis to 
+combine different software solutions and to develop customised text mining 
+applications. PubMedPortable builds a relational database and a full text index 
+on PubMed citations. It can be applied either to the complete PubMed data set or 
+an arbitrary subset of downloaded PubMed XML files. The software provides the 
+infrastructure to combine stand-alone applications by exporting different data 
+formats, e.g. BioC. The presented workflows show how to use PubMedPortable to 
+retrieve, store, and analyse a disease-specific data set. The provided use cases 
+are well documented in the PubMedPortable wiki. The open-source software library 
+is small, easy to use, and scalable to the user's system requirements. It is 
+freely available for Linux on the web at 
+https://github.com/KerstenDoering/PubMedPortable and for other operating systems 
+as a virtual container. The approach was tested extensively and applied 
+successfully in several projects.
+
+DOI: 10.1371/journal.pone.0163794
+PMCID: PMC5051953
+PMID: 27706202 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

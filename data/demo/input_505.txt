@@ -1,0 +1,34 @@
+505. Neuroinformatics. 2003;1(3):215-37. doi: 10.1385/NI:1:3:215.
+
+Text mining neuroscience journal articles to populate neuroscience databases.
+
+Crasto CJ(1), Marenco LN, Migliore M, Mao B, Nadkarni PM, Miller P, Shepherd GM.
+
+Author information:
+(1)Center for Medical Informatics, Yale University, New Haven, CT, USA. 
+chiquito.crasto@yale.edu
+
+We have developed a program NeuroText to populate the neuroscience databases in 
+SenseLab (http://senselab.med.yale.edu/senselab) by mining the natural language 
+text of neuroscience articles. NeuroText uses a two-step approach to identify 
+relevant articles. The first step (pre-processing), aimed at 100% sensitivity, 
+identifies abstracts containing database keywords. In the second step, 
+potentially relevant abstracts identified in the first step are processed for 
+specificity dictated by database architecture, and neuroscience, lexical and 
+semantic contexts. NeuroText results were presented to the experts for 
+validation using a dynamically generated interface that also allows 
+expert-validated articles to be automatically deposited into the databases. Of 
+the test set of 912 articles, 735 were rejected at the pre-processing step. For 
+the remaining articles, the accuracy of predicting database-relevant articles 
+was 85%. Twenty-two articles were erroneously identified. NeuroText deferred 
+decisions on 29 articles to the expert. A comparison of NeuroText results versus 
+the experts' analyses revealed that the program failed to correctly identify 
+articles' relevance due to concepts that did not yet exist in the knowledgebase 
+or due to vaguely presented information in the abstracts. NeuroText uses two 
+"evolution" techniques (supervised and unsupervised) that play an important role 
+in the continual improvement of the retrieval results. Software that uses the 
+NeuroText approach can facilitate the creation of curated, special-interest, 
+bibliography databases.
+
+DOI: 10.1385/NI:1:3:215
+PMID: 15046245 [Indexed for MEDLINE]

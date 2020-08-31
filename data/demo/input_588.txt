@@ -1,0 +1,67 @@
+588. Contemp Clin Trials. 2016 Jan;46:85-91. doi: 10.1016/j.cct.2015.11.011. Epub 
+2015 Nov 17.
+
+Cost-benefit assessment of using electronic health records data for clinical 
+research versus current practices: Contribution of the Electronic Health Records 
+for Clinical Research (EHR4CR) European Project.
+
+Beresniak A(1), Schmidt A(2), Proeve J(3), Bolanos E(4), Patel N(5), Ammour 
+N(6), Sundgren M(7), Ericson M(8), Karakoyun T(9), Coorevits P(10), Kalra D(11), 
+De Moor G(12), Dupont D(13).
+
+Author information:
+(1)Data Mining International, Route de l'Aéroport, 29-31, CP 221, Geneva 
+CH-1215, Switzerland.
+(2)F Hoffmann-La Roche Ltd, Grenzacherstrasse 124, Basel 4070, Switzerland.
+(3)Bayer Healthcare, Building K9, Leverkusen 51368, Germany.
+(4)Eli Lilly and Company, Avenida de la Industria, n 30, Alcobendas 28108, 
+Spain.
+(5)Eli Lilly and Company (Until December 2013), Erl Wood Manor, Windlesham, 
+Surrey, United Kingdom.
+(6)Sanofi-Aventis R&D, 1 avenue Pierre Brossolette, Chilly-Mazarin F-91380, 
+France.
+(7)AstraZeneca, Karragatan 1, Mölndal SE 431 83, Sweden.
+(8)Amgen, 62, Boulevard Victor Hugo, Neuilly-sur-Seine 92523, France.
+(9)Heinrich-Heine-Universität Düsseldorf, Germany (Until March 2015), 
+Moorenstraße 5, 40225 Düsseldorf, Deutschland.
+(10)The European Institute for Health Records (EuroRec), De Pintelaan 185, Ghent 
+9000, Belgium; Ghent University, Department of Public Health, Unit of Medical 
+Informatics and Statistics, De Pintelaan 185, Ghent B9000, Belgium.
+(11)The European Institute for Health Records (EuroRec), De Pintelaan 185, Ghent 
+9000, Belgium.
+(12)Ghent University, Department of Public Health, Unit of Medical Informatics 
+and Statistics, De Pintelaan 185, Ghent B9000, Belgium.
+(13)Data Mining International, Route de l'Aéroport, 29-31, CP 221, Geneva 
+CH-1215, Switzerland. Electronic address: ddupont@datamining-international.com.
+
+INTRODUCTION: The widespread adoption of electronic health records (EHR) 
+provides a new opportunity to improve the efficiency of clinical research. The 
+European EHR4CR (Electronic Health Records for Clinical Research) 4-year project 
+has developed an innovative technological platform to enable the re-use of EHR 
+data for clinical research. The objective of this cost-benefit assessment (CBA) 
+is to assess the value of EHR4CR solutions compared to current practices, from 
+the perspective of sponsors of clinical trials.
+MATERIALS AND METHODS: A CBA model was developed using an advanced modeling 
+approach. The costs of performing three clinical research scenarios (S) applied 
+to a hypothetical Phase II or III oncology clinical trial workflow (reference 
+case) were estimated under current and EHR4CR conditions, namely protocol 
+feasibility assessment (S1), patient identification for recruitment (S2), and 
+clinical study execution (S3). The potential benefits were calculated 
+considering that the estimated reduction in actual person-time and costs for 
+performing EHR4CR S1, S2, and S3 would accelerate time to market (TTM). 
+Probabilistic sensitivity analyses using Monte Carlo simulations were conducted 
+to manage uncertainty.
+RESULTS: Should the estimated efficiency gains achieved with the EHR4CR platform 
+translate into faster TTM, the expected benefits for the global pharmaceutical 
+oncology sector were estimated at €161.5m (S1), €45.7m (S2), €204.5m (S1+S2), 
+€1906m (S3), and up to €2121.8m (S1+S2+S3) when the scenarios were used 
+sequentially.
+CONCLUSIONS: The results suggest that optimizing clinical trial design and 
+execution with the EHR4CR platform would generate substantial added value for 
+pharmaceutical industry, as main sponsors of clinical trials in Europe, and 
+beyond.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cct.2015.11.011
+PMID: 26600286 [Indexed for MEDLINE]

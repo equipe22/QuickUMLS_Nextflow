@@ -1,0 +1,118 @@
+642. PLoS Med. 2018 Nov 27;15(11):e1002703. doi: 10.1371/journal.pmed.1002703. 
+eCollection 2018 Nov.
+
+Enhancing the prediction of acute kidney injury risk after percutaneous coronary 
+intervention using machine learning techniques: A retrospective cohort study.
+
+Huang C(1), Murugiah K(2), Mahajan S(1), Li SX(1), Dhruva SS(3)(4), Haimovich 
+JS(5), Wang Y(1), Schulz WL(1)(6), Testani JM(2), Wilson FP(7), Mena CI(2), 
+Masoudi FA(8), Rumsfeld JS(8), Spertus JA(9), Mortazavi BJ(10), Krumholz 
+HM(1)(2)(11).
+
+Author information:
+(1)Center for Outcomes Research and Evaluation, Yale-New Haven Hospital, New 
+Haven, Connecticut, United States of America.
+(2)Section of Cardiovascular Medicine, Department of Internal Medicine, Yale 
+School of Medicine, New Haven, Connecticut, United States of America.
+(3)Robert Wood Johnson Foundation Clinical Scholars Program, Department of 
+Internal Medicine, Yale School of Medicine, New Haven, Connecticut, United 
+States of America.
+(4)Veterans Affairs Connecticut Healthcare System, West Haven, Connecticut, 
+United States of America.
+(5)Albert Einstein College of Medicine, Bronx, New York, United States of 
+America.
+(6)Department of Laboratory Medicine, Yale School of Medicine, New Haven, 
+Connecticut, United States of America.
+(7)Section of Nephrology, Department of Internal Medicine, Yale School of 
+Medicine, New Haven, Connecticut, United States of America.
+(8)Division of Cardiology, School of Medicine, University of Colorado, Aurora, 
+Colorado, United States of America.
+(9)Department of Cardiology, Saint Luke's Mid America Heart Institute, Kansas 
+City, Missouri, United States of America.
+(10)Department of Computer Science & Engineering, Texas A&M University, College 
+Station, Texas, United States of America.
+(11)Department of Health Policy and Management, Yale School of Public Health, 
+New Haven, Connecticut, United States of America.
+
+BACKGROUND: The current acute kidney injury (AKI) risk prediction model for 
+patients undergoing percutaneous coronary intervention (PCI) from the American 
+College of Cardiology (ACC) National Cardiovascular Data Registry (NCDR) 
+employed regression techniques. This study aimed to evaluate whether models 
+using machine learning techniques could significantly improve AKI risk 
+prediction after PCI.
+METHODS AND FINDINGS: We used the same cohort and candidate variables used to 
+develop the current NCDR CathPCI Registry AKI model, including 947,091 patients 
+who underwent PCI procedures between June 1, 2009, and June 30, 2011. The mean 
+age of these patients was 64.8 years, and 32.8% were women, with a total of 
+69,826 (7.4%) AKI events. We replicated the current AKI model as the baseline 
+model and compared it with a series of new models. Temporal validation was 
+performed using data from 970,869 patients undergoing PCIs between July 1, 2016, 
+and March 31, 2017, with a mean age of 65.7 years; 31.9% were women, and 72,954 
+(7.5%) had AKI events. Each model was derived by implementing one of two 
+strategies for preprocessing candidate variables (preselecting and transforming 
+candidate variables or using all candidate variables in their original forms), 
+one of three variable-selection methods (stepwise backward selection, lasso 
+regularization, or permutation-based selection), and one of two methods to model 
+the relationship between variables and outcome (logistic regression or gradient 
+descent boosting). The cohort was divided into different training (70%) and test 
+(30%) sets using 100 different random splits, and the performance of the models 
+was evaluated internally in the test sets. The best model, according to the 
+internal evaluation, was derived by using all available candidate variables in 
+their original form, permutation-based variable selection, and gradient descent 
+boosting. Compared with the baseline model that uses 11 variables, the best 
+model used 13 variables and achieved a significantly better area under the 
+receiver operating characteristic curve (AUC) of 0.752 (95% confidence interval 
+[CI] 0.749-0.754) versus 0.711 (95% CI 0.708-0.714), a significantly better 
+Brier score of 0.0617 (95% CI 0.0615-0.0618) versus 0.0636 (95% CI 
+0.0634-0.0638), and a better calibration slope of observed versus predicted rate 
+of 1.008 (95% CI 0.988-1.028) versus 1.036 (95% CI 1.015-1.056). The best model 
+also had a significantly wider predictive range (25.3% versus 21.6%, p < 0.001) 
+and was more accurate in stratifying AKI risk for patients. Evaluated on a more 
+contemporary CathPCI cohort (July 1, 2015-March 31, 2017), the best model 
+consistently achieved significantly better performance than the baseline model 
+in AUC (0.785 versus 0.753), Brier score (0.0610 versus 0.0627), calibration 
+slope (1.003 versus 1.062), and predictive range (29.4% versus 26.2%). The 
+current study does not address implementation for risk calculation at the point 
+of care, and potential challenges include the availability and accessibility of 
+the predictors.
+CONCLUSIONS: Machine learning techniques and data-driven approaches resulted in 
+improved prediction of AKI risk after PCI. The results support the potential of 
+these techniques for improving risk prediction models and identification of 
+patients who may benefit from risk-mitigation strategies.
+
+DOI: 10.1371/journal.pmed.1002703
+PMCID: PMC6258473
+PMID: 30481186 [Indexed for MEDLINE]
+
+Conflict of interest statement: I have read the journal's policy and the authors 
+of this manuscript have the following competing interests: SSD is supported by 
+the Department of Veterans Affairs. WLS is a consultant for Hugo, a personal 
+health information platform. CIM is a consultant for Cook, Bard, Medtronic, 
+Abbott and Cardinal Health. FPW is supported by the National Science Foundation 
+grant R01DK113191. JSR is the Chief Innovation Officer for the American College 
+of Cardiology. HMK is a recipient of research agreements from Medtronic and from 
+Johnson & Johnson (Janssen), through Yale University, to develop methods of 
+clinical trial data sharing; was the recipient of a grant from the Food and Drug 
+Administration and Medtronic to develop methods for postmarket surveillance of 
+medical devices; works under contract with the Centers for Medicare and Medicaid 
+Services to develop and maintain performance measures; chairs a cardiac 
+scientific advisory board for UnitedHealth; is a member of the Advisory Board 
+for Element Science and the Physician Advisory Board for Aetna; is a 
+participant/participant representative of the IBM Watson Health Life Sciences 
+Board; and is the founder of Hugo, a personal health information platform. JAS 
+is supported by grants from Gilead, Genentech, Lilly, Amorcyte, and EvaHeart and 
+has a patent for the Seattle Angina Questionnaire with royalties paid. He also 
+owns the copyright to the Seattle Angina Questionnaire. He is the PI of an 
+Analytic Center for the American College of Cardiology Foundation and has an 
+equity interest in Health Outcomes Sciences. FAM has a contract (through his 
+primary institution) for his role as Chief Science Officer of the NCDR. BJM is 
+an associate editor for PLOS ONE, which is involved in this special issue. He 
+has a relationship with the American College of Cardiology in selecting and 
+pursuing innovative research based upon their registry data (unrelated to this 
+paper). He has a pending patent application for an EHR-based prediction tool in 
+Yale New Haven Health, as well as two funded studies, one by the DoD-Advanced 
+Research Projects Agency and one with the NSF to support student travel to 
+conferences in the body sensor networks field. American College of Cardiology 
+may incorporate this work, or future iterations, into its registry. No other 
+organisation named above has a competing interest in relation to this work. The 
+other authors report no potential competing interests.

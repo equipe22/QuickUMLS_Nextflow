@@ -1,0 +1,50 @@
+256. Comput Biol Med. 2015 May;60:40-50. doi: 10.1016/j.compbiomed.2015.02.013. Epub 
+2015 Feb 21.
+
+Mobilizing clinical decision support to facilitate knowledge translation: a case 
+study in China.
+
+Zhang Y(1), Li H(2), Duan H(3), Zhao Y(4).
+
+Author information:
+(1)College of Biomedical Engineering and Instrument Science, Zhejiang 
+University, Hangzhou 310027, China; School of Computer Science and Information 
+Engineering, Zhejiang Gongshang University, Hangzhou 310018, China. Electronic 
+address: elevenjohns@163.com.
+(2)Children׳s Hospital, Institute of Translational Medicine, Zhejiang 
+University, Hangzhou 310027, China. Electronic address: hmli@zju.edu.cn.
+(3)College of Biomedical Engineering and Instrument Science, Zhejiang 
+University, Hangzhou 310027, China. Electronic address: duanhl@zju.edu.cn.
+(4)China National Center for Biotechnology Development, Beijing 100036, China. 
+Electronic address: zhaoyh@cncbd.org.cn.
+
+BACKGROUND: A wide gulf remains between knowledge and clinical practice. 
+Clinical decision support has been demonstrated to be an effective knowledge 
+tool that healthcare organizations can employ to deliver the "right knowledge to 
+the right people in the right form at the right time". How to adopt various 
+clinical decision support (CDS) systems efficiently to facilitate evidence-based 
+practice is one challenge faced by knowledge translation research.
+METHOD: A computer-aided knowledge translation method that mobilizes 
+evidence-based decision supports is proposed. The foundation of the method is a 
+knowledge representation model that is able to cover, coordinate and synergize 
+various types of medical knowledge to achieve centralized and effective 
+knowledge management. Next, web-based knowledge-authoring and natural language 
+processing based knowledge acquisition tools are designed to accelerate the 
+transformation of the latest clinical evidence into computerized knowledge 
+content. Finally, a batch of fundamental services, such as data acquisition and 
+inference engine, are designed to actuate the acquired knowledge content. These 
+services can be used as building blocks for various evidence-based decision 
+support applications.
+RESULTS: Based on the above method, a computer-aided knowledge translation 
+platform was constructed as a CDS infrastructure. Based on this platform, 
+typical CDS applications were developed. A case study of drug use check 
+demonstrates that the CDS intervention delivered by the platform has produced 
+observable behavior changes (89.7% of alerted medical orders were revised by 
+physicians).
+DISCUSSION: Computer-aided knowledge translation via a CDS infrastructure can be 
+effective in facilitating knowledge translation in clinical settings.
+
+Copyright © 2015 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.compbiomed.2015.02.013
+PMID: 25754360 [Indexed for MEDLINE]

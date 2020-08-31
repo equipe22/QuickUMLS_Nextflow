@@ -1,0 +1,42 @@
+283. J Am Pharm Assoc (2003). 2019 May-Jun;59(3):410-415. doi: 
+10.1016/j.japh.2019.01.007. Epub 2019 Feb 28.
+
+Standardized documentation workflow within an electronic health record to track 
+pharmacists' interventions in pediatric ambulatory care clinics.
+
+McNicol M, Kuhn C, Sebastian S.
+
+OBJECTIVES: To describe the implementation of a standardized documentation 
+workflow within an electronic health record (EHR) and to track pharmacists' 
+interventions in pediatric ambulatory care clinics.
+SETTING: Ambulatory care clinics and a transitions-of-care (TOC) service within 
+a pediatric health care system in central Ohio.
+PRACTICE DESCRIPTION: Ambulatory clinical pharmacists work as integrated members 
+of the health care team in 7 pediatric ambulatory care clinics and a TOC service 
+to achieve the best medication-related outcomes for patients.
+PRACTICE INNOVATION: A standardized documentation workflow was established among 
+ambulatory clinical pharmacists to document the interventions made in their 
+practice settings with the use of a tool in the EHR. A weekly report from the 
+EHR was run by a technician to gather intervention data, identify reimbursable 
+opportunities, and document and bill via a separate Internet-based medication 
+therapy management platform.
+EVALUATION: The success of the new documentation workflow was evaluated, and 
+continuous feedback was gathered from the pharmacists and the billing 
+technician. Updates were provided to the ambulatory clinical pharmacist at 
+monthly staff meetings and workflow changes implemented as needed.
+RESULTS: A total of 5210 interventions were documented by the pharmacists in 
+various intervention categories. The 3 most common intervention categories 
+included patient and medication education (1765), medication reconciliations 
+(1170), and compliance assessments (795).
+CONCLUSION: A standardized documentation workflow allowed for consistent 
+tracking of interventions across ambulatory care clinics and a TOC service. Key 
+elements to the successful implementation of this new documentation workflow 
+included proper training and continuous feedback to the ambulatory clinical 
+pharmacists, assistance from a billing technician, and consistent documentation 
+by the ambulatory clinical pharmacists.
+
+Copyright © 2019 American Pharmacists Association®. Published by Elsevier Inc. 
+All rights reserved.
+
+DOI: 10.1016/j.japh.2019.01.007
+PMID: 30826301 [Indexed for MEDLINE]

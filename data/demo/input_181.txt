@@ -1,0 +1,52 @@
+181. BMC Bioinformatics. 2016 Nov 17;17(1):471. doi: 10.1186/s12859-016-1352-7.
+
+Introducing Explorer of Taxon Concepts with a case study on spider measurement 
+matrix building.
+
+Cui H(1), Xu D(2), Chong SS(2), Ramirez M(3), Rodenhausen T(2), Macklin JA(4), 
+Ludäscher B(5), Morris RA(6), Soto EM(7), Koch NM(7).
+
+Author information:
+(1)University of Arizona, Tucson, AZ, USA. hongcui@email.arizona.edu.
+(2)University of Arizona, Tucson, AZ, USA.
+(3)Museo Argentino de Ciencias, Naturales, CONICET, Buenos Aires, Argentina.
+(4)Agriculture and Agri-Food Canada, Ottawa, Canada.
+(5)University of Illinois at Urbana-Champaign, Champaign, USA.
+(6)University of Massachusetts at Boston and Harvard University Herbaria, 
+Massachusetts, USA.
+(7)Department of Geology & Geophysics, Yale University, New Haven, Connecticut, 
+USA.
+
+BACKGROUND: Taxonomic descriptions are traditionally composed in natural 
+language and published in a format that cannot be directly used by computers. 
+The Exploring Taxon Concepts (ETC) project has been developing a set of 
+web-based software tools that convert morphological descriptions published in 
+telegraphic style to character data that can be reused and repurposed. This 
+paper introduces the first semi-automated pipeline, to our knowledge, that 
+converts morphological descriptions into taxon-character matrices to support 
+systematics and evolutionary biology research. We then demonstrate and evaluate 
+the use of the ETC Input Creation - Text Capture - Matrix Generation pipeline to 
+generate body part measurement matrices from a set of 188 spider morphological 
+descriptions and report the findings.
+RESULTS: From the given set of spider taxonomic publications, two versions of 
+input (original and normalized) were generated and used by the ETC Text Capture 
+and ETC Matrix Generation tools. The tools produced two corresponding spider 
+body part measurement matrices, and the matrix from the normalized input was 
+found to be much more similar to a gold standard matrix hand-curated by the 
+scientist co-authors. Special conventions utilized in the original descriptions 
+(e.g., the omission of measurement units) were attributed to the lower 
+performance of using the original input. The results show that simple 
+normalization of the description text greatly increased the quality of the 
+machine-generated matrix and reduced edit effort. The machine-generated matrix 
+also helped identify issues in the gold standard matrix.
+CONCLUSIONS: ETC Text Capture and ETC Matrix Generation are low-barrier and 
+effective tools for extracting measurement values from spider taxonomic 
+descriptions and are more effective when the descriptions are self-contained. 
+Special conventions that make the description text less self-contained challenge 
+automated extraction of data from biodiversity descriptions and hinder the 
+automated reuse of the published knowledge. The tools will be updated to support 
+new requirements revealed in this case study.
+
+DOI: 10.1186/s12859-016-1352-7
+PMCID: PMC5114841
+PMID: 27855645 [Indexed for MEDLINE]

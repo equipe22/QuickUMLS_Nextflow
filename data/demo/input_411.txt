@@ -1,0 +1,42 @@
+411. Res Synth Methods. 2019 Sep;10(3):420-439. doi: 10.1002/jrsm.1350. Epub 2019 Jun 
+2.
+
+Potential Technologies Review: A hybrid information retrieval framework to 
+accelerate demand-pull innovation in biomedical engineering.
+
+Schmitz T(1), Bukowski M(1), Koschmieder S(2), Schmitz-Rode T(3), Farkas R(1).
+
+Author information:
+(1)Science Management, Institute of Applied Medical Engineering, RWTH Aachen 
+University, Aachen, Germany.
+(2)Department of Hematology, Oncology, Hemostaseology, and Stem Cell 
+Transplantation, RWTH Aachen University, Aachen, Germany.
+(3)Institute of Applied Medical Engineering, RWTH Aachen University, Aachen, 
+Germany.
+
+Publisher: Launching biomedical innovations based on clinical demands instead of 
+translating basic research findings to practice reduces the risk that the 
+results will not fit the clinical routine. To realize this type of innovation, a 
+meta-analysis of the body of research is necessary to reveal demand-matching 
+concepts. However, both the data deluge and the narrow time constraints for 
+innovation make it impossible to perform such reviews manually. Thus, this paper 
+proposes a specifically adapted “Potential Technologies Review” approach 
+focusing on automated text mining and information retrieval techniques. The 
+novel framework combines features from both systematic and scoping reviews. It 
+aims at high coverage and reproducibility while mapping technologies-even with a 
+fuzzy initial scope. To achieve these goals for search and triage, a set of 
+closely interrelated methods has been developed: (a) automated query 
+optimization, (b) screening prioritization, and (c) recall estimation. To 
+determine appropriate parameters, a variety of published literature corpora were 
+used and compared with an evaluation on a real-world dataset. Our results show 
+that it is feasible to automate the identification of relevant works using this 
+newly introduced framework. It achieved a workload reduction of up to 91% 
+“Work-saved-over Sampling (WSS)” with a 76% overall recall compared with 
+manually screening search results. Reducing the workload is a prerequisite for a 
+rapid Potential Technologies Review when conducting demand-pull innovations. 
+Moreover, it facilitates the updating and closer monitoring of latest findings. 
+Studying the robustness of the framework and expanding it to patent documents 
+are future tasks.
+
+DOI: 10.1002/jrsm.1350
+PMID: 30995361 [Indexed for MEDLINE]

@@ -1,0 +1,34 @@
+161. J Biomed Inform. 2009 Oct;42(5):967-77. doi: 10.1016/j.jbi.2009.02.001. Epub 
+2009 Feb 14.
+
+Collaborative text-annotation resource for disease-centered relation extraction 
+from biomedical text.
+
+Cano C(1), Monaghan T, Blanco A, Wall DP, Peshkin L.
+
+Author information:
+(1)Department of Computer Science and Artificial Intelligence, University of 
+Granada, 18071 Granada, Spain. ccano@decsai.ugr.es
+
+Agglomerating results from studies of individual biological components has shown 
+the potential to produce biomedical discovery and the promise of therapeutic 
+development. Such knowledge integration could be tremendously facilitated by 
+automated text mining for relation extraction in the biomedical literature. 
+Relation extraction systems cannot be developed without substantial datasets 
+annotated with ground truth for benchmarking and training. The creation of such 
+datasets is hampered by the absence of a resource for launching a distributed 
+annotation effort, as well as by the lack of a standardized annotation schema. 
+We have developed an annotation schema and an annotation tool which can be 
+widely adopted so that the resulting annotated corpora from a multitude of 
+disease studies could be assembled into a unified benchmark dataset. The 
+contribution of this paper is threefold. First, we provide an overview of 
+available benchmark corpora and derive a simple annotation schema for specific 
+binary relation extraction problems such as protein-protein and gene-disease 
+relation extraction. Second, we present BioNotate: an open source annotation 
+resource for the distributed creation of a large corpus. Third, we present and 
+make available the results of a pilot annotation effort of the autism disease 
+network.
+
+DOI: 10.1016/j.jbi.2009.02.001
+PMCID: PMC2757509
+PMID: 19232400 [Indexed for MEDLINE]

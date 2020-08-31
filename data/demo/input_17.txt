@@ -1,0 +1,34 @@
+17. Stud Health Technol Inform. 2019 Aug 9;265:207-212. doi: 10.3233/SHTI190165.
+
+Open or Closed: A Project Proposal for Investigating Two Different EHR Platform 
+Approaches.
+
+Malm-Nicolaisen K(1)(2), Pedersen R(1)(2), Fagerlund AJ(1).
+
+Author information:
+(1)Norwegian Centre for E-health Research.
+(2)Telemedicine and E-health Research Group, The Arctic University of Norway.
+
+Technical platforms form the fundament on which IT systems and Electronic Health 
+Records (EHRs) are implemented. The use of either open or proprietary standards 
+and technologies for information modelling and interoperability have 
+implications for how clinical and health data is handled and made available for 
+the system users. In Norway, two different EHRs are procured in different health 
+regions of the Specialist healthcare service. The two platforms are 
+characterized as one being open platform-based and the other being closed 
+platform-based. The study aims to identify and describe consequences and 
+implications related to two different platform approaches for EHRs from an 
+end-user perspective. The study will employ three methods of data capturing; 
+scoping study, interviews, and questionnaires. Data will be systematically 
+analyzed through proven methods. Interviews and questionnaire data will be 
+gathered from European hospitals having implemented EHRs in recent years. 
+Results will be compared to the Norwegian context. The technical platform used 
+for health IT systems in general, and the EHR specifically, can have substantial 
+consequences for clinicians and organization of work. Closed platform-based EHRs 
+still constitutes the majority of the market, but open platform approaches are 
+rapidly gaining popularity. An assessment of the consequences related to 
+different platform designs can shed light on the implications the chosen 
+technical approach will have on clinical and organizational practice.
+
+DOI: 10.3233/SHTI190165
+PMID: 31431600 [Indexed for MEDLINE]

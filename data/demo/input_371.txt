@@ -1,0 +1,35 @@
+371. Comput Intell. 2011 Nov;27(4):681-701. doi: 10.1111/j.1467-8640.2011.00405.x.
+
+HIGH-PRECISION BIOLOGICAL EVENT EXTRACTION: EFFECTS OF SYSTEM AND OF DATA.
+
+Cohen KB(1), Verspoor K(1), Johnson HL(1), Roeder C(1), Ogren PV(1), Baumgartner 
+WA Jr(1), White E(1), Tipney H(1), Hunter L(1).
+
+Author information:
+(1)Center for Computational Pharmacology, University of Colorado Denver School 
+of Medicine, Aurora, CO, USA.
+
+We approached the problems of event detection, argument identification, and 
+negation and speculation detection in the BioNLP'09 information extraction 
+challenge through concept recognition and analysis. Our methodology involved 
+using the OpenDMAP semantic parser with manually written rules. The original 
+OpenDMAP system was updated for this challenge with a broad ontology defined for 
+the events of interest, new linguistic patterns for those events, and 
+specialized coordination handling. We achieved state-of-the-art precision for 
+two of the three tasks, scoring the highest of 24 teams at precision of 71.81 on 
+Task 1 and the highest of 6 teams at precision of 70.97 on Task 2. We provide a 
+detailed analysis of the training data and show that a number of trigger words 
+were ambiguous as to event type, even when their arguments are constrained by 
+semantic class. The data is also shown to have a number of missing annotations. 
+Analysis of a sampling of the comparatively small number of false positives 
+returned by our system shows that major causes of this type of error were 
+failing to recognize second themes in two-theme events, failing to recognize 
+events when they were the arguments to other events, failure to recognize 
+nontheme arguments, and sentence segmentation errors. We show that specifically 
+handling coordination had a small but important impact on the overall 
+performance of the system. The OpenDMAP system and the rule set are available at 
+http://bionlp.sourceforge.net.
+
+DOI: 10.1111/j.1467-8640.2011.00405.x
+PMCID: PMC4414063
+PMID: 25937701

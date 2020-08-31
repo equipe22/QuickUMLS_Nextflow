@@ -1,0 +1,48 @@
+594. J Card Fail. 2017 Nov;23(11):813-816. doi: 10.1016/j.cardfail.2017.09.009. Epub 
+2017 Oct 2.
+
+Implementation of Real-Time Assessment of Patient-Reported Outcomes in a Heart 
+Failure Clinic: A Feasibility Study.
+
+Stehlik J(1), Rodriguez-Correa C(2), Spertus JA(3), Biber J(2), Nativi-Nicolau 
+J(2), Zickmund S(2), Steinberg BA(2), Peritz DC(2), Walker A(2), Hess J(2), 
+Drakos SG(2), Kfoury AG(4), Fang JC(2), Selzman CH(2), Hess R(2).
+
+Author information:
+(1)University of Utah School of Medicine, Salt Lake City, Utah. Electronic 
+address: josef.stehlik@hsc.utah.edu.
+(2)University of Utah School of Medicine, Salt Lake City, Utah.
+(3)Saint Luke's Mid America Heart Institute, University of Missouri, Kansas 
+City, Missouri.
+(4)University of Utah School of Medicine, Salt Lake City, Utah; Intermountain 
+Medical Center, Murray, Utah.
+
+BACKGROUND: Patient-reported outcomes (PROs) quantify, from patients' 
+perspectives, their symptoms, function, and quality of life. Our aim was to 
+determine the feasibility of integrating PRO capture into routine clinical 
+practice at a large heart failure (HF) clinic.
+METHODS: We examined the practicality of PRO completion at the time of clinic 
+visit, the time required to complete the selected instruments, the completion 
+rate, and the feasibility of immediate PRO scoring and integration of the 
+results into the electronic health record (EHR). We deployed a computer program 
+to capture PROs (Kansas City Cardiomyopathy Questionnaire, Patient-Reported 
+Outcomes Measurement Information System) on a portable computer platform at the 
+time of a clinic visit. An automated algorithm identified patients scheduled for 
+appointments at the HF clinic at registration, provided a portable tablet 
+computer with which to complete the appropriate PRO instruments and then scored 
+and immediately integrated the results in the patient's EHR.
+RESULTS: In a 12-month period, 862 unique patients completed 1,320 PRO 
+assessments. The mean age of this cohort was 60.1 ± 16.3 years and 66% were 
+male. The average time for PRO assessment was 6.7 minutes and the completion 
+rate among eligible patients was 58%, with 91% of started assessments completed 
+in full.
+CONCLUSIONS: These preliminary data support the feasibility of serial PRO 
+assessment with real-time integration into the EHR in a large outpatient 
+population of patients with HF. We identified critical steps that should enhance 
+adoption of this approach by clinicians and render PRO results meaningful and 
+actionable in routine clinical care.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.cardfail.2017.09.009
+PMID: 28982635 [Indexed for MEDLINE]

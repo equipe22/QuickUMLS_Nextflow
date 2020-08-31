@@ -1,0 +1,34 @@
+591. J Registry Manag. 2014 Summer;41(2):51-6.
+
+Enhancing central cancer registry treatment data using physician medical claims: 
+a Florida pilot project.
+
+Hernandez MN, MacKinnon JA, Penberthy L, Bonner J, Huang YX.
+
+BACKGROUND: To capture the complete first course of therapy and cancer 
+incidence, given the shift in cancer care from the hospital to the private 
+physician practice, central cancer registries (CCRs) in the United States are 
+actively pursuing cancer reporting from ambulatory providers. The 837 medical 
+health claim is a national standard which CCRs can use to capture and translate 
+data into standardized cancer reporting for surveillance.
+METHODS: The Florida Cancer Data System conducted a pilot project with a large 
+medical oncology practice to transmit electronic claims from 2011 to 2013. Using 
+the logic and platform developed under a previous National Cancer Institute 
+(NCI) contract, claims were consolidated and translated into standardized cancer 
+registry codes. Consolidated physician claims were compared against gold 
+standard data from the practice electronic health record (EHR) and evaluated for 
+enhancement to registry data.
+RESULTS: A total of 623 patient tumor cases were collected from the practice EHR 
+and matched to the physician claims data, and to the original cancer registry 
+record. The claims captured 256 cases (41 percent) with chemotherapy, compared 
+to 28 percent in the registry data set, and 45 percent in the gold standard EHR 
+data set. Combining physician claims with registry data produced 280 cases (45 
+percent) with chemotherapy. The physician claims plus the registry cancer 
+chemotherapy treatment data produced 92 percent agreement, 92 percent 
+sensitivity, and 91 percent positive predictive value. Claims added 103 cases, 
+or 16.5 percent, to the total chemotherapy received.
+CONCLUSIONS: Physician medical claims data capture chemotherapy information not 
+otherwise reported by hospitals, and is a standardized and efficient mechanism 
+for cancer reporting.
+
+PMID: 25153009 [Indexed for MEDLINE]

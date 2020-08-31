@@ -1,0 +1,36 @@
+76. Chin Med Sci J. 2019 Jun 30;34(2):90-102. doi: 10.24920/003579.
+
+Constructing Large Scale Cohort for Clinical Study on Heart Failure with 
+Electronic Health Record in Regional Healthcare Platform: Challenges and 
+Strategies in Data Reuse.
+
+Liu DW(1), Lei LQ(1), Ruan T(1), He P(2).
+
+Author information:
+(1)School of Information Science and Engineering, East China University of 
+Science and Technology, Shanghai 200237, China.
+(2)Shanghai Hospital Development Center, Shanghai 200041, China.
+
+Regional healthcare platforms collect clinical data from hospitals in specific 
+areas for the purpose of healthcare management. It is a common requirement to 
+reuse the data for clinical research. However, we have to face challenges like 
+the inconsistence of terminology in electronic health records (EHR) and the 
+complexities in data quality and data formats in regional healthcare platform. 
+In this paper, we propose methodology and process on constructing large scale 
+cohorts which forms the basis of causality and comparative effectiveness 
+relationship in epidemiology. We firstly constructed a Chinese terminology 
+knowledge graph to deal with the diversity of vocabularies on regional platform. 
+Secondly, we built special disease case repositories (i.e., heart failure 
+repository) that utilize the graph to search the related patients and to 
+normalize the data. Based on the requirements of the clinical research which 
+aimed to explore the effectiveness of taking statin on 180-days readmission in 
+patients with heart failure, we built a large-scale retrospective cohort with 
+29647 cases of heart failure patients from the heart failure repository. After 
+the propensity score matching, the study group (n=6346) and the control group 
+(n=6346) with parallel clinical characteristics were acquired. Logistic 
+regression analysis showed that taking statins had a negative correlation with 
+180-days readmission in heart failure patients. This paper presents the workflow 
+and application example of big data mining based on regional EHR data.
+
+DOI: 10.24920/003579
+PMID: 31315750 [Indexed for MEDLINE]

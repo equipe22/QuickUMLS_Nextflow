@@ -1,0 +1,32 @@
+263. J Biomed Inform. 2015 Dec;58 Suppl(0):S120-7. doi: 10.1016/j.jbi.2015.06.030. 
+Epub 2015 Jul 22.
+
+Agile text mining for the 2014 i2b2/UTHealth Cardiac risk factors challenge.
+
+Cormack J(1), Nath C(2), Milward D(3), Raja K(2), Jonnalagadda SR(2).
+
+Author information:
+(1)Linguamatics Ltd., 324 Cambridge Science Park, Milton Road, Cambridge CB4 
+0WG, UK. Electronic address: james.cormack@linguamatics.com.
+(2)Division of Health and Biomedical Informatics, Department of Preventive 
+Medicine, Northwestern University Feinberg School of Medicine, 750 N. Lake Shore 
+Drive, 11th Floor, Chicago, IL 60611, USA.
+(3)Linguamatics Ltd., 324 Cambridge Science Park, Milton Road, Cambridge CB4 
+0WG, UK.
+
+This paper describes the use of an agile text mining platform (Linguamatics' 
+Interactive Information Extraction Platform, I2E) to extract document-level 
+cardiac risk factors in patient records as defined in the i2b2/UTHealth 2014 
+challenge. The approach uses a data-driven rule-based methodology with the 
+addition of a simple supervised classifier. We demonstrate that agile text 
+mining allows for rapid optimization of extraction strategies, while 
+post-processing can leverage annotation guidelines, corpus statistics and logic 
+inferred from the gold standard data. We also show how data imbalance in a 
+training set affects performance. Evaluation of this approach on the test data 
+gave an F-Score of 91.7%, one percent behind the top performing system.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jbi.2015.06.030
+PMCID: PMC4737484
+PMID: 26209007 [Indexed for MEDLINE]

@@ -1,0 +1,36 @@
+359. BMC Bioinformatics. 2007 Nov 27;8 Suppl 9(Suppl 9):S2. doi: 
+10.1186/1471-2105-8-S9-S2.
+
+BioCAD: an information fusion platform for bio-network inference and analysis.
+
+Lee D(1), Kim S, Kim Y.
+
+Author information:
+(1)Department of Bio and Brain Engineering, KAIST, 373-1 Guseong-Dong, 
+Yuseong-Gu, Daejeon, 305-701, Republic of Korea. dhlee@biosoft.kaist.ac.kr
+
+BACKGROUND: As systems biology has begun to draw growing attention, bio-network 
+inference and analysis have become more and more important. Though there have 
+been many efforts for bio-network inference, they are still far from practical 
+applications due to too many false inferences and lack of comprehensible 
+interpretation in the biological viewpoints. In order for applying to real 
+problems, they should provide effective inference, reliable validation, rational 
+elucidation, and sufficient extensibility to incorporate various relevant 
+information sources.
+RESULTS: We have been developing an information fusion software platform called 
+BioCAD. It is utilizing both of local and global optimization for bio-network 
+inference, text mining techniques for network validation and annotation, and Web 
+services-based workflow techniques. In addition, it includes an effective 
+technique to elucidate network edges by integrating various information sources. 
+This paper presents the architecture of BioCAD and essential modules for 
+bio-network inference and analysis.
+CONCLUSION: BioCAD provides a convenient infrastructure for network inference 
+and network analysis. It automates series of users' processes by providing data 
+preprocessing tools for various formats of data. It also helps inferring more 
+accurate and reliable bio-networks by providing network inference tools which 
+utilize information from distinct sources. And it can be used to analyze and 
+validate the inferred bio-networks using information fusion tools.
+
+DOI: 10.1186/1471-2105-8-S9-S2
+PMCID: PMC2217660
+PMID: 18047703 [Indexed for MEDLINE]

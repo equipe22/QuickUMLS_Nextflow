@@ -1,0 +1,40 @@
+544. Biomed Res Int. 2020 Jul 7;2020:2851713. doi: 10.1155/2020/2851713. eCollection 
+2020.
+
+Cloud Services for Patient Cohort Identification Using the Informatics for 
+Integrating Biology and the Bedside Platform.
+
+Wagholikar KB(1)(2)(3), Joshi SV(4), Pai Vernekar VV(4), Ostrovsky Y(4), Desai 
+SD(4), Magdum PB(4), Wakle SB(4), Jain S(4), Zagade A(4), Patel R(4), Murphy 
+SN(1)(2)(3).
+
+Author information:
+(1)Harvard Medical School, Boston, MA, USA.
+(2)Massachusetts General Hospital, Boston, MA, USA.
+(3)Partners Healthcare, Boston, MA, USA.
+(4)Persistent Systems, Pune, India.
+
+Despite the widespread use of the "Informatics for Integrating Biology and the 
+Bedside" (i2b2) platform, there are substantial challenges for loading 
+electronic health records (EHR) into i2b2 and for querying i2b2. We have 
+previously presented a simplified framework for semantic abstraction of EHR 
+records into i2b2. Building on our previous work, we have created a 
+proof-of-concept implementation of cloud services on an i2b2 data store for 
+cohort identification. Specifically, we have implemented a graphical user 
+interface (GUI) that declares the key components for data import, 
+transformation, and query of EHR data. The GUI integrates with Azure cloud 
+services to create data pipelines for importing EHR data into i2b2, creation of 
+derived facts, and querying for generating Sankey-like flow diagrams that 
+characterize the patient cohorts. We have evaluated the implementation using the 
+real-world MIMIC-III dataset. We discuss the key features of this implementation 
+and direction for future work, which will advance the efforts of the research 
+community for patient cohort identification.
+
+Copyright © 2020 Kavishwar B. Wagholikar et al.
+
+DOI: 10.1155/2020/2851713
+PMCID: PMC7366204
+PMID: 32724799
+
+Conflict of interest statement: The authors declare that they have no conflicts 
+of interest.

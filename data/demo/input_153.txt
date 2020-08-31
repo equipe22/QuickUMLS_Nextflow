@@ -1,0 +1,39 @@
+153. Methods Inf Med. 2015;54(3):276-82. doi: 10.3414/ME13-01-0133. Epub 2014 Nov 7.
+
+Secure Secondary Use of Clinical Data with Cloud-based NLP Services. Towards a 
+Highly Scalable Research Infrastructure.
+
+Christoph J, Griebel L, Leb I, Engel I, Köpcke F, Toddenroth D, Prokosch HU, 
+Laufer J, Marquardt K, Sedlmayr M(1).
+
+Author information:
+(1)Dr. Martin Sedlmayr, Lehrstuhl für Medizinische Informatik, 
+Friedrich-Alexander-Universität Erlangen-Nürnberg, Wetterkreuz 13, 91058 
+Erlangen, Germany, E-mail: martin.sedlmayr@fau.de.
+
+OBJECTIVES: The secondary use of clinical data provides large opportunities for 
+clinical and translational research as well as quality assurance projects. For 
+such purposes, it is necessary to provide a flexible and scalable infrastructure 
+that is compliant with privacy requirements. The major goals of the cloud4health 
+project are to define such an architecture, to implement a technical prototype 
+that fulfills these requirements and to evaluate it with three use cases.
+METHODS: The architecture provides components for multiple data provider sites 
+such as hospitals to extract free text as well as structured data from local 
+sources and de-identify such data for further anonymous or pseudonymous 
+processing. Free text documentation is analyzed and transformed into structured 
+information by text-mining services, which are provided within a cloud-computing 
+environment. Thus, newly gained annotations can be integrated along with the 
+already available structured data items and the resulting data sets can be 
+uploaded to a central study portal for further analysis.
+RESULTS: Based on the architecture design, a prototype has been implemented and 
+is under evaluation in three clinical use cases. Data from several hundred 
+patients provided by a University Hospital and a private hospital chain have 
+already been processed.
+CONCLUSIONS: Cloud4health has shown how existing components for secondary use of 
+structured data can be complemented with text-mining in a privacy compliant 
+manner. The cloud-computing paradigm allows a flexible and dynamically adaptable 
+service provision that facilitates the adoption of services by data providers 
+without own investments in respective hardware resources and software tools.
+
+DOI: 10.3414/ME13-01-0133
+PMID: 25377309 [Indexed for MEDLINE]

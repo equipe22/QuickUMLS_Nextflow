@@ -1,0 +1,55 @@
+214. J Biomed Inform. 2014 Apr;48:160-70. doi: 10.1016/j.jbi.2013.12.012. Epub 2013 
+Dec 25.
+
+PARAMO: a PARAllel predictive MOdeling platform for healthcare analytic research 
+using electronic health records.
+
+Ng K(1), Ghoting A(2), Steinhubl SR(3), Stewart WF(4), Malin B(5), Sun J(2).
+
+Author information:
+(1)IBM TJ Watson Research Center, Yorktown Heights, NY, United States. 
+Electronic address: kenney.ng@us.ibm.com.
+(2)IBM TJ Watson Research Center, Yorktown Heights, NY, United States.
+(3)Scripps Translational Science Institute, LaJolla, CA, United States; 
+Geisinger Medical Center, Danville, PA, United States.
+(4)Sutter Health, Concord, CA, United States.
+(5)Department of Biomedical Informatics, School of Medicine, Vanderbilt 
+University, Nashville, TN, United States; Department of Electrical Engineering 
+and Computer Science, School of Engineering, Vanderbilt University, Nashville, 
+TN, United States.
+
+OBJECTIVE: Healthcare analytics research increasingly involves the construction 
+of predictive models for disease targets across varying patient cohorts using 
+electronic health records (EHRs). To facilitate this process, it is critical to 
+support a pipeline of tasks: (1) cohort construction, (2) feature construction, 
+(3) cross-validation, (4) feature selection, and (5) classification. To develop 
+an appropriate model, it is necessary to compare and refine models derived from 
+a diversity of cohorts, patient-specific features, and statistical frameworks. 
+The goal of this work is to develop and evaluate a predictive modeling platform 
+that can be used to simplify and expedite this process for health data.
+METHODS: To support this goal, we developed a PARAllel predictive MOdeling 
+(PARAMO) platform which (1) constructs a dependency graph of tasks from 
+specifications of predictive modeling pipelines, (2) schedules the tasks in a 
+topological ordering of the graph, and (3) executes those tasks in parallel. We 
+implemented this platform using Map-Reduce to enable independent tasks to run in 
+parallel in a cluster computing environment. Different task scheduling 
+preferences are also supported.
+RESULTS: We assess the performance of PARAMO on various workloads using three 
+datasets derived from the EHR systems in place at Geisinger Health System and 
+Vanderbilt University Medical Center and an anonymous longitudinal claims 
+database. We demonstrate significant gains in computational efficiency against a 
+standard approach. In particular, PARAMO can build 800 different models on a 
+300,000 patient data set in 3h in parallel compared to 9days if running 
+sequentially.
+CONCLUSION: This work demonstrates that an efficient parallel predictive 
+modeling platform can be developed for EHR data. This platform can facilitate 
+large-scale modeling endeavors and speed-up the research workflow and reuse of 
+health information. This platform is only a first step and provides the 
+foundation for our ultimate goal of building analytic pipelines that are 
+specialized for health data researchers.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jbi.2013.12.012
+PMCID: PMC4075460
+PMID: 24370496 [Indexed for MEDLINE]

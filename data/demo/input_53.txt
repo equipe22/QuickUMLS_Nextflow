@@ -1,0 +1,43 @@
+53. Biomed Res Int. 2018 Mar 20;2018:6217812. doi: 10.1155/2018/6217812. eCollection 
+2018.
+
+How Artificial Intelligence Can Improve Our Understanding of the Genes 
+Associated with Endometriosis: Natural Language Processing of the PubMed 
+Database.
+
+Bouaziz J(1)(2), Mashiach R(1), Cohen S(1), Kedem A(1), Baron A(1), Zajicek 
+M(1), Feldman I(2)(3), Seidman D(1), Soriano D(1).
+
+Author information:
+(1)Department of Obstetrics and Gynecology, The Chaim Sheba Medical Center, 
+Ramat Gan, Israel.
+(2)Artichoc Institue, 5 Alkalay, Tel Aviv, Israel.
+(3)Department of Ophthalmology, Ichilov Hospital, Tel Aviv, Israel.
+
+Endometriosis is a disease characterized by the development of endometrial 
+tissue outside the uterus, but its cause remains largely unknown. Numerous genes 
+have been studied and proposed to help explain its pathogenesis. However, the 
+large number of these candidate genes has made functional validation through 
+experimental methodologies nearly impossible. Computational methods could 
+provide a useful alternative for prioritizing those most likely to be 
+susceptibility genes. Using artificial intelligence applied to text mining, this 
+study analyzed the genes involved in the pathogenesis, development, and 
+progression of endometriosis. The data extraction by text mining of the 
+endometriosis-related genes in the PubMed database was based on natural language 
+processing, and the data were filtered to remove false positives. Using data 
+from the text mining and gene network information as input for the web-based 
+tool, 15,207 endometriosis-related genes were ranked according to their score in 
+the database. Characterization of the filtered gene set through gene ontology, 
+pathway, and network analysis provided information about the numerous mechanisms 
+hypothesized to be responsible for the establishment of ectopic endometrial 
+tissue, as well as the migration, implantation, survival, and proliferation of 
+ectopic endometrial cells. Finally, the human genome was scanned through various 
+databases using filtered genes as a seed to determine novel genes that might 
+also be involved in the pathogenesis of endometriosis but which have not yet 
+been characterized. These genes could be promising candidates to serve as useful 
+diagnostic biomarkers and therapeutic targets in the management of 
+endometriosis.
+
+DOI: 10.1155/2018/6217812
+PMCID: PMC5884286
+PMID: 29750165 [Indexed for MEDLINE]

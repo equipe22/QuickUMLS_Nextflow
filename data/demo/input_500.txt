@@ -1,0 +1,23 @@
+500. Bioinformatics. 2005 Sep 1;21(17):3582-3. doi: 10.1093/bioinformatics/bti578. 
+Epub 2005 Jul 12.
+
+Applying GIFT, a Gene Interactions Finder in Text, to fly literature.
+
+Domedel-Puig N(1), Wernisch L.
+
+Author information:
+(1)School of Crystallography, Birkbeck College, University of London, Malet 
+Street, London WC1E 7HX, UK. n.domedel_puig@cryst.bbk.ac.uk
+
+A number of freely available text mining tools have been put together to extract 
+highly reliable Drosophila gene interaction data from text. The system has been 
+tested with The Interactive Fly, showing low recall (27-34%), but very high 
+precision (93-97%).
+AVAILABILITY: The extracted data and a web interface for submission of texts to 
+GIFT analysis are available at http://gift.cryst.bbk.ac.uk/gift
+CONTACT: n.domedel_puig@cryst.bbk.ac.uk
+SUPPLEMENTARY INFORMATION: Additional documentation, such as the dictionaries 
+and the reference sets, are available at the GIFT website.
+
+DOI: 10.1093/bioinformatics/bti578
+PMID: 16014369 [Indexed for MEDLINE]

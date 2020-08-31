@@ -1,0 +1,40 @@
+130. Database (Oxford). 2012 Apr 18;2012:bas020. doi: 10.1093/database/bas020. Print 
+2012.
+
+Text mining for the biocuration workflow.
+
+Hirschman L(1), Burns GA, Krallinger M, Arighi C, Cohen KB, Valencia A, Wu CH, 
+Chatr-Aryamontri A, Dowell KG, Huala E, Lourenço A, Nash R, Veuthey AL, Wiegers 
+T, Winter AG.
+
+Author information:
+(1)The MITRE Corporation, 202 Burlington Road, Bedford, MA 01730, USA. 
+lynette@mitre.org
+
+Molecular biology has become heavily dependent on biological knowledge encoded 
+in expert curated biological databases. As the volume of biological literature 
+increases, biocurators need help in keeping up with the literature; (semi-) 
+automated aids for biocuration would seem to be an ideal application for natural 
+language processing and text mining. However, to date, there have been few 
+documented successes for improving biocuration throughput using text mining. Our 
+initial investigations took place for the workshop on 'Text Mining for the 
+BioCuration Workflow' at the third International Biocuration Conference (Berlin, 
+2009). We interviewed biocurators to obtain workflows from eight biological 
+databases. This initial study revealed high-level commonalities, including (i) 
+selection of documents for curation; (ii) indexing of documents with 
+biologically relevant entities (e.g. genes); and (iii) detailed curation of 
+specific relations (e.g. interactions); however, the detailed workflows also 
+showed many variabilities. Following the workshop, we conducted a survey of 
+biocurators. The survey identified biocurator priorities, including the handling 
+of full text indexed with biological entities and support for the identification 
+and prioritization of documents for curation. It also indicated that two-thirds 
+of the biocuration teams had experimented with text mining and almost half were 
+using text mining at that time. Analysis of our interviews and survey provide a 
+set of requirements for the integration of text mining into the biocuration 
+workflow. These can guide the identification of common needs across curated 
+databases and encourage joint experimentation involving biocurators, text mining 
+developers and the larger biomedical research community.
+
+DOI: 10.1093/database/bas020
+PMCID: PMC3328793
+PMID: 22513129 [Indexed for MEDLINE]

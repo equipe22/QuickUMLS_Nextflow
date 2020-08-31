@@ -1,0 +1,57 @@
+514. Front Pharmacol. 2020 Apr 29;11:551. doi: 10.3389/fphar.2020.00551. eCollection 
+2020.
+
+Model-Informed Precision Dosing of Vancomycin in Hospitalized Children: 
+Implementation and Adoption at an Academic Children's Hospital.
+
+Frymoyer A(1), Schwenk HT(1), Zorn Y(2), Bio L(2), Moss JD(2), Chasmawala B(3), 
+Faulkenberry J(3), Goswami S(4), Keizer RJ(4), Ghaskari S(3).
+
+Author information:
+(1)Department of Pediatrics, Stanford University School of Medicine, Palo Alto, 
+CA, United States.
+(2)Department of Clinical Pharmacy, Lucile Packard Children's Hospital Stanford, 
+Palo Alto, CA, United States.
+(3)Information Services, Lucile Packard Children's Hospital Stanford, Palo Alto, 
+CA, United States.
+(4)InsightRx, San Francisco, CA, United States.
+
+BACKGROUND: Model-informed precision dosing (MIPD) can serve as a powerful tool 
+during therapeutic drug monitoring (TDM) to help individualize dosing in 
+populations with large pharmacokinetic variation. Yet, adoption of MIPD in the 
+clinical setting has been limited. Overcoming technologic hurdles that allow 
+access to MIPD at the point-of-care and placing it in the hands of clinical 
+specialists focused on medication dosing may encourage adoption.
+OBJECTIVE: To describe the hospital implementation and usage of a MIPD clinical 
+decision support (CDS) tool for vancomycin in a pediatric population.
+METHODS: Within an academic children's hospital, MIPD for vancomycin was 
+implemented via a commercial cloud-based CDS tool that utilized Bayesian 
+forecasting. Clinical pharmacists were recognized as local champions to 
+facilitate adoption of the tool and operated as end-users. Integration within 
+the electronic health record (EHR) and automatic transmission of patient data to 
+the tool were identified as important requirements. A web-link icon was 
+developed within the EHR which when clicked sends users and needed patient-level 
+clinical data to the CDS platform. Individualized pharmacokinetic predictions 
+and exposure metrics for vancomycin are then presented in the form of a 
+web-based dashboard. Use of the CDS tool as part of TDM was tracked and users 
+were surveyed on their experience.
+RESULTS: After a successful pilot phase in the neonatal intensive care unit, 
+implementation of MIPD was expanded to the pediatric intensive care unit, 
+followed by availability to the entire hospital. During the first 2+ years since 
+implementation, a total of 853 patient-courses (n = 96 neonates, n = 757 
+children) and 2,148 TDM levels were evaluated using the CDS tool. For the most 
+recent 6 months, the CDS tool was utilized to support 79% (181/230) of 
+patient-courses in which TDM was performed. Of 26 users surveyed, > 96% agreed 
+or strongly agreed that automatic transmission of patient data to the tool was a 
+feature that helped them complete tasks more efficiently; 81% agreed or strongly 
+agreed that they were satisfied with the CDS tool.
+CONCLUSIONS: Integration of a vancomycin CDS tool within the EHR, along with 
+leveraging the expertise of clinical pharmacists, allowed for successful 
+adoption of MIPD in clinical care.
+
+Copyright © 2020 Frymoyer, Schwenk, Zorn, Bio, Moss, Chasmawala, Faulkenberry, 
+Goswami, Keizer and Ghaskari.
+
+DOI: 10.3389/fphar.2020.00551
+PMCID: PMC7201037
+PMID: 32411000

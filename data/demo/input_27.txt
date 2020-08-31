@@ -1,0 +1,58 @@
+27. BMC Med Inform Decis Mak. 2019 Apr 9;19(Suppl 2):53. doi: 
+10.1186/s12911-019-0760-9.
+
+An ontological framework for the formalization, organization and usage of 
+TCM-Knowledge.
+
+Long H(1), Zhu Y(2), Jia L(3), Gao B(3), Liu J(3), Liu L(3), Herre H(4).
+
+Author information:
+(1)Institute of Medical Informatics, Statistics and Epidemiology (IMISE) 
+University of Leipzig, Leipzig, Germany.
+(2)Institute of Information on Traditional Chinese Medicine, China Academy of 
+Chinese Medical Sciences, Beijing, China. zhuyan166@126.com.
+(3)Institute of Information on Traditional Chinese Medicine, China Academy of 
+Chinese Medical Sciences, Beijing, China.
+(4)Institute of Medical Informatics, Statistics and Epidemiology (IMISE) 
+University of Leipzig, Leipzig, Germany. heinrich.herre@imise.uni-leipzig.de.
+
+BACKGROUND: The traditional Chinese Medicine Language System (TCMLS) is a 
+large-scale terminology system, developed from 2002 on by the Institute of 
+Information of Traditional Chinese Medicine (IITCM). Until now, more than 
+120,000 concepts, 300,000 terms and 1.27 million semantic relational links are 
+included. Its top-level framework, called TCMLS-semantic network (SN), provides 
+an important basis for the standardization and mapping of traditional Chinese 
+Medicine (TCM) terminology systems. Though, many data produced and stored in 
+TCMLS have poor quality for historical reasons or because of human factors. 
+There is a large number of classification errors or inconsistent expressions of 
+terms remained in the current TCMLS- SN, which hamper an efficient utilization 
+of the data stored in TCMLS in practical applications.
+METHODS: We start with analyzing the technical specification based on TCMLS, 
+considering some obvious classification errors and problems of ambiguity of 
+semantic expressions in TCMLS-SN, followed with using a top-down approach for 
+building a middle level ontology which is based on the framework General Formal 
+Ontology (GFO), take into account the compatibility with TCM related concepts, 
+turn out the results of a modification of the current TCMLS-SN, called GFO-TCM.
+RESULTS: Through comparison with TCMLS-SN, according to viewpoints of GFO, some 
+semantic types and relations were reconstructed within GFO-TCM. We propose a 
+middle level ontology for TCMLS which may support entailment and ensure 
+coherence, we also draw out a mapping which possess a more reasonable framework 
+with a unified semantic criterion, it is application scenarios oriented and can 
+be further updated and extended.
+CONCLUSIONS: The goal is to construct a formal middle-level ontology that is 
+compatible with both the traditional medical terminology system and modern 
+medical terminology standards. it is intended to satisfy functional requirements 
+which are relevant for natural language processing, information extraction, 
+semantic retrieval, clinical decision support in the field of traditional 
+Chinese medicine. It also provides a foundation and methodology for building a 
+large-scale, unified semantic and extensible knowledge graph platform.
+
+DOI: 10.1186/s12911-019-0760-9
+PMCID: PMC6454592
+PMID: 30961578 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: Not 
+applicable. CONSENT FOR PUBLICATION: Not applicable. COMPETING INTERESTS: The 
+authors declared that they have no competing interests. PUBLISHER’S NOTE: 
+Springer Nature remains neutral with regard to jurisdictional claims in 
+published maps and institutional affiliations.

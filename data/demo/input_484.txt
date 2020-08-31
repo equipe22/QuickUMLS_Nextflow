@@ -1,0 +1,31 @@
+484. J Biomed Inform. 2008 Oct;41(5):837-47. doi: 10.1016/j.jbi.2008.02.005. Epub 
+2008 Mar 4.
+
+Semi-automatic web service composition for the life sciences using the BioMoby 
+semantic web framework.
+
+DiBernardo M(1), Pottinger R, Wilkinson M.
+
+Author information:
+(1)University of British Columbia, Department of Computer Science, 201-2366 Main 
+Mall, Vancouver, BC, Canada V6T1Z4. mikedebo@gmail.com
+
+Researchers in the life-sciences are currently limited to small-scale 
+informatics experiments and analyses because of the lack of interoperability 
+among life-sciences web services. This limitation can be addressed by annotating 
+services and their interfaces with semantic information, so that 
+interoperability problems can be reasoned about programmatically. The Moby 
+semantic web framework is a popular and mature platform that is used for this 
+purpose. However, the number of services that are available to select from when 
+building a workflow is becoming unmanageable for users. As such, attempts have 
+been made to assist with service selection and composition. These tasks fall 
+under the general label of automated service composition. We present a prototype 
+workflow assembly client that reduces the number of choices that users have to 
+make by (1) restricting the overall set of services presented to them and (2) 
+ranking services so that the the most desirable ones are presented first. We 
+demonstrate via an evaluation of this prototype that a unification of relatively 
+simple techniques can rank desirable services highly while maintaining 
+interactive response times.
+
+DOI: 10.1016/j.jbi.2008.02.005
+PMID: 18373957 [Indexed for MEDLINE]

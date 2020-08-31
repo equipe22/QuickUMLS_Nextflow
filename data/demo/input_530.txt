@@ -1,0 +1,47 @@
+530. JAMIA Open. 2019 Dec 16;3(1):37-43. doi: 10.1093/jamiaopen/ooz048. eCollection 
+2020 Apr.
+
+Using a custom mobile application for change management in an electronic health 
+record implementation.
+
+Threatt T(1), Pirtle CJ(2), Dzwonkowski J(1), Johnson KB(2).
+
+Author information:
+(1)HealthIT, Vanderbilt University Medical Center, Nashville, Tennessee, USA.
+(2)Department of Biomedical Informatics, Vanderbilt University Medical Center, 
+Nashville, Tennessee, USA.
+
+OBJECTIVES: Institutions cite managing the modification in infrastructure, 
+technical support, and process change as substantial barriers to a successful 
+electronic health record (EHR) implementation. In an effort to organize and 
+centralize the complex scheduling, task completion and communication needs of a 
+"big-bang" EHR go-live, we developed a unified communication system with the 
+goal of improving implementation process efficiency. Our goal was to create a 
+platform that would work across the medical enterprise.
+MATERIALS AND METHODS: We employed an agile process to design the application, 
+called Hubbl, based on initial requirements and iteratively obtained stakeholder 
+user. The final feature set included role-specific organization, integrated 
+communication, task and content management tooling, and embedded project 
+information retrieval, all embedded into the end user's day to day activities.
+RESULTS: User enrollment continually increased from launch in February of 2017 
+through go-live day. During the pre-go-live period, usage increased from an 
+average of 7.37 events/user/day to 18.65 events/user/day with over 97 
+communications sent across all periods. 5400 unique users accessed tip sheets 
+and information retrieval tools averaged 28.84 searches/user/day during the 
+go-live period with an average high of 46.33 searches/user/day 5 days 
+post-go-live. User access during go-live and post-go-live averaged 12.82 
+accesses/user/day and decreased from 20.42 average accesses on day one of go 
+live to 14.07 averaged accesses on day 60 of post-go-live with over 727 tasks 
+monitored to completion during all periods.
+CONCLUSION: Hubbl was an essential component of our communication, task 
+coordination, and change management strategy, for our EHR go live. Institutions 
+that choose a unified mobile and web-based platform during a substantial IT 
+(information technology) implementation can feasibly ensure task completion, 
+project coordination, and timely information dissemination.
+
+© The Author(s) 2019. Published by Oxford University Press on behalf of the 
+American Medical Informatics Association.
+
+DOI: 10.1093/jamiaopen/ooz048
+PMCID: PMC7309254
+PMID: 32607486

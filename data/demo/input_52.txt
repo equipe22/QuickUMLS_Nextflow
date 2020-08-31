@@ -1,0 +1,46 @@
+52. J Am Med Inform Assoc. 2011 Sep-Oct;18(5):631-8. doi: 
+10.1136/amiajnl-2010-000022. Epub 2011 Jun 27.
+
+Text mining for the Vaccine Adverse Event Reporting System: medical text 
+classification using informative feature selection.
+
+Botsis T(1), Nguyen MD, Woo EJ, Markatou M, Ball R.
+
+Author information:
+(1)Office of Biostatistics and Epidemiology, Center for Biologics Evaluation and 
+Research, Food and Drug Administration, Rockville, Maryland 20852, USA. 
+taxiarchis.botsis@fda.hhs.gov
+
+OBJECTIVE: The US Vaccine Adverse Event Reporting System (VAERS) collects 
+spontaneous reports of adverse events following vaccination. Medical officers 
+review the reports and often apply standardized case definitions, such as those 
+developed by the Brighton Collaboration. Our objective was to demonstrate a 
+multi-level text mining approach for automated text classification of VAERS 
+reports that could potentially reduce human workload.
+DESIGN: We selected 6034 VAERS reports for H1N1 vaccine that were classified by 
+medical officers as potentially positive (N(pos)=237) or negative for 
+anaphylaxis. We created a categorized corpus of text files that included the 
+class label and the symptom text field of each report. A validation set of 1100 
+labeled text files was also used. Text mining techniques were applied to extract 
+three feature sets for important keywords, low- and high-level patterns. A 
+rule-based classifier processed the high-level feature representation, while 
+several machine learning classifiers were trained for the remaining two feature 
+representations.
+MEASUREMENTS: Classifiers' performance was evaluated by macro-averaging recall, 
+precision, and F-measure, and Friedman's test; misclassification error rate 
+analysis was also performed.
+RESULTS: Rule-based classifier, boosted trees, and weighted support vector 
+machines performed well in terms of macro-recall, however at the expense of a 
+higher mean misclassification error rate. The rule-based classifier performed 
+very well in terms of average sensitivity and specificity (79.05% and 94.80%, 
+respectively).
+CONCLUSION: Our validated results showed the possibility of developing effective 
+medical text classifiers for VAERS reports by combining text mining with 
+informative feature selection; this strategy has the potential to reduce 
+reviewer workload considerably.
+
+DOI: 10.1136/amiajnl-2010-000022
+PMCID: PMC3168300
+PMID: 21709163 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None.

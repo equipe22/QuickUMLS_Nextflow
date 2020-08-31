@@ -1,0 +1,49 @@
+171. BMC Med Inform Decis Mak. 2012 Apr 5;12:29. doi: 10.1186/1472-6947-12-29.
+
+CDAPubMed: a browser extension to retrieve EHR-based biomedical literature.
+
+Perez-Rey D(1), Jimenez-Castellanos A, Garcia-Remesal M, Crespo J, Maojo V.
+
+Author information:
+(1)Biomedical Informatics Group, Facultad de Informática, Departamento de 
+Inteligencia Artificial, Universidad Politécnica de Madrid, Campus de 
+Montegancedo, s/n, 28660 Madrid, Spain. dperezdelrey@fi.upm.es
+
+BACKGROUND: Over the last few decades, the ever-increasing output of scientific 
+publications has led to new challenges to keep up to date with the literature. 
+In the biomedical area, this growth has introduced new requirements for 
+professionals, e.g., physicians, who have to locate the exact papers that they 
+need for their clinical and research work amongst a huge number of publications. 
+Against this backdrop, novel information retrieval methods are even more 
+necessary. While web search engines are widespread in many areas, facilitating 
+access to all kinds of information, additional tools are required to 
+automatically link information retrieved from these engines to specific 
+biomedical applications. In the case of clinical environments, this also means 
+considering aspects such as patient data security and confidentiality or 
+structured contents, e.g., electronic health records (EHRs). In this scenario, 
+we have developed a new tool to facilitate query building to retrieve scientific 
+literature related to EHRs.
+RESULTS: We have developed CDAPubMed, an open-source web browser extension to 
+integrate EHR features in biomedical literature retrieval approaches. Clinical 
+users can use CDAPubMed to: (i) load patient clinical documents, i.e., EHRs 
+based on the Health Level 7-Clinical Document Architecture Standard (HL7-CDA), 
+(ii) identify relevant terms for scientific literature search in these 
+documents, i.e., Medical Subject Headings (MeSH), automatically driven by the 
+CDAPubMed configuration, which advanced users can optimize to adapt to each 
+specific situation, and (iii) generate and launch literature search queries to a 
+major search engine, i.e., PubMed, to retrieve citations related to the EHR 
+under examination.
+CONCLUSIONS: CDAPubMed is a platform-independent tool designed to facilitate 
+literature searching using keywords contained in specific EHRs. CDAPubMed is 
+visually integrated, as an extension of a widespread web browser, within the 
+standard PubMed interface. It has been tested on a public dataset of HL7-CDA 
+documents, returning significantly fewer citations since queries are focused on 
+characteristics identified within the EHR. For instance, compared with more than 
+200,000 citations retrieved by breast neoplasm, fewer than ten citations were 
+retrieved when ten patient features were added using CDAPubMed. This is an open 
+source tool that can be freely used for non-profit purposes and integrated with 
+other existing systems.
+
+DOI: 10.1186/1472-6947-12-29
+PMCID: PMC3366875
+PMID: 22480327 [Indexed for MEDLINE]

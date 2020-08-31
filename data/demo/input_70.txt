@@ -1,0 +1,52 @@
+70. J Med Syst. 2019 Sep 14;43(10):320. doi: 10.1007/s10916-019-1445-8.
+
+A Systematic Review for Enabling of Develop a Blockchain Technology in 
+Healthcare Application: Taxonomy, Substantially Analysis, Motivations, 
+Challenges, Recommendations and Future Direction.
+
+Hussien HM(1), Yasin SM(1), Udzir SNI(1), Zaidan AA(2), Zaidan BB(3).
+
+Author information:
+(1)Faculty of Computer Science and Information Technology, Universiti Putra 
+Malaysia, Serdang, Malaysia.
+(2)Department of Computing, Universiti Pendidikan Sultan Idris, Tanjong Malim, 
+Malaysia.
+(3)Department of Computing, Universiti Pendidikan Sultan Idris, Tanjong Malim, 
+Malaysia. bilalbahaa@fskik.upsi.edu.my.
+
+Blockchain in healthcare applications requires robust security and privacy 
+mechanism for high-level authentication, interoperability and medical records 
+sharing to comply with the strict legal requirements of the Health Insurance 
+Portability and Accountability Act of 1996. Blockchain technology in the 
+healthcare industry has received considerable research attention in recent 
+years. This study conducts a review to substantially analyse and map the 
+research landscape of current technologies, mainly the use of blockchain in 
+healthcare applications, into a coherent taxonomy. The present study 
+systematically searches all relevant research articles on blockchain in 
+healthcare applications in three accessible databases, namely, ScienceDirect, 
+IEEE and Web of Science, by using the defined keywords 'blockchain', 
+'healthcare' and 'electronic health records' and their variations. The final set 
+of collected articles related to the use of blockchain in healthcare application 
+is divided into three categories. The first category includes articles (i.e. 
+43/58 scientific articles) that attempted to develop and design healthcare 
+applications integrating blockchain, particularly those on new architecture, 
+system designs, framework, scheme, model, platform, approach, protocol and 
+algorithm. The second category includes studies (i.e., 6/58 scientific articles) 
+that attempted to evaluate and analyse the adoption of blockchain in the 
+healthcare system. Finally, the third category comprises review and survey 
+articles (i.e., 6/58 scientific articles) related to the integration of 
+blockchain into healthcare applications. The final articles for review are 
+discussed on the basis of five aspects: (1) year of publication, (2) nationality 
+of authors, (3) publishing house or journal, (4) purpose of using blockchain in 
+health applications and the corresponding contributions and (5) problem types 
+and proposed solutions. Additionally, this study provides identified 
+motivations, open challenges and recommendations on the use of blockchain in 
+healthcare applications. The current research contributes to the literature by 
+providing a detailed review of feasible alternatives and identifying the 
+research gaps. Accordingly, researchers and developers are provided with 
+appealing opportunities to further develop decentralised healthcare applications 
+through a comprehensive discussion of about the importance of blockchain and its 
+integration into various healthcare applications.
+
+DOI: 10.1007/s10916-019-1445-8
+PMID: 31522262 [Indexed for MEDLINE]

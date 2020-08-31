@@ -1,0 +1,29 @@
+219. J Chem Inf Model. 2011 Feb 28;51(2):378-85. doi: 10.1021/ci100334z. Epub 2011 
+Jan 19.
+
+Automated information extraction and structure-activity relationship analysis of 
+cytochrome P450 substrates.
+
+Yamashita F(1), Feng C, Yoshida S, Itoh T, Hashida M.
+
+Author information:
+(1)Graduate School of Pharmaceutical Sciences, Kyoto University, Sakyo-ku, 
+Kyoto, Japan. yama@pharm.kyoto-u.ac.jp
+
+Information on CYP-chemical interactions was comprehensively explored by a 
+text-mining technique, to confirm our previous structure-activity relationship 
+model for CYP substrates (Yamashita et al. J. Chem. Inf. Model. 2008, 48, 
+364-369). The text-mining technique is based on natural language processing and 
+can extract chemical names and their interaction patterns according to sentence 
+context. After chemicals were automatically extracted and classified into CYP 
+substrates, inhibitors, and inducers, 709 substrates were retrieved from the 
+PubChem database and categorized as 216, 145, 136, 217, 156, and 379 substrates 
+for CYP1A2, CYP2C9, CYP2C19, CYP2D6, CYP2E1, and CYP3A4, respectively. Although 
+the previous classification model was developed using data from only 161 
+compounds, the model classified the substrates found by text-mining analysis 
+with reasonable accuracy. This confirmed the validity of both the 
+multi-objective classification model for CYP substrates and the text-mining 
+procedure.
+
+DOI: 10.1021/ci100334z
+PMID: 21247177 [Indexed for MEDLINE]

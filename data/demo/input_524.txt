@@ -1,0 +1,38 @@
+524. Bioinformatics. 2008 Jul 1;24(13):i277-85. doi: 10.1093/bioinformatics/btn182.
+
+Identifying gene-disease associations using centrality on a literature mined 
+gene-interaction network.
+
+Ozgür A(1), Vu T, Erkan G, Radev DR.
+
+Author information:
+(1)Electrical Engineering and Computer Science and School of Information, 
+University of Michigan, Ann Arbor, MI 48109, USA.
+
+MOTIVATION: Understanding the role of genetics in diseases is one of the most 
+important aims of the biological sciences. The completion of the Human Genome 
+Project has led to a rapid increase in the number of publications in this area. 
+However, the coverage of curated databases that provide information manually 
+extracted from the literature is limited. Another challenge is that determining 
+disease-related genes requires laborious experiments. Therefore, predicting good 
+candidate genes before experimental analysis will save time and effort. We 
+introduce an automatic approach based on text mining and network analysis to 
+predict gene-disease associations. We collected an initial set of known 
+disease-related genes and built an interaction network by automatic literature 
+mining based on dependency parsing and support vector machines. Our hypothesis 
+is that the central genes in this disease-specific network are likely to be 
+related to the disease. We used the degree, eigenvector, betweenness and 
+closeness centrality metrics to rank the genes in the network.
+RESULTS: The proposed approach can be used to extract known and to infer unknown 
+gene-disease associations. We evaluated the approach for prostate cancer. 
+Eigenvector and degree centrality achieved high accuracy. A total of 95% of the 
+top 20 genes ranked by these methods are confirmed to be related to prostate 
+cancer. On the other hand, betweenness and closeness centrality predicted more 
+genes whose relation to the disease is currently unknown and are candidates for 
+experimental study.
+AVAILABILITY: A web-based system for browsing the disease-specific 
+gene-interaction networks is available at: http://gin.ncibi.org.
+
+DOI: 10.1093/bioinformatics/btn182
+PMCID: PMC2718658
+PMID: 18586725 [Indexed for MEDLINE]

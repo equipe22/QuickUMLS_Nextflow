@@ -1,0 +1,40 @@
+579. Stud Health Technol Inform. 2019 Aug 21;264:1666-1667. doi: 10.3233/SHTI190587.
+
+The Ligurian HIV Network: How Medical Informatics Standards Can Help Clinical 
+Research.
+
+Giannini B(1), Mora S(1), Gazzarata R(2), Di Biagio A(3), Cenderello G(4), 
+Dentone C(5), Setti M(6), Fenoglio D(6)(7), Cassola G(4), Viscoli C(8), 
+Giacomini M(1)(2)(7).
+
+Author information:
+(1)Department of Informatics, Bioengineering, Robotics and System Engineering, 
+(DIBRIS), University of Genoa, Italy.
+(2)Healthropy, Savona, Italy.
+(3)Infectious Diseases Unit, IRCCS AOU S. Martino-IST, National Institute for 
+Cancer Research, Genoa, Italy.
+(4)SC Malattie Infettive, Ospedali Galliera, Genova, Italy.
+(5)Infectious Diseases Unit, ASL-1 Imperiese, Sanremo, Imperia, Italy.
+(6)Department of Internal Medicine, University of Genoa; IRCCS AOU San Martino 
+IST Genoa, Italy.
+(7)Centre of Excellence for Biomedical Research, (CEBR), University of Genoa, 
+Italy.
+(8)Department of Infectious Disease, IRCCS AOU San Martino IST, (DISSAL), 
+University of Genoa, Italy.
+
+Integrating evidence from systematic research in daily clinical practice is one 
+of the pillars of evidence-based medicine. Electronic data capture tools 
+simplify data collection from different centers and supports the management of 
+multicenter clinical trials. The Ligurian HIV Network (LHN) is one such tool, 
+originating from a regional effort to integrate clinical trial capabilities for 
+HIV and other chronic infectious diseases. In order to manually collect a 
+complete report of all clinical tests on patients enrolled in a trial, a 
+strenuous human effort and the allocation of great resources would be necessary. 
+Moreover, the risk of error in a manual system is very high. The proposed system 
+automatically extracts clinical data from the EHR of three hospitals of the LHN 
+in a standardized way, and enhance their re-use in clinical trials. Through 
+dedicated questionnaires, physicians reported a strongly positive feedback about 
+the efficacy of the platform in supporting clinical research.
+
+DOI: 10.3233/SHTI190587
+PMID: 31438283 [Indexed for MEDLINE]

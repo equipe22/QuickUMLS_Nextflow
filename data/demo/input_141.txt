@@ -1,0 +1,45 @@
+141. BMC Bioinformatics. 2019 Feb 8;20(1):70. doi: 10.1186/s12859-019-2634-7.
+
+Analyzing a co-occurrence gene-interaction network to identify disease-gene 
+association.
+
+Al-Aamri A(1), Taha K(1), Al-Hammadi Y(1), Maalouf M(2), Homouz D(3).
+
+Author information:
+(1)Department of Electrical and Computer Engineering, Abu Dhabi, United Arab 
+Emirates.
+(2)Department of Industrial and Systems Engineering, Abu Dhabi, United Arab 
+Emirates.
+(3)Department of Physics, Khalifa University of Science and Technology, Abu 
+Dhabi, P.O. Box 127788,, United Arab Emirates. dirar.homouz@ku.ac.ae.
+
+BACKGROUND: Understanding the genetic networks and their role in chronic 
+diseases (e.g., cancer) is one of the important objectives of biological 
+researchers. In this work, we present a text mining system that constructs a 
+gene-gene-interaction network for the entire human genome and then performs 
+network analysis to identify disease-related genes. We recognize the interacting 
+genes based on their co-occurrence frequency within the biomedical literature 
+and by employing linear and non-linear rare-event classification models. We 
+analyze the constructed network of genes by using different network centrality 
+measures to decide on the importance of each gene. Specifically, we apply 
+betweenness, closeness, eigenvector, and degree centrality metrics to rank the 
+central genes of the network and to identify possible cancer-related genes.
+RESULTS: We evaluated the top 15 ranked genes for different cancer types (i.e., 
+Prostate, Breast, and Lung Cancer). The average precisions for identifying 
+breast, prostate, and lung cancer genes vary between 80-100%. On a prostate case 
+study, the system predicted an average of 80% prostate-related genes.
+CONCLUSIONS: The results show that our system has the potential for improving 
+the prediction accuracy of identifying gene-gene interaction and disease-gene 
+associations. We also conduct a prostate cancer case study by using the 
+threshold property in logistic regression, and we compare our approach with some 
+of the state-of-the-art methods.
+
+DOI: 10.1186/s12859-019-2634-7
+PMCID: PMC6368766
+PMID: 30736752 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: Not 
+applicable. CONSENT FOR PUBLICATION: Not applicable. COMPETING INTERESTS: The 
+authors declare that they have no competing interests. PUBLISHER’S NOTE: 
+Springer Nature remains neutral with regard to jurisdictional claims in 
+published maps and institutional affiliations.

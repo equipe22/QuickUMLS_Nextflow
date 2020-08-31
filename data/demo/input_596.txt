@@ -1,0 +1,49 @@
+596. Am J Drug Alcohol Abuse. 2020 Jul 3;46(4):454-461. doi: 
+10.1080/00952990.2019.1676433. Epub 2019 Nov 19.
+
+The association between regular cannabis use, with and without tobacco co-use, 
+and adverse cardiovascular outcomes: cannabis may have a greater impact in 
+non-tobacco smokers.
+
+Winhusen T(1), Theobald J(1), Kaelber DC(2)(3)(4), Lewis D(1).
+
+Author information:
+(1)Addiction Sciences Division, Department of Psychiatry and Behavioral 
+Neuroscience, University of Cincinnati College of Medicine , Cincinnati, OH, 
+USA.
+(2)Department of Information Services, The MetroHealth System , Cleveland, OH, 
+USA.
+(3)Departments of Internal Medicine, Pediatrics, and Population and Quantitative 
+Health Sciences, Case Western Reserve University , Cleveland, OH, USA.
+(4)The Center for Clinical Informatics Research and Education, The MetroHealth 
+System , Cleveland, OH, USA.
+
+BACKGROUND: Understanding the potential impact of cannabis use on cardiovascular 
+health is increasingly important as cannabis use rises in the U.S. Objectives: 
+This study evaluated the associations between regular cannabis use, with and 
+without tobacco co-use, and cardiovascular outcomes.
+METHODS: Analysis of a limited dataset obtained through IBM Watson Health 
+Explorys, a platform integrating electronic health record data. Matched controls 
+using Mahalanobis distance within propensity score calipers were defined for: 1) 
+cannabis-using patients (n = 8,944; 43% female); and subgroups of cannabis-using 
+patients: 2) with an encounter diagnosis for tobacco use disorder (TUD; n 
+= 4,682); and 3) without a TUD diagnosis (non-TUD; n = 4,262). Patients had ≥1 
+blood pressure measurement and blood chemistry lab result in the MetroHealth 
+System (Cleveland, Ohio). Cannabis-using patients had an encounter diagnosis of 
+cannabis abuse/dependence and/or ≥2 cannabis-positive urine drug screens. 
+Control patients, with no cannabis-use-documentation, were matched to the 
+cannabis-using patients on demographics, residential zip code median income, 
+body mass index, and, for the total sample, TUD-status. Outcomes were encounter 
+diagnosis (yes/no) of cerebrovascular accident (CVA), heart arrhythmia, 
+myocardial infarction, subarachnoid hemorrhage (SAH), and all-cause mortality.
+RESULTS: TUD-patients had the greatest prevalence of cardiovascular disease, 
+regardless of cannabis-use indication. In the total sample and non-TUD subgroup, 
+regular cannabis use was significantly associated with greater risk for CVA, 
+arrhythmia, SAH, and mortality. In the TUD subgroup, regular cannabis use was 
+significantly associated with greater risk for arrhythmia and SAH.
+CONCLUSIONS: Cannabis use is associated with significantly greater risk of 
+adverse cardiovascular diagnoses and overall death, particularly in non-tobacco 
+users.
+
+DOI: 10.1080/00952990.2019.1676433
+PMID: 31743053

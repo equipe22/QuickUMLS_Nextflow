@@ -1,0 +1,78 @@
+410. Biodivers Data J. 2014 Jun 16;(2):e1125. doi: 10.3897/BDJ.2.e1125. eCollection 
+2014.
+
+Enriched biodiversity data as a resource and service.
+
+Vos RA(1), Biserkov JV(2), Balech B(3), Beard N(4), Blissett M(5), 
+Brenninkmeijer C(4), van Dooren T(1), Eades D(6), Gosline G(5), Groom QJ(7), 
+Hamann TD(1), Hettling H(1), Hoehndorf R(8), Holleman A(1), Hovenkamp P(1), 
+Kelbert P(9), King D(10), Kirkup D(5), Lammers Y(1), DeMeulemeester T(1), 
+Mietchen D(11), Miller JA(1), Mounce R(12), Nicolson N(5), Page R(13), Pawlik 
+A(14), Pereira S(1), Penev L(2), Richards K(15), Sautter G(16), Shorthouse 
+DP(17), Tähtinen M(18), Weiland C(19), Williams AR(4), Sierra S(1).
+
+Author information:
+(1)Naturalis Biodiversity Center, Leiden, Netherlands.
+(2)Pensoft Publishers, Sofia, Bulgaria.
+(3)Institute of Biomembranes and Bioenergetics, National Research Council, Bari, 
+Italy.
+(4)University of Manchester, Manchester, United Kingdom.
+(5)Royal Botanic Gardens, Kew, United Kingdom.
+(6)The Illinois Natural History Survey, Champaign, United States of America.
+(7)Agentschap Plantentuin Meise, Meise, Belgium.
+(8)Aberystwyth University, Aberystwyth, United Kingdom.
+(9)Botanic Garden and Botanical Museum Berlin-Dahlem, Freie Universität Berlin, 
+Berlin, Germany.
+(10)The Open University, Milton Keynes, United Kingdom.
+(11)Museum für Naturkunde, Berlin, Germany.
+(12)University of Bath, Bath, United Kingdom.
+(13)University Of Glasgow, Glasgow, United Kingdom.
+(14)Software Sustainability Institute, Manchester, United Kingdom.
+(15)Biodiversity Informatics Consultant, Christchurch, New Zealand.
+(16)Plazi, Bern, Switzerland.
+(17)Université de Montréal Biodiversity Centre, Montréal, Canada.
+(18)University of Eastern Finland, Espoo, Finland.
+(19)Biodiversity and Climate Research Centre, Senckenberg Gesellschaft für 
+Naturforschung, Frankfurt, Germany.
+
+BACKGROUND: Recent years have seen a surge in projects that produce large 
+volumes of structured, machine-readable biodiversity data. To make these data 
+amenable to processing by generic, open source "data enrichment" workflows, they 
+are increasingly being represented in a variety of standards-compliant 
+interchange formats. Here, we report on an initiative in which software 
+developers and taxonomists came together to address the challenges and highlight 
+the opportunities in the enrichment of such biodiversity data by engaging in 
+intensive, collaborative software development: The Biodiversity Data Enrichment 
+Hackathon.
+RESULTS: The hackathon brought together 37 participants (including developers 
+and taxonomists, i.e. scientific professionals that gather, identify, name and 
+classify species) from 10 countries: Belgium, Bulgaria, Canada, Finland, 
+Germany, Italy, the Netherlands, New Zealand, the UK, and the US. The 
+participants brought expertise in processing structured data, text mining, 
+development of ontologies, digital identification keys, geographic information 
+systems, niche modeling, natural language processing, provenance annotation, 
+semantic integration, taxonomic name resolution, web service interfaces, 
+workflow tools and visualisation. Most use cases and exemplar data were provided 
+by taxonomists. One goal of the meeting was to facilitate re-use and enhancement 
+of biodiversity knowledge by a broad range of stakeholders, such as taxonomists, 
+systematists, ecologists, niche modelers, informaticians and ontologists. The 
+suggested use cases resulted in nine breakout groups addressing three main 
+themes: i) mobilising heritage biodiversity knowledge; ii) formalising and 
+linking concepts; and iii) addressing interoperability between service 
+platforms. Another goal was to further foster a community of experts in 
+biodiversity informatics and to build human links between research projects and 
+institutions, in response to recent calls to further such integration in this 
+research domain.
+CONCLUSIONS: Beyond deriving prototype solutions for each use case, areas of 
+inadequacy were discussed and are being pursued further. It was striking how 
+many possible applications for biodiversity data there were and how quickly 
+solutions could be put together when the normal constraints to collaboration 
+were broken down for a week. Conversely, mobilising biodiversity knowledge from 
+their silos in heritage literature and natural history collections will continue 
+to require formalisation of the concepts (and the links between them) that 
+define the research domain, as well as increased interoperability between the 
+software platforms that operate on these concepts.
+
+DOI: 10.3897/BDJ.2.e1125
+PMCID: PMC4092319
+PMID: 25057255

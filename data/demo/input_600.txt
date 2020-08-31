@@ -1,0 +1,30 @@
+600. AMIA Jt Summits Transl Sci Proc. 2013 Mar 18;2013:73. eCollection 2013.
+
+App Store for EHRs and Patients Both.
+
+Franckle T(1), Haas D, Mandl KD.
+
+Author information:
+(1)Children's Hospital Informatics Program at Harvard-MIT Health Sciences and 
+Technology, Boston Children's Hospital, Boston, Massachusetts, USA.
+
+The Substitutable Medical Applications, Reusable Technologies (SMART) Platforms 
+project ( www.smartplatforms.org ) seeks to develop an iPhone-like health 
+information technology platform with substitutable apps constructed around core 
+services. It is funded by a grant from the Office of the National Coordinator of 
+Health Information Technology's Strategic Health IT Advanced Research Projects 
+(SHARP) Program. SMART technologies enable existing electronic health records 
+and HIT platforms to run substitutable apps. Substitutability is the capability 
+inherent in a system of replacing one application with another of similar 
+functionality. We created a patient-facing SMART instance using the open source 
+Indivo personally controlled health record (PCHR). The SMART "read-only" API has 
+been deployed on multiple systems, including the Cerner installation at Boston 
+Children's Hospital and the World Vista EHR. We sought to SMART-enable Indivo, 
+the open source reference PCHR upon which HealthVault and other PCHRs were 
+modeled. PCHRs provide patients with a secure repository of their health 
+information that can be exposed to apps across a programming interface. We 
+updated the open source Indivo PCHR to support the SMART API, enabling Indivo to 
+act as a patient-facing apps platform, running the same or similar versions of 
+apps that face clinicians.
+
+PMID: 24303239

@@ -1,0 +1,38 @@
+49. On Move Meaningful Internet Syst. 2016 Oct;10033:699-708. doi: 
+10.1007/978-3-319-48472-3_43. Epub 2016 Oct 18.
+
+An Ontology-Enabled Natural Language Processing Pipeline for Provenance Metadata 
+Extraction from Biomedical Text (Short Paper).
+
+Valdez J(1), Rueschman M(2), Kim M(2), Redline S(2), Sahoo SS(1).
+
+Author information:
+(1)Division of Medical Informatics and Electrical Engineering and Computer 
+Science Department, Case Western Reserve University, Cleveland, OH, USA.
+(2)Departments of Medicine, Brigham and Women's Hospital and Beth Israel 
+Deaconess Medical Center, Harvard University, Boston, MA, USA.
+
+Extraction of structured information from biomedical literature is a complex and 
+challenging problem due to the complexity of biomedical domain and lack of 
+appropriate natural language processing (NLP) techniques. High quality domain 
+ontologies model both data and metadata information at a fine level of 
+granularity, which can be effectively used to accurately extract structured 
+information from biomedical text. Extraction of provenance metadata, which 
+describes the history or source of information, from published articles is an 
+important task to support scientific reproducibility. Reproducibility of results 
+reported by previous research studies is a foundational component of scientific 
+advancement. This is highlighted by the recent initiative by the US National 
+Institutes of Health called "Principles of Rigor and Reproducibility". In this 
+paper, we describe an effective approach to extract provenance metadata from 
+published biomedical research literature using an ontology-enabled NLP platform 
+as part of the Provenance for Clinical and Healthcare Research (ProvCaRe). The 
+ProvCaRe-NLP tool extends the clinical Text Analysis and Knowledge Extraction 
+System (cTAKES) platform using both provenance and biomedical domain ontologies. 
+We demonstrate the effectiveness of ProvCaRe-NLP tool using a corpus of 20 
+peer-reviewed publications. The results of our evaluation demonstrate that the 
+ProvCaRe-NLP tool has significantly higher recall in extracting provenance 
+metadata as compared to existing NLP pipelines such as MetaMap.
+
+DOI: 10.1007/978-3-319-48472-3_43
+PMCID: PMC5486409
+PMID: 28664200

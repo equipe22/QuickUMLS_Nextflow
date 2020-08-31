@@ -1,0 +1,40 @@
+78. Citiz Sci. 2016;1(2):14. doi: 10.5334/cstp.56. Epub 2016 Dec 31.
+
+Citizen Science for Mining the Biomedical Literature.
+
+Tsueng G(#)(1), Nanis SM(#)(1), Fouquier J(1), Good BM(1), Su AI(1).
+
+Author information:
+(1)Department of Molecular and Experimental Medicine, The Scripps Research 
+Institute, 10550 North Torrey Pines Road, La Jolla, CA 92037, USA.
+(#)Contributed equally
+
+Biomedical literature represents one of the largest and fastest growing 
+collections of unstructured biomedical knowledge. Finding critical information 
+buried in the literature can be challenging. To extract information from 
+free-flowing text, researchers need to: 1. identify the entities in the text 
+(named entity recognition), 2. apply a standardized vocabulary to these entities 
+(normalization), and 3. identify how entities in the text are related to one 
+another (relationship extraction). Researchers have primarily approached these 
+information extraction tasks through manual expert curation and computational 
+methods. We have previously demonstrated that named entity recognition (NER) 
+tasks can be crowdsourced to a group of non-experts via the paid microtask 
+platform, Amazon Mechanical Turk (AMT), and can dramatically reduce the cost and 
+increase the throughput of biocuration efforts. However, given the size of the 
+biomedical literature, even information extraction via paid microtask platforms 
+is not scalable. With our web-based application Mark2Cure 
+(http://mark2cure.org), we demonstrate that NER tasks also can be performed by 
+volunteer citizen scientists with high accuracy. We apply metrics from the 
+Zooniverse Matrices of Citizen Science Success and provide the results here to 
+serve as a basis of comparison for other citizen science projects. Further, we 
+discuss design considerations, issues, and the application of analytics for 
+successfully moving a crowdsourcing workflow from a paid microtask platform to a 
+citizen science platform. To our knowledge, this study is the first application 
+of citizen science to a natural language processing task.
+
+DOI: 10.5334/cstp.56
+PMCID: PMC6226017
+PMID: 30416754
+
+Conflict of interest statement: Competing Interests The authors have no 
+competing interests to declare.

@@ -1,0 +1,43 @@
+150. Sci Total Environ. 2019 Mar 25;658:69-79. doi: 10.1016/j.scitotenv.2018.12.071. 
+Epub 2018 Dec 11.
+
+Beyond sound level monitoring: Exploitation of social media to gather citizens 
+subjective response to noise.
+
+Gasco L(1), Clavel C(2), Asensio C(3), de Arcas G(3).
+
+Author information:
+(1)Universidad Politécnica de Madrid, Grupo I2A2, ETS Topografía, Campus Sur 
+UPM, Ctra. Valencia km 7, 28031 Madrid, Spain; EIT Digital Doctoral 
+School-Madrid CLC, IMDEA Software Institute, Campus Montegancedo s/n, Pozuelo de 
+Alarcón, 28223 Madrid, Spain. Electronic address: luis.gasco@i2a2.upm.es.
+(2)Telecom Paristech, 46 rue Barrault, 75634 Paris Cedex 13, France.
+(3)Universidad Politécnica de Madrid, Grupo I2A2, ETS Topografía, Campus Sur 
+UPM, Ctra. Valencia km 7, 28031 Madrid, Spain.
+
+Subjective response to noise is probably the most important goal in 
+environmental acoustics. Traditional surveys have the drawback of high cost 
+deriving from its development and execution, the limited number of participants, 
+and the duration of the surveying campaign. The main drawbacks of online surveys 
+are the low participation, or the self-produced bias that concerns about the 
+topic can raise. In both cases, the process of designing questionnaires, 
+implementing the survey, and analysing the results can be long, expensive and 
+ineffective to monitor changes in the short-term. With the creation of Online 
+Social Networks (OSN), people have changed the manner they communicate and use 
+technology. Nowadays, people can provide information regarding their likes, 
+opinion and discomfort about any topic, including noise, in just a few minutes 
+with their smartphone. These Internet opinions can be analysed automatically 
+using machine learning and Natural Language Processing techniques to get 
+insights that can help in the early detection of noise problems, or in the prior 
+assessment of action plans. This information can be significant helpful in 
+addressing noise management by local authorities and stakeholders. The purpose 
+of this paper is to present a novel methodology, based on machine learning, 
+allowing for the gathering and processing of OSN text data, enabling the 
+generation of a system able to exploit the data to detect noise complaints and 
+to classify them by source. This methodology has been piloted in a case study 
+using Twitter, and the main results are presented.
+
+Copyright © 2018 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.scitotenv.2018.12.071
+PMID: 30572215 [Indexed for MEDLINE]

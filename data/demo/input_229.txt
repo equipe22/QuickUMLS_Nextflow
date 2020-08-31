@@ -1,0 +1,43 @@
+229. J Am Med Inform Assoc. 2012 Nov-Dec;19(6):1011-8. doi: 
+10.1136/amiajnl-2012-000881. Epub 2012 Aug 25.
+
+Vaccine adverse event text mining system for extracting features from vaccine 
+safety reports.
+
+Botsis T(1), Buttolph T, Nguyen MD, Winiecki S, Woo EJ, Ball R.
+
+Author information:
+(1)Center for Biologics Evaluation and Research, Food and Drug Administration, 
+Rockville, Maryland, USA. taxiarchis.botsis@fda.hhs.gov
+
+OBJECTIVE: To develop and evaluate a text mining system for extracting key 
+clinical features from vaccine adverse event reporting system (VAERS) narratives 
+to aid in the automated review of adverse event reports.
+DESIGN: Based upon clinical significance to VAERS reviewing physicians, we 
+defined the primary (diagnosis and cause of death) and secondary features (eg, 
+symptoms) for extraction. We built a novel vaccine adverse event text mining 
+(VaeTM) system based on a semantic text mining strategy. The performance of 
+VaeTM was evaluated using a total of 300 VAERS reports in three sequential 
+evaluations of 100 reports each. Moreover, we evaluated the VaeTM contribution 
+to case classification; an information retrieval-based approach was used for the 
+identification of anaphylaxis cases in a set of reports and was compared with 
+two other methods: a dedicated text classifier and an online tool.
+MEASUREMENTS: The performance metrics of VaeTM were text mining metrics: recall, 
+precision and F-measure. We also conducted a qualitative difference analysis and 
+calculated sensitivity and specificity for classification of anaphylaxis cases 
+based on the above three approaches.
+RESULTS: VaeTM performed best in extracting diagnosis, second level diagnosis, 
+drug, vaccine, and lot number features (lenient F-measure in the third 
+evaluation: 0.897, 0.817, 0.858, 0.874, and 0.914, respectively). In terms of 
+case classification, high sensitivity was achieved (83.1%); this was equal and 
+better compared to the text classifier (83.1%) and the online tool (40.7%), 
+respectively.
+CONCLUSION: Our VaeTM implementation of a semantic text mining strategy shows 
+promise in providing accurate and efficient extraction of key features from 
+VAERS narratives.
+
+DOI: 10.1136/amiajnl-2012-000881
+PMCID: PMC3534466
+PMID: 22922172 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None.

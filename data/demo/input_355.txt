@@ -1,0 +1,38 @@
+355. PLoS One. 2017 Jul 5;12(7):e0179926. doi: 10.1371/journal.pone.0179926. 
+eCollection 2017.
+
+Assigning factuality values to semantic relations extracted from biomedical 
+research literature.
+
+Kilicoglu H(1), Rosemblat G(1), Rindflesch TC(1).
+
+Author information:
+(1)Lister Hill National Center for Biomedical Communications, U.S. National 
+Library of Medicine, Bethesda, MD, 20894, United States of America.
+
+Biomedical knowledge claims are often expressed as hypotheses, speculations, or 
+opinions, rather than explicit facts (propositions). Much biomedical text mining 
+has focused on extracting propositions from biomedical literature. One such 
+system is SemRep, which extracts propositional content in the form of 
+subject-predicate-object triples called predications. In this study, we 
+investigated the feasibility of assessing the factuality level of SemRep 
+predications to provide more nuanced distinctions between predications for 
+downstream applications. We annotated semantic predications extracted from 500 
+PubMed abstracts with seven factuality values (fact, probable, possible, 
+doubtful, counterfact, uncommitted, and conditional). We extended a rule-based, 
+compositional approach that uses lexical and syntactic information to predict 
+factuality levels. We compared this approach to a supervised machine learning 
+method that uses a rich feature set based on the annotated corpus. Our results 
+indicate that the compositional approach is more effective than the machine 
+learning method in recognizing the factuality values of predications. The 
+annotated corpus as well as the source code and binaries for factuality 
+assignment are publicly available. We will also incorporate the results of the 
+better performing compositional approach into SemMedDB, a PubMed-scale 
+repository of semantic predications extracted using SemRep.
+
+DOI: 10.1371/journal.pone.0179926
+PMCID: PMC5497973
+PMID: 28678823 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.

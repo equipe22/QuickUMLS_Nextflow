@@ -1,0 +1,47 @@
+15. Insights Imaging. 2019 Sep 23;10(1):93. doi: 10.1186/s13244-019-0777-8.
+
+Structured report data can be used to develop deep learning algorithms: a proof 
+of concept in ankle radiographs.
+
+Pinto Dos Santos D(1), Brodehl S(2), Baeßler B(3), Arnhold G(4), Dratsch T(3), 
+Chon SH(5), Mildenberger P(4), Jungmann F(4).
+
+Author information:
+(1)Department of Radiology, University Hospital of Cologne, Kerpener Str. 62, 
+50937, Cologne, Germany. daniel.pinto-dos-santos@uk-koeln.de.
+(2)Department of Informatics, University Mainz, Mainz, Germany.
+(3)Department of Radiology, University Hospital of Cologne, Kerpener Str. 62, 
+50937, Cologne, Germany.
+(4)Department of Radiology, University Medical Center Mainz, Mainz, Germany.
+(5)Department of Surgery, University Hospital of Cologne, Cologne, Germany.
+
+BACKGROUND: Data used for training of deep learning networks usually needs large 
+amounts of accurate labels. These labels are usually extracted from reports 
+using natural language processing or by time-consuming manual review. The aim of 
+this study was therefore to develop and evaluate a workflow for using data from 
+structured reports as labels to be used in a deep learning application.
+MATERIALS AND METHODS: We included all plain anteriorposterior radiographs of 
+the ankle for which structured reports were available. A workflow was designed 
+and implemented where a script was used to automatically retrieve, convert, and 
+anonymize the respective radiographs of cases where fractures were either 
+present or absent from the institution's picture archiving and communication 
+system (PACS). These images were then used to retrain a pretrained deep 
+convolutional neural network. Finally, performance was evaluated on a set of 
+previously unseen radiographs.
+RESULTS: Once implemented and configured, completion of the whole workflow took 
+under 1 h. A total of 157 structured reports were retrieved from the reporting 
+platform. For all structured reports, corresponding radiographs were 
+successfully retrieved from the PACS and fed into the training process. On an 
+unseen validation subset, the model showed a satisfactory performance with an 
+area under the curve of 0.850 (95% CI 0.634-1.000) for detection of fractures.
+CONCLUSION: We demonstrate that data obtained from structured reports written in 
+clinical routine can be used to successfully train deep learning algorithms. 
+This highlights the potential role of structured reporting for the future of 
+radiology, especially in the context of deep learning.
+
+DOI: 10.1186/s13244-019-0777-8
+PMCID: PMC6777645
+PMID: 31549305
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

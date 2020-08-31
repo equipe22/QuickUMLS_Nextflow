@@ -1,0 +1,41 @@
+350. BMC Bioinformatics. 2007 Mar 8;8 Suppl 1(Suppl 1):S18. doi: 
+10.1186/1471-2105-8-S1-S18.
+
+SYMBIOmatics: synergies in Medical Informatics and Bioinformatics--exploring 
+current scientific literature for emerging topics.
+
+Rebholz-Schuhman D(1), Cameron G, Clark D, van Mulligen E, Coatrieux JL, Del 
+Hoyo Barbolla E, Martin-Sanchez F, Milanesi L, Porro I, Beltrame F, Tollis I, 
+Van der Lei J.
+
+Author information:
+(1)EMBL-European Bioinformatics Institute, Wellcome Trust Genome Campus, 
+Hinxton, Cambridge, CB10 1SD, UK. rebholz@ebi.ac.uk
+
+BACKGROUND: The SYMBIOmatics Specific Support Action (SSA) is "an information 
+gathering and dissemination activity" that seeks "to identify synergies between 
+the bioinformatics and the medical informatics" domain to improve collaborative 
+progress between both domains (ref. to http://www.symbiomatics.org). As part of 
+the project experts in both research fields will be identified and approached 
+through a survey. To provide input to the survey, the scientific literature was 
+analysed to extract topics relevant to both medical informatics and 
+bioinformatics.
+RESULTS: This paper presents results of a systematic analysis of the scientific 
+literature from medical informatics research and bioinformatics research. In the 
+analysis pairs of words (bigrams) from the leading bioinformatics and medical 
+informatics journals have been used as indication of existing and emerging 
+technologies and topics over the period 2000-2005 ("recent") and 1990-1990 
+("past"). We identified emerging topics that were equally important to 
+bioinformatics and medical informatics in recent years such as microarray 
+experiments, ontologies, open source, text mining and support vector machines. 
+Emerging topics that evolved only in bioinformatics were system biology, protein 
+interaction networks and statistical methods for microarray analyses, whereas 
+emerging topics in medical informatics were grid technology and tissue 
+microarrays.
+CONCLUSION: We conclude that although both fields have their own specific 
+domains of interest, they share common technological developments that tend to 
+be initiated by new developments in biotechnology and computer science.
+
+DOI: 10.1186/1471-2105-8-S1-S18
+PMCID: PMC1885847
+PMID: 17430562 [Indexed for MEDLINE]

@@ -1,0 +1,38 @@
+470. Work. 2020;65(1):187-194. doi: 10.3233/WOR-193048.
+
+Contributions of activity ergonomics to the design of an electronic health 
+record to support collaborative mental care of children and youth: Preliminary 
+results.
+
+do Carmo Alonso CM(1), de Lima AN(2), Oggioni BMP(2), Teixeira MR(3), Oliveira 
+EP(1), Couto MCV(3), Duarte FJCM(2).
+
+Author information:
+(1)Department of Occupational Therapy, Medical School, UFRJ, Rio de Janeiro, 
+Brazil.
+(2)Production Engineering Program, COPPE, UFRJ, Rio de Janeiro, Brazil.
+(3)Research Group on Public Mental Health Policies, Institute of Psychiatry, 
+UFRJ, Rio de Janeiro, Brazil.
+
+BACKGROUND: The use of electronic health records (EHR) is related to the 
+improvement of service quality and care coordination. The design of this 
+platform generally focuses on the individual use of the system and does not 
+integrate the specific needs of workers to provide support for collaborative 
+activities.
+OBJECTIVE: The study investigated how activity ergonomics (AE) contributed to 
+improve the design of an EHR that supports the collaborative mental health care 
+of children and youth.
+METHODS: This qualitative study, based on the theoretical framework of AE, used 
+individual and group interviews and document analysis as research procedures. 
+The data collection occurred between March and September 2017 in Rio de Janeiro, 
+Brazil.
+RESULTS: The study highlighted the following points: the characteristics that 
+marked the different perceptions of workers regarding the use of a communication 
+tool for collaborative care; the problems related to spreadsheet usability; and 
+the desirable attributes that should be considered in the conception of a new 
+EHR.
+CONCLUSIONS: The research indicated that AE favors improving the design of an 
+EHR by incorporating the work dimension into the project.
+
+DOI: 10.3233/WOR-193048
+PMID: 31868702 [Indexed for MEDLINE]

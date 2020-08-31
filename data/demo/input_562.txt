@@ -1,0 +1,52 @@
+562. J Multidiscip Healthc. 2020 May 15;13:433-445. doi: 10.2147/JMDH.S247878. 
+eCollection 2020.
+
+Intelligent Telehealth System To Support Epilepsy Diagnosis.
+
+Molina E(1), Sarmiento Torres CE(2), Salazar-Cabrera R(1), López DM(1), 
+Vargas-Cañas R(2).
+
+Author information:
+(1)Telematics Department, Universidad del Cauca, Popayán, Cauca, Colombia.
+(2)Department of Physics, Universidad del Cauca, Popayán, Cauca, Colombia.
+
+BACKGROUND: Availability and opportunity of epilepsy diagnostic services is a 
+significant challenge, especially in developing countries with a low number of 
+neurologists. The most commonly used test to diagnose epilepsy is 
+﻿electroencephalogram (EEG). A typical EEG recording lasts for 20 to 30 minutes; 
+however, a specialist requires much more time to read it. Furthermore, no 
+evidence was found in the literature on open-source systems for the 
+cost-effective management of patient information using ﻿electronic ﻿health 
+﻿records (EHR) that adequately integrate EEG analysis for automatic 
+identification of abnormal signals.
+OBJECTIVE: To develop an integrated open-source EHR system for the management of 
+the patients' personal, clinical, and EEG data, and for automatic identification 
+of abnormal EEG signals.
+METHODS: The core of the system is an EHR and telehealth service based on the 
+OpenMRS platform. On top of that, we developed an intelligent component to 
+automatically detect abnormal segments of EEG tests using ﻿machine ﻿learning 
+algorithms, as well as a service to annotate and visualize abnormal segments in 
+EEG signals. Finally, we evaluated the intelligent component and the integrated 
+system using precision, recall, and accuracy metrics.
+RESULTS: The system allowed to manage patients' information properly, store and 
+manage the EEG tests recorded with a medical EEG device, and to detect abnormal 
+segments of signals with a precision of 85.10%, a recall of 97.16%, and an 
+accuracy of 99.92%.
+CONCLUSION: Digital health is a multidisciplinary field of research in which 
+artificial intelligence is playing a significant role in boosting traditional 
+health services. Notably, the developed system could significantly reduce the 
+time a neurologist spends in the reading of an EEG for the diagnosis of 
+epilepsy, saving approximately 65-75% of the time consumed. It can be used in a 
+telehealth environment. In this way, the availability and provision of 
+diagnostic services for epilepsy management could be improved, especially in 
+developing countries where the number of neurologists is low.
+
+© 2020 Molina et al.
+
+DOI: 10.2147/JMDH.S247878
+PMCID: PMC7237117
+PMID: 32523350
+
+Conflict of interest statement: Mr Edward Molina reports grants from Colombian 
+Agency for Science, Technology, and Innovation Colciencias, during the conduct 
+of the study. The authors declare no other conflicts of interest.

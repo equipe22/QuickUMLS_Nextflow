@@ -1,0 +1,64 @@
+50. PLoS One. 2018 Oct 18;13(10):e0205855. doi: 10.1371/journal.pone.0205855. 
+eCollection 2018.
+
+Machine learning to support social media empowered patients in cancer care and 
+cancer treatment decisions.
+
+De Silva D(1), Ranasinghe W(1)(2), Bandaragoda T(1), Adikari A(1), Mills N(1), 
+Iddamalgoda L(1), Alahakoon D(1), Lawrentschuk N(2), Persad R(3), Osipov E(4), 
+Gray R(5), Bolton D(2).
+
+Author information:
+(1)Research Centre for Data Analytics and Cognition, La Trobe University, 
+Victoria, Australia.
+(2)Austin Hospital, Heidelberg, Victoria, Australia.
+(3)North Bristol, NHS Trust, Bristol, United Kingdom.
+(4)Department of Computer Science, Electrical and Space Engineering, Luleå 
+University of Technology, Luleå, Sweden.
+(5)School of Nursing and Midwifery, La Trobe University, Victoria, Australia.
+
+BACKGROUND: A primary variant of social media, online support groups (OSG) 
+extend beyond the standard definition to incorporate a dimension of advice, 
+support and guidance for patients. OSG are complementary, yet significant 
+adjunct to patient journeys. Machine learning and natural language processing 
+techniques can be applied to these large volumes of unstructured text 
+discussions accumulated in OSG for intelligent extraction of patient-reported 
+demographics, behaviours, decisions, treatment, side effects and expressions of 
+emotions. New insights from the fusion and synthesis of such diverse 
+patient-reported information, as expressed throughout the patient journey from 
+diagnosis to treatment and recovery, can contribute towards informed 
+decision-making on personalized healthcare delivery and the development of 
+healthcare policy guidelines.
+METHODS AND FINDINGS: We have designed and developed an artificial intelligence 
+based analytics framework using machine learning and natural language processing 
+techniques for intelligent analysis and automated aggregation of patient 
+information and interaction trajectories in online support groups. Alongside the 
+social interactions aspect, patient behaviours, decisions, demographics, 
+clinical factors, emotions, as subsequently expressed over time, are extracted 
+and analysed. More specifically, we utilised this platform to investigate the 
+impact of online social influences on the intimate decision scenario of 
+selecting a treatment type, recovery after treatment, side effects and emotions 
+expressed over time, using prostate cancer as a model. Results manifest the 
+three major decision-making behaviours among patients, Paternalistic group, 
+Autonomous group and Shared group. Furthermore, each group demonstrated diverse 
+behaviours in post-decision discussions on clinical outcomes, advice and 
+expressions of emotion during the twelve months following treatment. Over time, 
+the transition of patients from information and emotional support seeking 
+behaviours to providers of information and emotional support to other patients 
+was also observed.
+CONCLUSIONS: Findings from this study are a rigorous indication of the 
+expectations of social media empowered patients, their potential for 
+individualised decision-making, clinical and emotional needs. The increasing 
+popularity of OSG further confirms that it is timely for clinicians to consider 
+patient voices as expressed in OSG. We have successfully demonstrated that the 
+proposed platform can be utilised to investigate, analyse and derive actionable 
+insights from patient-reported information on prostate cancer, in support of 
+patient focused healthcare delivery. The platform can be extended and applied 
+just as effectively to any other medical condition.
+
+DOI: 10.1371/journal.pone.0205855
+PMCID: PMC6193663
+PMID: 30335805 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

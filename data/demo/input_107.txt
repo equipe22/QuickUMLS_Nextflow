@@ -1,0 +1,39 @@
+107. J Biomed Semantics. 2012 Apr 1;3:3. doi: 10.1186/2041-1480-3-3.
+
+BioLemmatizer: a lemmatization tool for morphological processing of biomedical 
+text.
+
+Liu H(1), Christiansen T, Baumgartner WA Jr, Verspoor K.
+
+Author information:
+(1)Colorado Computational Pharmacology, University of Colorado School of 
+Medicine, Aurora, CO 80045, USA. Haibin.Liu@ucdenver.edu.
+
+BACKGROUND: The wide variety of morphological variants of domain-specific 
+technical terms contributes to the complexity of performing natural language 
+processing of the scientific literature related to molecular biology. For 
+morphological analysis of these texts, lemmatization has been actively applied 
+in the recent biomedical research.
+RESULTS: In this work, we developed a domain-specific lemmatization tool, 
+BioLemmatizer, for the morphological analysis of biomedical literature. The tool 
+focuses on the inflectional morphology of English and is based on the general 
+English lemmatization tool MorphAdorner. The BioLemmatizer is further tailored 
+to the biological domain through incorporation of several published lexical 
+resources. It retrieves lemmas based on the use of a word lexicon, and defines a 
+set of rules that transform a word to a lemma if it is not encountered in the 
+lexicon. An innovative aspect of the BioLemmatizer is the use of a hierarchical 
+strategy for searching the lexicon, which enables the discovery of the correct 
+lemma even if the input Part-of-Speech information is inaccurate. The 
+BioLemmatizer achieves an accuracy of 97.5% in lemmatizing an evaluation set 
+prepared from the CRAFT corpus, a collection of full-text biomedical articles, 
+and an accuracy of 97.6% on the LLL05 corpus. The contribution of the 
+BioLemmatizer to accuracy improvement of a practical information extraction task 
+is further demonstrated when it is used as a component in a biomedical text 
+mining system.
+CONCLUSIONS: The BioLemmatizer outperforms other tools when compared with eight 
+existing lemmatizers. The BioLemmatizer is released as an open source software 
+and can be downloaded from http://biolemmatizer.sourceforge.net.
+
+DOI: 10.1186/2041-1480-3-3
+PMCID: PMC3359276
+PMID: 22464129

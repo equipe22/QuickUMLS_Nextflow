@@ -1,0 +1,30 @@
+163. Bioinformatics. 2009 Dec 1;25(23):3174-80. doi: 10.1093/bioinformatics/btp548. 
+Epub 2009 Sep 25.
+
+Automatically classifying sentences in full-text biomedical articles into 
+Introduction, Methods, Results and Discussion.
+
+Agarwal S(1), Yu H.
+
+Author information:
+(1)University of Wisconsin, Milwaukee, Milwaukee WI 53211, USA.
+
+Biomedical texts can be typically represented by four rhetorical categories: 
+Introduction, Methods, Results and Discussion (IMRAD). Classifying sentences 
+into these categories can benefit many other text-mining tasks. Although many 
+studies have applied different approaches for automatically classifying 
+sentences in MEDLINE abstracts into the IMRAD categories, few have explored the 
+classification of sentences that appear in full-text biomedical articles. We 
+first evaluated whether sentences in full-text biomedical articles could be 
+reliably annotated into the IMRAD format and then explored different approaches 
+for automatically classifying these sentences into the IMRAD categories. Our 
+results show an overall annotation agreement of 82.14% with a Kappa score of 
+0.756. The best classification system is a multinomial naïve Bayes classifier 
+trained on manually annotated data that achieved 91.95% accuracy and an average 
+F-score of 91.55%, which is significantly higher than baseline systems. A web 
+version of this system is available online 
+at-http://wood.ims.uwm.edu/full_text_classifier/.
+
+DOI: 10.1093/bioinformatics/btp548
+PMCID: PMC2913661
+PMID: 19783830 [Indexed for MEDLINE]

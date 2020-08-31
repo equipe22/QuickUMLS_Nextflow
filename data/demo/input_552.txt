@@ -1,0 +1,35 @@
+552. Inform Health Soc Care. 2013 Dec;38(4):313-29. doi: 
+10.3109/17538157.2013.812648. Epub 2013 Aug 19.
+
+Multicentre clinical trials' data management: a hybrid solution to exploit the 
+strengths of electronic data capture and electronic health records systems.
+
+Fraccaro P(1), Dentone C, Fenoglio D, Giacomini M.
+
+Author information:
+(1)Department of Informatics, Bioengineering, Robotics and Information Systems, 
+University of Genoa , Genoa , Italy .
+
+BACKGROUND: Clinical Trials (CTs) are indispensable instruments for 
+evidence-based medicine and frequently necessitate the management, sharing and 
+analysis of large amounts of data amongst partners in different locations.
+METHODS: To effectively satisfy these requirements, the proposed solution 
+combines a web platform and a Clinical Data Management System (CDMS) to exploit 
+the strengths of Electronic Health Records (EHR) and Electronic Data Capture 
+(EDC) systems. The core of the proposal is a relational database which has high 
+data structuring characteristics and utilises biomedical controlled vocabularies 
+(e.g. LOINC and ICD). In addition, units and normality ranges were collected for 
+data comparison through the application of the Z-score transformation.
+RESULTS: The obtained CDMS preserves the EDC's flexibility and user autonomy and 
+permits the creation of patient cohorts, as in the EHR. Accordingly, clinical 
+information, after the initial recording, is available for different 
+simultaneous multicentre CTs. Furthermore, interface runtime controls guarantee 
+high data quality during data entering processes. Currently, the proposed system 
+has been developed in the HIV and eye diseases fields in Italy.
+CONCLUSIONS: The proposed solution is flexible and suitable to perform 
+multicentre research within a varying range of medical domains. In the future, 
+the automatic importation of information from hospitals has been planned through 
+an HL7 standard interface which would improve both data quantity and quality.
+
+DOI: 10.3109/17538157.2013.812648
+PMID: 23957714 [Indexed for MEDLINE]

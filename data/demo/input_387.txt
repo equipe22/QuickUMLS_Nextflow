@@ -1,0 +1,40 @@
+387. Bioinformatics. 2020 Jan 1;36(1):264-271. doi: 10.1093/bioinformatics/btz490.
+
+CoCoScore: context-aware co-occurrence scoring for text mining applications 
+using distant supervision.
+
+Junge A(1), Jensen LJ(1).
+
+Author information:
+(1)Disease Systems Biology Program, Novo Nordisk Foundation Center for Protein 
+Research, University of Copenhagen, Copenhagen N 2200, Denmark.
+
+MOTIVATION: Information extraction by mining the scientific literature is key to 
+uncovering relations between biomedical entities. Most existing approaches based 
+on natural language processing extract relations from single sentence-level 
+co-mentions, ignoring co-occurrence statistics over the whole corpus. Existing 
+approaches counting entity co-occurrences ignore the textual context of each 
+co-occurrence.
+RESULTS: We propose a novel corpus-wide co-occurrence scoring approach to 
+relation extraction that takes the textual context of each co-mention into 
+account. Our method, called CoCoScore, scores the certainty of stating an 
+association for each sentence that co-mentions two entities. CoCoScore is 
+trained using distant supervision based on a gold-standard set of associations 
+between entities of interest. Instead of requiring a manually annotated training 
+corpus, co-mentions are labeled as positives/negatives according to their 
+presence/absence in the gold standard. We show that CoCoScore outperforms 
+previous approaches in identifying human disease-gene and tissue-gene 
+associations as well as in identifying physical and functional protein-protein 
+associations in different species. CoCoScore is a versatile text mining tool to 
+uncover pairwise associations via co-occurrence mining, within and beyond 
+biomedical applications.
+AVAILABILITY AND IMPLEMENTATION: CoCoScore is available at: 
+https://github.com/JungeAlexander/cocoscore.
+SUPPLEMENTARY INFORMATION: Supplementary data are available at Bioinformatics 
+online.
+
+© The Author(s) 2019. Published by Oxford University Press.
+
+DOI: 10.1093/bioinformatics/btz490
+PMCID: PMC6956794
+PMID: 31199464 [Indexed for MEDLINE]

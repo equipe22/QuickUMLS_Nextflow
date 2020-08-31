@@ -1,0 +1,41 @@
+564. Data Brief. 2019 Dec 12;28:104978. doi: 10.1016/j.dib.2019.104978. eCollection 
+2020 Feb.
+
+Dataset of wearable sensors with possibilities for data exchange.
+
+Muzny M(1)(2), Henriksen A(3), Giordanengo A(2)(4), Muzik J(1), Grøttland A(2), 
+Blixgård H(2), Hartvigsen G(4), Årsand E(2).
+
+Author information:
+(1)Spin-Off Company and Research Results Commercialization Center, 1st Faculty 
+of Medicine, Charles University in Prague, Prague, Czech Republic.
+(2)Norwegian Centre for E-health Research, Tromsø, Norway.
+(3)Department of Community Medicine, UiT The Arctic University of Norway, 
+Tromsø, Norway.
+(4)Department of Computer Science, UiT The Arctic University of Norway, Tromsø, 
+Norway.
+
+We performed a search to identify available wearable sensors systems that can 
+collect patient health data and have data sharing capabilities. Findings 
+available in "Wearable sensors with possibilities for data exchange: Analyzing 
+status and needs of different actors in mobile health monitoring systems" [1]. 
+We performed an initial search of the Vandrico wearable database, and 
+supplemented the resulting device list with an internet search. In addition to 
+relevant meta-data (i.e. name, description, manufacturer, web-link, etc.) for 
+each device, we also collected data on 13 attributes related to data exchange. 
+I.e. device type, communication interface, data transfer protocol, smartphone 
+and/or PC integration, direct integration to open health platform, 3rd platform 
+integration with open health platform, support for health care system/middleware 
+connection, recorded health data types, integrated sensors, medical device 
+certification, whether or not the use can access collected data, device 
+developer access, and device availability on the market. In addition, we grouped 
+each device into three groups of actors that these devices are relevant for: 
+electronic health record providers, software developers, and patients. The 
+collected data can be used as an overview of available devices for future 
+researchers with interest in the mobile health (mHealth) area.
+
+© 2019 The Author(s).
+
+DOI: 10.1016/j.dib.2019.104978
+PMCID: PMC6931114
+PMID: 31890815

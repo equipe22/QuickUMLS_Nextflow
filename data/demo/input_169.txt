@@ -1,0 +1,35 @@
+169. Stud Health Technol Inform. 2019 Jul 4;262:228-231. doi: 10.3233/SHTI190060.
+
+An Evolutionary Bootstrapping Development Approach for a Mental Health 
+Conversational Agent.
+
+Househ M(1), Schneider J(1), Ahmad K(1), Alam T(1), Al-Thani D(1), Siddig MA(2), 
+Fernandez-Luque L(3), Qaraqe M(1), Alfuquha A(1), Saxena S(4).
+
+Author information:
+(1)Information and Computing Technology Division, College of Science and 
+Engineering, Hamad Bin Khalifa University (HBKU), Doha, Qatar.
+(2)Community Mental Health Services, Hamad Medical Corporation, Doha, Qatar.
+(3)Qatar Computing Research Institute (QCRI), Hamad Bin Khalifa University 
+(HBKU), Doha, Qatar.
+(4)Global Health and Population, Harvard T H Chan School of Public Health, 
+Harvard University, United States of America.
+
+Conversational agents are being used to help in the screening, assessment, 
+diagnosis, and treatment of common mental health disorders. In this paper, we 
+propose a bootstrapping approach for the development of a digital mental health 
+conversational agent (i.e., chatbot). We start from a basic rule-based expert 
+system and iteratively move towards a more sophisticated platform composed of 
+specialized chatbots each aiming to assess and pre-diagnose a specific mental 
+health disorder using machine learning and natural language processing 
+techniques. During each iteration, user feedback from psychiatrists and patients 
+are incorporated into the iterative design process. A survival of the fittest 
+approach is also used to assess the continuation or removal of a specialized 
+mental health chatbot in each generational design. We anticipate that our unique 
+and novel approach can be used for the development of conversational mental 
+health agents with the ultimate goal of designing a smart chatbot that delivers 
+evidence-based care and contributes to scaling up services while decreasing the 
+pressure on mental health care providers.
+
+DOI: 10.3233/SHTI190060
+PMID: 31349309 [Indexed for MEDLINE]

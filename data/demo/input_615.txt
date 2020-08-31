@@ -1,0 +1,55 @@
+615. J Med Internet Res. 2019 Jul 8;21(7):e12443. doi: 10.2196/12443.
+
+Identifying Key Target Audiences for Public Health Campaigns: Leveraging Machine 
+Learning in the Case of Hookah Tobacco Smoking.
+
+Chu KH(#)(1), Colditz J(#)(1), Malik M(#)(2), Yates T(#)(1), Primack B(#)(1).
+
+Author information:
+(1)School of Medicine, University of Pittsburgh, Pittsburgh, PA, United States.
+(2)Carnegie Mellon University, Pittsburgh, PA, United States.
+(#)Contributed equally
+
+BACKGROUND: Hookah tobacco smoking (HTS) is a particularly important issue for 
+public health professionals to address owing to its prevalence and deleterious 
+health effects. Social media sites can be a valuable tool for public health 
+officials to conduct informational health campaigns. Current social media 
+platforms provide researchers with opportunities to better identify and target 
+specific audiences and even individuals. However, we are not aware of systematic 
+research attempting to identify audiences with mixed or ambivalent views toward 
+HTS.
+OBJECTIVE: The objective of this study was to (1) confirm previous research 
+showing positively skewed HTS sentiment on Twitter using a larger dataset by 
+leveraging machine learning techniques and (2) systematically identify 
+individuals who exhibit mixed opinions about HTS via the Twitter platform and 
+therefore represent key audiences for intervention.
+METHODS: We prospectively collected tweets related to HTS from January to June 
+2016. We double-coded sentiment for a subset of approximately 5000 randomly 
+sampled tweets for sentiment toward HTS and used these data to train a machine 
+learning classifier to assess the remaining approximately 556,000 HTS-related 
+Twitter posts. Natural language processing software was used to extract 
+linguistic features (ie, language-based covariates). The data were processed by 
+machine learning tools and algorithms using R. Finally, we used the results to 
+identify individuals who, because they had consistently posted both positive and 
+negative content, might be ambivalent toward HTS and represent an ideal audience 
+for intervention.
+RESULTS: There were 561,960 HTS-related tweets: 373,911 were classified as 
+positive and 183,139 were classified as negative. A set of 12,861 users met a 
+priori criteria indicating that they posted both positive and negative tweets 
+about HTS.
+CONCLUSIONS: Sentiment analysis can allow researchers to identify audience 
+segments on social media that demonstrate ambiguity toward key public health 
+issues, such as HTS, and therefore represent ideal populations for intervention. 
+Using large social media datasets can help public health officials to 
+preemptively identify specific audience segments that would be most receptive to 
+targeted campaigns.
+
+©Kar-Hai Chu, Jason Colditz, Momin Malik, Tabitha Yates, Brian Primack. 
+Originally published in the Journal of Medical Internet Research 
+(http://www.jmir.org), 08.07.2019.
+
+DOI: 10.2196/12443
+PMCID: PMC6643764
+PMID: 31287063 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interest: None declared.

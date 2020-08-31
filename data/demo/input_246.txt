@@ -1,0 +1,35 @@
+246. Stud Health Technol Inform. 2016;223:93-9.
+
+SEMCARE: Multilingual Semantic Search in Semi-Structured Clinical Data.
+
+López-García P(1), Kreuzthaler M(1), Schulz S(1), Scherr D(2), Daumke P(3), 
+Markó K(3), Kors JA(4), van Mulligen EM(4), Wang X(5), Gonna H(5), Behr E(5), 
+Honrado Á(6).
+
+Author information:
+(1)Institute for Medical Informatics, Statistics and Documentation, Medical 
+University of Graz, Austria.
+(2)Division of Cardiology Department of Medicine, Medical University of Graz, 
+Austria.
+(3)Averbis GmbH, Freiburg, Germany.
+(4)Department of Medical Informatics, Erasmus University Medical Center, 
+Rotterdam, The Netherlands.
+(5)St. George's University of London, United Kingdom.
+(6)SYNAPSE Research Management Partners S.L.
+
+The vast amount of clinical data in electronic health records constitutes a 
+great potential for secondary use. However, most of this content consists of 
+unstructured or semi-structured texts, which is difficult to process. Several 
+challenges are still pending: medical language idiosyncrasies in different 
+natural languages, and the large variety of medical terminology systems. In this 
+paper we present SEMCARE, a European initiative designed to minimize these 
+problems by providing a multi-lingual platform (English, German, and Dutch) that 
+allows users to express complex queries and obtain relevant search results from 
+clinical texts. SEMCARE is based on a selection of adapted biomedical 
+terminologies, together with Apache UIMA and Apache Solr as open source 
+state-of-the-art natural language pipeline and indexing technologies. SEMCARE 
+has been deployed and is currently being tested at three medical institutions in 
+the UK, Austria, and the Netherlands, showing promising results in a cardiology 
+use case.
+
+PMID: 27139390 [Indexed for MEDLINE]

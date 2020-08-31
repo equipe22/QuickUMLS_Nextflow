@@ -1,0 +1,39 @@
+95. Int J Med Inform. 2019 Jun;126:35-45. doi: 10.1016/j.ijmedinf.2019.02.006. Epub 
+2019 Mar 13.
+
+EMIF Catalogue: A collaborative platform for sharing and reusing biomedical 
+data.
+
+Oliveira JL(1), Trifan A(2), Bastião Silva LA(3).
+
+Author information:
+(1)University of Aveiro, DETI/IEETA, Portugal. Electronic address: jlo@ua.pt.
+(2)University of Aveiro, DETI/IEETA, Portugal. Electronic address: 
+alina.trifan@ua.pt.
+(3)BMD Software, Aveiro, Portugal. Electronic address: bastiao@bmd-software.com.
+
+OBJECTIVE: The collaboration and knowledge exchange between researchers are 
+often hindered by the nonexistence of accurate information about which databases 
+may support research studies. Even though a considerable amount of patient 
+health information does exist, it is usually distributed and hidden in many 
+institutions. The goal of this project is to provide, for any research 
+community, a holistic view of biomedical datasets of interests, from which 
+researchers can explore several distinct levels of granularity.
+METHODS: We developed a community-centered approach to facilitate data sharing 
+while ensuring privacy. A dynamic schema allows exposing any metadata model 
+about existing repositories. The framework was developed following a modular 
+plugin-based architecture that facilitates the integration of internal and 
+external tools.
+RESULTS: The EMIF Catalogue, a web platform for sharing and reusing biomedical 
+data. Through this system, data custodians can publish and share different 
+levels of information, while the researchers can search for databases that 
+fulfill research requirements.
+CONCLUSIONS: The EMIF Catalogue currently fosters several distinct research 
+communities, with different levels of data governance, combining, for instance, 
+data available in pan-European EHR and Alzheimer cohorts. This portal is 
+publicly available at https://emif-catalogue.eu.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijmedinf.2019.02.006
+PMID: 31029262 [Indexed for MEDLINE]

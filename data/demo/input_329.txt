@@ -1,0 +1,73 @@
+329. J Med Internet Res. 2020 Feb 19;22(2):e13855. doi: 10.2196/13855.
+
+A Framework for Applying Natural Language Processing in Digital Health 
+Interventions.
+
+Funk B(#)(1), Sadeh-Sharvit S(#)(2)(3), Fitzsimmons-Craft EE(4), Trockel MT(3), 
+Monterubio GE(4), Goel NJ(2)(3), Balantekin KN(4)(5), Eichen DM(4)(6), Flatt 
+RE(2)(3)(7), Firebaugh ML(4), Jacobi C(8), Graham AK(9), Hoogendoorn M(10), 
+Wilfley DE(4), Taylor CB(2)(3).
+
+Author information:
+(1)Leuphana University, Institute of Information Systems, Lueneburg, Germany.
+(2)Palo Alto University, Center for m2Health, Palo Alto, CA, United States.
+(3)Stanford University, Department of Psychiatry and Behavioral Sciences, 
+Stanford, CA, United States.
+(4)Washington University in St Louis, Department of Psychiatry, St Louis, MO, 
+United States.
+(5)University at Buffalo, Department of Exercise and Nutrition Sciences, 
+Buffalo, NY, United States.
+(6)University of California San Diego, Department of Pediatrics, San Diego, CA, 
+United States.
+(7)University of North Carolina at Chapel Hill, Department of Psychology and 
+Neurosciences, Chapel Hill, NC, United States.
+(8)Technische Universität, Institute of Clinical Psychology and Psychotherapy, 
+Dresden, Germany.
+(9)Northwestern University, Department of Medical Social Sciences, Chicago, IL, 
+United States.
+(10)Vrije Universiteit, Department of Computer Science, Amsterdam, Netherlands.
+(#)Contributed equally
+
+BACKGROUND: Digital health interventions (DHIs) are poised to reduce target 
+symptoms in a scalable, affordable, and empirically supported way. DHIs that 
+involve coaching or clinical support often collect text data from 2 sources: (1) 
+open correspondence between users and the trained practitioners supporting them 
+through a messaging system and (2) text data recorded during the intervention by 
+users, such as diary entries. Natural language processing (NLP) offers methods 
+for analyzing text, augmenting the understanding of intervention effects, and 
+informing therapeutic decision making.
+OBJECTIVE: This study aimed to present a technical framework that supports the 
+automated analysis of both types of text data often present in DHIs. This 
+framework generates text features and helps to build statistical models to 
+predict target variables, including user engagement, symptom change, and 
+therapeutic outcomes.
+METHODS: We first discussed various NLP techniques and demonstrated how they are 
+implemented in the presented framework. We then applied the framework in a case 
+study of the Healthy Body Image Program, a Web-based intervention trial for 
+eating disorders (EDs). A total of 372 participants who screened positive for an 
+ED received a DHI aimed at reducing ED psychopathology (including binge eating 
+and purging behaviors) and improving body image. These users generated 37,228 
+intervention text snippets and exchanged 4285 user-coach messages, which were 
+analyzed using the proposed model.
+RESULTS: We applied the framework to predict binge eating behavior, resulting in 
+an area under the curve between 0.57 (when applied to new users) and 0.72 (when 
+applied to new symptom reports of known users). In addition, initial evidence 
+indicated that specific text features predicted the therapeutic outcome of 
+reducing ED symptoms.
+CONCLUSIONS: The case study demonstrates the usefulness of a structured approach 
+to text data analytics. NLP techniques improve the prediction of symptom changes 
+in DHIs. We present a technical framework that can be easily applied in other 
+clinical trials and clinical presentations and encourage other groups to apply 
+the framework in similar contexts.
+
+©Burkhardt Funk, Shiri Sadeh-Sharvit, Ellen E Fitzsimmons-Craft, Mickey Todd 
+Trockel, Grace E Monterubio, Neha J Goel, Katherine N Balantekin, Dawn M Eichen, 
+Rachael E Flatt, Marie-Laure Firebaugh, Corinna Jacobi, Andrea K Graham, Mark 
+Hoogendoorn, Denise E Wilfley, C Barr Taylor. Originally published in the 
+Journal of Medical Internet Research (http://www.jmir.org), 19.02.2020.
+
+DOI: 10.2196/13855
+PMCID: PMC7059510
+PMID: 32130118
+
+Conflict of interest statement: Conflicts of Interest: None declared.

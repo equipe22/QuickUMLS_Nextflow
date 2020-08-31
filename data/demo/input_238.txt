@@ -1,0 +1,51 @@
+238. J Biomed Inform. 2015 Feb;53:367-80. doi: 10.1016/j.jbi.2014.12.013. Epub 2014 
+Dec 30.
+
+Link-topic model for biomedical abbreviation disambiguation.
+
+Kim S(1), Yoon J(2).
+
+Author information:
+(1)Department of Computer Science, Sogang University, 35 Baekbeom-ro, Mapo-gu, 
+Seoul, Republic of Korea. Electronic address: shkim.lex@gmail.com.
+(2)Daumsoft Inc., Hannam-dong 635-1, Yongsan-gu, Seoul, Republic of Korea. 
+Electronic address: jtyoon@daumsoft.com.
+
+INTRODUCTION: The ambiguity of biomedical abbreviations is one of the challenges 
+in biomedical text mining systems. In particular, the handling of term variants 
+and abbreviations without nearby definitions is a critical issue. In this study, 
+we adopt the concepts of topic of document and word link to disambiguate 
+biomedical abbreviations.
+METHODS: We newly suggest the link topic model inspired by the latent Dirichlet 
+allocation model, in which each document is perceived as a random mixture of 
+topics, where each topic is characterized by a distribution over words. Thus, 
+the most probable expansions with respect to abbreviations of a given abstract 
+are determined by word-topic, document-topic, and word-link distributions 
+estimated from a document collection through the link topic model. The model 
+allows two distinct modes of word generation to incorporate semantic 
+dependencies among words, particularly long form words of abbreviations and 
+their sentential co-occurring words; a word can be generated either dependently 
+on the long form of the abbreviation or independently. The semantic dependency 
+between two words is defined as a link and a new random parameter for the link 
+is assigned to each word as well as a topic parameter. Because the link status 
+indicates whether the word constitutes a link with a given specific long form, 
+it has the effect of determining whether a word forms a unigram or a 
+skipping/consecutive bigram with respect to the long form. Furthermore, we place 
+a constraint on the model so that a word has the same topic as a specific long 
+form if it is generated in reference to the long form. Consequently, documents 
+are generated from the two hidden parameters, i.e. topic and link, and the most 
+probable expansion of a specific abbreviation is estimated from the parameters.
+RESULTS: Our model relaxes the bag-of-words assumption of the standard topic 
+model in which the word order is neglected, and it captures a richer structure 
+of text than does the standard topic model by considering unigrams and 
+semantically associated bigrams simultaneously. The addition of semantic links 
+improves the disambiguation accuracy without removing irrelevant contextual 
+words and reduces the parameter space of massive skipping or consecutive 
+bigrams. The link topic model achieves 98.42% disambiguation accuracy on 73,505 
+MEDLINE abstracts with respect to 21 three letter abbreviations and their 139 
+distinct long forms.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jbi.2014.12.013
+PMID: 25554684 [Indexed for MEDLINE]

@@ -1,0 +1,23 @@
+386. Stud Health Technol Inform. 2014;207:380-9.
+
+A cloud based architecture to support Electronic Health Record.
+
+Zangara G(1), Corso PP(1), Cangemi F(1), Millonzi F(1), Collova F(2), 
+Scarlatella A(2).
+
+Author information:
+(1)Università degli Studi di Palermo, Dipartimento di Fisica e Chimica, Palermo, 
+Italy.
+(2)TILAB Città delle Telecomunicazioni, Napoli, Italy.
+
+We introduce a novel framework of electronic healthcare enabled by a Cloud 
+platform able to host both Hospital Information Systems (HIS) and Electronic 
+Medical Record (EMR) systems and implement an innovative model of Electronic 
+Health Record (EHR) that is not only patient-oriented but also supports a better 
+governance of the whole healthcare system. The proposed EHR model adopts the 
+state of the art of the Cloud technologies, being able to join the different 
+clinical data of the patient stored within the HISs and EMRs either placed into 
+a local Data Center or hosted into a Cloud Platform enabling new directions of 
+data analysis.
+
+PMID: 25488244 [Indexed for MEDLINE]

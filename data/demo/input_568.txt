@@ -1,0 +1,31 @@
+568. Stud Health Technol Inform. 2010;155:122-8.
+
+Challenges of interoperability using HL7 v3 in Czech healthcare.
+
+Nagy M(1), Preckova P, Seidl L, Zvarova J.
+
+Author information:
+(1)Center of Biomedical Informatics, Department of Medical Informatics, 
+Institute of Computer Science AS CR, v.v.i., Prague, Czech Republic. 
+nagy@euromise.cz
+
+The paper describes several classification systems that could improve patient 
+safety through semantic interoperability among contemporary electronic health 
+record systems (EHR-Ss) with support of the HL7 v3 standard. We describe a 
+proposal and a pilot implementation of a semantic interoperability platform 
+(SIP) interconnecting current EHR-Ss by using HL7 v3 messages and concepts 
+mappings on most widely used classification systems. The increasing number of 
+classification systems and nomenclatures requires designing of various 
+conversion tools for transfer between main classification systems. We present 
+the so-called LIM filler module and the HL7 broker, which are parts of the SIP, 
+playing the role of such conversion tools. The analysis of suitability and 
+usability of individual terminological thesauri has been started by mapping of 
+clinical contents of the Minimal Data Model for Cardiology (MDMC) to various 
+terminological classification systems. A national-wide implementation of the SIP 
+would include adopting and translating international coding systems and 
+nomenclatures, and developing implementation guidelines facilitating the 
+migration from national standards to international ones. Our research showed 
+that creation of such a platform is feasible; however, it will require a huge 
+effort to adapt fully the Czech healthcare system to the European environment.
+
+PMID: 20543319 [Indexed for MEDLINE]

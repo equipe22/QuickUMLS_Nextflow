@@ -1,0 +1,50 @@
+23. Yearb Med Inform. 2018 Aug;27(1):177-183. doi: 10.1055/s-0038-1641220. Epub 2018 
+Aug 29.
+
+Clinical Research Informatics: Contributions from 2017.
+
+Daniel C(1)(2), Kalra D(3); Section Editors for the IMIA Yearbook Section on 
+Clinical Research Informatics.
+
+Author information:
+(1)AP-HP Direction of Information Systems, Paris, France.
+(2)Sorbonne University, University Paris 13, Sorbonne Paris Cité, INSERM UMR_S 
+1142, LIMICS, Paris, France.
+(3)University of Gent, Belgium.
+
+OBJECTIVES:  To summarize key contributions to current research in the field of 
+Clinical Research Informatics (CRI) and to select best papers published in 2017.
+METHOD:  A bibliographic search using a combination of MeSH descriptors and free 
+terms on CRI was performed using PubMed, followed by a double-blind review in 
+order to select a list of candidate best papers to be then peer-reviewed by 
+external reviewers. A consensus meeting between the two section editors and the 
+editorial team was organized to finally conclude on the selection of best 
+papers.
+RESULTS:  Among the 741 returned papers published in 2017 in the various areas 
+of CRI, the full review process selected five best papers. The first best paper 
+reports on the implementation of consent management considering patient 
+preferences for the use of de-identified data of electronic health records for 
+research. The second best paper describes an approach using natural language 
+processing to extract symptoms of severe mental illness from clinical text. The 
+authors of the third best paper describe the challenges and lessons learned when 
+leveraging the EHR4CR platform to support patient inclusion in academic studies 
+in the context of an important collaboration between private industry and public 
+health institutions. The fourth best paper describes a method and an interactive 
+tool for case-crossover analyses of electronic medical records for patient 
+safety. The last best paper proposes a new method for bias reduction in 
+association studies using electronic health records data.
+CONCLUSIONS:  Research in the CRI field continues to accelerate and to mature, 
+leading to tools and platforms deployed at national or international scales with 
+encouraging results. Beyond securing these new platforms for exploiting 
+large-scale health data, another major challenge is the limitation of biases 
+related to the use of "real-world" data. Controlling these biases is a 
+prerequisite for the development of learning health systems.
+
+Georg Thieme Verlag KG Stuttgart.
+
+DOI: 10.1055/s-0038-1641220
+PMCID: PMC6115209
+PMID: 30157521 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure The authors report no conflicts of 
+interest in this work.

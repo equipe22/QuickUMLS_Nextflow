@@ -1,0 +1,67 @@
+129. J Med Internet Res. 2017 Oct 30;19(10):e361. doi: 10.2196/jmir.8164.
+
+Discovering Cohorts of Pregnant Women From Social Media for Safety Surveillance 
+and Analysis.
+
+Sarker A(1), Chandrashekar P(2), Magge A(2), Cai H(1), Klein A(1), Gonzalez 
+G(1).
+
+Author information:
+(1)Department of Biostatistics, Epidemiology and Informatics, Perelman School of 
+Medicine, University of Pennsylvania, Philadelphia, PA, United States.
+(2)Department of Biomedical Informatics, Arizona State University, Scottsdale, 
+AZ, United States.
+
+BACKGROUND: Pregnancy exposure registries are the primary sources of information 
+about the safety of maternal usage of medications during pregnancy. Such 
+registries enroll pregnant women in a voluntary fashion early on in pregnancy 
+and follow them until the end of pregnancy or longer to systematically collect 
+information regarding specific pregnancy outcomes. Although the model of 
+pregnancy registries has distinct advantages over other study designs, they are 
+faced with numerous challenges and limitations such as low enrollment rate, high 
+cost, and selection bias.
+OBJECTIVE: The primary objectives of this study were to systematically assess 
+whether social media (Twitter) can be used to discover cohorts of pregnant women 
+and to develop and deploy a natural language processing and machine learning 
+pipeline for the automatic collection of cohort information. In addition, we 
+also attempted to ascertain, in a preliminary fashion, what types of 
+longitudinal information may potentially be mined from the collected cohort 
+information.
+METHODS: Our discovery of pregnant women relies on detecting 
+pregnancy-indicating tweets (PITs), which are statements posted by pregnant 
+women regarding their pregnancies. We used a set of 14 patterns to first detect 
+potential PITs. We manually annotated a sample of 14,156 of the retrieved user 
+posts to distinguish real PITs from false positives and trained a supervised 
+classification system to detect real PITs. We optimized the classification 
+system via cross validation, with features and settings targeted toward 
+optimizing precision for the positive class. For users identified to be posting 
+real PITs via automatic classification, our pipeline collected all their 
+available past and future posts from which other information (eg, medication 
+usage and fetal outcomes) may be mined.
+RESULTS: Our rule-based PIT detection approach retrieved over 200,000 posts over 
+a period of 18 months. Manual annotation agreement for three annotators was very 
+high at kappa (κ)=.79. On a blind test set, the implemented classifier obtained 
+an overall F1 score of 0.84 (0.88 for the pregnancy class and 0.68 for the 
+nonpregnancy class). Precision for the pregnancy class was 0.93, and recall was 
+0.84. Feature analysis showed that the combination of dense and sparse vectors 
+for classification achieved optimal performance. Employing the trained 
+classifier resulted in the identification of 71,954 users from the collected 
+posts. Over 250 million posts were retrieved for these users, which provided a 
+multitude of longitudinal information about them.
+CONCLUSIONS: Social media sources such as Twitter can be used to identify large 
+cohorts of pregnant women and to gather longitudinal information via automated 
+processing of their postings. Considering the many drawbacks and limitations of 
+pregnancy registries, social media mining may provide beneficial complementary 
+information. Although the cohort sizes identified over social media are large, 
+future research will have to assess the completeness of the information 
+available through them.
+
+©Abeed Sarker, Pramod Chandrashekar, Arjun Magge, Haitao Cai, Ari Klein, 
+Graciela Gonzalez. Originally published in the Journal of Medical Internet 
+Research (http://www.jmir.org), 30.10.2017.
+
+DOI: 10.2196/jmir.8164
+PMCID: PMC5684515
+PMID: 29084707 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interest: None declared.

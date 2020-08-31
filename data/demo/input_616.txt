@@ -1,0 +1,40 @@
+616. Circulation. 2010 Nov 16;122(20):2016-21. doi: 
+10.1161/CIRCULATIONAHA.110.948828. Epub 2010 Nov 1.
+
+Identification of genomic predictors of atrioventricular conduction: using 
+electronic medical records as a tool for genome science.
+
+Denny JC(1), Ritchie MD, Crawford DC, Schildcrout JS, Ramirez AH, Pulley JM, 
+Basford MA, Masys DR, Haines JL, Roden DM.
+
+Author information:
+(1)Office of Personalized Medicine, Vanderbilt University School of Medicine, 
+Nashville, TN 37232-0575, USA.
+
+BACKGROUND: Recent genome-wide association studies in which selected community 
+populations are used have identified genomic signals in SCN10A influencing PR 
+duration. The extent to which this can be demonstrated in cohorts derived from 
+electronic medical records is unknown.
+METHODS AND RESULTS: We performed a genome-wide association study on 2334 
+European American patients with normal ECGs without evidence of prior heart 
+disease from the Vanderbilt DNA databank, BioVU, which accrues subjects from 
+routine patient care. Subjects were identified by combinations of natural 
+language processing, laboratory queries, and billing code queries of 
+deidentified medical record data. Subjects were 58% female, of mean (± SD) age 
+54 ± 15 years, and had mean PR intervals of 158 ± 18 ms. Genotyping was 
+performed with the use of the Illumina Human660W-Quad platform. Our results 
+identify 4 single nucleotide polymorphisms (rs6800541, rs6795970, rs6798015, 
+rs7430477) linked to SCN10A associated with PR interval (P=5.73 × 10(-7) to 1.78 
+× 10(-6)).
+CONCLUSIONS: This genome-wide association study confirms a gene heretofore not 
+implicated in cardiac pathophysiology as a modulator of PR interval in humans. 
+This study is one of the first replication genome-wide association studies 
+performed with the use of an electronic medical records-derived cohort, 
+supporting their further use for genotype-phenotype analyses.
+
+DOI: 10.1161/CIRCULATIONAHA.110.948828
+PMCID: PMC2991609
+PMID: 21041692 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures The authors 
+have no conflicts of interest.

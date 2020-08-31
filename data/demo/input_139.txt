@@ -1,0 +1,42 @@
+139. PLoS One. 2017 Mar 3;12(3):e0173132. doi: 10.1371/journal.pone.0173132. 
+eCollection 2017.
+
+Text mining for improved exposure assessment.
+
+Larsson K(1), Baker S(2), Silins I(1), Guo Y(2), Stenius U(1), Korhonen A(2)(3), 
+Berglund M(1).
+
+Author information:
+(1)Institute of Environmental Medicine, Karolinska Institute, Stockholm, Sweden.
+(2)Computer Laboratory, University of Cambridge, Cambridge, United Kingdom.
+(3)Language Technology Lab, DTAL, University of Cambridge, Cambridge, United 
+Kingdom.
+
+Chemical exposure assessments are based on information collected via different 
+methods, such as biomonitoring, personal monitoring, environmental monitoring 
+and questionnaires. The vast amount of chemical-specific exposure information 
+available from web-based databases, such as PubMed, is undoubtedly a great asset 
+to the scientific community. However, manual retrieval of relevant published 
+information is an extremely time consuming task and overviewing the data is 
+nearly impossible. Here, we present the development of an automatic classifier 
+for chemical exposure information. First, nearly 3700 abstracts were manually 
+annotated by an expert in exposure sciences according to a taxonomy exclusively 
+created for exposure information. Natural Language Processing (NLP) techniques 
+were used to extract semantic and syntactic features relevant to chemical 
+exposure text. Using these features, we trained a supervised machine learning 
+algorithm to automatically classify PubMed abstracts according to the exposure 
+taxonomy. The resulting classifier demonstrates good performance in the 
+intrinsic evaluation. We also show that the classifier improves information 
+retrieval of chemical exposure data compared to keyword-based PubMed searches. 
+Case studies demonstrate that the classifier can be used to assist researchers 
+by facilitating information retrieval and classification, enabling data gap 
+recognition and overviewing available scientific literature using 
+chemical-specific publication profiles. Finally, we identify challenges to be 
+addressed in future development of the system.
+
+DOI: 10.1371/journal.pone.0173132
+PMCID: PMC5336247
+PMID: 28257498 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.

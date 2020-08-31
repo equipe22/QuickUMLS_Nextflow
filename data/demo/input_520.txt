@@ -1,0 +1,32 @@
+520. Acta Inform Med. 2017 Dec;25(4):281-283. doi: 10.5455/aim.2017.25.281-283.
+
+A Prerequisite for Patient Centred Care is Empowering and Engaging Patients in 
+the Digital Health: Report from EFMI Special Topic Conference (STC) 2017.
+
+de Lusignan S(1).
+
+Author information:
+(1)University of Surrey, Guildford, Guildford, United Kingdom.
+
+The European Federation for Medical Informatics (EFMI) held its Special Topic 
+Conference (STC) in October 2017 in Israel. EFMI holds STC's to focus on a 
+particular issue, whereas its major annual conference Medical Informatics Europe 
+(MIE) has a much wider remit. This conference challenged the informatics 
+community to engage patients in digital health. Examples of the gap in digital 
+engagementfrom the conference contributions include: An app to connect parents 
+to a paediatric emergency department was presented. We heard how comparisons 
+between general practice and paediatrician led health systems were being 
+compromised through the lack of available databases and that Europe needs a 
+fit-for-purpose paediatric electronic health records (EHR). The public should be 
+involved in shared EHR platform development. We were informedpatients preferred 
+clinicians to use their mobile device and how the online community can be a 
+source of research subjects. A visualisation tool is being developed to display 
+data about attention deficit hyperactivity disorder (ADHD). On a more sombre 
+note the conference remembered Assa Reichert, a long standing member of EFMI. 
+Notwithstanding our reflections on Assa's service to EFMI and informatics, this 
+conference provide a real opportunity to explore how digital health might 
+empower patients.
+
+DOI: 10.5455/aim.2017.25.281-283
+PMCID: PMC5723204
+PMID: 29284923

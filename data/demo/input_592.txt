@@ -1,0 +1,67 @@
+592. JMIR Res Protoc. 2020 Jan 2;9(1):e14525. doi: 10.2196/14525.
+
+A Pain eHealth Platform for Engaging Obese, Older Adults with Chronic Low Back 
+Pain in Nonpharmacological Pain Treatments: Protocol for a Pilot Feasibility 
+Study.
+
+Brooks AK(1), Miller DP Jr(2), Fanning JT(3)(4), Suftin EL(5), Reid MC(6), Wells 
+BJ(5), Leng X(5), Hurley RW(1).
+
+Author information:
+(1)Department of Anesthesiology, Wake Forest School of Medicine, Winston Salem, 
+NC, United States.
+(2)Department of General Internal Medicine, Wake Forest School of Medicine, 
+Winston Salem, NC, United States.
+(3)Department of Health and Exercise Science, Wake Forest University, Winston 
+Salem, NC, United States.
+(4)Department of Internal Medicine, Section on Gerontology and Geriatric 
+Medicine, Wake Forest School of Medicine, Winston Salem, NC, United States.
+(5)Division of Public Health Sciences, Wake Forest School of Medicine, Winston 
+Salem, NC, United States.
+(6)Division of Geriatric and Palliative Medicine, Weill Cornell Medicine, New 
+York, NY, United States.
+
+BACKGROUND: Low back pain is a costly healthcare problem and the leading cause 
+of disability among adults in the United States. Primary care providers urgently 
+need effective ways to deliver evidence-based, nonpharmacological therapies for 
+chronic low back pain. Guidelines published by several government and national 
+organizations have recommended nonpharmacological and nonopioid pharmacological 
+therapies for low back pain.
+OBJECTIVE: The Pain eHealth Platform (PEP) pilot trial aims to test the 
+feasibility of a highly innovative intervention that (1) uses an electronic 
+health record (EHR) query to systematically identify a phenotype of obese, older 
+adults with chronic low back pain who may benefit from Web-based behavioral 
+treatments; (2) delivers highly tailored messages to eligible older adults with 
+chronic low back pain via the patient portal; (3) links affected patients to a 
+Web app that provides education on the efficacy of evidence-based, 
+nonpharmacological, behavioral pain treatments; and (4) directs patients to 
+existing Web-based health treatment tools.
+METHODS: Using a three-step modified Delphi method, an expert panel of primary 
+care providers will define a low back pain phenotype for an EHR query. Using the 
+defined low back pain phenotype, an EHR query will be created to identify 
+patients who may benefit from the PEP. Up to 15 patients with low back pain will 
+be interviewed to refine the tailored messaging, esthetics, and content of the 
+patient-facing Web app within the PEP. Up to 10 primary care providers will be 
+interviewed to better understand the facilitators and barriers to implementing 
+the PEP, given their clinic workflow. We will assess the feasibility of the PEP 
+in a single-arm pragmatic pilot study in which secure patient portal invitations 
+containing a hyperlink to the PEP Web app are sent to 1000 patients. The primary 
+outcome of the study is usability as measured by the System Usability Scale.
+RESULTS: Qualitative interviews with primary care providers were completed in 
+April 2019. Qualitative interviews with patients will begin in December 2019.
+CONCLUSIONS: The PEP will leverage informatics and the patient portal to deliver 
+evidence-based nonpharmacological treatment information to adults with chronic 
+low back pain. Results from this study may help inform the development of 
+Web-based health platforms for other pain and chronic health conditions.
+INTERNATIONAL REGISTERED REPORT IDENTIFIER (IRRID): DERR1-10.2196/14525.
+
+©Amber K Keller Brooks, David P Miller Jr, Jason T Fanning, Erin L Suftin, M 
+Carrington Reid, Brian J Wells, Xiaoyan Leng, Robert W Hurley. Originally 
+published in JMIR Research Protocols (http://www.researchprotocols.org), 
+02.01.2020.
+
+DOI: 10.2196/14525
+PMCID: PMC6966554
+PMID: 31895042
+
+Conflict of interest statement: Conflicts of Interest: None declared.

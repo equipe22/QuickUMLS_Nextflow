@@ -1,0 +1,48 @@
+361. BMC Bioinformatics. 2018 Sep 17;19(1):328. doi: 10.1186/s12859-018-2316-x.
+
+A document level neural model integrated domain knowledge for chemical-induced 
+disease relations.
+
+Zheng W(1)(2), Lin H(3), Liu X(1), Xu B(4).
+
+Author information:
+(1)College of Computer Science and Technology, Dalian University of Technology, 
+Dalian, China.
+(2)College of Software, Dalian JiaoTong University, Dalian, China.
+(3)College of Computer Science and Technology, Dalian University of Technology, 
+Dalian, China. hflin@dlut.edu.cn.
+(4)College of Computer Science and Technology, Dalian University of Technology, 
+Dalian, China. xubo@mail.dlut.edu.cn.
+
+BACKGROUND: The effective combination of texts and knowledge may improve 
+performances of natural language processing tasks. For the recognition of 
+chemical-induced disease (CID) relations which may span sentence boundaries in 
+an article, although existing CID systems explored the utilization for knowledge 
+bases, the effects of different knowledge on the identification of a special CID 
+haven't been distinguished by these systems. Moreover, systems based on neural 
+network only constructed sentence or mention level models.
+RESULTS: In this work, we proposed an effective document level neural model 
+integrated domain knowledge to extract CID relations from biomedical articles. 
+Basic semantic information of an article with respect to a special CID candidate 
+pair was learned from the document level sub-network module. Furthermore, 
+knowledge attention depending on the representation of the article was proposed 
+to distinguish the influences of different knowledge on the special CID pair and 
+then the final representation of knowledge was formed by aggregating weighed 
+knowledge. Finally, the integrated representations of texts and knowledge were 
+passed to a softmax classifier to perform the CID recognition. Experimental 
+results on the chemical-disease relation corpus proposed by BioCreative V show 
+that our proposed system integrated knowledge achieves a good overall 
+performance compared with other state-of-the-art systems.
+CONCLUSIONS: Experimental analyses demonstrate that the introduced attention 
+mechanism on domain knowledge plays a significant role in distinguishing 
+influences of different knowledge on the judgment for a special CID relation.
+
+DOI: 10.1186/s12859-018-2316-x
+PMCID: PMC6142695
+PMID: 30223767 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: Not 
+applicable. CONSENT FOR PUBLICATION: Not applicable. COMPETING INTERESTS: The 
+authors declare that they have no competing interests. PUBLISHER’S NOTE: 
+Springer Nature remains neutral with regard to jurisdictional claims in 
+published maps and institutional affiliations.

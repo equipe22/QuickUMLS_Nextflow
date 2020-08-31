@@ -1,0 +1,60 @@
+22. Int J Med Inform. 2018 Dec;120:14-19. doi: 10.1016/j.ijmedinf.2018.09.009. Epub 
+2018 Sep 15.
+
+Challenges optimizing the after visit summary.
+
+Federman A(1), Sarzynski E(2), Brach C(3), Francaviglia P(4), Jacques J(4), 
+Jandorf L(5), Munoz AS(6), Wolf M(7), Kannry J(6).
+
+Author information:
+(1)Division of General Internal Medicine, Department of Medicine, Icahn School 
+of Medicine at Mount Sinai, New York, NY, USA. Electronic address: 
+alex.federman@mssm.edu.
+(2)Department of Family Medicine, College of Human Medicine, Michigan State 
+University, East Lansing, MI, USA.
+(3)Center for Delivery, Organization, and Markets, Agency for Healthcare 
+Research and Quality, Rockville, MD, USA.
+(4)Epic Clinical Transformation Group, Information Technology Department, Mount 
+Sinai Health System, New York, NY, USA.
+(5)Tisch Cancer Institute, Icahn School of Medicine at Mount Sinai, New York, 
+NY, USA.
+(6)Division of General Internal Medicine, Department of Medicine, Icahn School 
+of Medicine at Mount Sinai, New York, NY, USA.
+(7)Division of General Internal Medicine, Department of Medicine, Feinberg 
+School of Medicine, Northwestern University, Chicago, IL, USA.
+
+BACKGROUND: The after visit summary (AVS) is a paper or electronic document 
+given to patients after a medical appointment, which is intended to summarize 
+patients' health and guide future care, including self-management tasks.
+OBJECTIVE: To describe experiences of health systems implementing a redesigned 
+outpatient AVS in commercially available electronic health record (EHR) systems 
+to inform future optimization.
+MATERIALS AND METHODS: We conducted semi-structured interviews with information 
+technology and clinical leaders at 12 hospital and community-based healthcare 
+institutions across the continental United States focusing on the process of AVS 
+redesign and implementation. We also report our experience implementing a 
+redesigned AVS in the Epic EHR at the Mount Sinai Hospital in New York City, NY.
+RESULTS: Health systems experienced many challenges implementing the redesigned 
+AVS. While many IT leaders noted that the redesigned AVS is easier to understand 
+and the document is better organized, they claim the effort is time-consuming, 
+Epic system upgrades render AVS modifications non-functional, and primary care 
+and specialty practices have different needs in regards to content and 
+formatting. Our team was able to modify the document by changing the order of 
+print groups, modifying the font size, bolding section headers, and inserting 
+page breaks. Similar to other health systems, our team found that it is 
+difficult to achieve some desired features due to limitations in the EHR 
+platform.
+CONCLUSION: Health IT leaders view the AVS as a valuable source of information 
+for patients. However, limitations to AVS modifications in EHR systems present 
+challenges to optimizing the tool. EHR vendors should incorporate learning from 
+healthcare systems innovation efforts and consider building more flexibility 
+into their product development.
+
+Copyright © 2018 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijmedinf.2018.09.009
+PMCID: PMC6326571
+PMID: 30409339 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest The authors have no 
+conflicts of interest to declare.

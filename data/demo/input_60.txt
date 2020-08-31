@@ -1,0 +1,32 @@
+60. Beilstein J Nanotechnol. 2015 Jul 1;6:1439-49. doi: 10.3762/bjnano.6.149. 
+eCollection 2015.
+
+Using natural language processing techniques to inform research on 
+nanotechnology.
+
+Lewinski NA(1), McInnes BT(2).
+
+Author information:
+(1)Department of Chemical and Life Science Engineering, Virginia Commonwealth 
+University, Richmond, VA, USA.
+(2)Department of Computer Science, Virginia Commonwealth University, Richmond, 
+VA, USA.
+
+Literature in the field of nanotechnology is exponentially increasing with more 
+and more engineered nanomaterials being created, characterized, and tested for 
+performance and safety. With the deluge of published data, there is a need for 
+natural language processing approaches to semi-automate the cataloguing of 
+engineered nanomaterials and their associated physico-chemical properties, 
+performance, exposure scenarios, and biological effects. In this paper, we 
+review the different informatics methods that have been applied to patent 
+mining, nanomaterial/device characterization, nanomedicine, and environmental 
+risk assessment. Nine natural language processing (NLP)-based tools were 
+identified: NanoPort, NanoMapper, TechPerceptor, a Text Mining Framework, a 
+Nanodevice Analyzer, a Clinical Trial Document Classifier, Nanotoxicity 
+Searcher, NanoSifter, and NEIMiner. We conclude with recommendations for sharing 
+NLP-related tools through online repositories to broaden participation in 
+nanoinformatics.
+
+DOI: 10.3762/bjnano.6.149
+PMCID: PMC4505089
+PMID: 26199848

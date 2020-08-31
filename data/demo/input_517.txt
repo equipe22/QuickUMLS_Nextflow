@@ -1,0 +1,45 @@
+517. J Womens Health (Larchmt). 2016 Feb;25(2):181-7. doi: 10.1089/jwh.2015.5217. 
+Epub 2015 Nov 10.
+
+Development of a PubMed Based Search Tool for Identifying Sex and Gender 
+Specific Health Literature.
+
+Song MM(1), Simonsen CK(2), Wilson JD(3), Jenkins MR(3).
+
+Author information:
+(1)1 Laura W. Bush Institute for Women's Health, Texas Tech University Health 
+Sciences Center, School of Medicine and Graduate School of Biomedical Sciences , 
+Lubbock, Texas.
+(2)2 Harrington Library of the Health Sciences, Texas Tech University Health 
+Sciences Center Libraries , Amarillo, Texas.
+(3)3 Department of Internal Medicine, Laura W. Bush Institute for Women's 
+Health, Texas Tech University Health Sciences Center School of Medicine , 
+Amarillo, Texas.
+
+BACKGROUND: An effective literature search strategy is critical to achieving the 
+aims of Sex and Gender Specific Health (SGSH): to understand sex and gender 
+differences through research and to effectively incorporate the new knowledge 
+into the clinical decision making process to benefit both male and female 
+patients. The goal of this project was to develop and validate an SGSH 
+literature search tool that is readily and freely available to clinical 
+researchers and practitioners.
+METHODS: PubMed, a freely available search engine for the Medline database, was 
+selected as the platform to build the SGSH literature search tool. Combinations 
+of Medical Subject Heading terms, text words, and title words were evaluated for 
+optimal specificity and sensitivity. The search tool was then validated against 
+reference bases compiled for two disease states, diabetes and stroke.
+RESULTS: Key sex and gender terms and limits were bundled to create a search 
+tool to facilitate PubMed SGSH literature searches. During validation, the 
+search tool retrieved 50 of 94 (53.2%) stroke and 62 of 95 (65.3%) diabetes 
+reference articles selected for validation. A general keyword search of stroke 
+or diabetes combined with sex difference retrieved 33 of 94 (35.1%) stroke and 
+22 of 95 (23.2%) diabetes reference base articles, with lower sensitivity and 
+specificity for SGSH content.
+CONCLUSIONS: The Texas Tech University Health Sciences Center SGSH PubMed Search 
+Tool provides higher sensitivity and specificity to sex and gender specific 
+health literature. The tool will facilitate research, clinical decision-making, 
+and guideline development relevant to SGSH.
+
+DOI: 10.1089/jwh.2015.5217
+PMCID: PMC4761798
+PMID: 26555409 [Indexed for MEDLINE]

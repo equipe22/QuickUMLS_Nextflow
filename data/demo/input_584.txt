@@ -1,0 +1,36 @@
+584. AMIA Annu Symp Proc. 2018 Dec 5;2018:1263-1272. eCollection 2018.
+
+Exploring Older Adults' Strengths, Problems, and Wellbeing Using De-identified 
+Electronic Health Record Data.
+
+Gao G(1), Pieczkiewicz D(2), Kerr M(1), Lindquist R(1), Chi CL(1), Maganti S(3), 
+Austin R(1), Kreitzer MJ(4), Todd K(5), Monsen KA(1)(2)(4).
+
+Author information:
+(1)School of Nursing, University of Minnesota, Minneapolis, MN 55455.
+(2)Institute for Health Informatics, University of Minnesota, Minneapolis, MN 
+55455.
+(3)Department of Computer Science and Engineering, University of Minnesota, 
+Minneapolis, MN 55455.
+(4)Center for Spirituality and Healing, University of Minnesota, Minneapolis, MN 
+55455.
+(5)The Waters, Minnetonka, MN 55305.
+
+As new data sources including individuals' strengths emerge in electronic health 
+records, such data provide whole-person oriented information to generate 
+integrated knowledge for person-centered practice. The purpose of this study is 
+to describe older adults' strengths and problems within a wellbeing context 
+documented by the Omaha System. The Wellbeing Model is employed as a conceptual 
+framework for wellbeing and is operationalized by the Omaha System Problem 
+Classification Scheme. This study has a retrospective, descriptive design using 
+de-identified EHR data of wellbeing assessments including problems, strengths, 
+and signs/symptoms for a convenience sample of 440 assisted-living residents in 
+a Midwest metropolitan area. Descriptive statistics and data visualization were 
+used to summarize and display strength and signs/symptom attributes within 
+wellbeing contexts. The study reveals cutting-edge knowledge regarding older 
+adults' strengths and wellbeing, and creates a platform for further research use 
+of a strength-based ontology in clinical practice and electronic system of 
+documentation.
+
+PMCID: PMC6371293
+PMID: 30815168 [Indexed for MEDLINE]

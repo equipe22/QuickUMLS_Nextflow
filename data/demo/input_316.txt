@@ -1,0 +1,37 @@
+316. J Biomed Inform. 2007 Oct;40(5):453-64. doi: 10.1016/j.jbi.2007.01.001. Epub 
+2007 Jan 17.
+
+Global mapping of gene/protein interactions in PubMed abstracts: a framework and 
+an experiment with P53 interactions.
+
+Li X(1), Chen H, Huang Z, Su H, Martinez JD.
+
+Author information:
+(1)Artificial Intelligence Lab, Department of Management Information Systems, 
+The University of Arizona, McClelland Hall, Tucson, AZ 85721-0108, USA. 
+xinli@email.arizona.edu <xinli@email.arizona.edu>
+
+Gene/protein interactions provide critical information for a thorough 
+understanding of cellular processes. Recently, considerable interest and effort 
+has been focused on the construction and analysis of genome-wide gene networks. 
+The large body of biomedical literature is an important source of gene/protein 
+interaction information. Recent advances in text mining tools have made it 
+possible to automatically extract such documented interactions from free-text 
+literature. In this paper, we propose a comprehensive framework for constructing 
+and analyzing large-scale gene functional networks based on the gene/protein 
+interactions extracted from biomedical literature repositories using text mining 
+tools. Our proposed framework consists of analyses of the network topology, 
+network topology-gene function relationship, and temporal network evolution to 
+distill valuable information embedded in the gene functional interactions in the 
+literature. We demonstrate the application of the proposed framework using a 
+testbed of P53-related PubMed abstracts, which shows that the literature-based 
+P53 networks exhibit small-world and scale-free properties. We also found that 
+high degree genes in the literature-based networks have a high probability of 
+appearing in the manually curated database and genes in the same pathway tend to 
+form local clusters in our literature-based networks. Temporal analysis showed 
+that genes interacting with many other genes tend to be involved in a large 
+number of newly discovered interactions.
+
+DOI: 10.1016/j.jbi.2007.01.001
+PMCID: PMC2047827
+PMID: 17317333 [Indexed for MEDLINE]

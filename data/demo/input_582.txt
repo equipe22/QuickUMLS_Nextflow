@@ -1,0 +1,49 @@
+582. J Am Med Inform Assoc. 2018 May 1;25(5):555-563. doi: 10.1093/jamia/ocx156.
+
+Designing and evaluating an automated system for real-time medication 
+administration error detection in a neonatal intensive care unit.
+
+Ni Y(1)(2), Lingren T(1), Hall ES(1)(2)(3), Leonard M(1), Melton K(2)(3), 
+Kirkendall ES(1)(2)(4)(5).
+
+Author information:
+(1)Department of Biomedical Informatics, Cincinnati Children's Hospital Medical 
+Center, Cincinnati, OH, USA.
+(2)Department of Pediatrics, College of Medicine, University of Cincinnati, 
+Cincinnati, OH, USA.
+(3)Division of Neonatology and Pulmonary Biology, Cincinnati Children's Hospital 
+Medical Center, Cincinnati, OH, USA.
+(4)Division of Hospital Medicine, Cincinnati Children's Hospital Medical Center, 
+Cincinnati, OH, USA.
+(5)James M. Anderson Center for Health Systems Excellence, Cincinnati Children's 
+Hospital Medical Center, Cincinnati, OH, USA.
+
+BACKGROUND: Timely identification of medication administration errors (MAEs) 
+promises great benefits for mitigating medication errors and associated harm. 
+Despite previous efforts utilizing computerized methods to monitor medication 
+errors, sustaining effective and accurate detection of MAEs remains challenging. 
+In this study, we developed a real-time MAE detection system and evaluated its 
+performance prior to system integration into institutional workflows.
+METHODS: Our prospective observational study included automated MAE detection of 
+10 high-risk medications and fluids for patients admitted to the neonatal 
+intensive care unit at Cincinnati Children's Hospital Medical Center during a 
+4-month period. The automated system extracted real-time medication use 
+information from the institutional electronic health records and identified MAEs 
+using logic-based rules and natural language processing techniques. The MAE 
+summary was delivered via a real-time messaging platform to promote reduction of 
+patient exposure to potential harm. System performance was validated using a 
+physician-generated gold standard of MAE events, and results were compared with 
+those of current practice (incident reporting and trigger tools).
+RESULTS: Physicians identified 116 MAEs from 10 104 medication administrations 
+during the study period. Compared to current practice, the sensitivity with 
+automated MAE detection was improved significantly from 4.3% to 85.3% 
+(P = .009), with a positive predictive value of 78.0%. Furthermore, the system 
+showed potential to reduce patient exposure to harm, from 256 min to 35 min 
+(P < .001).
+CONCLUSIONS: The automated system demonstrated improved capacity for identifying 
+MAEs while guarding against alert fatigue. It also showed promise for reducing 
+patient exposure to potential harm following MAE events.
+
+DOI: 10.1093/jamia/ocx156
+PMCID: PMC6018990
+PMID: 29329456 [Indexed for MEDLINE]

@@ -1,0 +1,55 @@
+538. BMC Med Inform Decis Mak. 2018 May 30;18(1):32. doi: 10.1186/s12911-018-0614-x.
+
+Implementation of a patient-facing genomic test report in the electronic health 
+record using a web-application interface.
+
+Williams MS(1), Kern MS(2), Lerch VR(3), Billet J(3), Williams JL(4), Moore 
+GJ(3).
+
+Author information:
+(1)Genomic Medicine Institute, Geisinger, 100 North Academy Avenue, Danville, 
+PA, USA. mswilliams1@geisinger.edu.
+(2)Center for Pharmacy Innovation and Outcomes, Geisinger, Danville, PA, USA.
+(3)Institute for Advanced Application, Geisinger, Danville, PA, USA.
+(4)Genomic Medicine Institute, Geisinger, 100 North Academy Avenue, Danville, 
+PA, USA.
+
+BACKGROUND: Genomic medicine is emerging into clinical care. Communication of 
+genetic laboratory results to patients and providers is hampered by the complex 
+technical nature of the laboratory reports. This can lead to confusion and 
+misinterpretation of the results resulting in inappropriate care. Patients 
+usually do not receive a copy of the report leading to further opportunities for 
+miscommunication. To address these problems, interpretive reports were created 
+using input from the intended end users, patients and providers. This paper 
+describes the technical development and deployment of the first patient-facing 
+genomic test report (PGR) within an electronic health record (EHR) ecosystem 
+using a locally developed standards-based web-application interface.
+METHODS: A patient-facing genomic test report with a companion provider report 
+was configured for implementation within the EHR using a locally developed 
+software platform, COMPASS™. COMPASS™ is designed to manage secure data 
+exchange, as well as patient and provider access to patient reported data 
+capture and clinical display tools. COMPASS™ is built using a Software as a 
+Service (SaaS) approach which exposes an API that apps can interact with.
+RESULTS: An authoring tool was developed that allowed creation of 
+patient-specific PGRs and the accompanying provider reports. These were 
+converted to a format that allowed them to be presented in the patient portal 
+and EHR respectively using the existing COMPASS™ interface thus allowing 
+patients, caregivers and providers access to individual reports designed for the 
+intended end user.
+CONCLUSIONS: The PGR as developed was shown to enhance patient and provider 
+communication around genomic results. It is built on current standards but is 
+designed to support integration with other tools and be compatible with emerging 
+opportunities such as SMART on FHIR. This approach could be used to support 
+genomic return of results as the tool is scalable and generalizable.
+
+DOI: 10.1186/s12911-018-0614-x
+PMCID: PMC5975475
+PMID: 29843696 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: 
+Participants involved in the development of the tool provided written consent to 
+participate. This study was approved by the Geisinger Institutional Review Board 
+Registration # 00008345. COMPETING INTERESTS: The authors declare that they have 
+no competing interests. PUBLISHER’S NOTE: Springer Nature remains neutral with 
+regard to jurisdictional claims in published maps and institutional 
+affiliations.

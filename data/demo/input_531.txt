@@ -1,0 +1,44 @@
+531. Healthc Inform Res. 2013 Dec;19(4):307-13. doi: 10.4258/hir.2013.19.4.307. Epub 
+2013 Dec 31.
+
+Development of mobile electronic health records application in a secondary 
+general hospital in Korea.
+
+Choi W(1), Park MA(2), Hong E(1), Kim S(1), Ahn R(1), Hong J(1), Song S(3), Kim 
+T(3), Kim J(3), Yeo S(3).
+
+Author information:
+(1)Department of Emergency Medicine, Ulsan University Hospital, University of 
+Ulsan College of Medicine, Ulsan, Korea.
+(2)Management Information System, School of Business, Ewha Woman University, 
+Seoul, Korea.
+(3)Computational Team, Ulsan University Hospital, University of Ulsan College of 
+Medicine, Ulsan, Korea.
+
+OBJECTIVES: The recent evolution of mobile devices has opened new possibilities 
+of providing strongly integrated mobile services in healthcare. The objective of 
+this paper is to describe the decision driver, development, and implementation 
+of an integrated mobile Electronic Health Record (EHR) application at Ulsan 
+University Hospital. This application helps healthcare providers view patients' 
+medical records and information without a stationary computer workstation.
+METHODS: We developed an integrated mobile application prototype that aimed to 
+improve the mobility and usability of healthcare providers during their daily 
+medical activities. The Android and iOS platform was used to create the mobile 
+EHR application. The first working version was completed in 5 months and 
+required 1,080 development hours.
+RESULTS: The mobile EHR application provides patient vital signs, patient data, 
+text communication, and integrated EHR. The application allows our healthcare 
+providers to know the status of patients within and outside the hospital 
+environment. The application provides a consistent user environment on several 
+compatible Android and iOS devices. A group of 10 beta testers has consistently 
+used and maintained our copy of the application, suggesting user acceptance.
+CONCLUSIONS: We are developing the integrated mobile EHR application with the 
+goals of implementing an environment that is user-friendly, implementing a 
+patient-centered system, and increasing the hospital's competitiveness.
+
+DOI: 10.4258/hir.2013.19.4.307
+PMCID: PMC3920044
+PMID: 24523996
+
+Conflict of interest statement: No potential conflict of interest relevant to 
+this article was reported.

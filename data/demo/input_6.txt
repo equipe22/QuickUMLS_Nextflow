@@ -1,0 +1,29 @@
+6. Stud Health Technol Inform. 2019 Aug 21;264:83-87. doi: 10.3233/SHTI190188.
+
+Clinical Text Mining on FHIR.
+
+Daumke P(1), Heitmann KU(2)(3), Heckmann S(2)(3), Martínez-Costa C(4), Schulz 
+S(1)(4).
+
+Author information:
+(1)Averbis GmbH, Freiburg, Germany.
+(2)Geyfra GmbH, Hürth, Germany.
+(3)HL7 Germany, Berlin, Germany.
+(4)Institute for Medical Informatics, Statistics and Documentation, Medical 
+University of Graz, Austria.
+
+Semantic standards and human language technologies are key enablers for semantic 
+interoperability across heterogeneous document and data collections in clinical 
+information systems. Data provenance is awarded increasing attention, and it is 
+especially critical where clinical data are automatically extracted from 
+original documents, e.g. by text mining. This paper demonstrates how the output 
+of a commercial clinical text-mining tool can be harmonised with FHIR, the 
+leading clinical information model standard. Character ranges that indicate the 
+origin of an annotation and machine generates confidence values were identified 
+as crucial elements of data provenance in order to enrich text-mining results. 
+We have specified and requested necessary extensions to the FHIR standard and 
+demonstrated how, as a result, important metadata describing processes 
+generating FHIR instances from clinical narratives can be embedded.
+
+DOI: 10.3233/SHTI190188
+PMID: 31437890 [Indexed for MEDLINE]

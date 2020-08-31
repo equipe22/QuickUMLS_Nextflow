@@ -1,0 +1,44 @@
+59. JCO Clin Cancer Inform. 2019 Oct;3:1-12. doi: 10.1200/CCI.19.00031.
+
+Text Mining in Electronic Medical Records Enables Quick and Efficient 
+Identification of Pregnancy Cases Occurring After Breast Cancer.
+
+Labrosse J(1), Lam T(2), Sebbag C(1), Benque M(1), Abdennebi I(1), Merckelbagh 
+H(3), Osdoit M(1), Priour M(1), Guerin J(1), Balezeau T(1), Grandal B(1), Coussy 
+F(1), Bobrie A(4), Ferrer L(5), Laas E(1), Feron JG(1), Reyal F(6), Hamy AS(6).
+
+Author information:
+(1)Institut Curie, Paris, France.
+(2)Geneva University Hospitals, Geneva, Switzerland.
+(3)Port-Royal Maternity Unit, Paris, France.
+(4)Cancerology Institute, Montpellier, France.
+(5)Institut Curie, U900, Hôpital René Huguenin, Saint-Cloud, France.
+(6)Paris 5 Research University, INSERM U932, Institut Curie, Paris, France.
+
+PURPOSE: To apply text mining (TM) technology on electronic medical records 
+(EMRs) of patients with breast cancer (BC) to retrieve the occurrence of a 
+pregnancy after BC diagnosis and compare its performance to manual curation.
+MATERIALS AND METHODS: The training cohort (Cohort A) comprised 344 patients 
+with BC age ≤ 40 years old treated at Institut Curie between 2005 and 2007. 
+Manual curation consisted in manually reviewing each EMR to retrieve 
+pregnancies. TM consisted of first applying a keyword filter ("accouch*" or 
+"enceinte," French terms for "deliver*" and "pregnant," respectively) to select 
+a subset of EMRs, and, second, checking manually EMRs to confirm the pregnancy. 
+Then, we applied our TM algorithm on an independent cohort of patients with BC 
+treated between 2008 and 2012 (Cohort B).
+RESULTS: In Cohort A, 36 pregnancies were identified among 344 patients (10.5%; 
+2,829 person-years of EMR). Thirty were identified by manual review versus 35 by 
+TM. TM resulted in a lower percentage of manual checking (26.7% v 100%, 
+respectively) and substantial time gains (time to identify a pregnancy: 13 
+minutes for TM v 244 minutes for manual curation, respectively). Presence of any 
+of the two TM filters showed excellent sensitivity (97%) and negative predictive 
+value (100%). In Cohort B, 67 pregnancies were identified among 1,226 patients 
+(5.5%; 7,349 person-years of EMR). Similarly, for Cohort B, TM spared 904 
+(73.7%) EMRs from manual review and quickly generated a cohort of 67 pregnancies 
+after BC. Incidence rate of pregnancy after BC was 0.01 pregnancy per 
+person-year of EMR in both cohorts.
+CONCLUSION: TM is highly efficient to quickly identify rare events and is a 
+promising tool to improve rapidity, efficiency, and costs of medical research.
+
+DOI: 10.1200/CCI.19.00031
+PMID: 31626565 [Indexed for MEDLINE]

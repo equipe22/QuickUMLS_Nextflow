@@ -1,0 +1,22 @@
+152. Brief Bioinform. 2005 Sep;6(3):239-51. doi: 10.1093/bib/6.3.239.
+
+Text mining and ontologies in biomedicine: making sense of raw text.
+
+Spasic I(1), Ananiadou S, McNaught J, Kumar A.
+
+Author information:
+(1)School of Chemistry, The University of Manchester, Sackville Street, PO Box 
+88, Manchester M60 1QD, UK. i.spasic@manchester.ac.uk
+
+The volume of biomedical literature is increasing at such a rate that it is 
+becoming difficult to locate, retrieve and manage the reported information 
+without text mining, which aims to automatically distill information, extract 
+facts, discover implicit links and generate hypotheses relevant to user needs. 
+Ontologies, as conceptual models, provide the necessary framework for semantic 
+representation of textual information. The principal link between text and an 
+ontology is terminology, which maps terms to domain-specific concepts. This 
+paper summarises different approaches in which ontologies have been used for 
+text-mining applications in biomedicine.
+
+DOI: 10.1093/bib/6.3.239
+PMID: 16212772 [Indexed for MEDLINE]

@@ -1,0 +1,37 @@
+266. Stud Health Technol Inform. 2008;141:139-45.
+
+Open source electronic health record and patient data management system for 
+intensive care.
+
+Massaut J(1), Reper P.
+
+Author information:
+(1)Intensive Care, Brugmann Hospital, Université Libre de Bruxelles, Belgium. 
+jacques.massaut@chu-brugmann.be
+
+BACKGROUND AND OBJECTIVES: In Intensive Care Units, the amount of data to be 
+processed for patients care, the turn over of the patients, the necessity for 
+reliability and for review processes indicate the use of Patient Data Management 
+Systems (PDMS) and electronic health records (EHR). To respond to the needs of 
+an Intensive Care Unit and not to be locked with proprietary software, we 
+developed a PDMS and EHR based on open source software and components.
+METHODS: The software was designed as a client-server architecture running on 
+the Linux operating system and powered by the PostgreSQL data base system. The 
+client software was developed in C using GTK interface library. The application 
+offers to the users the following functions: medical notes captures, 
+observations and treatments, nursing charts with administration of medications, 
+scoring systems for classification, and possibilities to encode medical 
+activities for billing processes.
+RESULTS: Since his deployment in February 2004, the PDMS was used to care more 
+than three thousands patients with the expected software reliability and 
+facilitated data management and review processes. Communications with other 
+medical software were not developed from the start, and are realized by the use 
+of the Mirth HL7 communication engine. Further upgrade of the system will 
+include multi-platform support, use of typed language with static analysis, and 
+configurable interface.
+CONCLUSION: The developed system based on open source software components was 
+able to respond to the medical needs of the local ICU environment. The use of 
+OSS for development allowed us to customize the software to the preexisting 
+organization and contributed to the acceptability of the whole system.
+
+PMID: 18953134 [Indexed for MEDLINE]

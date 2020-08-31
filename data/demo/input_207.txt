@@ -1,0 +1,53 @@
+207. Artif Intell Med. 2016 Jun;70:77-83. doi: 10.1016/j.artmed.2016.06.001. Epub 
+2016 Jun 8.
+
+Machine learning classification of surgical pathology reports and chunk 
+recognition for information extraction noise reduction.
+
+Napolitano G(1), Marshall A(2), Hamilton P(3), Gavin AT(4).
+
+Author information:
+(1)Institut für Medizinische Biometrie, Informatik und Epidemiologie (IMBIE), 
+Universität Bonn, Haus 325/11/1.OG/Raum 620, Sigmund-Freud-Straße 25, 53105 
+Bonn, Germany. Electronic address: g.napolitano@imbie.uni-bonn.de.
+(2)Queen's University Belfast, School of Mathematics and Physics, University 
+Road, Belfast BT7 1NN, United Kingdom.
+(3)Queen's University Belfast, School of Medicine, Dentistry and Biomedical 
+Sciences, 97 Lisburn Road, Belfast BT9 7BL, United Kingdom.
+(4)NICR-Centre for Public Health, The Queen's University of Belfast, Mulhouse 
+Building, Grosvenor Road, Belfast BT12 6DP, United Kingdom.
+
+BACKGROUND AND AIMS: Machine learning techniques for the text mining of 
+cancer-related clinical documents have not been sufficiently explored. Here some 
+techniques are presented for the pre-processing of free-text breast cancer 
+pathology reports, with the aim of facilitating the extraction of information 
+relevant to cancer staging.
+MATERIALS AND METHODS: The first technique was implemented using the freely 
+available software RapidMiner to classify the reports according to their general 
+layout: 'semi-structured' and 'unstructured'. The second technique was developed 
+using the open source language engineering framework GATE and aimed at the 
+prediction of chunks of the report text containing information pertaining to the 
+cancer morphology, the tumour size, its hormone receptor status and the number 
+of positive nodes. The classifiers were trained and tested respectively on sets 
+of 635 and 163 manually classified or annotated reports, from the Northern 
+Ireland Cancer Registry.
+RESULTS: The best result of 99.4% accuracy - which included only one 
+semi-structured report predicted as unstructured - was produced by the layout 
+classifier with the k nearest algorithm, using the binary term occurrence word 
+vector type with stopword filter and pruning. For chunk recognition, the best 
+results were found using the PAUM algorithm with the same parameters for all 
+cases, except for the prediction of chunks containing cancer morphology. For 
+semi-structured reports the performance ranged from 0.97 to 0.94 and from 0.92 
+to 0.83 in precision and recall, while for unstructured reports performance 
+ranged from 0.91 to 0.64 and from 0.68 to 0.41 in precision and recall. Poor 
+results were found when the classifier was trained on semi-structured reports 
+but tested on unstructured.
+CONCLUSIONS: These results show that it is possible and beneficial to predict 
+the layout of reports and that the accuracy of prediction of which segments of a 
+report may contain certain information is sensitive to the report layout and the 
+type of information sought.
+
+Copyright © 2016 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.artmed.2016.06.001
+PMID: 27431038 [Indexed for MEDLINE]

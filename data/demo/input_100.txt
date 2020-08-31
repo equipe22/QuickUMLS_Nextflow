@@ -1,0 +1,53 @@
+100. BMC Bioinformatics. 2018 Dec 21;19(Suppl 18):485. doi: 
+10.1186/s12859-018-2503-9.
+
+CAT: computer aided triage improving upon the Bayes risk through ε-refusal 
+triage rules.
+
+Hengartner N(1), Cuellar L(2), Wu XC(3), Tourassi G(4), Qiu J(4), Christian 
+B(4), Bhattacharya T(2).
+
+Author information:
+(1)Los Alamos National Laboratory, PO Box 1663, Los Alamos, 87545, NM, USA. 
+nickh@lanl.gov.
+(2)Los Alamos National Laboratory, PO Box 1663, Los Alamos, 87545, NM, USA.
+(3)Louisiana State University, 2020 Gravier Street, 3rd Floor, New Orleans, 
+70112, LA, USA.
+(4)Oak Ridge National Laboratory, PO Box 2008, Oak Ridge, 37831, TN, USA.
+
+BACKGROUND: Manual extraction of information from electronic pathology (epath) 
+reports to populate the Surveillance, Epidemiology, and End Result (SEER) 
+database is labor intensive. Systematizing the data extraction automatically 
+using machine-learning (ML) and natural language processing (NLP) is desirable 
+to reduce the human labor required to populate the SEER database and to improve 
+the timeliness of the data. This enables scaling up registry efficiency and 
+collection of new data elements. To ensure the integrity, quality, and 
+continuity of the SEER data, the misclassification error of ML and NPL 
+algorithms needs to be negligible. Current algorithms fail to achieve the 
+precision of human experts who can bring additional information in their 
+assessments. Differences in registry format and the desire to develop a common 
+information extraction platform further complicate the ML/NLP tasks. The purpose 
+of our study is to develop triage rules to partially automate registry workflow 
+to improve the precision of the auto-extracted information.
+RESULTS: This paper presents a mathematical framework to improve the precision 
+of a classifier beyond that of the Bayes classifier by selectively classifying 
+item that are most likely to be correct. This results in a triage rule that only 
+classifies a subset of the item. We characterize the optimal triage rule and 
+demonstrate its usefulness in the problem of classifying cancer site from 
+electronic pathology reports to achieve a desired precision.
+CONCLUSIONS: From the mathematical formalism, we propose a heuristic estimate 
+for triage rule based on post-processing the soft-max output from standard 
+machine learning algorithms. We show, in test cases, that the triage rule 
+significantly improve the classification accuracy.
+
+DOI: 10.1186/s12859-018-2503-9
+PMCID: PMC6302364
+PMID: 30577756 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: The 
+data was obtained from the Louisiana registry under data use agreements, and the 
+research was approved by the institutional review boards. CONSENT FOR 
+PUBLICATION: Not applicable. COMPETING INTERESTS: The authors declare no 
+competing interests. PUBLISHER’S NOTE: Springer Nature remains neutral with 
+regard to jurisdictional claims in published maps and institutional 
+affiliations.

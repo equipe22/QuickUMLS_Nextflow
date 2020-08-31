@@ -1,0 +1,42 @@
+34. J Biomed Inform. 2015 Feb;53:300-7. doi: 10.1016/j.jbi.2014.11.015. Epub 2014 
+Dec 12.
+
+Knowledge based word-concept model estimation and refinement for biomedical text 
+mining.
+
+Jimeno Yepes A(1), Berlanga R(2).
+
+Author information:
+(1)Department of Computing and Information Systems, The University of Melbourne, 
+VIC 3010, Australia. Electronic address: antonio.jimeno@gmail.com.
+(2)Departamento de Lenguages y Sistemas Informáticos, Universitat Jaume I, 
+Castellón de la Plana, 12071, Spain.
+
+Text mining of scientific literature has been essential for setting up large 
+public biomedical databases, which are being widely used by the research 
+community. In the biomedical domain, the existence of a large number of 
+terminological resources and knowledge bases (KB) has enabled a myriad of 
+machine learning methods for different text mining related tasks. Unfortunately, 
+KBs have not been devised for text mining tasks but for human interpretation, 
+thus performance of KB-based methods is usually lower when compared to 
+supervised machine learning methods. The disadvantage of supervised methods 
+though is they require labeled training data and therefore not useful for large 
+scale biomedical text mining systems. KB-based methods do not have this 
+limitation. In this paper, we describe a novel method to generate word-concept 
+probabilities from a KB, which can serve as a basis for several text mining 
+tasks. This method not only takes into account the underlying patterns within 
+the descriptions contained in the KB but also those in texts available from 
+large unlabeled corpora such as MEDLINE. The parameters of the model have been 
+estimated without training data. Patterns from MEDLINE have been built using 
+MetaMap for entity recognition and related using co-occurrences. The 
+word-concept probabilities were evaluated on the task of word sense 
+disambiguation (WSD). The results showed that our method obtained a higher 
+degree of accuracy than other state-of-the-art approaches when evaluated on the 
+MSH WSD data set. We also evaluated our method on the task of document ranking 
+using MEDLINE citations. These results also showed an increase in performance 
+over existing baseline retrieval approaches.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jbi.2014.11.015
+PMID: 25510606 [Indexed for MEDLINE]

@@ -1,0 +1,43 @@
+321. J Biomed Inform. 2012 Aug;45(4):763-71. doi: 10.1016/j.jbi.2012.01.009. Epub 
+2012 Feb 4.
+
+Building a robust, scalable and standards-driven infrastructure for secondary 
+use of EHR data: the SHARPn project.
+
+Rea S(1), Pathak J, Savova G, Oniki TA, Westberg L, Beebe CE, Tao C, Parker CG, 
+Haug PJ, Huff SM, Chute CG.
+
+Author information:
+(1)Homer Warner Center for Informatics Research, Intermountain Healthcare, 
+Murray, UT 84107, USA. Susan.Rea@imail.org
+
+The Strategic Health IT Advanced Research Projects (SHARP) Program, established 
+by the Office of the National Coordinator for Health Information Technology in 
+2010 supports research findings that remove barriers for increased adoption of 
+health IT. The improvements envisioned by the SHARP Area 4 Consortium (SHARPn) 
+will enable the use of the electronic health record (EHR) for secondary 
+purposes, such as care process and outcomes improvement, biomedical research and 
+epidemiologic monitoring of the nation's health. One of the primary informatics 
+problem areas in this endeavor is the standardization of disparate health data 
+from the nation's many health care organizations and providers. The SHARPn team 
+is developing open source services and components to support the ubiquitous 
+exchange, sharing and reuse or 'liquidity' of operational clinical data stored 
+in electronic health records. One year into the design and development of the 
+SHARPn framework, we demonstrated end to end data flow and a prototype SHARPn 
+platform, using thousands of patient electronic records sourced from two large 
+healthcare organizations: Mayo Clinic and Intermountain Healthcare. The platform 
+was deployed to (1) receive source EHR data in several formats, (2) generate 
+structured data from EHR narrative text, and (3) normalize the EHR data using 
+common detailed clinical models and Consolidated Health Informatics standard 
+terminologies, which were (4) accessed by a phenotyping service using normalized 
+data specifications. The architecture of this prototype SHARPn platform is 
+presented. The EHR data throughput demonstration showed success in normalizing 
+native EHR data, both structured and narrative, from two independent 
+organizations and EHR systems. Based on the demonstration, observed challenges 
+for standardization of EHR data for interoperable secondary use are discussed.
+
+Copyright © 2012 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jbi.2012.01.009
+PMCID: PMC4905766
+PMID: 22326800 [Indexed for MEDLINE]

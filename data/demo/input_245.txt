@@ -1,0 +1,37 @@
+245. J Biomed Inform. 2015 Jun;55:116-23. doi: 10.1016/j.jbi.2015.03.012. Epub 2015 
+Apr 11.
+
+Multi-focus cluster labeling.
+
+Eikvil L(1), Jenssen TK(2), Holden M(3).
+
+Author information:
+(1)Norwegian Computing Center, P.O. Box 114 Blindern, NO-0314 Oslo, Norway. 
+Electronic address: line.eikvil@nr.no.
+(2)PubGene AS, Sognsveien 70A, PO Box 37 Vinderen, 0319 Oslo, Norway. Electronic 
+address: tkj@pubgene.com.
+(3)Norwegian Computing Center, P.O. Box 114 Blindern, NO-0314 Oslo, Norway. 
+Electronic address: marit.holden@nr.no.
+
+Document collections resulting from searches in the biomedical literature, for 
+instance, in PubMed, are often so large that some organization of the returned 
+information is necessary. Clustering is an efficient tool for organizing search 
+results. To help the user to decide how to continue the search for relevant 
+documents, the content of each cluster can be characterized by a set of 
+representative keywords or cluster labels. As different users may have different 
+interests, it can be desirable with solutions that make it possible to produce 
+labels from a selection of different topical categories. We therefore introduce 
+the concept of multi-focus cluster labeling to give users the possibility to get 
+an overview of the contents through labels from multiple viewpoints. The concept 
+for multi-focus cluster labeling has been established and has been demonstrated 
+on three different document collections. We illustrate that multi-focus 
+visualizations can give an overview of clusters along axes that general labels 
+are not able to convey. The approach is generic and should be applicable to any 
+biomedical (or other) domain with any selection of foci where appropriate focus 
+vocabularies can be established. A user evaluation also indicates that such a 
+multi-focus concept is useful.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jbi.2015.03.012
+PMID: 25869415 [Indexed for MEDLINE]

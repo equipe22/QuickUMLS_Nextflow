@@ -1,0 +1,50 @@
+124. Int J Med Inform. 2019 Sep;129:114-121. doi: 10.1016/j.ijmedinf.2019.05.019. 
+Epub 2019 May 30.
+
+Extractive summarization of clinical trial descriptions.
+
+Gulden C(1), Kirchner M(2), Schüttler C(3), Hinderer M(3), Kampf M(2), Prokosch 
+HU(3), Toddenroth D(3).
+
+Author information:
+(1)Medical Informatics, Friedrich-Alexander Universität Erlangen-Nürnberg (FAU), 
+Erlangen, Germany. Electronic address: Christian.Gulden@fau.de.
+(2)Medical Center for Information and Communication Technology, University 
+Hospital Erlangen, Erlangen, Germany.
+(3)Medical Informatics, Friedrich-Alexander Universität Erlangen-Nürnberg (FAU), 
+Erlangen, Germany.
+
+PURPOSE: Text summarization of clinical trial descriptions has the potential to 
+reduce the time required to familiarize oneself with the subject of studies by 
+condensing long-form detailed descriptions to concise, meaning-preserving 
+synopses. This work describes the process and quality of automatically generated 
+summaries of clinical trial descriptions using extractive text summarization 
+methods.
+METHODS: We generated a novel dataset from the detailed descriptions and brief 
+summaries of trials registered on clinicaltrials.gov. We executed several text 
+summarization algorithms on the detailed descriptions in this corpus and 
+calculated the standard ROUGE metrics using the brief summaries included in the 
+record as a reference. To investigate the correlation of these metrics with 
+human sentiments, four reviewers assessed the content-completeness of the 
+generated summaries and the helpfulness of both the generated and reference 
+summaries via a Likert scale questionnaire.
+RESULTS: The filtering stages of the dataset generation process reduce the 
+277,228 trials registered on clinicaltrials.gov to 101,016 records usable for 
+the summarization task. On average, the summaries in this corpus are 25% the 
+length of the detailed descriptions. Of the evaluated text summarization 
+methods, the TextRank algorithm exhibits the overall best performance with a 
+ROUGE-1 F1 score of 0.3531, ROUGE-2 F1 score of 0.1723, and ROUGE-L F1 score of 
+0.3003. These scores correlate with the assessment of the helpfulness and 
+content similarity by the human reviewers. Inter-rater agreement for the 
+helpfulness and content similarity was slight and fair respectively (Fleiss' 
+kappa of 0.12 and 0.22).
+CONCLUSIONS: Extractive summarization is a viable tool for generating 
+meaning-preserving synopses of detailed clinical trial descriptions. Further, 
+the human evaluation has shown that the ROUGE-L F1 score is useful for rating 
+the general quality of generated summaries of clinical trial descriptions in an 
+automated way.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijmedinf.2019.05.019
+PMID: 31445245 [Indexed for MEDLINE]

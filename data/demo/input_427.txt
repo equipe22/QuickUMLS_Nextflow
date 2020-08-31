@@ -1,0 +1,21 @@
+427. Med Ref Serv Q. 2008 Winter;27(4):394-405. doi: 10.1080/02763860802368142.
+
+A review of the OvidSP platform.
+
+FitzSimmons M(1), Gross VA.
+
+Author information:
+(1)George T Harrell Library, Milton S Hershey Medical Center, Penn State 
+University, Hershey, PA 17033-0850, USA. mfitzsimmons@hmc.psu.edu
+
+As part of its mission to advance the technological capabilities of its 
+products, Ovid introduced a redesign of its database platform in fall 2007. The 
+platform redesign brought new features and enhancements to an already robust 
+system. The transition between Ovid Gateway and the OvidSP platform was 
+orchestrated seamlessly. With the OvidSP platform came innovative changes such 
+as the incorporation of Natural Language Processing associated with the new 
+Basic Search mode. Discussed are OvidSP features, advantages and disadvantages 
+of the new platform, customizable settings, and future direction.
+
+DOI: 10.1080/02763860802368142
+PMID: 19042719 [Indexed for MEDLINE]

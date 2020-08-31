@@ -1,0 +1,18 @@
+482. Stud Health Technol Inform. 2020 Jun 16;270:43-47. doi: 10.3233/SHTI200119.
+
+Automated Spelling Correction for Clinical Text Mining in Russian.
+
+Balabaeva K(1), Funkner A(1), Kovalchuk S(1).
+
+Author information:
+(1)ITMO University, Saint Petersburg, Russia.
+
+The main goal of this paper is to develop a spell checker module for clinical 
+text in Russian. The described approach combines string distance measure 
+algorithms with technics of machine learning embedding methods. Our overall 
+precision is 0.86, lexical precision - 0.975 and error precision is 0.74. We 
+develop spell checker as a part of medical text mining tool regarding the 
+problems of misspelling, negation, experiencer and temporality detection.
+
+DOI: 10.3233/SHTI200119
+PMID: 32570343 [Indexed for MEDLINE]

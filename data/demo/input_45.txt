@@ -1,0 +1,63 @@
+45. JCO Clin Cancer Inform. 2019 Aug;3:1-9. doi: 10.1200/CCI.19.00043.
+
+Validation of a Semiautomated Natural Language Processing-Based Procedure for 
+Meta-Analysis of Cancer Susceptibility Gene Penetrance.
+
+Deng Z(1), Yin K(1), Bao Y(2), Armengol VD(1), Wang C(3)(4), Tiwari A(1), 
+Barzilay R(2), Parmigiani G(3)(4), Braun D(3)(4), Hughes KS(1)(5).
+
+Author information:
+(1)Massachusetts General Hospital, Boston, MA.
+(2)Massachusetts Institute of Technology, Boston, MA.
+(3)Harvard TH Chan School of Public Health, Boston, MA.
+(4)Dana-Farber Cancer Institute, Boston, MA.
+(5)Harvard Medical School, Boston, MA.
+
+PURPOSE: Quantifying the risk of cancer associated with pathogenic mutations in 
+germline cancer susceptibility genes-that is, penetrance-enables the 
+personalization of preventive management strategies. Conducting a meta-analysis 
+is the best way to obtain robust risk estimates. We have previously developed a 
+natural language processing (NLP) -based abstract classifier which classifies 
+abstracts as relevant to penetrance, prevalence of mutations, both, or neither. 
+In this work, we evaluate the performance of this NLP-based procedure.
+MATERIALS AND METHODS: We compared the semiautomated NLP-based procedure, which 
+involves automated abstract classification and text mining, followed by human 
+review of identified studies, with the traditional procedure that requires human 
+review of all studies. Ten high-quality gene-cancer penetrance meta-analyses 
+spanning 16 gene-cancer associations were used as the gold standard by which to 
+evaluate the performance of our procedure. For each meta-analysis, we evaluated 
+the number of abstracts that required human review (workload) and the ability to 
+identify the studies that were included by the authors in their quantitative 
+analysis (coverage).
+RESULTS: Compared with the traditional procedure, the semiautomated NLP-based 
+procedure led to a lower workload across all 10 meta-analyses, with an overall 
+84% reduction (2,774 abstracts v 16,941 abstracts) in the amount of human review 
+required. Overall coverage was 93%-we are able to identify 132 of 142 
+studies-before reviewing references of identified studies. Reasons for the 10 
+missed studies included blank and poorly written abstracts. After reviewing 
+references, nine of the previously missed studies were identified and coverage 
+improved to 99% (141 of 142 studies).
+CONCLUSION: We demonstrated that an NLP-based procedure can significantly reduce 
+the review workload without compromising the ability to identify relevant 
+studies. NLP algorithms have promising potential for reducing human efforts in 
+the literature review process.
+
+DOI: 10.1200/CCI.19.00043
+PMCID: PMC6873944
+PMID: 31419182 [Indexed for MEDLINE]
+
+Conflict of interest statement: The following represents disclosure information 
+provided by authors of this manuscript. All relationships are considered 
+compensated. Relationships are self-held unless noted. I = Immediate Family 
+Member, Inst = My Institution. Relationships may not relate to the subject 
+matter of this manuscript. For more information about ASCO's conflict of 
+interest policy, please refer to www.asco.org/rwc or ascopubs.org/jco/site/ifc. 
+REGINA BARZILAY: Honoraria: Merck Consulting or Advisory Role: Janssen Research 
+Funding: Bayer, Amgen GIOVANNI PARMIGIANI: Leadership: Phaeno Biotech Stock and 
+Other Ownership Interests: HRA Health Consulting or Advisory Role: Biogen, 
+Konica Minolta Patents, Royalties, Other Intellectual Property: Patent: Genetic 
+Alterations in Malignant Gliomas, copyright: BayesMendel Software (Inst) Expert 
+Testimony: Natera Travel, Accommodations, Expenses: Konica Minolta KEVIN S. 
+HUGHES: Stock and Other Ownership Interests: Hughes riskApps Honoraria: Focal 
+Therapeutics, 23andMe, Hologic Consulting or Advisory Role: Health Beacons No 
+other potential conflicts of interest were reported.

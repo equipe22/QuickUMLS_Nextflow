@@ -1,0 +1,50 @@
+419. BMC Bioinformatics. 2020 Jan 28;21(1):29. doi: 10.1186/s12859-020-3341-0.
+
+Unsupervised inference of implicit biomedical events using context triggers.
+
+Chung JW(1), Yang W(1), Park JC(2).
+
+Author information:
+(1)School of Computing, KAIST, 291 Daehak-ro, Yuseong-gu, Daejeon, Republic of 
+Korea.
+(2)School of Computing, KAIST, 291 Daehak-ro, Yuseong-gu, Daejeon, Republic of 
+Korea. park@nlp.kaist.ac.kr.
+
+BACKGROUND: Event extraction from the biomedical literature is one of the most 
+actively researched areas in biomedical text mining and natural language 
+processing. However, most approaches have focused on events within single 
+sentence boundaries, and have thus paid much less attention to events spanning 
+multiple sentences. The Bacteria-Biotope event (BB-event) subtask presented in 
+BioNLP Shared Task 2016 is one such example; a significant amount of relations 
+between bacteria and biotope span more than one sentence, but existing systems 
+have treated them as false negatives because labeled data is not sufficiently 
+large enough to model a complex reasoning process using supervised learning 
+frameworks.
+RESULTS: We present an unsupervised method for inferring cross-sentence events 
+by propagating intra-sentence information to adjacent sentences using context 
+trigger expressions that strongly signal the implicit presence of entities of 
+interest. Such expressions can be collected from a large amount of unlabeled 
+plain text based on simple syntactic constraints, helping to overcome the 
+limitation of relying only on a small number of training examples available. The 
+experimental results demonstrate that our unsupervised system extracts 
+cross-sentence events quite well and outperforms all the state-of-the-art 
+supervised systems when combined with existing methods for intra-sentence event 
+extraction. Moreover, our system is also found effective at detecting 
+long-distance intra-sentence events, compared favorably with existing 
+high-dimensional models such as deep neural networks, without any supervised 
+learning techniques.
+CONCLUSIONS: Our linguistically motivated inference model is shown to be 
+effective at detecting implicit events that have not been covered by previous 
+work, without relying on training data or curated knowledge bases. Moreover, it 
+also helps to boost the performance of existing systems by allowing them to 
+detect additional cross-sentence events. We believe that the proposed model 
+offers an effective way to infer implicit information beyond sentence 
+boundaries, especially when human-annotated data is not sufficient enough to 
+train a robust supervised system.
+
+DOI: 10.1186/s12859-020-3341-0
+PMCID: PMC6988352
+PMID: 31992184 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

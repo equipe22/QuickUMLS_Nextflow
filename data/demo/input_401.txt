@@ -1,0 +1,42 @@
+401. Res Synth Methods. 2013 Sep;4(3):230-41. doi: 10.1002/jrsm.1082. Epub 2013 Jul 
+3.
+
+'Clustering' documents automatically to support scoping reviews of research: a 
+case study.
+
+Stansfield C(1), Thomas J(2), Kavanagh J(2).
+
+Author information:
+(1)Evidence for Policy and Practice Information and Coordinating Centre 
+(EPPI-Centre), Social Science Research Unit, Institute of Education, University 
+of London, 18 Woburn Square London, London, WC1H 0NR, UK. c.stansfield@ioe.ac.uk
+(2)Evidence for Policy and Practice Information and Coordinating Centre 
+(EPPI-Centre), Social Science Research Unit, Institute of Education, University 
+of London, 18 Woburn Square London, London, WC1H 0NR, UK.
+
+BACKGROUND: Scoping reviews of research help determine the feasibility and the 
+resource requirements of conducting a systematic review, and the potential to 
+generate a description of the literature quickly is attractive.
+AIMS: To test the utility and applicability of an automated clustering tool to 
+describe and group research studies to improve the efficiency of scoping 
+reviews.
+METHODS: A retrospective study of two completed scoping reviews was conducted. 
+This compared the groups and descriptive categories obtained by automatically 
+clustering titles and abstracts with those that had originally been derived 
+using traditional researcher-driven techniques.
+RESULTS: The clustering tool rapidly categorised research into themes, which 
+were useful in some instances, but not in others. This provided a dynamic means 
+to view each dataset. Interpretation was challenging where there were 
+potentially multiple meanings of terms. Where relevant clusters were 
+unambiguous, there was a high precision of relevant studies, although recall 
+varied widely.
+CONCLUSIONS: Policy-relevant scoping reviews are often undertaken rapidly, and 
+this could potentially be enhanced by automation depending on the nature of the 
+dataset and information sought. However, it is not a replacement for 
+researcher-developed classification. The possibilities of further applications 
+and potential for use in other types of review are discussed.
+
+Copyright © 2013 John Wiley & Sons, Ltd.
+
+DOI: 10.1002/jrsm.1082
+PMID: 26053843 [Indexed for MEDLINE]

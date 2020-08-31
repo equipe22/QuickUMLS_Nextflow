@@ -1,0 +1,71 @@
+633. Breast Cancer Res. 2020 Jun 26;22(1):70. doi: 10.1186/s13058-020-01309-3.
+
+Patient treatment and outcome after breast cancer orbital and periorbital 
+metastases: a comprehensive case series including analysis of lobular versus 
+ductal tumor histology.
+
+Blohmer M(1)(2)(3), Zhu L(4), Atkinson JM(1)(3), Beriwal S(5), Rodríguez-López 
+JL(5), Rosenzweig M(3)(6), Brufsky AM(7), Tseng G(3)(7), Lucas PC(3)(8), Lee 
+AV(1)(3), Oesterreich S(1)(3), Jankowitz RC(9)(10)(11).
+
+Author information:
+(1)Department of Pharmacology & Chemical Biology, University of Pittsburgh, 
+Pittsburgh, PA, USA.
+(2)Charité - Universitätsmedizin Berlin, Berlin, Germany.
+(3)Women's Cancer Research Center, UPMC Hillman Cancer Center, Magee Women's 
+Research Institute, Pittsburgh, PA, USA.
+(4)Department of Biostatistics, University of Pittsburgh, Pittsburgh, PA, USA.
+(5)University of Pittsburgh School of Medicine, Department of Radiation 
+Oncology, UPMC Hillman Cancer Center, Pittsburgh, PA, USA.
+(6)School of Nursing, University of Pittsburgh, Pittsburgh, PA, USA.
+(7)University of Pittsburgh School of Medicine, Department of Medicine, Division 
+of Hematology/Oncology, UPMC Hillman Cancer Center, Pittsburgh, PA, USA.
+(8)Department of Pathology, University of Pittsburgh, Pittsburgh, PA, USA.
+(9)University of Pittsburgh School of Medicine, Department of Medicine, Division 
+of Hematology/Oncology, UPMC Hillman Cancer Center, Pittsburgh, PA, USA. 
+Rachel.Jankowitz@Pennmedicine.upenn.edu.
+(10)Department of Medicine, Division of Hematology/Oncology, Perelman School of 
+Medicine, Abramson Cancer Center, University of Pennsylvania, Philadelphia, PA, 
+USA. Rachel.Jankowitz@Pennmedicine.upenn.edu.
+(11)Rena Rowan Breast Center, Perelman Center for Advanced Medicine and the 
+Abramson Cancer Center, 3rd Floor, West Pavilion, 3400 Civic Center Boulevard, 
+Philadelphia, PA, 19104, USA. Rachel.Jankowitz@Pennmedicine.upenn.edu.
+
+BACKGROUND: Breast cancer is the most common malignancy to spread to the orbit 
+and periorbit, and the invasive lobular carcinoma (ILC) histologic subtype of 
+breast cancer has been reported to form these ophthalmic metastases (OM) more 
+frequently than invasive ductal carcinomas (IDC). We herein report our single 
+academic institution experience with breast cancer OM with respect to anatomical 
+presentation, histology (lobular vs. ductal), treatment, and survival.
+METHODS: We employed the natural language processing platform, TIES (Text 
+Information Extraction System), to search 2.3 million de-identified patient 
+pathology and radiology records at our institution in order to identify patients 
+with OM secondary to breast cancer. We then compared the resultant cohort, the 
+"OM cohort," to two other representative metastatic breast cancer patient (MBC) 
+databases from our institution. Histological analysis of selected patients was 
+performed.
+RESULTS: Our TIES search and manual refinement ultimately identified 28 patients 
+who were diagnosed with breast cancer between 1995 and 2016 that subsequently 
+developed OM. Median age at diagnosis was 54 (range 28-77) years of age. ER, PR, 
+and HER2 status from the 28 patients with OM did not differ from other patients 
+with MBC from our institution. The relative proportion of patients with ILC was 
+significantly higher in the OM cohort (32.1%) than in other MBC patients in our 
+institution (11.3%, p = 0.007). Median time to first OM in the OM cohort was 
+46.7 months, and OM were the second most frequent first metastases after bony 
+metastases. After diagnosis of the first distant metastasis of any kind, median 
+survival of patients with ILC (21.4 months) was significantly shorter than that 
+of patients with IDC (55.3 months, p = 0.03). Nine patients developed bilateral 
+OM. We observed a significant co-occurrence of OM and central nervous system 
+metastases (p = 0.0053). The histological analysis revealed an interesting case 
+in which the primary tumor was of a mixed ILC/IDC subtype, while only ILC was 
+present in the OM.
+CONCLUSIONS: OM from breast cancer are illustrative of the difference in 
+metastatic behavior of ILC versus IDC and should be considered when treating 
+patients with ILC, especially in those with complaints of visual acuity changes.
+
+DOI: 10.1186/s13058-020-01309-3
+PMCID: PMC7318761
+PMID: 32586354
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

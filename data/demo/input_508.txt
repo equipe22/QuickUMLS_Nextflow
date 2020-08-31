@@ -1,0 +1,73 @@
+508. J Biomed Inform. 2011 Dec;44 Suppl 1:S94-102. doi: 10.1016/j.jbi.2011.07.007. 
+Epub 2011 Aug 25.
+
+Integrating clinical research with the Healthcare Enterprise: from the RE-USE 
+project to the EHR4CR platform.
+
+El Fadly A(1), Rance B, Lucas N, Mead C, Chatellier G, Lastic PY, Jaulent MC, 
+Daniel C.
+
+Author information:
+(1)INSERM, UMR_S 872 eq20, 15 rue de l'école de médecine, 75006 Paris, France. 
+nelfadly@yahoo.fr
+
+BACKGROUND: There are different approaches for repurposing clinical data 
+collected in the Electronic Healthcare Record (EHR) for use in clinical 
+research. Semantic integration of "siloed" applications across domain boundaries 
+is the raison d'être of the standards-based profiles developed by the 
+Integrating the Healthcare Enterprise (IHE) initiative - an initiative by 
+healthcare professionals and industry promoting the coordinated use of 
+established standards such as DICOM and HL7 to address specific clinical needs 
+in support of optimal patient care. In particular, the combination of two IHE 
+profiles - the integration profile "Retrieve Form for Data Capture" (RFD), and 
+the IHE content profile "Clinical Research Document" (CRD) - offers a 
+straightforward approach to repurposing EHR data by enabling the pre-population 
+of the case report forms (eCRF) used for clinical research data capture by 
+Clinical Data Management Systems (CDMS) with previously collected EHR data.
+OBJECTIVE: Implement an alternative solution of the RFD-CRD integration profile 
+centered around two approaches: (i) Use of the EHR as the single-source 
+data-entry and persistence point in order to ensure that all the clinical data 
+for a given patient could be found in a single source irrespective of the data 
+collection context, i.e. patient care or clinical research; and (ii) Maximize 
+the automatic pre-population process through the use of a semantic 
+interoperability services that identify duplicate or semantically-equivalent 
+eCRF/EHR data elements as they were collected in the EHR context.
+METHODS: The RE-USE architecture and associated profiles are focused on defining 
+a set of scalable, standards-based, IHE-compliant profiles that can enable 
+single-source data collection/entry and cross-system data reuse through semantic 
+integration. Specifically, data reuse is realized through the semantic mapping 
+of data collection fields in electronic Case Report Forms (eCRFs) to data 
+elements previously defined as part of patient care-centric templates in the EHR 
+context. The approach was evaluated in the context of a multi-center clinical 
+trial conducted in a large, multi-disciplinary hospital with an installed EHR.
+RESULTS: Data elements of seven eCRFs used in a multi-center clinical trial were 
+mapped to data elements of patient care-centric templates in use in the EHR at 
+the George Pompidou hospital. 13.4% of the data elements of the eCRFs were found 
+to be represented in EHR templates and were therefore candidate for 
+pre-population. During the execution phase of the clinical study, the semantic 
+mapping architecture enabled data persisted in the EHR context as part of 
+clinical care to be used to pre-populate eCRFS for use without secondary data 
+entry. To ensure that the pre-populated data is viable for use in the clinical 
+research context, all pre-populated eCRF data needs to be first approved by a 
+trial investigator prior to being persisted in a research data store within a 
+CDMS.
+CONCLUSION: Single-source data entry in the clinical care context for use in the 
+clinical research context - a process enabled through the use of the EHR as 
+single point of data entry, can - if demonstrated to be a viable strategy - not 
+only significantly reduce data collection efforts while simultaneously 
+increasing data collection accuracy secondary to elimination of transcription or 
+double-entry errors between the two contexts but also ensure that all the 
+clinical data for a given patient, irrespective of the data collection context, 
+are available in the EHR for decision support and treatment planning. The RE-USE 
+approach used mapping algorithms to identify semantic coherence between clinical 
+care and clinical research data elements and pre-populate eCRFs. The RE-USE 
+project utilized SNOMED International v.3.5 as its "pivot reference terminology" 
+to support EHR-to-eCRF mapping, a decision that likely enhanced the "recall" of 
+the mapping algorithms. The RE-USE results demonstrate the difficult challenges 
+involved in semantic integration between the clinical care and clinical research 
+contexts.
+
+Copyright © 2011 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jbi.2011.07.007
+PMID: 21888989 [Indexed for MEDLINE]

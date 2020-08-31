@@ -1,0 +1,24 @@
+487. Int J Bioinform Res Appl. 2007;3(3):389-413. doi: 10.1504/IJBRA.2007.015009.
+
+Enhanced semantic access to the protein engineering literature using ontologies 
+populated by text mining.
+
+Witte R(1), Kappler T, Baker CJ.
+
+Author information:
+(1)Institute for Program Structures and Data Organization (IPD), Faculty of 
+Informatics, Universitat Karlsruhe (TH), Germany. witte@ipd.uka.de
+
+The biomedical literature is growing at an ever-increasing rate, which 
+pronounces the need to support scientists with advanced, automated means of 
+accessing knowledge. We investigate a novel approach employing description 
+logics (DL)-based queries made to formal ontologies that have been created using 
+the results of text mining full-text research papers. In this paradigm, an 
+OWL-DL ontology becomes populated with instances detected through natural 
+language processing (NLP). The generated ontology can be queried by biologists 
+using DL reasoners or integrated into bioinformatics workflows for further 
+automated analyses. We demonstrate the feasibility of this approach with a 
+system targeting the protein mutation literature.
+
+DOI: 10.1504/IJBRA.2007.015009
+PMID: 18048198 [Indexed for MEDLINE]

@@ -1,0 +1,50 @@
+112. J Biomed Semantics. 2019 Nov 12;10(Suppl 1):24. doi: 10.1186/s13326-019-0215-3.
+
+KLOSURE: Closing in on open-ended patient questionnaires with text mining.
+
+Spasić I(1), Owen D(2), Smith A(3), Button K(4).
+
+Author information:
+(1)School of Computer Science & Informatics, Cardiff University, Cardiff, UK. 
+SpasicI@cardiff.ac.uk.
+(2)School of Computer Science & Informatics, Cardiff University, Cardiff, UK.
+(3)School of Psychology, Cardiff University, Cardiff, UK.
+(4)School of Healthcare Sciences, Cardiff University, Cardiff, UK.
+
+BACKGROUND: Knee injury and Osteoarthritis Outcome Score (KOOS) is an instrument 
+used to quantify patients' perceptions about their knee condition and associated 
+problems. It is administered as a 42-item closed-ended questionnaire in which 
+patients are asked to self-assess five outcomes: pain, other symptoms, 
+activities of daily living, sport and recreation activities, and quality of 
+life. We developed KLOG as a 10-item open-ended version of the KOOS 
+questionnaire in an attempt to obtain deeper insight into patients' opinions 
+including their unmet needs. However, the open-ended nature of the questionnaire 
+incurs analytical overhead associated with the interpretation of responses. The 
+goal of this study was to automate such analysis. We implemented KLOSURE as a 
+system for mining free-text responses to the KLOG questionnaire. It consists of 
+two subsystems, one concerned with feature extraction and the other one 
+concerned with classification of feature vectors. Feature extraction is 
+performed by a set of four modules whose main functionalities are linguistic 
+pre-processing, sentiment analysis, named entity recognition and lexicon lookup 
+respectively. Outputs produced by each module are combined into feature vectors. 
+The structure of feature vectors will vary across the KLOG questions. Finally, 
+Weka, a machine learning workbench, was used for classification of feature 
+vectors.
+RESULTS: The precision of the system varied between 62.8 and 95.3%, whereas the 
+recall varied from 58.3 to 87.6% across the 10 questions. The overall 
+performance in terms of F-measure varied between 59.0 and 91.3% with an average 
+of 74.4% and a standard deviation of 8.8.
+CONCLUSIONS: We demonstrated the feasibility of mining open-ended patient 
+questionnaires. By automatically mapping free text answers onto a Likert scale, 
+we can effectively measure the progress of rehabilitation over time. In 
+comparison to traditional closed-ended questionnaires, our approach offers much 
+richer information that can be utilised to support clinical decision making. In 
+conclusion, we demonstrated how text mining can be used to combine the benefits 
+of qualitative and quantitative analysis of patient experiences.
+
+DOI: 10.1186/s13326-019-0215-3
+PMCID: PMC6849171
+PMID: 31711536 [Indexed for MEDLINE]
+
+Conflict of interest statement: To the best knowledge of the authors, there are 
+no competing interests.

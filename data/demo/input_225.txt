@@ -1,0 +1,36 @@
+225. PLoS One. 2014 Jan 2;9(1):e83932. doi: 10.1371/journal.pone.0083932. eCollection 
+2014.
+
+Automatic extraction of nanoparticle properties using natural language 
+processing: NanoSifter an application to acquire PAMAM dendrimer properties.
+
+Jones DE(1), Igo S(2), Hurdle J(1), Facelli JC(2).
+
+Author information:
+(1)Department of Biomedical Informatics, University of Utah, Salt Lake City, 
+Utah, United States of America.
+(2)Department of Biomedical Informatics, University of Utah, Salt Lake City, 
+Utah, United States of America ; Center for High Performance Computing, 
+University of Utah, Salt Lake City, Utah, United States of America.
+
+In this study, we demonstrate the use of natural language processing methods to 
+extract, from nanomedicine literature, numeric values of biomedical property 
+terms of poly(amidoamine) dendrimers. We have developed a method for extracting 
+these values for properties taken from the NanoParticle Ontology, using the 
+General Architecture for Text Engineering and a Nearly-New Information 
+Extraction System. We also created a method for associating the identified 
+numeric values with their corresponding dendrimer properties, called NanoSifter. 
+We demonstrate that our system can correctly extract numeric values of dendrimer 
+properties reported in the cancer treatment literature with high recall, 
+precision, and f-measure. The micro-averaged recall was 0.99, precision was 
+0.84, and f-measure was 0.91. Similarly, the macro-averaged recall was 0.99, 
+precision was 0.87, and f-measure was 0.92. To our knowledge, these results are 
+the first application of text mining to extract and associate dendrimer property 
+terms and their corresponding numeric values.
+
+DOI: 10.1371/journal.pone.0083932
+PMCID: PMC3879259
+PMID: 24392101 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.

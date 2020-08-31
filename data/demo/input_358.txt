@@ -1,0 +1,44 @@
+358. Pac Symp Biocomput. 2006:64-75.
+
+PhenoGO: assigning phenotypic context to gene ontology annotations with natural 
+language processing.
+
+Lussier Y(1), Borlawsky T, Rappaport D, Liu Y, Friedman C.
+
+Author information:
+(1)Department of Biomedical Informatics, Columbia Center for Systems Biology, 
+Columbia University, New York, NY 10032, USA.
+
+Natural language processing (NLP) is a high throughput technology because it can 
+process vast quantities of text within a reasonable time period. It has the 
+potential to substantially facilitate biomedical research by extracting, 
+linking, and organizing massive amounts of information that occur in biomedical 
+journal articles as well as in textual fields of biological databases. Until 
+recently, much of the work in biological NLP and text mining has revolved around 
+recognizing the occurrence of biomolecular entities in articles, and in 
+extracting particular relationships among the entities. Now, researchers have 
+recognized a need to link the extracted information to ontologies or knowledge 
+bases, which is a more difficult task. One such knowledge base is Gene Ontology 
+annotations (GOA), which significantly increases semantic computations over the 
+function, cellular components and processes of genes. For multicellular 
+organisms, these annotations can be refined with phenotypic context, such as the 
+cell type, tissue, and organ because establishing phenotypic contexts in which a 
+gene is expressed is a crucial step for understanding the development and the 
+molecular underpinning of the pathophysiology of diseases. In this paper, we 
+propose a system, PhenoGO, which automatically augments annotations in GOA with 
+additional context. PhenoGO utilizes an existing NLP system, called BioMedLEE, 
+an existing knowledge-based phenotype organizer system (PhenOS) in conjunction 
+with MeSH indexing and established biomedical ontologies. More specifically, 
+PhenoGO adds phenotypic contextual information to existing associations between 
+gene products and GO terms as specified in GOA. The system also maps the context 
+to identifiers that are associated with different biomedical ontologies, 
+including the UMLS, Cell Ontology, Mouse Anatomy, NCBI taxonomy, GO, and 
+Mammalian Phenotype Ontology. In addition, PhenoGO was evaluated for coding of 
+anatomical and cellular information and assigning the coded phenotypes to the 
+correct GOA; results obtained show that PhenoGO has a precision of 91% and 
+recall of 92%, demonstrating that the PhenoGO NLP system can accurately encode a 
+large number of anatomical and cellular ontologies to GO annotations. The 
+PhenoGO Database may be accessed at the following URL: http://www.phenoGO.org
+
+PMCID: PMC2906243
+PMID: 17094228 [Indexed for MEDLINE]

@@ -1,0 +1,55 @@
+537. BMC Bioinformatics. 2015 May 9;16:149. doi: 10.1186/s12859-015-0606-0.
+
+Bilingual term alignment from comparable corpora in English discharge summary 
+and Chinese discharge summary.
+
+Xu Y(1)(2), Chen L(3), Wei J(4), Ananiadou S(5), Fan Y(6), Qian Y(7), Chang 
+EI(8), Tsujii J(9).
+
+Author information:
+(1)State Key Laboratory of Software Development Environment, Key Laboratory of 
+Biomechanics and Mechanobiology of Ministry of Education, Beihang University, 
+Beijing, China. xuyan04@gmail.com.
+(2)Microsoft Research Asia, Beijing, China. xuyan04@gmail.com.
+(3)State Key Laboratory of Software Development Environment, Key Laboratory of 
+Biomechanics and Mechanobiology of Ministry of Education, Beihang University, 
+Beijing, China. arcduke7@163.com.
+(4)State Key Laboratory of Software Development Environment, Key Laboratory of 
+Biomechanics and Mechanobiology of Ministry of Education, Beihang University, 
+Beijing, China. weijunsheng90@gmail.com.
+(5)The National Centre for Text Mining, School of Computer Science, The 
+University of Manchester, Manchester, UK. sophia.ananiadou@manchester.ac.uk.
+(6)State Key Laboratory of Software Development Environment, Key Laboratory of 
+Biomechanics and Mechanobiology of Ministry of Education, Beihang University, 
+Beijing, China. yubofan@buaa.edu.cn.
+(7)Jinhua People's Hospital, Jinhua, China. qianyicosta@163.com.
+(8)Microsoft Research Asia, Beijing, China. eric.chang@microsoft.com.
+(9)Microsoft Research Asia, Beijing, China. jtsujii@microsoft.com.
+
+BACKGROUND: Electronic medical record (EMR) systems have become widely used 
+throughout the world to improve the quality of healthcare and the efficiency of 
+hospital services. A bilingual medical lexicon of Chinese and English is needed 
+to meet the demand for the multi-lingual and multi-national treatment. We make 
+efforts to extract a bilingual lexicon from English and Chinese discharge 
+summaries with a small seed lexicon. The lexical terms can be classified into 
+two categories: single-word terms (SWTs) and multi-word terms (MWTs). For SWTs, 
+we use a label propagation (LP; context-based) method to extract candidates of 
+translation pairs. For MWTs, which are pervasive in the medical domain, we 
+propose a term alignment method, which firstly obtains translation candidates 
+for each component word of a Chinese MWT, and then generates their combinations, 
+from which the system selects a set of plausible translation candidates.
+RESULTS: We compare our LP method with a baseline method based on simple 
+context-similarity. The LP based method outperforms the baseline with the 
+accuracies: 4.44% Acc1, 24.44% Acc10, and 62.22% Acc100, where AccN means the 
+top N accuracy. The accuracy of the LP method drops to 5.41% Acc10 and 8.11% 
+Acc20 for MWTs. Our experiments show that the method based on term alignment 
+improves the performance for MWTs to 16.22% Acc10 and 27.03% Acc20.
+CONCLUSIONS: We constructed a framework for building an English-Chinese term 
+dictionary from discharge summaries in the two languages. Our experiments have 
+shown that the LP-based method augmented with the term alignment method will 
+contribute to reduction of manual work required to compile a bilingual 
+sydictionary of clinical terms.
+
+DOI: 10.1186/s12859-015-0606-0
+PMCID: PMC4424557
+PMID: 25956056 [Indexed for MEDLINE]

@@ -1,0 +1,35 @@
+213. PLoS Comput Biol. 2008 Jul 25;4(7):e1000029. doi: 10.1371/journal.pcbi.1000029.
+
+Nonnegative matrix factorization: an analytical and interpretive tool in 
+computational biology.
+
+Devarajan K(1).
+
+Author information:
+(1)Division of Population Science, Fox Chase Cancer Center, Philadelphia, 
+Pennsylvania, USA. karthik.devarajan@fccc.edu
+
+In the last decade, advances in high-throughput technologies such as DNA 
+microarrays have made it possible to simultaneously measure the expression 
+levels of tens of thousands of genes and proteins. This has resulted in large 
+amounts of biological data requiring analysis and interpretation. Nonnegative 
+matrix factorization (NMF) was introduced as an unsupervised, parts-based 
+learning paradigm involving the decomposition of a nonnegative matrix V into two 
+nonnegative matrices, W and H, via a multiplicative updates algorithm. In the 
+context of a pxn gene expression matrix V consisting of observations on p genes 
+from n samples, each column of W defines a metagene, and each column of H 
+represents the metagene expression pattern of the corresponding sample. NMF has 
+been primarily applied in an unsupervised setting in image and natural language 
+processing. More recently, it has been successfully utilized in a variety of 
+applications in computational biology. Examples include molecular pattern 
+discovery, class comparison and prediction, cross-platform and cross-species 
+analysis, functional characterization of genes and biomedical informatics. In 
+this paper, we review this method as a data analytical and interpretive tool in 
+computational biology with an emphasis on these applications.
+
+DOI: 10.1371/journal.pcbi.1000029
+PMCID: PMC2447881
+PMID: 18654623 [Indexed for MEDLINE]
+
+Conflict of interest statement: The author has declared that no competing 
+interests exist.

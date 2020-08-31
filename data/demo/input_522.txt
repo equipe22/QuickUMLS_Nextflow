@@ -1,0 +1,52 @@
+522. PLoS One. 2019 Feb 19;14(2):e0212463. doi: 10.1371/journal.pone.0212463. 
+eCollection 2019.
+
+Data model harmonization for the All Of Us Research Program: Transforming i2b2 
+data into the OMOP common data model.
+
+Klann JG(1)(2)(3), Joss MAH(1), Embree K(4), Murphy SN(1)(2)(3).
+
+Author information:
+(1)Research Information Science and Computing, Partners Healthcare, Boston, 
+Massachusetts, United States of America.
+(2)Harvard Medical School, Boston, Massachusetts, United States of America.
+(3)Laboratory of Computer Science, Department of Medicine, Massachusetts General 
+Hospital, Boston, Massachusetts, United States of America.
+(4)Personalized Medicine, Partners Healthcare, Boston, Massachusetts, United 
+States of America.
+
+BACKGROUND: The All Of Us Research Program (AOU) is building a nationwide cohort 
+of one million patients' EHR and genomic data. Data interoperability is 
+paramount to the program's success. AOU is standardizing its EHR data around the 
+Observational Medical Outcomes Partnership (OMOP) data model. OMOP is one of 
+several standard data models presently used in national-scale initiatives. Each 
+model is unique enough to make interoperability difficult. The i2b2 data 
+warehousing and analytics platform is used at over 200 sites worldwide, which 
+uses a flexible ontology-driven approach for data storage. We previously 
+demonstrated this ontology system can drive data reconfiguration, to transform 
+data into new formats without site-specific programming. We previously 
+implemented this on our 12-site Accessible Research Commons for Health (ARCH) 
+network to transform i2b2 into the Patient Centered Outcomes Research Network 
+model.
+METHODS AND RESULTS: Here, we leverage our investment in i2b2 high-performance 
+transformations to support the AOU OMOP data pipeline. Because the ARCH ontology 
+has gained widespread national interest (through the Accrual to Clinical Trials 
+network, other PCORnet networks, and the Nebraska Lexicon), we leveraged sites' 
+existing investments into this standard ontology. We developed an i2b2-to-OMOP 
+transformation, driven by the ARCH-OMOP ontology and the OMOP concept mapping 
+dictionary. We demonstrated and validated our approach in the AOU New England 
+HPO (NEHPO). First, we transformed into OMOP a fake patient dataset in i2b2 and 
+verified through AOU tools that the data was structurally compliant with OMOP. 
+We then transformed a subset of data in the Partners Healthcare data warehouse 
+into OMOP. We developed a checklist of assessments to ensure the transformed 
+data had self-integrity (e.g., the distributions have an expected shape and 
+required fields are populated), using OMOP's visual Achilles data quality tool. 
+This i2b2-to-OMOP transformation is being used to send NEHPO production data to 
+AOU. It is open-source and ready for use by other research projects.
+
+DOI: 10.1371/journal.pone.0212463
+PMCID: PMC6380544
+PMID: 30779778 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

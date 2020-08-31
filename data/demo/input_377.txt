@@ -1,0 +1,27 @@
+377. Stud Health Technol Inform. 2013;192:903-7.
+
+Building a time-saving and adaptable tool to report adverse drug events.
+
+Parès Y(1), Declerck G, Hussain S, Ng R, Jaulent MC.
+
+Author information:
+(1)INSERM, UMRS 872, Eq. 20, Paris, France.
+
+The difficult task of detecting adverse drug events (ADEs) and the tedious 
+process of building manual reports of ADE occurrences out of patient profiles 
+result in a majority of adverse reactions not being reported to health 
+regulatory authorities. The SALUS individual case safety report (ICSR) reporting 
+tool, a component currently developed within the SALUS project, aims to support 
+semi-automatic reporting of ADEs to regulatory authorities. In this paper, we 
+present an initial design and current state of of our ICSR reporting tool that 
+features: (i) automatic pre-population of reporting forms through extraction of 
+the patient data contained in an Electronic Health Record (EHR); (ii) generation 
+and electronic submission of the completed ICSRs by the physician to regulatory 
+authorities; and (iii) integration of the reporting process into the physician's 
+work-flow to limit the disturbance. The objective is to increase the rates of 
+ADE reporting and the quality of the reported data. The SALUS interoperability 
+platform supports patient data extraction independently of the EHR data model in 
+use and allows generation of reports using the format expected by regulatory 
+authorities.
+
+PMID: 23920689 [Indexed for MEDLINE]

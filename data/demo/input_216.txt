@@ -1,0 +1,45 @@
+216. PLoS One. 2015 Aug 10;10(8):e0135305. doi: 10.1371/journal.pone.0135305. 
+eCollection 2015.
+
+pGenN, a gene normalization tool for plant genes and proteins in scientific 
+literature.
+
+Ding R(1), Arighi CN(2), Lee JY(3), Wu CH(2), Vijay-Shanker K(1).
+
+Author information:
+(1)Department of Computer and Information Sciences, University of Delaware, 
+Newark, Delaware, United States of America.
+(2)Department of Computer and Information Sciences, University of Delaware, 
+Newark, Delaware, United States of America; Center for Bioinformatics and 
+Computational Biology, University of Delaware, Newark, Delaware, United States 
+of America.
+(3)Department of Plant and Soil Sciences, University of Delaware, Newark, 
+Delaware, United States of America.
+
+BACKGROUND: Automatically detecting gene/protein names in the literature and 
+connecting them to databases records, also known as gene normalization, provides 
+a means to structure the information buried in free-text literature. Gene 
+normalization is critical for improving the coverage of annotation in the 
+databases, and is an essential component of many text mining systems and 
+database curation pipelines.
+METHODS: In this manuscript, we describe a gene normalization system 
+specifically tailored for plant species, called pGenN (pivot-based Gene 
+Normalization). The system consists of three steps: dictionary-based gene 
+mention detection, species assignment, and intra species normalization. We have 
+developed new heuristics to improve each of these phases.
+RESULTS: We evaluated the performance of pGenN on an in-house expertly annotated 
+corpus consisting of 104 plant relevant abstracts. Our system achieved an 
+F-value of 88.9% (Precision 90.9% and Recall 87.2%) on this corpus, 
+outperforming state-of-art systems presented in BioCreative III. We have 
+processed over 440,000 plant-related Medline abstracts using pGenN. The gene 
+normalization results are stored in a local database for direct query from the 
+pGenN web interface (proteininformationresource.org/pgenn/). The annotated 
+literature corpus is also publicly available through the PIR text mining portal 
+(proteininformationresource.org/iprolink/).
+
+DOI: 10.1371/journal.pone.0135305
+PMCID: PMC4530884
+PMID: 26258475 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.

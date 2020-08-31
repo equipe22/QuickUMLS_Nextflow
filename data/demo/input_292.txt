@@ -1,0 +1,33 @@
+292. Learn Health Syst. 2016 Oct 21;1(1):e10014. doi: 10.1002/lrh2.10014. eCollection 
+2017 Jan.
+
+Cross border semantic interoperability for learning health systems: The EHR4CR 
+semantic resources and services.
+
+Daniel C(1)(2), Ouagne D(1), Sadou E(1)(2), Paris N(2), Hussain S(1), Jaulent 
+MC(1), Kalra D(3).
+
+Author information:
+(1)Sorbonne Universités, UPMC Univ Paris 06, INSERM UMR_S 1142, LIMICS F-75006 
+Paris France.
+(2)AP-HP Paris France.
+(3)EUROREC Institute Sint-Martens-Latem Belgium.
+
+With the development of platforms enabling the integration and use of phenome, 
+genome, and exposome data in the context of international research, data 
+management challenges are increasing, and scalable solutions for cross border 
+and cross domain semantic interoperability need to be developed. Reusing 
+routinely collected clinical data, especially, requires computable portable 
+phenotype algorithms running across different electronic health record (EHR) 
+products and healthcare systems. We propose a framework for describing and 
+comparing mediation platforms enabling cross border phenotype identification 
+within federated EHRs. This framework was used to describe the experience gained 
+during the EHR4CR project and the evaluation of the platform developed for 
+accessing semantically equivalent data elements across 11 European participating 
+EHR systems from 5 countries. Developers of semantic interoperability platforms 
+are beginning to address a core set of requirements in order to reach the goal 
+of developing cross border semantic integration of data.
+
+DOI: 10.1002/lrh2.10014
+PMCID: PMC6516724
+PMID: 31245551

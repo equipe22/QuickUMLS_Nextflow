@@ -1,0 +1,42 @@
+85. Database (Oxford). 2018 Jan 1;2018:bay122. doi: 10.1093/database/bay122.
+
+BioCreative VI Precision Medicine Track system performance is constrained by 
+entity recognition and variations in corpus characteristics.
+
+Chen Q(1), Panyam NC(1), Elangovan A(1), Verspoor K(1).
+
+Author information:
+(1)School of Computing and Information Systems, The University of Melbourne, 
+Parkville VIC Australia.
+
+Precision medicine aims to provide personalized treatments based on individual 
+patient profiles. One critical step towards precision medicine is leveraging 
+knowledge derived from biomedical publications-a tremendous literature resource 
+presenting the latest scientific discoveries on genes, mutations and diseases. 
+Biomedical natural language processing (BioNLP) plays a vital role in supporting 
+automation of this process. BioCreative VI Track 4 brings community effort to 
+the task of automatically identifying and extracting protein-protein 
+interactions (PPi) affected by mutations (PPIm), important in the precision 
+medicine context for capturing individual genotype variation related to 
+disease.We present the READ-BioMed team's approach to identifying PPIm-related 
+publications and to extracting specific PPIm information from those publications 
+in the context of the BioCreative VI PPIm track. We observe that current BioNLP 
+tools are insufficient to recognise entities for these two tasks; the best 
+existing mutation recognition tool achieves only 55% recall in the document 
+triage training set, while relation extraction performance is limited by the low 
+recall performance of gene entity recognition. We develop the models 
+accordingly: for document triage, we develop term lists capturing interactions 
+and mutations to complement BioNLP tools, and select effective features via a 
+feature contribution study, whereas an ensemble of BioNLP tools is employed for 
+relation extraction.Our best document triage model achieves an F-score of 66.77% 
+while our best model for relation extraction achieved an F-score of 35.09% over 
+the final (updated post-task) test set. Impacting the document triage task, the 
+characteristics of mutations are statistically different in the training and 
+testing sets. While a vital new direction for biomedical text mining research, 
+this early attempt to tackle the problem of identifying genetic variation of 
+substantial biological significance highlights the importance of representative 
+training data and the cascading impact of tool limitations in a modular system.
+
+DOI: 10.1093/database/bay122
+PMCID: PMC6301335
+PMID: 30576491 [Indexed for MEDLINE]

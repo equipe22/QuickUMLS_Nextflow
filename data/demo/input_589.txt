@@ -1,0 +1,55 @@
+589. JMIR Med Inform. 2018 Apr 24;6(2):e28. doi: 10.2196/medinform.7710.
+
+Developing a Third-Party Analytics Application Using Australia's National 
+Personal Health Records System: Case Study.
+
+Bidargaddi N(1)(2), van Kasteren Y(3), Musiat P(1), Kidd M(4).
+
+Author information:
+(1)Digital Psychiatry & Personal Health Informatics Lab, College of Medicine and 
+Public Health, Flinders University, Adelaide, Australia.
+(2)South Australian Health and Medical Research Institute, Adelaid, Australia.
+(3)Flinders Digital Health Centre, College of Nursing and Health Sciences, 
+Flinders University, Adelaide, Australia.
+(4)Department of Family & Community Medicine, University of Toronto, Toronto, 
+ON, Canada.
+
+BACKGROUND: My Health Record (MyHR) is Australia's national electronic health 
+record (EHR) system. Poor usability and functionality have resulted in low 
+utility, affecting enrollment and participation rates by both patients and 
+clinicians alike. Similar to apps on mobile phone app stores, innovative 
+third-party applications of MyHR platform data can enhance the usefulness of the 
+platform, but there is a paucity of research into the processes involved in 
+developing third-party applications that integrate and use data from EHR 
+systems.
+OBJECTIVE: The research describes the challenges involved in pioneering the 
+development of a patient and clinician Web-based software application for MyHR 
+and insights resulting from this experience.
+METHODS: This research uses a case study approach, investigating the development 
+and implementation of Actionable Intime Insights (AI2), a third-party 
+application for MyHR, which translates Medicare claims records stored in MyHR 
+into a clinically meaningful timeline visualization of health data for both 
+patients and clinicians. This case study identifies the challenges encountered 
+by the Personal Health Informatics team from Flinders University in the MyHR 
+third-party application development environment.
+RESULTS: The study presents a nuanced understanding of different data types and 
+quality of data in MyHR and the complexities associated with developing 
+secondary-use applications. Regulatory requirements associated with utilization 
+of MyHR data, restrictions on visualizations of data, and processes of testing 
+third-party applications were encountered during the development of the 
+application.
+CONCLUSIONS: This study identified several processes, technical and regulatory 
+barriers which, if addressed, can make MyHR a thriving ecosystem of health 
+applications. It clearly identifies opportunities and considerations for the 
+Australian Digital Health Agency and other national bodies wishing to encourage 
+the development of new and innovative use cases for national EHRs.
+
+©Niranjan Bidargaddi, Yasmin van Kasteren, Peter Musiat, Michael Kidd. 
+Originally published in JMIR Medical Informatics (http://medinform.jmir.org), 
+24.04.2018.
+
+DOI: 10.2196/medinform.7710
+PMCID: PMC5941094
+PMID: 29691211
+
+Conflict of interest statement: Conflicts of Interest: None declared.

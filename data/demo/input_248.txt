@@ -1,0 +1,54 @@
+248. JCO Clin Cancer Inform. 2020 Jan;4:25-34. doi: 10.1200/CCI.19.00060.
+
+Automating Clinical Chart Review: An Open-Source Natural Language Processing 
+Pipeline Developed on Free-Text Radiology Reports From Patients With 
+Glioblastoma.
+
+Senders JT(1)(2), Cho LD(1)(3), Calvachi P(1), McNulty JJ(1)(4), Ashby JL(1), 
+Schulte IS(1), Almekkawi AK(1), Mehrtash A(5), Gormley WB(1), Smith TR(1), 
+Broekman MLD(2)(6), Arnaout O(1).
+
+Author information:
+(1)Computational Neuroscience Outcomes Center, Department of Neurosurgery, 
+Brigham and Women's Hospital, Harvard Medical School, Boston, MA.
+(2)Department of Neurosurgery, Leiden University Medical Center, Leiden, the 
+Netherlands.
+(3)Department of Neuroscience, Brown University, Providence, RI.
+(4)Vagelos College of Physicians and Surgeons, Columbia University, New York, 
+NY.
+(5)Department of Radiology, Brigham and Women's Hospital, Harvard Medical 
+School, Boston, MA.
+(6)Department of Neurosurgery, Haaglanden Medical Center, The Hague, the 
+Netherlands.
+
+PURPOSE: The aim of this study was to develop an open-source natural language 
+processing (NLP) pipeline for text mining of medical information from clinical 
+reports. We also aimed to provide insight into why certain variables or reports 
+are more suitable for clinical text mining than others.
+MATERIALS AND METHODS: Various NLP models were developed to extract 15 
+radiologic characteristics from free-text radiology reports for patients with 
+glioblastoma. Ten-fold cross-validation was used to optimize the hyperparameter 
+settings and estimate model performance. We examined how model performance was 
+associated with quantitative attributes of the radiologic characteristics and 
+reports.
+RESULTS: In total, 562 unique brain magnetic resonance imaging reports were 
+retrieved. NLP extracted 15 radiologic characteristics with high to excellent 
+discrimination (area under the curve, 0.82 to 0.98) and accuracy (78.6% to 
+96.6%). Model performance was correlated with the inter-rater agreement of the 
+manually provided labels (ρ = 0.904; P < .001) but not with the frequency 
+distribution of the variables of interest (ρ = 0.179; P = .52). All variables 
+labeled with a near perfect inter-rater agreement were classified with excellent 
+performance (area under the curve > 0.95). Excellent performance could be 
+achieved for variables with only 50 to 100 observations in the minority group 
+and class imbalances up to a 9:1 ratio. Report-level classification accuracy was 
+not associated with the number of words or the vocabulary size in the distinct 
+text documents.
+CONCLUSION: This study provides an open-source NLP pipeline that allows for text 
+mining of narratively written clinical reports. Small sample sizes and class 
+imbalance should not be considered as absolute contraindications for text mining 
+in clinical research. However, future studies should report measures of 
+inter-rater agreement whenever ground truth is based on a consensus label and 
+use this measure to identify clinical variables eligible for text mining.
+
+DOI: 10.1200/CCI.19.00060
+PMID: 31977252

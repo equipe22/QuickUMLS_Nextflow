@@ -1,0 +1,43 @@
+566. Appl Clin Inform. 2017 Feb 1;8(1):108-121. doi: 10.4338/ACI-2016-08-RA-0139.
+
+Leveraging the Value of Human Relationships to Improve Health Outcomes. Lessons 
+learned from the OpenMRS Electronic Health Record System.
+
+Kasthurirathne SN(1), Mamlin BW, Cullen T.
+
+Author information:
+(1)Suranga N. Kasthurirathne, Indiana University School of Informatics and 
+Computing, Indianapolis, IN, Email: snkasthu@iupui.edu.
+
+OBJECTIVES: Despite significant awareness on the value of leveraging patient 
+relationships across the healthcare continuum, there is no research on the 
+potential of using Electronic Health Record (EHR) systems to store structured 
+patient relationship data, or its impact on enabling better healthcare. We 
+sought to identify which EHR systems supported effective patient relationship 
+data collection, and for systems that do, what types of relationship data is 
+collected, how this data is used, and the perceived value of doing so.
+MATERIALS AND METHODS: We performed a literature search to identify EHR systems 
+that supported patient relationship data collection. Based on our results, we 
+defined attributes of an effective patient relationship model. The Open Medical 
+Record System (OpenMRS), an open source medical record platform for underserved 
+settings met our eligibility criteria for effective patient relationship 
+collection. We performed a survey to understand how the OpenMRS patient 
+relationship model was used, and how it brought value to implementers.
+RESULTS: The OpenMRS patient relationship model has won widespread adoption 
+across many implementations and is perceived to be valuable in enabling better 
+health care delivery. Patient relationship information is widely used for 
+community health programs and enabling chronic care. Additionally, many OpenMRS 
+implementers were using this feature to collect custom relationship types for 
+implementation specific needs.
+CONCLUSIONS: We believe that flexible patient relationship data collection is 
+critical for better healthcare, and can inform community care and chronic care 
+initiatives across the world. Additionally, patient relationship data could also 
+be leveraged for many other initiatives such as patient centric care and in the 
+field of precision medicine.
+
+DOI: 10.4338/ACI-2016-08-RA-0139
+PMCID: PMC5373756
+PMID: 28144679 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest statement Each of the 
+authors play various voluntary (unpaid) roles within the OpenMRS project.

@@ -1,0 +1,35 @@
+356. AMIA Annu Symp Proc. 2012;2012:532-41. Epub 2012 Nov 3.
+
+Modeling and executing electronic health records driven phenotyping algorithms 
+using the NQF Quality Data Model and JBoss® Drools Engine.
+
+Li D(1), Endle CM, Murthy S, Stancl C, Suesse D, Sottara D, Huff SM, Chute CG, 
+Pathak J.
+
+Author information:
+(1)Mayo Clinic, Rochester, MN, USA.
+
+With increasing adoption of electronic health records (EHRs), the need for 
+formal representations for EHR-driven phenotyping algorithms has been recognized 
+for some time. The recently proposed Quality Data Model from the National 
+Quality Forum (NQF) provides an information model and a grammar that is intended 
+to represent data collected during routine clinical care in EHRs as well as the 
+basic logic required to represent the algorithmic criteria for phenotype 
+definitions. The QDM is further aligned with Meaningful Use standards to ensure 
+that the clinical data and algorithmic criteria are represented in a consistent, 
+unambiguous and reproducible manner. However, phenotype definitions represented 
+in QDM, while structured, cannot be executed readily on existing EHRs. Rather, 
+human interpretation, and subsequent implementation is a required step for this 
+process. To address this need, the current study investigates open-source JBoss® 
+Drools rules engine for automatic translation of QDM criteria into rules for 
+execution over EHR data. In particular, using Apache Foundation's Unstructured 
+Information Management Architecture (UIMA) platform, we developed a translator 
+tool for converting QDM defined phenotyping algorithm criteria into executable 
+Drools rules scripts, and demonstrated their execution on real patient data from 
+Mayo Clinic to identify cases for Coronary Artery Disease and Diabetes. To the 
+best of our knowledge, this is the first study illustrating a framework and an 
+approach for executing phenotyping criteria modeled in QDM using the Drools 
+business rules management system.
+
+PMCID: PMC3540464
+PMID: 23304325 [Indexed for MEDLINE]

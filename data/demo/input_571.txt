@@ -1,0 +1,63 @@
+571. Drug Alcohol Depend. 2020 Sep 1;214:108136. doi: 
+10.1016/j.drugalcdep.2020.108136. Epub 2020 Jun 27.
+
+The association between regular cocaine use, with and without tobacco co-use, 
+and adverse cardiovascular and respiratory outcomes.
+
+Winhusen T(1), Theobald J(2), Kaelber DC(3), Lewis D(2).
+
+Author information:
+(1)Department of Psychiatry and Behavioral Neuroscience, University of 
+Cincinnati College of Medicine, 3131 Harvey Avenue, Cincinnati, OH 45229, USA; 
+Center for Addiction Research, University of Cincinnati College of Medicine, 
+3131 Harvey Avenue, Cincinnati, OH 45229, USA. Electronic address: 
+winhust@uc.edu.
+(2)Department of Psychiatry and Behavioral Neuroscience, University of 
+Cincinnati College of Medicine, 3131 Harvey Avenue, Cincinnati, OH 45229, USA; 
+Center for Addiction Research, University of Cincinnati College of Medicine, 
+3131 Harvey Avenue, Cincinnati, OH 45229, USA.
+(3)Department of Information Services, The MetroHealth System, Cleveland, Ohio, 
+USA; Departments of Internal Medicine, Pediatrics, and Population and 
+Quantitative Health Sciences, Case Western Reserve University, Cleveland, Ohio, 
+USA; The Center for Clinical Informatics Research and Education, The MetroHealth 
+System, Cleveland, Ohio, USA.
+
+BACKGROUND: Understanding the potential impact of cocaine use on health is 
+increasingly important as cocaine use rises in the U.S.
+OBJECTIVES: This study evaluated the associations of regular cocaine use, with 
+and without tobacco co-use, with cardiovascular and respiratory outcomes.
+METHODS: Analysis of a limited dataset obtained through IBM Watson Health 
+Explorys, a platform integrating electronic health record data. Matched controls 
+were defined for: 1) cocaine-using patients (n = 8244; 44 % female); and 
+subgroups of cocaine-using patients: 2) with an encounter diagnosis for tobacco 
+use disorder (TUD; n = 4706); and 3) without a TUD diagnosis (non-TUD; n = 
+3538). Patients had at least one documented medical evaluation in the 
+MetroHealth System (Cleveland, Ohio). Cocaine-using patients had an encounter 
+diagnosis of cocaine abuse/dependence and/or ≥2 cocaine-positive drug screens. 
+Control patients, with no documented cocaine-use, were matched to the 
+cocaine-using patients on demographics, residential zip code median income, body 
+mass index, and, for the total sample, TUD-status. Outcomes were encounter 
+diagnosis (yes/no) of cerebrovascular accident, heart arrhythmia, myocardial 
+infarction, subarachnoid hemorrhage, asthma, chronic obstructive pulmonary 
+disease (COPD), pneumonia, and all-cause mortality.
+RESULTS: TUD-patients had the greatest prevalence of cardiovascular and 
+respiratory disease, regardless of cocaine-use indication. In the total sample, 
+TUD, and non-TUD subgroups, regular cocaine use was significantly associated 
+with greater risk for cerebrovascular accident, arrhythmia, myocardial 
+infarction, asthma, COPD, pneumonia and mortality.
+CONCLUSIONS: Cocaine use is associated with significantly greater risk of 
+adverse cardiovascular and respiratory diagnoses and all-cause mortality.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.drugalcdep.2020.108136
+PMCID: PMC7423623
+PMID: 32623147
+
+Conflict of interest statement: Declarations of Competing Interest TW, JT, and 
+DL declare no conflicts of interest. DCK is the Chief Medical Informatics 
+Officer of the MetroHealth System. In exchange for contributing de-identified 
+data to the Explorys network, the MetroHealth System receives access to the 
+Explorys Cohort Discovery tool, which was used to conduct this study. Neither 
+DCK nor the MetroHealth System have any direct financial ties to Explorys (IBM 
+Watson Health).

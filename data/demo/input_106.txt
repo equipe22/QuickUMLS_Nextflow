@@ -1,0 +1,47 @@
+106. J Biomed Inform. 2018 Aug;84:93-102. doi: 10.1016/j.jbi.2018.06.006. Epub 2018 
+Jun 12.
+
+Medical concept normalization in social media posts with recurrent neural 
+networks.
+
+Tutubalina E(1), Miftahutdinov Z(2), Nikolenko S(3), Malykh V(4).
+
+Author information:
+(1)Kazan Federal University, 18 Kremlyovskaya street, Kazan 420008, Russian 
+Federation; Insilico Medicine, Baltimore, MD 21218, United States. Electronic 
+address: ElVTutubalina@kpfu.ru.
+(2)Kazan Federal University, 18 Kremlyovskaya street, Kazan 420008, Russian 
+Federation. Electronic address: zulfatmi@gmail.com.
+(3)Kazan Federal University, 18 Kremlyovskaya street, Kazan 420008, Russian 
+Federation; St. Petersburg Department of the Steklov Mathematical Institute, 27 
+Fontanka, St. Petersburg 191023, Russian Federation; Neuromation OU, Tallinn 
+10111, Estonia. Electronic address: sergey@logic.pdmi.ras.ru.
+(4)Neural Systems and Deep Learning Laboratory, Moscow Institute of Physics and 
+Technology, 9 bld. 7 Instituski per., Dolgoprudny 141700, Russian Federation; 
+St. Petersburg Department of the Steklov Mathematical Institute, 27 Fontanka, 
+St. Petersburg 191023, Russian Federation. Electronic address: 
+valentin.malykh@phystech.edu.
+
+Text mining of scientific libraries and social media has already proven itself 
+as a reliable tool for drug repurposing and hypothesis generation. The task of 
+mapping a disease mention to a concept in a controlled vocabulary, typically to 
+the standard thesaurus in the Unified Medical Language System (UMLS), is known 
+as medical concept normalization. This task is challenging due to the 
+differences in the use of medical terminology between health care professionals 
+and social media texts coming from the lay public. To bridge this gap, we use 
+sequence learning with recurrent neural networks and semantic representation of 
+one- or multi-word expressions: we develop end-to-end architectures directly 
+tailored to the task, including bidirectional Long Short-Term Memory, Gated 
+Recurrent Units with an attention mechanism, and additional semantic similarity 
+features based on UMLS. Our evaluation against a standard benchmark shows that 
+recurrent neural networks improve results over an effective baseline for 
+classification based on convolutional neural networks. A qualitative examination 
+of mentions discovered in a dataset of user reviews collected from popular 
+online health information platforms as well as a quantitative evaluation both 
+show improvements in the semantic representation of health-related expressions 
+in social media.
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jbi.2018.06.006
+PMID: 29906585 [Indexed for MEDLINE]

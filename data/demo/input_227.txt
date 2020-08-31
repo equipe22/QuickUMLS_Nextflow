@@ -1,0 +1,40 @@
+227. J Biomed Inform. 2013 Dec;46 Suppl:S54-62. doi: 10.1016/j.jbi.2013.09.007. Epub 
+2013 Sep 20.
+
+TEMPTING system: a hybrid method of rule and machine learning for temporal 
+relation extraction in patient discharge summaries.
+
+Chang YC(1), Dai HJ, Wu JC, Chen JM, Tsai RT, Hsu WL.
+
+Author information:
+(1)Institute of Information Science, Academia Sinica, Nankang, Taipei, Taiwan, 
+ROC; Department of Information Management, National Taiwan University, Taipei, 
+Taiwan, ROC.
+
+Patient discharge summaries provide detailed medical information about 
+individuals who have been hospitalized. To make a precise and legitimate 
+assessment of the abundant data, a proper time layout of the sequence of 
+relevant events should be compiled and used to drive a patient-specific 
+timeline, which could further assist medical personnel in making clinical 
+decisions. The process of identifying the chronological order of entities is 
+called temporal relation extraction. In this paper, we propose a hybrid method 
+to identify appropriate temporal links between a pair of entities. The method 
+combines two approaches: one is rule-based and the other is based on the maximum 
+entropy model. We develop an integration algorithm to fuse the results of the 
+two approaches. All rules and the integration algorithm are formally stated so 
+that one can easily reproduce the system and results. To optimize the system's 
+configuration, we used the 2012 i2b2 challenge TLINK track dataset and applied 
+threefold cross validation to the training set. Then, we evaluated its 
+performance on the training and test datasets. The experiment results show that 
+the proposed TEMPTING (TEMPoral relaTion extractING) system (ranked seventh) 
+achieved an F-score of 0.563, which was at least 30% better than that of the 
+baseline system, which randomly selects TLINK candidates from all pairs and 
+assigns the TLINK types. The TEMPTING system using the hybrid method also 
+outperformed the stage-based TEMPTING system. Its F-scores were 3.51% and 0.97% 
+better than those of the stage-based system on the training set and test set, 
+respectively.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jbi.2013.09.007
+PMID: 24060600 [Indexed for MEDLINE]

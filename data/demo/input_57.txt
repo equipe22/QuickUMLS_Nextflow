@@ -1,0 +1,55 @@
+57. J Biomed Inform. 2019 Feb;90:103103. doi: 10.1016/j.jbi.2019.103103. Epub 2019 
+Jan 9.
+
+Mining fall-related information in clinical notes: Comparison of rule-based and 
+novel word embedding-based machine learning approaches.
+
+Topaz M(1), Murga L(2), Gaddis KM(3), McDonald MV(4), Bar-Bachar O(2), Goldberg 
+Y(5), Bowles KH(6).
+
+Author information:
+(1)School of Nursing & Data Science Institute, Columbia University, New York, 
+NY, USA; The Visiting Nurse Service of New York, New York, NY, USA. Electronic 
+address: mt3315@cumc.columbia.edu.
+(2)Cheryl Spencer Department of Nursing, University of Haifa, Haifa, Israel.
+(3)School of Nursing, University of Pennsylvania, Philadelphia, PA, USA.
+(4)The Visiting Nurse Service of New York, New York, NY, USA.
+(5)Department of Computer Science, Bar Ilan University, Tel Aviv, Israel.
+(6)The Visiting Nurse Service of New York, New York, NY, USA; School of Nursing, 
+University of Pennsylvania, Philadelphia, PA, USA.
+
+BACKGROUND: Natural language processing (NLP) of health-related data is still an 
+expertise demanding, and resource expensive process. We created a novel, open 
+source rapid clinical text mining system called NimbleMiner. NimbleMiner 
+combines several machine learning techniques (word embedding models and positive 
+only labels learning) to facilitate the process in which a human rapidly 
+performs text mining of clinical narratives, while being aided by the machine 
+learning components.
+OBJECTIVE: This manuscript describes the general system architecture and user 
+Interface and presents results of a case study aimed at classifying fall-related 
+information (including fall history, fall prevention interventions, and fall 
+risk) in homecare visit notes.
+METHODS: We extracted a corpus of homecare visit notes (n = 1,149,586) for 
+89,459 patients from a large US-based homecare agency. We used a gold standard 
+testing dataset of 750 notes annotated by two human reviewers to compare the 
+NimbleMiner's ability to classify documents regarding whether they contain 
+fall-related information with a previously developed rule-based NLP system.
+RESULTS: NimbleMiner outperformed the rule-based system in almost all domains. 
+The overall F- score was 85.8% compared to 81% by the rule based-system with the 
+best performance for identifying general fall history (F = 89% vs. F = 85.1% 
+rule-based), followed by fall risk (F = 87% vs. F = 78.7% rule-based), fall 
+prevention interventions (F = 88.1% vs. F = 78.2% rule-based) and fall within 
+2 days of the note date (F = 83.1% vs. F = 80.6% rule-based). The rule-based 
+system achieved slightly better performance for fall within 2 weeks of the note 
+date (F = 81.9% vs. F = 84% rule-based).
+DISCUSSION & CONCLUSIONS: NimbleMiner outperformed other systems aimed at fall 
+information classification, including our previously developed rule-based 
+approach. These promising results indicate that clinical text mining can be 
+implemented without the need for large labeled datasets necessary for other 
+types of machine learning. This is critical for domains with little NLP 
+developments, like nursing or allied health professions.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jbi.2019.103103
+PMID: 30639392 [Indexed for MEDLINE]

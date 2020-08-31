@@ -1,0 +1,27 @@
+425. Stud Health Technol Inform. 2013;192:1207.
+
+PHIO: a knowledge base for interpretation and calculation of public health 
+indicators.
+
+Shaban-Nejad A(1), Okhmatovskaia A, Izadi MT, Naderi N, Mondor L, Jauvin C, 
+Buckeridge DL.
+
+Author information:
+(1)McGill Clinical & Health Informatics, Department of Epidemiology and 
+Biostatistics, McGill University, Montreal, Quebec, H3A 1A3 Canada.
+
+Existing population health indicators tend to be out-of-date, not fully 
+available at local levels of geography, and not developed in a 
+coherent/consistent manner, which hinders their use in public health. The PopHR 
+platform aims to deliver an electronic repository that contains multiple 
+aggregated clinical, administrative, and environmental data sources to provide a 
+coherent view of the health status of populations in the province of Quebec, 
+Canada. This platform is designed to provide representative information in 
+near-real time with high geographical resolution, thereby assisting public 
+health professionals, analysts, clinicians and the public in decision-making. 
+This paper presents our ongoing efforts to develop an integrated population 
+health indicator ontology (PHIO) that captures the knowledge required for 
+calculation and interpretation of health indicators within a PopHR semantic 
+framework.
+
+PMID: 23920981 [Indexed for MEDLINE]

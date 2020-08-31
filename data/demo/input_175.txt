@@ -1,0 +1,43 @@
+175. J Cheminform. 2018 May 23;10(1):28. doi: 10.1186/s13321-018-0280-0.
+
+Putting hands to rest: efficient deep CNN-RNN architecture for chemical named 
+entity recognition with no hand-crafted rules.
+
+Korvigo I(1)(2)(3), Holmatov M(4)(5), Zaikovskii A(6), Skoblov M(7)(8)(9).
+
+Author information:
+(1)Laboratory of Functional Analysis of the Genome, Moscow Institute of Physics 
+and Technology, Moscow, Russia. ilia.korvigo@gmail.com.
+(2)All-Russia Institute for Agricultural Microbiology, St. Petersburg, Russia. 
+ilia.korvigo@gmail.com.
+(3)ITMO University, St. Petersburg, Russia. ilia.korvigo@gmail.com.
+(4)St. Petersburg State Pediatric Medical University, St. Petersburg, Russia.
+(5)N.N. Petrov Institute of Oncology, Department of Tumor Biology, St. 
+Petersburg, Russia.
+(6)St. Petersburg State University, St. Petersburg, Russia.
+(7)Laboratory of Functional Analysis of the Genome, Moscow Institute of Physics 
+and Technology, Moscow, Russia.
+(8)School of Biomedicine, Far Eastern Federal University, Vladivostok, Russia.
+(9)Laboratory of Functional Genomics, Research Centre for Medical Genetics, 
+Moscow, Russia.
+
+Chemical named entity recognition (NER) is an active field of research in 
+biomedical natural language processing. To facilitate the development of new and 
+superior chemical NER systems, BioCreative released the CHEMDNER corpus, an 
+extensive dataset of diverse manually annotated chemical entities. Most of the 
+systems trained on the corpus rely on complicated hand-crafted rules or curated 
+databases for data preprocessing, feature extraction and output post-processing, 
+though modern machine learning algorithms, such as deep neural networks, can 
+automatically design the rules with little to none human intervention. Here we 
+explored this approach by experimenting with various deep learning architectures 
+for targeted tokenisation and named entity recognition. Our final model, based 
+on a combination of convolutional and stateful recurrent neural networks with 
+attention-like loops and hybrid word- and character-level embeddings, reaches 
+near human-level performance on the testing dataset with no manually asserted 
+rules. To make our model easily accessible for standalone use and integration in 
+third-party software, we've developed a Python package with a minimalistic user 
+interface.
+
+DOI: 10.1186/s13321-018-0280-0
+PMCID: PMC5966369
+PMID: 29796778

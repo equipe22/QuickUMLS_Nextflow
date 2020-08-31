@@ -1,0 +1,28 @@
+501. AMIA Annu Symp Proc. 2017 Feb 10;2016:1139-1148. eCollection 2016.
+
+Knowledge as a Service at the Point of Care.
+
+Shellum JL(1), Freimuth RR(1), Peters SG(1), Nishimura RA(1), Chaudhry R(1), 
+Demuth SJ(1), Knopp AL(1), Miksch TA(1), Milliner DS(1).
+
+Author information:
+(1)Office of Information and Knowledge Management, Mayo Clinic, Rochester, MN.
+
+An electronic health record (EHR) can assist the delivery of high-quality 
+patient care, in part by providing the capability for a broad range of clinical 
+decision support, including contextual references (e.g., Infobuttons), alerts 
+and reminders, order sets, and dashboards. All of these decision support tools 
+are based on clinical knowledge; unfortunately, the mechanisms for managing 
+rules, order sets, Infobuttons, and dashboards are often unrelated, making it 
+difficult to coordinate the application of clinical knowledge to various 
+components of the clinical workflow. Additional complexity is encountered when 
+updating enterprise-wide knowledge bases and delivering the content through 
+multiple modalities to different consumers. We present the experience of Mayo 
+Clinic as a case study to examine the requirements and implementation challenges 
+related to knowledge management across a large, multi-site medical center. The 
+lessons learned through the development of our knowledge management and delivery 
+platform will help inform the future development of interoperable knowledge 
+resources.
+
+PMCID: PMC5333226
+PMID: 28269911 [Indexed for MEDLINE]

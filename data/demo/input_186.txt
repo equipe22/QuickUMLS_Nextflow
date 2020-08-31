@@ -1,0 +1,38 @@
+186. Appl Clin Inform. 2013 Feb 27;4(1):88-99. doi: 10.4338/ACI-2012-11-RA-0049. 
+Print 2013.
+
+The contribution of the vaccine adverse event text mining system to the 
+classification of possible Guillain-Barré syndrome reports.
+
+Botsis T, Woo EJ, Ball R.
+
+BACKGROUND: We previously demonstrated that a general purpose text mining 
+system, the Vaccine adverse event Text Mining (VaeTM) system, could be used to 
+automatically classify reports of an-aphylaxis for post-marketing safety 
+surveillance of vaccines.
+OBJECTIVE: To evaluate the ability of VaeTM to classify reports to the Vaccine 
+Adverse Event Reporting System (VAERS) of possible Guillain-Barré Syndrome 
+(GBS).
+METHODS: We used VaeTM to extract the key diagnostic features from the text of 
+reports in VAERS. Then, we applied the Brighton Collaboration (BC) case 
+definition for GBS, and an information retrieval strategy (i.e. the vector space 
+model) to quantify the specific information that is included in the key features 
+extracted by VaeTM and compared it with the encoded information that is already 
+stored in VAERS as Medical Dictionary for Regulatory Activities (MedDRA) 
+Preferred Terms (PTs). We also evaluated the contribution of the primary 
+(diagnosis and cause of death) and secondary (second level diagnosis and 
+symptoms) diagnostic VaeTM-based features to the total VaeTM-based information.
+RESULTS: MedDRA captured more information and better supported the 
+classification of reports for GBS than VaeTM (AUC: 0.904 vs. 0.777); the lower 
+performance of VaeTM is likely due to the lack of extraction by VaeTM of 
+specific laboratory results that are included in the BC criteria for GBS. On the 
+other hand, the VaeTM-based classification exhibited greater specificity than 
+the MedDRA-based approach (94.96% vs. 87.65%). Most of the VaeTM-based 
+information was contained in the secondary diagnostic features.
+CONCLUSION: For GBS, clinical signs and symptoms alone are not sufficient to 
+match MedDRA coding for purposes of case classification, but are preferred if 
+specificity is the priority.
+
+DOI: 10.4338/ACI-2012-11-RA-0049
+PMCID: PMC3644817
+PMID: 23650490 [Indexed for MEDLINE]

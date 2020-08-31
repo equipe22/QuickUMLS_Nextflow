@@ -1,0 +1,40 @@
+309. J Am Med Inform Assoc. 2013 Sep-Oct;20(5):820-7. doi: 
+10.1136/amiajnl-2013-001627. Epub 2013 Apr 9.
+
+Eventual situations for timeline extraction from clinical reports.
+
+Grouin C(1), Grabar N, Hamon T, Rosset S, Tannier X, Zweigenbaum P.
+
+Author information:
+(1)LIMSI-CNRS, Orsay, France.
+
+OBJECTIVE: To identify the temporal relations between clinical events and 
+temporal expressions in clinical reports, as defined in the i2b2/VA 2012 
+challenge.
+DESIGN: To detect clinical events, we used rules and Conditional Random Fields. 
+We built Random Forest models to identify event modality and polarity. To 
+identify temporal expressions we built on the HeidelTime system. To detect 
+temporal relations, we systematically studied their breakdown into distinct 
+situations; we designed an oracle method to determine the most prominent 
+situations and the most suitable associated classifiers, and combined their 
+results.
+RESULTS: We achieved F-measures of 0.8307 for event identification, based on 
+rules, and 0.8385 for temporal expression identification. In the temporal 
+relation task, we identified nine main situations in three groups, 
+experimentally confirming shared intuitions: within-sentence relations, 
+section-related time, and across-sentence relations. Logistic regression and 
+Naïve Bayes performed best on the first and third groups, and decision trees on 
+the second. We reached a 0.6231 global F-measure, improving by 7.5 points our 
+official submission.
+CONCLUSIONS: Carefully hand-crafted rules obtained good results for the 
+detection of events and temporal expressions, while a combination of classifiers 
+improved temporal link prediction. The characterization of the oracle recall of 
+situations allowed us to point at directions where further work would be most 
+useful for temporal relation detection: within-sentence relations and linking 
+History of Present Illness events to the admission date. We suggest that the 
+systematic situation breakdown proposed in this paper could also help improve 
+other systems addressing this task.
+
+DOI: 10.1136/amiajnl-2013-001627
+PMCID: PMC3756272
+PMID: 23571851 [Indexed for MEDLINE]

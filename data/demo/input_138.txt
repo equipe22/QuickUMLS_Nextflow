@@ -1,0 +1,46 @@
+138. BMC Complement Altern Med. 2008 Oct 14;8:58. doi: 10.1186/1472-6882-8-58.
+
+TCMGeneDIT: a database for associated traditional Chinese medicine, gene and 
+disease information using text mining.
+
+Fang YC(1), Huang HC, Chen HH, Juan HF.
+
+Author information:
+(1)Institute of Molecular and Cellular Biology, National Taiwan University, 
+Taipei, Taiwan. yukijuan@ntu.edu.tw
+
+BACKGROUND: Traditional Chinese Medicine (TCM), a complementary and alternative 
+medical system in Western countries, has been used to treat various diseases 
+over thousands of years in East Asian countries. In recent years, many herbal 
+medicines were found to exhibit a variety of effects through regulating a wide 
+range of gene expressions or protein activities. As available TCM data continue 
+to accumulate rapidly, an urgent need for exploring these resources 
+systematically is imperative, so as to effectively utilize the large volume of 
+literature.
+METHODS: TCM, gene, disease, biological pathway and protein-protein interaction 
+information were collected from public databases. For association discovery, the 
+TCM names, gene names, disease names, TCM ingredients and effects were used to 
+annotate the literature corpus obtained from PubMed. The concept to mine entity 
+associations was based on hypothesis testing and collocation analysis. The 
+annotated corpus was processed with natural language processing tools and 
+rule-based approaches were applied to the sentences for extracting the relations 
+between TCM effectors and effects.
+RESULTS: We developed a database, TCMGeneDIT, to provide association information 
+about TCMs, genes, diseases, TCM effects and TCM ingredients mined from vast 
+amount of biomedical literature. Integrated protein-protein interaction and 
+biological pathways information are also available for exploring the regulations 
+of genes associated with TCM curative effects. In addition, the transitive 
+relationships among genes, TCMs and diseases could be inferred through the 
+shared intermediates. Furthermore, TCMGeneDIT is useful in understanding the 
+possible therapeutic mechanisms of TCMs via gene regulations and deducing 
+synergistic or antagonistic contributions of the prescription components to the 
+overall therapeutic effects. The database is now available at 
+http://tcm.lifescience.ntu.edu.tw/.
+CONCLUSION: TCMGeneDIT is a unique database that offers diverse association 
+information on TCMs. This database integrates TCMs with biomedical studies that 
+would facilitate clinical research and elucidate the possible therapeutic 
+mechanisms of TCMs and gene regulations.
+
+DOI: 10.1186/1472-6882-8-58
+PMCID: PMC2584015
+PMID: 18854039 [Indexed for MEDLINE]

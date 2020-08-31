@@ -1,0 +1,32 @@
+368. Adv Exp Med Biol. 2010;680:57-64. doi: 10.1007/978-1-4419-5913-3_7.
+
+ChemBrowser: a flexible framework for mining chemical documents.
+
+Wu X(1), Zhang L, Chen Y, Rhodes J, Griffin TD, Boyer SK, Alba A, Cai K.
+
+Author information:
+(1)IBM China Research Lab, Beijing 100193, China. wuxian@cn.ibm.com
+
+The ability to extract chemical and biological entities and relations from text 
+documents automatically has great value to biochemical research and development 
+activities. The growing maturity of text mining and artificial intelligence 
+technologies shows promise in enabling such automatic chemical entity extraction 
+capabilities (called "Chemical Annotation" in this paper). Many techniques have 
+been reported in the literature, ranging from dictionary and rule-based 
+techniques to machine learning approaches. In practice, we found that no single 
+technique works well in all cases. A combinatorial approach that allows one to 
+quickly compose different annotation techniques together for a given situation 
+is most effective. In this paper, we describe the key challenges we face in 
+real-world chemical annotation scenarios. We then present a solution called 
+ChemBrowser which has a flexible framework for chemical annotation. ChemBrowser 
+includes a suite of customizable processing units that might be utilized in a 
+chemical annotator, a high-level language that describes the composition of 
+various processing units that would form a chemical annotator, and an execution 
+engine that translates the composition language to an actual annotator that can 
+generate annotation results for a given set of documents. We demonstrate the 
+impact of this approach by tailoring an annotator for extracting chemical names 
+from patent documents and show how this annotator can be easily modified with 
+simple configuration alone.
+
+DOI: 10.1007/978-1-4419-5913-3_7
+PMID: 20865486 [Indexed for MEDLINE]

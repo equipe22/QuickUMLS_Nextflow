@@ -1,0 +1,36 @@
+448. J Am Med Inform Assoc. 2010 Nov-Dec;17(6):696-701. doi: 
+10.1136/jamia.2010.003228.
+
+Biomedical negation scope detection with conditional random fields.
+
+Agarwal S(1), Yu H.
+
+Author information:
+(1)Medical Informatics, University of Wisconsin-Milwaukee, Milwaukee, Wisconsin, 
+USA.
+
+OBJECTIVE: Negation is a linguistic phenomenon that marks the absence of an 
+entity or event. Negated events are frequently reported in both biological 
+literature and clinical notes. Text mining applications benefit from the 
+detection of negation and its scope. However, due to the complexity of language, 
+identifying the scope of negation in a sentence is not a trivial task.
+DESIGN: Conditional random fields (CRF), a supervised machine-learning 
+algorithm, were used to train models to detect negation cue phrases and their 
+scope in both biological literature and clinical notes. The models were trained 
+on the publicly available BioScope corpus.
+MEASUREMENT: The performance of the CRF models was evaluated on identifying the 
+negation cue phrases and their scope by calculating recall, precision and 
+F1-score. The models were compared with four competitive baseline systems.
+RESULTS: The best CRF-based model performed statistically better than all 
+baseline systems and NegEx, achieving an F1-score of 98% and 95% on detecting 
+negation cue phrases and their scope in clinical notes, and an F1-score of 97% 
+and 85% on detecting negation cue phrases and their scope in biological 
+literature.
+CONCLUSIONS: This approach is robust, as it can identify negation scope in both 
+biological and clinical text. To benefit text mining applications, the system is 
+publicly available as a Java API and as an online application at 
+http://negscope.askhermes.org.
+
+DOI: 10.1136/jamia.2010.003228
+PMCID: PMC3000754
+PMID: 20962133 [Indexed for MEDLINE]

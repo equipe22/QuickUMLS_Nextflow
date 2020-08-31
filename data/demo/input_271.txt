@@ -1,0 +1,58 @@
+271. BMC Bioinformatics. 2015 Jun 6;16:185. doi: 10.1186/s12859-015-0609-x.
+
+Text mining facilitates database curation - extraction of mutation-disease 
+associations from Bio-medical literature.
+
+Ravikumar KE(1), Wagholikar KB(2), Li D(3), Kocher JP(4), Liu H(5).
+
+Author information:
+(1)Department of Health Sciences Research, Mayo Clinic College of Medicine, 200 
+First St SW, Harvick 3rd, Rochester, MN, 55905, USA. 
+KomandurElayavilli.Ravikumar@mayo.edu.
+(2)Department of Health Sciences Research, Mayo Clinic College of Medicine, 200 
+First St SW, Harvick 3rd, Rochester, MN, 55905, USA. 
+Wagholikar.Kavishwar@mayo.edu.
+(3)Department of Health Sciences Research, Mayo Clinic College of Medicine, 200 
+First St SW, Harvick 3rd, Rochester, MN, 55905, USA. Li.DingCheng@mayo.edu.
+(4)Department of Health Sciences Research, Mayo Clinic College of Medicine, 200 
+First St SW, Harvick 3rd, Rochester, MN, 55905, USA. Kocher.Jeanpierre@mayo.edu.
+(5)Department of Health Sciences Research, Mayo Clinic College of Medicine, 200 
+First St SW, Harvick 3rd, Rochester, MN, 55905, USA. Liu.Hongfang@mayo.edu.
+
+Erratum in
+    BMC Bioinformatics. 2016;17(1):162.
+
+BACKGROUND: Advances in the next generation sequencing technology has 
+accelerated the pace of individualized medicine (IM), which aims to incorporate 
+genetic/genomic information into medicine. One immediate need in interpreting 
+sequencing data is the assembly of information about genetic variants and their 
+corresponding associations with other entities (e.g., diseases or medications). 
+Even with dedicated effort to capture such information in biological databases, 
+much of this information remains 'locked' in the unstructured text of biomedical 
+publications. There is a substantial lag between the publication and the 
+subsequent abstraction of such information into databases. Multiple text mining 
+systems have been developed, but most of them focus on the sentence level 
+association extraction with performance evaluation based on gold standard text 
+annotations specifically prepared for text mining systems.
+RESULTS: We developed and evaluated a text mining system, MutD, which extracts 
+protein mutation-disease associations from MEDLINE abstracts by incorporating 
+discourse level analysis, using a benchmark data set extracted from curated 
+database records. MutD achieves an F-measure of 64.3% for reconstructing protein 
+mutation disease associations in curated database records. Discourse level 
+analysis component of MutD contributed to a gain of more than 10% in F-measure 
+when compared against the sentence level association extraction. Our error 
+analysis indicates that 23 of the 64 precision errors are true associations that 
+were not captured by database curators and 68 of the 113 recall errors are 
+caused by the absence of associated disease entities in the abstract. After 
+adjusting for the defects in the curated database, the revised F-measure of MutD 
+in association detection reaches 81.5%.
+CONCLUSIONS: Our quantitative analysis reveals that MutD can effectively extract 
+protein mutation disease associations when benchmarking based on curated 
+database records. The analysis also demonstrates that incorporating discourse 
+level analysis significantly improved the performance of extracting the 
+protein-mutation-disease association. Future work includes the extension of MutD 
+for full text articles.
+
+DOI: 10.1186/s12859-015-0609-x
+PMCID: PMC4457984
+PMID: 26047637 [Indexed for MEDLINE]

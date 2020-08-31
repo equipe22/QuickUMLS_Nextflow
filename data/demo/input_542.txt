@@ -1,0 +1,25 @@
+542. AMIA Jt Summits Transl Sci Proc. 2015 Mar 25;2015:147-51. eCollection 2015.
+
+A Modular Architecture for Electronic Health Record-Driven Phenotyping.
+
+Rasmussen LV(1), Kiefer RC(2), Mo H(3), Speltz P(3), Thompson WK(4), Jiang G(2), 
+Pacheco JA(1), Xu J(1), Zhu Q(5), Denny JC(3), Montague E(1), Pathak J(2).
+
+Author information:
+(1)Northwestern University, Chicago, IL.
+(2)Mayo Clinic, Rochester, MN.
+(3)Vanderbilt University, Nashville, TN.
+(4)NorthShore University HealthSystem, Evanston, IL.
+(5)University of Maryland Baltimore County, Baltimore, MD.
+
+Increasing interest in and experience with electronic health record (EHR)-driven 
+phenotyping has yielded multiple challenges that are at present only partially 
+addressed. Many solutions require the adoption of a single software platform, 
+often with an additional cost of mapping existing patient and phenotypic data to 
+multiple representations. We propose a set of guiding design principles and a 
+modular software architecture to bridge the gap to a standardized phenotype 
+representation, dissemination and execution. Ongoing development leveraging this 
+proposed architecture has shown its ability to address existing limitations.
+
+PMCID: PMC4525215
+PMID: 26306258

@@ -1,0 +1,50 @@
+390. BMC Med Inform Decis Mak. 2016 Jul 18;16 Suppl 1(Suppl 1):68. doi: 
+10.1186/s12911-016-0294-3.
+
+Establishing a baseline for literature mining human genetic variants and their 
+relationships to disease cohorts.
+
+Verspoor KM(1), Heo GE(2), Kang KY(2), Song M(3).
+
+Author information:
+(1)Department of Computing and Information Systems, The University of Melbourne, 
+Melbourne, Australia.
+(2)Department of Library and Information Science, Yonsei University, Seoul, 
+Korea.
+(3)Department of Library and Information Science, Yonsei University, Seoul, 
+Korea. min.song@yonsei.ac.uk.
+
+BACKGROUND: The Variome corpus, a small collection of published articles about 
+inherited colorectal cancer, includes annotations of 11 entity types and 13 
+relation types related to the curation of the relationship between genetic 
+variation and disease. Due to the richness of these annotations, the corpus 
+provides a good testbed for evaluation of biomedical literature information 
+extraction systems.
+METHODS: In this paper, we focus on assessing performance on extracting the 
+relations in the corpus, using gold standard entities as a starting point, to 
+establish a baseline for extraction of relations important for extraction of 
+genetic variant information from the literature. We test the application of the 
+Public Knowledge Discovery Engine for Java (PKDE4J) system, a natural language 
+processing system designed for information extraction of entities and relations 
+in text, on the relation extraction task using this corpus.
+RESULTS: For the relations which are attested at least 100 times in the Variome 
+corpus, we realise a performance ranging from 0.78-0.84 Precision-weighted 
+F-score, depending on the relation. We find that the PKDE4J system adapted 
+straightforwardly to the range of relation types represented in the corpus; some 
+extensions to the original methodology were required to adapt to the 
+multi-relational classification context. The results are competitive with 
+state-of-the-art relation extraction performance on more heavily studied 
+corpora, although the analysis shows that the Recall of a co-occurrence baseline 
+outweighs the benefit of improved Precision for many relations, indicating the 
+value of simple semantic constraints on relations.
+CONCLUSIONS: This work represents the first attempt to apply relation extraction 
+methods to the Variome corpus. The results demonstrate that automated methods 
+have good potential to structure the information expressed in the published 
+literature related to genetic variants, connecting mutations to genes, diseases, 
+and patient cohorts. Further development of such approaches will facilitate more 
+efficient biocuration of genetic variant information into structured databases, 
+leveraging the knowledge embedded in the vast publication literature.
+
+DOI: 10.1186/s12911-016-0294-3
+PMCID: PMC4959367
+PMID: 27454860 [Indexed for MEDLINE]

@@ -1,0 +1,46 @@
+30. J Digit Imaging. 2018 Jun;31(3):361-370. doi: 10.1007/s10278-018-0088-5.
+
+A Platform for Innovation and Standards Evaluation: a Case Study from the 
+OpenMRS Open-Source Radiology Information System.
+
+Gichoya JW(1), Kohli M(2), Ivange L(3), Schmidt TS(4), Purkayastha S(5).
+
+Author information:
+(1)Department of Radiology, Indiana University School of Medicine, 550 N. 
+University Blvd. Room 0641, Indianapolis, IN, 46202-2879, USA. jgichoya@iu.edu.
+(2)Department of Radiology and Biomedical Imaging, University of California San 
+Francisco, 500 Parnassus Ave, M-391, San Francisco, CA, 94134, USA.
+(3)University of Buea, Buea, Cameroon.
+(4)Department of Biomedical Engineering, Marquette University, 1515 W Wisconsin 
+Ave, Milwaukee, WI, 53233, USA.
+(5)Department of BioHealth Informatics, School of Informatics and Computing, 
+Indiana University - Purdue University Indianapolis, Office: 119 Walker Plaza 
+(WK), 719 Indiana Avenue, Indianapolis, IN, 46202, USA.
+
+Open-source development can provide a platform for innovation by seeking 
+feedback from community members as well as providing tools and infrastructure to 
+test new standards. Vendors of proprietary systems may delay adoption of new 
+standards until there are sufficient incentives such as legal mandates or 
+financial incentives to encourage/mandate adoption. Moreover, open-source 
+systems in healthcare have been widely adopted in low- and middle-income 
+countries and can be used to bridge gaps that exist in global health radiology. 
+Since 2011, the authors, along with a community of open-source contributors, 
+have worked on developing an open-source radiology information system (RIS) 
+across two communities-OpenMRS and LibreHealth. The main purpose of the RIS is 
+to implement core radiology workflows, on which others can build and test new 
+radiology standards. This work has resulted in three major releases of the 
+system, with current architectural changes driven by changing technology, 
+development of new standards in health and imaging informatics, and changing 
+user needs. At their core, both these communities are focused on building 
+general-purpose EHR systems, but based on user contributions from the fringes, 
+we have been able to create an innovative system that has been used by hospitals 
+and clinics in four different countries. We provide an overview of the history 
+of the LibreHealth RIS, the architecture of the system, overview of standards 
+integration, describe challenges of developing an open-source product, and 
+future directions. Our goal is to attract more participation and involvement to 
+further develop the LibreHealth RIS into an Enterprise Imaging System that can 
+be used in other clinical imaging including pathology and dermatology.
+
+DOI: 10.1007/s10278-018-0088-5
+PMCID: PMC5959837
+PMID: 29748851 [Indexed for MEDLINE]

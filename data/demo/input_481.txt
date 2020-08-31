@@ -1,0 +1,25 @@
+481. Stud Health Technol Inform. 2004;103:394-9.
+
+Implementing MDA-based distributed, interoperable, flexible, scalable, portable, 
+and secure EHR systems.
+
+Blobel B(1), Pharow P.
+
+Author information:
+(1)Otto-von-Guericke University Magdeburg, Medical Faculty, Institute for 
+Biometry and Medical Informatics, Leipziger Str. 44, D-39120 Magdeburg, Germany. 
+bernd.blobel@mrz.uni-magdeburg.de
+
+Electronic Health Record (EHR) systems provide the kernel application of health 
+information systems and health networks which should be independent of 
+complexity, localisation constraints, platforms, protocols, etc. Based on shared 
+care information systems' requirements for high level interoperability, a 
+generic component architecture has been introduced. For implementing, running 
+and maintaining acceptable and useable health information systems components, 
+all views of the ISO Reference Model-Open Distributed Processing have to be 
+considered. Following the Model Driven Architecture paradigm, a reference model 
+as well as concept-representing domain models both independent of platforms must 
+be specified, which are combined and harmonised as well as automatically 
+transferred into platform-specific models using appropriate tools.
+
+PMID: 15747946 [Indexed for MEDLINE]

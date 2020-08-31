@@ -1,0 +1,17 @@
+556. Stud Health Technol Inform. 2008;137:269-74.
+
+Virtual health platform for medical tourism purposes.
+
+Martinez D(1), Ferriol P, Tous X, Cabrer M, Prats M.
+
+Author information:
+(1)e-Government, e-Business and e-Health, Fundació IBIT, Spain.
+
+This paper introduces an overview of the Virtual Health Platform (VHP), an 
+alternative approach to create a functional PHR system in a medical tourism 
+environment. The proposed platform has been designed in order to be integrated 
+with EHR infrastructures and in this way it expects to be useful and more 
+advantageous to the patient or tourist. Use cases of the VHP and its potential 
+benefits summarize the analysis.
+
+PMID: 18560088 [Indexed for MEDLINE]

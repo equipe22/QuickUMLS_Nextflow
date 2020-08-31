@@ -1,0 +1,38 @@
+499. Artif Intell Med. 2015 Jul;64(3):185-93. doi: 10.1016/j.artmed.2015.05.003. Epub 
+2015 May 23.
+
+Protein-protein interaction identification using a hybrid model.
+
+Niu Y(1), Wang Y(2).
+
+Author information:
+(1)College of Computer Science and Technology, Nanjing University of Aeronautics 
+and Astronautics, 29 Yudao Street, Qinhuaiqu, Nanjing, Jiangsu 210016, China. 
+Electronic address: yniu@nuaa.edu.cn.
+(2)College of Computer Science and Technology, Nanjing University of Aeronautics 
+and Astronautics, 29 Yudao Street, Qinhuaiqu, Nanjing, Jiangsu 210016, China.
+
+BACKGROUND: Most existing systems that identify protein-protein interaction 
+(PPI) in literature make decisions solely on evidence within a single sentence 
+and ignore the rich context of PPI descriptions in large corpora. Moreover, they 
+often suffer from the heavy burden of manual annotation.
+METHODS: To address these problems, a new relational-similarity (RS)-based 
+approach exploiting context in large-scale text is proposed. A basic RS model is 
+first established to make initial predictions. Then word similarity matrices 
+that are sensitive to the PPI identification task are constructed using a 
+corpus-based approach. Finally, a hybrid model is developed to integrate the 
+word similarity model with the basic RS model.
+RESULTS: The experimental results show that the basic RS model achieves F-scores 
+much higher than a baseline of random guessing on interactions (from 50.6% to 
+75.0%) and non-interactions (from 49.4% to 74.2%). The hybrid model further 
+improves F-score by about 2% on interactions and 3% on non-interactions.
+CONCLUSION: The experimental evaluations conducted with PPIs in well-known 
+databases showed the effectiveness of our approach that explores context 
+information in PPI identification. This investigation confirmed that within the 
+framework of relational similarity, the word similarity model relieves the data 
+sparseness problem in similarity calculation.
+
+Copyright © 2015 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.artmed.2015.05.003
+PMID: 26054427 [Indexed for MEDLINE]

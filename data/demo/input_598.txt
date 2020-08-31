@@ -1,0 +1,51 @@
+598. NPJ Digit Med. 2018 Jun 20;1:23. doi: 10.1038/s41746-018-0030-8. eCollection 
+2018.
+
+From smartphone to EHR: a case report on integrating patient-generated health 
+data.
+
+Genes N(1)(2), Violante S(3), Cetrangol C(4), Rogers L(5), Schadt EE(1)(3), Chan 
+YY(1)(2)(6).
+
+Author information:
+(1)1Department of Genetics and Genomic Sciences, Icahn School of Medicine at 
+Mount Sinai , New York, NY USA.
+(2)2Department of Emergency Medicine, Icahn School of Medicine at Mount Sinai, 
+New York, NY USA.
+(3)Sema4, a Mount Sinai Venture, Stamford, Connecticut USA.
+(4)4Epic Applications, Information Technology Department, Mount Sinai Health 
+System, New York, NY USA.
+(5)5Mount Sinai - National Jewish Health Respiratory Institute, New York, NY 
+USA.
+(6)6Center for Digital Health, Icahn Institute of Genomics and Multiscale 
+Biology, Icahn School of Medicine at Mount Sinai, New York, NY USA.
+
+Patient-generated health data (PGHD), collected from mobile apps and devices, 
+represents an opportunity for remote patient monitoring and timely interventions 
+to prevent acute exacerbations of chronic illness-if data are seen and shared by 
+care teams. This case report describes the technical aspects of integrating data 
+from a popular smartphone platform to a commonly used EHR vendor and explores 
+the challenges and potential of this approach for disease management. Consented 
+subjects using the Asthma Health app (built on Apple's ResearchKit platform) 
+were able to share data on inhaler usage and peak expiratory flow rate (PEFR) 
+with a local pulmonologist who ordered this data on Epic's EHR. For users who 
+had installed and activated Epic's patient portal (MyChart) on their iPhone and 
+enabled sharing of health data between apps via HealthKit, the pulmonologist 
+could review PGHD and, if necessary, make recommendations. Four patients agreed 
+to share data with their pulmonologist, though only two patients submitted more 
+than one data point across the 4.5-month trial period. One of these patients 
+submitted 101 PEFR readings across 65 days; another submitted 24 PEFR and 
+inhaler usage readings across 66 days. PEFR for both patients fell within 
+predefined physiologic parameters, except once where a low threshold 
+notification was sent to the pulmonologist, who responded with a telephone 
+discussion and new e-prescription to address symptoms. This research describes 
+the technical considerations and implementation challenges of using commonly 
+available frameworks for sharing PGHD, for the purpose of remote monitoring to 
+support timely care interventions.
+
+DOI: 10.1038/s41746-018-0030-8
+PMCID: PMC6550195
+PMID: 31304305
+
+Conflict of interest statement: Competing interestsThe authors declare no 
+competing interests.

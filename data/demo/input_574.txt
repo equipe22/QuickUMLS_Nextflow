@@ -1,0 +1,56 @@
+574. JMIR Med Inform. 2014 Mar 18;2(1):e5. doi: 10.2196/medinform.3172.
+
+Next generation phenotyping using the unified medical language system.
+
+Adamusiak T(1), Shimoyama N, Shimoyama M.
+
+Author information:
+(1)Human and Molecular Genetics Center, Medical College of Wisconsin, Milwaukee, 
+WI, United States. tomasz@mcw.edu.
+
+BACKGROUND: Structured information within patient medical records represents a 
+largely untapped treasure trove of research data. In the United States, privacy 
+issues notwithstanding, this has recently become more accessible thanks to the 
+increasing adoption of electronic health records (EHR) and health care data 
+standards fueled by the Meaningful Use legislation. The other side of the coin 
+is that it is now becoming increasingly more difficult to navigate the profusion 
+of many disparate clinical terminology standards, which often span millions of 
+concepts.
+OBJECTIVE: The objective of our study was to develop a methodology for 
+integrating large amounts of structured clinical information that is both 
+terminology agnostic and able to capture heterogeneous clinical phenotypes 
+including problems, procedures, medications, and clinical results (such as 
+laboratory tests and clinical observations). In this context, we define 
+phenotyping as the extraction of all clinically relevant features contained in 
+the EHR.
+METHODS: The scope of the project was framed by the Common Meaningful Use (MU) 
+Dataset terminology standards; the Systematized Nomenclature of Medicine 
+Clinical Terms (SNOMED CT), RxNorm, the Logical Observation Identifiers Names 
+and Codes (LOINC), the Current Procedural Terminology (CPT), the Health care 
+Common Procedure Coding System (HCPCS), the International Classification of 
+Diseases Ninth Revision Clinical Modification (ICD-9-CM), and the International 
+Classification of Diseases Tenth Revision Clinical Modification (ICD-10-CM). The 
+Unified Medical Language System (UMLS) was used as a mapping layer among the MU 
+ontologies. An extract, load, and transform approach separated original 
+annotations in the EHR from the mapping process and allowed for continuous 
+updates as the terminologies were updated. Additionally, we integrated all 
+terminologies into a single UMLS derived ontology and further optimized it to 
+make the relatively large concept graph manageable.
+RESULTS: The initial evaluation was performed with simulated data from the 
+Clinical Avatars project using 100,000 virtual patients undergoing a 90 day, 
+genotype guided, warfarin dosing protocol. This dataset was annotated with 
+standard MU terminologies, loaded, and transformed using the UMLS. We have 
+deployed this methodology to scale in our in-house analytics platform using 
+structured EHR data for 7931 patients (12 million clinical observations) treated 
+at the Froedtert Hospital. A demonstration limited to Clinical Avatars data is 
+available on the Internet using the credentials user "jmirdemo" and password 
+"jmirdemo".
+CONCLUSIONS: Despite its inherent complexity, the UMLS can serve as an effective 
+interface terminology for many of the clinical data standards currently used in 
+the health care domain.
+
+DOI: 10.2196/medinform.3172
+PMCID: PMC4288084
+PMID: 25601137
+
+Conflict of interest statement: Conflicts of Interest: None declared.

@@ -1,0 +1,23 @@
+187. Stud Health Technol Inform. 2016;225:813-4.
+
+Using a Text-Mining Approach to Evaluate the Quality of Nursing Records.
+
+Chang HM(1), Chiou SF(2), Liu HY(1), Yu HC(1).
+
+Author information:
+(1)Nursing Department, National Taiwan University Hospital, Taipei, Taiwan.
+(2)Nursing Department, National Taipei University of Nursing and Health 
+Sciences, Taipei, Taiwan.
+
+Nursing records in Taiwan have been computerized, but their quality has rarely 
+been discussed. Therefore, this study employed a text-mining approach and a 
+cross-sectional retrospective research design to evaluate the quality of 
+electronic nursing records at a medical center in Northern Taiwan. SAS Text 
+Miner software Version 13.2 was employed to analyze unstructured nursing event 
+records. The results show that SAS Text Miner is suitable for developing a 
+textmining model for validating nursing records. The sensitivity of SAS Text 
+Miner was approximately 0.94, and the specificity and accuracy were 0.99. Thus, 
+SAS Text Miner software is an effective tool for auditing unstructured 
+electronic nursing records.
+
+PMID: 27332355 [Indexed for MEDLINE]

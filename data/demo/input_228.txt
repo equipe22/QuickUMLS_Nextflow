@@ -1,0 +1,74 @@
+228. J Biomed Inform. 2018 Nov;87:68-78. doi: 10.1016/j.jbi.2018.10.001. Epub 2018 
+Oct 4.
+
+Social media mining for birth defects research: A rule-based, bootstrapping 
+approach to collecting data for rare health-related events on Twitter.
+
+Klein AZ(1), Sarker A(2), Cai H(3), Weissenbacher D(4), Gonzalez-Hernandez G(5).
+
+Author information:
+(1)Department of Biostatistics, Epidemiology, and Informatics, Perelman School 
+of Medicine, University of Pennsylvania, Philadelphia, PA, United States. 
+Electronic address: ariklein@pennmedicine.upenn.edu.
+(2)Department of Biostatistics, Epidemiology, and Informatics, Perelman School 
+of Medicine, University of Pennsylvania, Philadelphia, PA, United States. 
+Electronic address: abeed@pennmedicine.upenn.edu.
+(3)Department of Biostatistics, Epidemiology, and Informatics, Perelman School 
+of Medicine, University of Pennsylvania, Philadelphia, PA, United States. 
+Electronic address: hcai@pennmedicine.upenn.edu.
+(4)Department of Biostatistics, Epidemiology, and Informatics, Perelman School 
+of Medicine, University of Pennsylvania, Philadelphia, PA, United States. 
+Electronic address: dweissen@pennmedicine.upenn.edu.
+(5)Department of Biostatistics, Epidemiology, and Informatics, Perelman School 
+of Medicine, University of Pennsylvania, Philadelphia, PA, United States. 
+Electronic address: gragon@pennmedicine.upenn.edu.
+
+BACKGROUND: Although birth defects are the leading cause of infant mortality in 
+the United States, methods for observing human pregnancies with birth defect 
+outcomes are limited.
+OBJECTIVE: The primary objectives of this study were (i) to assess whether rare 
+health-related events-in this case, birth defects-are reported on social media, 
+(ii) to design and deploy a natural language processing (NLP) approach for 
+collecting such sparse data from social media, and (iii) to utilize the 
+collected data to discover a cohort of women whose pregnancies with birth defect 
+outcomes could be observed on social media for epidemiological analysis.
+METHODS: To assess whether birth defects are mentioned on social media, we mined 
+432 million tweets posted by 112,647 users who were automatically identified via 
+their public announcements of pregnancy on Twitter. To retrieve tweets that 
+mention birth defects, we developed a rule-based, bootstrapping approach, which 
+relies on a lexicon, lexical variants generated from the lexicon entries, 
+regular expressions, post-processing, and manual analysis guided by 
+distributional properties. To identify users whose pregnancies with birth defect 
+outcomes could be observed for epidemiological analysis, inclusion criteria were 
+(i) tweets indicating that the user's child has a birth defect, and (ii) 
+accessibility to the user's tweets during pregnancy. We conducted a 
+semi-automatic evaluation to estimate the recall of the tweet-collection 
+approach, and performed a preliminary assessment of the prevalence of selected 
+birth defects among the pregnancy cohort derived from Twitter.
+RESULTS: We manually annotated 16,822 retrieved tweets, distinguishing tweets 
+indicating that the user's child has a birth defect (true positives) from tweets 
+that merely mention birth defects (false positives). Inter-annotator agreement 
+was substantial: κ = 0.79 (Cohen's kappa). Analyzing the timelines of the 646 
+users whose tweets were true positives resulted in the discovery of 195 users 
+that met the inclusion criteria. Congenital heart defects are the most common 
+type of birth defect reported on Twitter, consistent with findings in the 
+general population. Based on an evaluation of 4169 tweets retrieved using 
+alternative text mining methods, the recall of the tweet-collection approach was 
+0.95.
+CONCLUSIONS: Our contributions include (i) evidence that rare health-related 
+events are indeed reported on Twitter, (ii) a generalizable, systematic NLP 
+approach for collecting sparse tweets, (iii) a semi-automatic method to identify 
+undetected tweets (false negatives), and (iv) a collection of publicly available 
+tweets by pregnant users with birth defect outcomes, which could be used for 
+future epidemiological analysis. In future work, the annotated tweets could be 
+used to train machine learning algorithms to automatically identify users 
+reporting birth defect outcomes, enabling the large-scale use of social media 
+mining as a complementary method for such epidemiological research.
+
+Copyright © 2018 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jbi.2018.10.001
+PMCID: PMC6295660
+PMID: 30292855 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations of Interest None.

@@ -1,0 +1,44 @@
+8. Comput Methods Programs Biomed. 2018 Jul;160:57-64. doi: 
+10.1016/j.cmpb.2018.03.022. Epub 2018 Mar 22.
+
+Mining protein phosphorylation information from biomedical literature using NLP 
+parsing and Support Vector Machines.
+
+Raja K(1), Natarajan J(2).
+
+Author information:
+(1)Data Mining and Text Mining Laboratory, Department of Bioinformatics, School 
+of Life Sciences, Bharathiar University, Coimbatore 641046, India. Electronic 
+address: kalpana.rajaa@gmail.com.
+(2)Data Mining and Text Mining Laboratory, Department of Bioinformatics, School 
+of Life Sciences, Bharathiar University, Coimbatore 641046, India. Electronic 
+address: n.jeyakumar@yahoo.co.in.
+
+BACKGROUND: Extraction of protein phosphorylation information from biomedical 
+literature has gained much attention because of the importance in numerous 
+biological processes.
+OBJECTIVE: In this study, we propose a text mining methodology which consists of 
+two phases, NLP parsing and SVM classification to extract phosphorylation 
+information from literature.
+METHODS: First, using NLP parsing we divide the data into three base-forms 
+depending on the biomedical entities related to phosphorylation and further 
+classify into ten sub-forms based on their distribution with phosphorylation 
+keyword. Next, we extract the phosphorylation entity singles/pairs/triplets and 
+apply SVM to classify the extracted singles/pairs/triplets using a set of 
+features applicable to each sub-form.
+RESULTS: The performance of our methodology was evaluated on three corpora 
+namely PLC, iProLink and hPP corpus. We obtained promising results of >85% 
+F-score on ten sub-forms of training datasets on cross validation test. Our 
+system achieved overall F-score of 93.0% on iProLink and 96.3% on hPP corpus 
+test datasets. Furthermore, our proposed system achieved best performance on 
+cross corpus evaluation and outperformed the existing system with recall of 
+90.1%.
+CONCLUSIONS: The performance analysis of our unique system on three corpora 
+reveals that it extracts protein phosphorylation information efficiently in both 
+non-organism specific general datasets such as PLC and iProLink, and human 
+specific dataset such as hPP corpus.
+
+Copyright © 2018 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.cmpb.2018.03.022
+PMID: 29728247 [Indexed for MEDLINE]

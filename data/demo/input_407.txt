@@ -1,0 +1,32 @@
+407. AMIA Jt Summits Transl Sci Proc. 2016 Jul 20;2016:167-75. eCollection 2016.
+
+A Decompositional Approach to Executing Quality Data Model Algorithms on the 
+i2b2 Platform.
+
+Mo H(1), Jiang G(2), Pacheco JA(3), Kiefer R(2), Rasmussen LV(3), Pathak J(4), 
+Denny JC(1), Thompson WK(5).
+
+Author information:
+(1)Vanderbilt University, Nashville, TN;
+(2)Mayo Clinic, Rochester, MN.
+(3)Feinberg School of Medicine, Northwestern University, Chicago, IL.
+(4)Weill Cornell Medical College, Cornell University, New York, NY.
+(5)NorthShore University HealthSystem, Evanston, IL.
+
+The Quality Data Model (QDM) is an established standard for representing 
+electronic clinical quality measures on electronic health record (EHR) 
+repositories. The Informatics for Integrated Biology and the Bedside (i2b2) is a 
+widely used platform for implementing clinical data repositories. However, 
+translation from QDM to i2b2 is challenging, since QDM allows for complex 
+queries beyond the capability of single i2b2 messages. We have developed an 
+approach to decompose complex QDM algorithms into workflows of single i2b2 
+messages, and execute them on the KNIME data analytics platform. Each workflow 
+operation module is composed of parameter lists, a template for the i2b2 
+message, an mechanism to create parameter updates, and a web service call to 
+i2b2. The communication between workflow modules relies on passing keys ofi2b2 
+result sets. As a demonstration of validity, we describe the implementation and 
+execution of a type 2 diabetes mellitus phenotype algorithm against an i2b2 data 
+repository.
+
+PMCID: PMC5001760
+PMID: 27570665

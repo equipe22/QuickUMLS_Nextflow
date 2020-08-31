@@ -1,0 +1,26 @@
+553. AMIA Jt Summits Transl Sci Proc. 2019 May 6;2019:242-247. eCollection 2019.
+
+An electronic notification system for improving patient flow in the emergency 
+department.
+
+Salmasian H(1), Landman AB(1), Morris C(1).
+
+Author information:
+(1)Brigham and Women's Hospital and Harvard Medical School, Boston, MA.
+
+Healthcare providers make time-sensitive care decisions based on EHR data. As 
+systems of record, the EHR is often not configured to optimally surface timely 
+information. For patients awaiting admission, infection control concerns that 
+potentially require private rooms can prolong stays in the Emergency Department. 
+We aim to determine if an event-based notification platform connected with a 
+commercial EHR can help prioritize timely information and improve patient flow 
+in the emergency department. We undertook a pre-post analysis for patients being 
+admitted from the emergency room who were tested for influenza. We used a 
+primary outcome of mean time from negative test result to inpatient transfer. 
+The median time decreased by 27%, from 4.1 hours to 3.0 hours. The distribution 
+of transfer times pre and post-intervention were significantly different with a 
+p-value of <0.001. Our findings support the use of event-based notification 
+systems to improve patient flow in the emergency department.
+
+PMCID: PMC6568086
+PMID: 31258976

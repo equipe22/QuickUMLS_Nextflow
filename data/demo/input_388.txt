@@ -1,0 +1,32 @@
+388. J Am Med Inform Assoc. 2014 Jan-Feb;21(1):31-6. doi: 
+10.1136/amiajnl-2013-001882. Epub 2013 Aug 29.
+
+PhenDisco: phenotype discovery system for the database of genotypes and 
+phenotypes.
+
+Doan S(1), Lin KW, Conway M, Ohno-Machado L, Hsieh A, Feupe SF, Garland A, Ross 
+MK, Jiang X, Farzaneh S, Walker R, Alipanah N, Zhang J, Xu H, Kim HE.
+
+Author information:
+(1)Division of Biomedical Informatics, University of California San Diego, La 
+Jolla, California, USA.
+
+The database of genotypes and phenotypes (dbGaP) developed by the National 
+Center for Biotechnology Information (NCBI) is a resource that contains 
+information on various genome-wide association studies (GWAS) and is currently 
+available via NCBI's dbGaP Entrez interface. The database is an important 
+resource, providing GWAS data that can be used for new exploratory research or 
+cross-study validation by authorized users. However, finding studies relevant to 
+a particular phenotype of interest is challenging, as phenotype information is 
+presented in a non-standardized way. To address this issue, we developed 
+PhenDisco (phenotype discoverer), a new information retrieval system for dbGaP. 
+PhenDisco consists of two main components: (1) text processing tools that 
+standardize phenotype variables and study metadata, and (2) information 
+retrieval tools that support queries from users and return ranked results. In a 
+preliminary comparison involving 18 search scenarios, PhenDisco showed promising 
+performance for both unranked and ranked search comparisons with dbGaP's search 
+engine Entrez. The system can be accessed at http://pfindr.net.
+
+DOI: 10.1136/amiajnl-2013-001882
+PMCID: PMC3912702
+PMID: 23989082 [Indexed for MEDLINE]

@@ -1,0 +1,25 @@
+89. Stud Health Technol Inform. 2015;216:881.
+
+Restructuring an EHR system and the Medical Markup Language (MML) standard to 
+improve interoperability by archetype technology.
+
+Kobayashi S(1), Kume N(1), Yoshihara H(2).
+
+Author information:
+(1)The EHR research unit, Kyoto University, Kyoto, Japan.
+(2)Miyazaki University Hospital, Miyazaki, Japan.
+
+In 2001, we developed an EHR system for regional healthcare information 
+inter-exchange and to provide individual patient data to patients. This system 
+was adopted in three regions in Japan. We also developed a Medical Markup 
+Language (MML) standard for inter- and intra-hospital communications. The system 
+was built on a legacy platform, however, and had not been appropriately 
+maintained or updated to meet clinical requirements. To improve future 
+maintenance costs, we reconstructed the EHR system using archetype technology on 
+the Ruby on Rails platform, and generated MML equivalent forms from archetypes. 
+The system was deployed as a cloud-based system for preliminary use as a 
+regional EHR. The system now has the capability to catch up with new 
+requirements, maintaining semantic interoperability with archetype technology. 
+It is also more flexible than the legacy EHR system.
+
+PMID: 26262183 [Indexed for MEDLINE]

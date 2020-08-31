@@ -1,0 +1,39 @@
+264. Methods Inf Med. 2006;45(4):359-66.
+
+Standardized exchange of clinical documents--towards a shared care paradigm in 
+glaucoma treatment.
+
+Gerdsen F(1), Müller S, Jablonski S, Prokosch HU.
+
+Author information:
+(1)Department of Medical Informatics, Friedrich-Alexander University 
+Erlangen-Nuremberg, 91054 Erlangen, Germany. 
+frederic.gerdsen@mik.imed.uni-erlangen.de
+
+OBJECTIVES: The exchange of medical data from research and clinical routine 
+across institutional borders is essential to establish an integrated healthcare 
+platform. In this project we want to realize the standardized exchange of 
+medical data between different healthcare institutions to implement an 
+integrated and interoperable information system supporting clinical treatment 
+and research of glaucoma.
+METHODS: The central point of our concept is a standardized communication model 
+based on the Clinical Document Architecture (CDA). Further, a communication 
+concept between different health care institutions applying the developed 
+document model has been defined.
+RESULTS: With our project we have been able to prove that standardized 
+communication between an Electronic Medical Record (EMR), an Electronic Health 
+Record (EHR) and the Erlanger Glaucoma Register (EGR) based on the established 
+conceptual models, which rely on CDA rel.1 level 1 and SCIPHOX, could be 
+implemented. The HL7-tool-based deduction of a suitable CDA rel.2 compliant 
+schema showed significant differences when compared with the manually created 
+schema. Finally fundamental requirements, which have to be implemented for an 
+integrated health care platform, have been identified.
+CONCLUSIONS: An interoperable information system can enhance both clinical 
+treatment and research projects. By automatically transferring screening 
+findings from a glaucoma research project to the electronic medical record of 
+our ophthalmology clinic, clinicians could benefit from the availability of a 
+longitudinal patient record. The CDA as a standard for exchanging clinical 
+documents has demonstrated its potential to enhance interoperability within a 
+future shared care paradigm.
+
+PMID: 16964350 [Indexed for MEDLINE]

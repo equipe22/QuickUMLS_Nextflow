@@ -1,0 +1,43 @@
+173. J Biomed Semantics. 2011 May 17;2 Suppl 2(Suppl 2):S10. doi: 
+10.1186/2041-1480-2-S2-S10.
+
+Integration and publication of heterogeneous text-mined relationships on the 
+Semantic Web.
+
+Coulet A(1), Garten Y, Dumontier M, Altman RB, Musen MA, Shah NH.
+
+Author information:
+(1)LORIA - INRIA Nancy - Grand-Est, Campus Scientifique - BP 239 - 54506 
+Vandoeuvre-lès-Nancy Cedex, France. adrien.coulet@loria.fr.
+
+BACKGROUND: Advances in Natural Language Processing (NLP) techniques enable the 
+extraction of fine-grained relationships mentioned in biomedical text. The 
+variability and the complexity of natural language in expressing similar 
+relationships causes the extracted relationships to be highly heterogeneous, 
+which makes the construction of knowledge bases difficult and poses a challenge 
+in using these for data mining or question answering.
+RESULTS: We report on the semi-automatic construction of the PHARE relationship 
+ontology (the PHArmacogenomic RElationships Ontology) consisting of 200 curated 
+relations from over 40,000 heterogeneous relationships extracted via 
+text-mining. These heterogeneous relations are then mapped to the PHARE ontology 
+using synonyms, entity descriptions and hierarchies of entities and roles. Once 
+mapped, relationships can be normalized and compared using the structure of the 
+ontology to identify relationships that have similar semantics but different 
+syntax. We compare and contrast the manual procedure with a fully automated 
+approach using WordNet to quantify the degree of integration enabled by 
+iterative curation and refinement of the PHARE ontology. The result of such 
+integration is a repository of normalized biomedical relationships, named 
+PHARE-KB, which can be queried using Semantic Web technologies such as SPARQL 
+and can be visualized in the form of a biological network.
+CONCLUSIONS: The PHARE ontology serves as a common semantic framework to 
+integrate more than 40,000 relationships pertinent to pharmacogenomics. The 
+PHARE ontology forms the foundation of a knowledge base named PHARE-KB. Once 
+populated with relationships, PHARE-KB (i) can be visualized in the form of a 
+biological network to guide human tasks such as database curation and (ii) can 
+be queried programmatically to guide bioinformatics applications such as the 
+prediction of molecular interactions. PHARE is available at 
+http://purl.bioontology.org/ontology/PHARE.
+
+DOI: 10.1186/2041-1480-2-S2-S10
+PMCID: PMC3102890
+PMID: 21624156

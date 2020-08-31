@@ -1,0 +1,22 @@
+586. J Healthc Inf Manag. 2008 Summer;22(3):42-51.
+
+Crime and punishment. Can the NHIN reduce the cost of healthcare fraud?
+
+Parente ST(1), Mandelbaum K, Hanson SP, Cassidy BS, Simborg DW.
+
+Author information:
+(1)Department of Finance, Carlson School of Management, University of Minnesota, 
+Minneapolis, USA.
+
+In his 2004 State of the Union Address, President Bush called for the adoption 
+of the electronic health record (EHR) to increase efficiency and improve the 
+quality of healthcare. This system could reduce healthcare costs by 20 percent 
+or more per year. Some of those savings would be attributed to a dramatic 
+reduction in losses due to fraud. Though IT by itself cannot solve the problem 
+of healthcare fraud, developing an interoperable National Health Information 
+Network (NHIN) can provide a platform to implement real-time anti-fraud 
+controls. In this paper we inventory the costs and benefits of fraud detection 
+from the NHIN and conclude that such an infrastructure investment has the 
+potential to produce significant national savings.
+
+PMID: 19267031 [Indexed for MEDLINE]

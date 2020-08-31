@@ -1,0 +1,31 @@
+623. J Digit Imaging. 2018 Feb;31(1):91-106. doi: 10.1007/s10278-017-0010-6.
+
+Radiology and Enterprise Medical Imaging Extensions (REMIX).
+
+Erdal BS(1), Prevedello LM(2), Qian S(2), Demirer M(2), Little K(2), Ryu J(2), 
+O'Donnell T(3), White RD(2).
+
+Author information:
+(1)Radiology Department, The Ohio State University Wexner Medical Center, 395 W 
+12th Ave, Columbus, OH, 43210, USA. Barbaros.Erdal@osumc.edu.
+(2)Radiology Department, The Ohio State University Wexner Medical Center, 395 W 
+12th Ave, Columbus, OH, 43210, USA.
+(3)Siemens Medical Solutions USA, Inc, 40 Liberty Boulevard, Malvern, PA, 19355, 
+USA.
+
+Radiology and Enterprise Medical Imaging Extensions (REMIX) is a platform 
+originally designed to both support the medical imaging-driven clinical and 
+clinical research operational needs of Department of Radiology of The Ohio State 
+University Wexner Medical Center. REMIX accommodates the storage and handling of 
+"big imaging data," as needed for large multi-disciplinary cancer-focused 
+programs. The evolving REMIX platform contains an array of integrated 
+tools/software packages for the following: (1) server and storage management; 
+(2) image reconstruction; (3) digital pathology; (4) de-identification; (5) 
+business intelligence; (6) texture analysis; and (7) artificial intelligence. 
+These capabilities, along with documentation and guidance, explaining how to 
+interact with a commercial system (e.g., PACS, EHR, commercial database) that 
+currently exists in clinical environments, are to be made freely available.
+
+DOI: 10.1007/s10278-017-0010-6
+PMCID: PMC5788816
+PMID: 28840365 [Indexed for MEDLINE]

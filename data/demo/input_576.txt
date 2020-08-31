@@ -1,0 +1,78 @@
+576. JMIR Res Protoc. 2018 Sep 6;7(9):e10871. doi: 10.2196/10871.
+
+Individualized Clinical Practice Guidelines for Pressure Injury Management: 
+Development of an Integrated Multi-Modal Biomedical Information Resource.
+
+Bogie KM(1)(2), Zhang GQ(3)(4), Roggenkamp SK(3)(4), Zeng N(3)(4), Seton J(1), 
+Tao S(3)(4), Bloostein AL(5), Sun J(5).
+
+Author information:
+(1)Louis Stokes Cleveland VA Medical Center, Cleveland, OH, United States.
+(2)Department of Orthopaedics, Case Western Reserve University, Cleveland, OH, 
+United States.
+(3)Institute for Biomedical Informatics, University of Kentucky, Lexington, KY, 
+United States.
+(4)Department of Computer Science, University of Kentucky, Lexington, KY, United 
+States.
+(5)Department of Population and Quantitative Health Sciences, Case Western 
+Reserve University, Cleveland, OH, United States.
+
+BACKGROUND: Pressure ulcers (PU) and deep tissue injuries (DTI), collectively 
+known as pressure injuries are serious complications causing staggering costs 
+and human suffering with over 200 reported risk factors from many domains. 
+Primary pressure injury prevention seeks to prevent the first incidence, while 
+secondary PU/DTI prevention aims to decrease chronic recurrence. Clinical 
+practice guidelines (CPG) combine evidence-based practice and expert opinion to 
+aid clinicians in the goal of achieving best practices for primary and secondary 
+prevention. The correction of all risk factors can be both overwhelming and 
+impractical to implement in clinical practice. There is a need to develop 
+practical clinical tools to prioritize the multiple recommendations of CPG, but 
+there is limited guidance on how to prioritize based on individual cases. 
+Bioinformatics platforms enable data management to support clinical decision 
+support and user-interface development for complex clinical challenges such as 
+pressure injury prevention care planning.
+OBJECTIVE: The central hypothesis of the study is that the individual's risk 
+factor profile can provide the basis for adaptive, personalized care planning 
+for PU prevention based on CPG prioritization. The study objective is to develop 
+the Spinal Cord Injury Pressure Ulcer and Deep Tissue Injury (SCIPUD+) Resource 
+to support personalized care planning for primary and secondary PU/DTI 
+prevention.
+METHODS: The study is employing a retrospective electronic health record (EHR) 
+chart review of over 75 factors known to be relevant for pressure injury risk in 
+individuals with a spinal cord injury (SCI) and routinely recorded in the EHR. 
+We also perform tissue health assessments of a selected sub-group. A systems 
+approach is being used to develop and validate the SCIPUD+ Resource 
+incorporating the many risk factor domains associated with PU/DTI primary and 
+secondary prevention, ranging from the individual's environment to local tissue 
+health. Our multiscale approach will leverage the strength of bioinformatics 
+applied to an established national EHR system. A comprehensive model is being 
+used to relate the primary outcome of interest (PU/DTI development) with over 75 
+PU/DTI risk factors using a retrospective chart review of 5000 individuals 
+selected from the study cohort of more than 36,000 persons with SCI. A Spinal 
+Cord Injury Pressure Ulcer and Deep Tissue Injury Ontology (SCIPUDO) is being 
+developed to enable robust text-mining for data extraction from free-form notes.
+RESULTS: The results from this study are pending.
+CONCLUSIONS: PU/DTI remains a highly significant source of morbidity for 
+individuals with SCI. Personalized interactive care plans may decrease both 
+initial PU formation and readmission rates for high-risk individuals. The 
+project is using established EHR data to build a comprehensive, structured model 
+of environmental, social and clinical pressure injury risk factors. The 
+comprehensive SCIPUD+ health care tool will be used to relate the primary 
+outcome of interest (pressure injury development) with covariates including 
+environmental, social, clinical, personal and tissue health profiles as well as 
+possible interactions among some of these covariates. The study will result in a 
+validated tool for personalized implementation of CPG recommendations and has 
+great potential to change the standard of care for PrI clinical practice by 
+enabling clinicians to provide personalized application of CPG priorities 
+tailored to the needs of each at-risk individual with SCI.
+REGISTERED REPORT IDENTIFIER: RR1-10.2196/10871.
+
+©Kath M Bogie, Guo-Qiang Zhang, Steven K Roggenkamp, Ningzhou Zeng, Jacinta 
+Seton, Shiqiang Tao, Arielle L Bloostein, Jiayang Sun. Originally published in 
+JMIR Research Protocols (http://www.researchprotocols.org), 06.09.2018.
+
+DOI: 10.2196/10871
+PMCID: PMC6231753
+PMID: 30190252
+
+Conflict of interest statement: Conflicts of Interest: None declared.

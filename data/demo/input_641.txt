@@ -1,0 +1,56 @@
+641. JAMIA Open. 2019 Sep 20;2(4):423-428. doi: 10.1093/jamiaopen/ooz038. eCollection 
+2019 Dec.
+
+Challenges to electronic clinical quality measurement using third-party 
+platforms in primary care practices: the healthy hearts in the heartland 
+experience.
+
+Ahmad FS(1)(2)(3), Rasmussen LV(3), Persell SD(4)(5), Richardson JE(6), Liss 
+DT(4)(5), Kenly P(2), Chung I(2), French DD(7)(8)(9), Walunas TL(2)(4), 
+Schriever A(10), Kho AN(2)(3)(4).
+
+Author information:
+(1)Division of Cardiology, Department of Medicine, Northwestern University 
+Feinberg School of Medicine, Chicago, Illinois, USA.
+(2)The Center for Health Information Partnerships (CHiP), Institute of Public 
+Health & Medicine, Northwestern University Feinberg School of Medicine, Chicago, 
+Illinois, USA.
+(3)Division of Health and Biomedical Informatics, Department of Preventive 
+Medicine, Northwestern University Feinberg School of Medicine, Chicago, 
+Illinois, USA.
+(4)Division of General Internal Medicine and Geriatrics, Department of Medicine, 
+Northwestern University Feinberg School of Medicine, Chicago, Illinois, USA.
+(5)The Center for Primary Care Innovation, Institute of Public Health & 
+Medicine, Northwestern University Feinberg School of Medicine, Chicago, 
+Illinois, USA.
+(6)RTI International, Chicago, Illinois, USA.
+(7)Department of Ophthalmology, Northwestern University Feinberg School of 
+Medicine, Chicago, Illinois, USA.
+(8)Center for Healthcare Studies, Northwestern University Feinberg School of 
+Medicine, Chicago, Illinois, USA.
+(9)Veterans Affairs Health Services Research and Development Service, Chicago, 
+Illinois, USA.
+(10)Apertiva, Inc, Chicago, Illinois, USA.
+
+Third-party platforms have emerged to support small primary care practices for 
+calculating and reporting electronic clinical quality measures (eCQM) for 
+federal programs like The Medicare Access and CHIP Reauthorization Act of 2015 
+(MACRA) and Merit-based Incentive Payment System (MIPS). Yet little is known 
+about the capabilities and limitations of electronic health record systems 
+(EHRs) to enable data access for these programs. We connected 116 small- to 
+medium-sized practices with seven different EHRs to popHealth, an open-source 
+eCQM platform. We identified the prevalence of following problems with eCQM data 
+for data extraction in seven different EHRs: (1) Lack of coded data in five of 
+seven; (2) Incorrectly categorized data in four of seven; (3) Isosemantic data 
+(data within the incorrect context) in four of seven; (4) Coding that could not 
+be directly evaluated in six of seven; (5) Errors in date assignment and labeled 
+as historical values in five of seven; and (6) Inadequate data to assign the 
+correct code in two of seven. We recommend specific enhancements to EHR systems 
+that can promote effective eCQM implementation and reporting to MACRA and MIPS.
+
+© The Author(s) 2019. Published by Oxford University Press on behalf of the 
+American Medical Informatics Association.
+
+DOI: 10.1093/jamiaopen/ooz038
+PMCID: PMC6994020
+PMID: 32025638

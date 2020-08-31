@@ -1,0 +1,30 @@
+340. J Chem Inf Model. 2013 Oct 28;53(10):2506-10. doi: 10.1021/ci4003188. Epub 2013 
+Sep 24.
+
+Automated extraction of information on chemical-P-glycoprotein interactions from 
+the literature.
+
+Yoshida S(1), Yamashita F, Ose A, Maeda K, Sugiyama Y, Hashida M.
+
+Author information:
+(1)Department of Drug Delivery Research, Graduate School of Pharmaceutical 
+Sciences, and ⊥Institute for Integrated Cell-Material Sciences, Kyoto University 
+, 46-29 Yoshidashimoadachi-cho, Sakyo-ku, Kyoto 606-8501, Japan.
+
+Knowledge of the interactions between drugs and transporters is important for 
+drug discovery and development as well as for the evaluation of their clinical 
+safety. We recently developed a text-mining system for the automatic extraction 
+of information on chemical-CYP3A4 interactions from the literature. This system 
+is based on natural language processing and can extract chemical names and their 
+interaction patterns according to sentence context. The present study aimed to 
+extend this system to the extraction of information regarding 
+chemical-transporter interactions. For this purpose, the key verb list designed 
+for cytochrome P450 enzymes was replaced with that for known drug transporters. 
+The performance of the system was then tested by examining the accuracy of 
+information on chemical-P-glycoprotein (P-gp) interactions extracted from 
+randomly selected PubMed abstracts. The system achieved 89.8% recall and 84.2% 
+precision for the identification of chemical names and 71.7% recall and 78.6% 
+precision for the extraction of chemical-P-gp interactions.
+
+DOI: 10.1021/ci4003188
+PMID: 24010770 [Indexed for MEDLINE]

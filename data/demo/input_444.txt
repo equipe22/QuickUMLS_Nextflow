@@ -1,0 +1,36 @@
+444. Pac Symp Biocomput. 2008:580-91.
+
+Enabling integrative genomic analysis of high-impact human diseases through text 
+mining.
+
+Dudley J(1), Butte AJ.
+
+Author information:
+(1)Stanford Medical Informatics, Departments of Medicine and Pediatrics, 
+Stanford University School of Medicine, Stanford, CA 94305-5479, USA.
+
+Our limited ability to perform large-scale translational discovery and analysis 
+of disease characterizations from public genomic data repositories remains a 
+major bottleneck in efforts to translate genomics experiments to medicine. 
+Through comprehensive, integrative genomic analysis of all available human 
+disease characterizations we gain crucial insight into the molecular phenomena 
+underlying pathogenesis as well as intra- and inter-disease differentiation. 
+Such knowledge is crucial in the development of improved clinical diagnostics 
+and the identification of molecular targets for novel therapeutics. In this 
+study we build on our previous work to realize the next important step in 
+large-scale translational discovery and analysis, which is to automatically 
+identify those genomic experiments in which a disease state is compared to a 
+normal control state. We present an automated text mining method that employs 
+Natural Language Processing (NLP) techniques to automatically identify 
+disease-related experiments in the NCBI Gene Expression Omnibus (GEO) that 
+include measurements for both disease and normal control states. In this manner, 
+we find that 62% of disease-related experiments contain sample subsets that can 
+be automatically identified as normal controls. Furthermore, we calculate that 
+the identified experiments characterize diseases that contribute to 30% of all 
+human disease-related mortality in the United States. This work demonstrates 
+that we now have the necessary tools and methods to initiate large-scale 
+translational bioinformatics inquiry across the broad spectrum of high-impact 
+human disease.
+
+PMCID: PMC2735266
+PMID: 18229717 [Indexed for MEDLINE]

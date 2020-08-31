@@ -1,0 +1,22 @@
+370. AMIA Annu Symp Proc. 2013 Nov 16;2013:486-95. eCollection 2013.
+
+Automated extraction of the Barthel Index from clinical texts.
+
+Giang P(1), Williams A(2), Argyros L(2).
+
+Author information:
+(1)George Mason University, Fairfax, VA;
+(2)Veteran Affairs Health System, Bay Pines, FL.
+
+This paper describes a text mining program that computes the Barthel score of 
+functional status by analyzing clinical notes stored in Electronic Health Record 
+systems(EHR) and comparing them to textual evidence provided by clinical 
+experts. The program demonstrates high accuracy and overall reliability based on 
+a relatively small number of expert-abstracted charts. It offers an efficient 
+and affordable method for estimating functional status using clinical notes. An 
+important feature is an architecture that facilitates interaction between users 
+and the program, allowing the program to improve its performance based on user 
+feedback .
+
+PMCID: PMC3900193
+PMID: 24551352 [Indexed for MEDLINE]

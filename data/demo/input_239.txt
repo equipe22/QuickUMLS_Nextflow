@@ -1,0 +1,71 @@
+239. BMC Med Inform Decis Mak. 2017 Aug 22;17(1):127. doi: 10.1186/s12911-017-0519-0.
+
+Empirical advances with text mining of electronic health records.
+
+Delespierre T(1)(2), Denormandie P(3), Bar-Hen A(4), Josseran L(5).
+
+Author information:
+(1)Institut du Bien Vieillir Korian, 21-25 rue Balzac, 75008, Paris, France. 
+tiba.baroukh@gmail.com.
+(2)Research lab: EA 4047, UFR des Sciences de la Santé Simone Veil, UVSQ 
+Université Paris-Saclay, 2 Avenue de la Source de la Bièvre, Montigny le 
+Bretonneux, 78180, France. tiba.baroukh@gmail.com.
+(3)MNH Group, 185 rue de Bercy, 75012, Paris, France.
+(4)UFR de Mathématiques et Informatique, Université de Paris Descartes, 45 rue 
+des Saints-Pères, Paris, 75006, France.
+(5)Research lab: EA 4047, UFR des Sciences de la Santé Simone Veil, UVSQ 
+Université Paris-Saclay, 2 Avenue de la Source de la Bièvre, Montigny le 
+Bretonneux, 78180, France.
+
+BACKGROUND: Korian is a private group specializing in medical accommodations for 
+elderly and dependent people. A professional data warehouse (DWH) established in 
+2010 hosts all of the residents' data. Inside this information system (IS), 
+clinical narratives (CNs) were used only by medical staff as a residents' care 
+linking tool. The objective of this study was to show that, through qualitative 
+and quantitative textual analysis of a relatively small physiotherapy and 
+well-defined CN sample, it was possible to build a physiotherapy corpus and, 
+through this process, generate a new body of knowledge by adding relevant 
+information to describe the residents' care and lives.
+METHODS: Meaningful words were extracted through Standard Query Language (SQL) 
+with the LIKE function and wildcards to perform pattern matching, followed by 
+text mining and a word cloud using R® packages. Another step involved principal 
+components and multiple correspondence analyses, plus clustering on the same 
+residents' sample as well as on other health data using a health model measuring 
+the residents' care level needs.
+RESULTS: By combining these techniques, physiotherapy treatments could be 
+characterized by a list of constructed keywords, and the residents' health 
+characteristics were built. Feeding defects or health outlier groups could be 
+detected, physiotherapy residents' data and their health data were matched, and 
+differences in health situations showed qualitative and quantitative differences 
+in physiotherapy narratives.
+CONCLUSIONS: This textual experiment using a textual process in two stages 
+showed that text mining and data mining techniques provide convenient tools to 
+improve residents' health and quality of care by adding new, simple, useable 
+data to the electronic health record (EHR). When used with a normalized 
+physiotherapy problem list, text mining through information extraction (IE), 
+named entity recognition (NER) and data mining (DM) can provide a real advantage 
+to describe health care, adding new medical material and helping to integrate 
+the EHR system into the health staff work environment.
+
+DOI: 10.1186/s12911-017-0519-0
+PMCID: PMC5568397
+PMID: 28830417 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: The 
+use of this database in the frame of epidemiological studies has been authorized 
+by the French National Commission for Data protection and Liberties (CNIL). The 
+Institut du Bien Vieillir filed a declaration of conformity to a baseline 
+methodology which received in March 2017 an agreement number: 2.041.050, in 
+accordance with the Act n°78–17 of 6 January 1978 on Data Processing, Data Files 
+and Individual Liberties. All residents are informed at their NH entry about 
+their EHR and their right to oppose its use. While the primary purpose of this 
+medical research was to generate new knowledge, this goal didn’t take precedence 
+over the rights and interests of the NH residents. All the new generated 
+information was extracted from already existing data and was de-identified and 
+anonymized when necessary to protect their health and rights. There were no 
+images and no identifying details on individuals reported within this manuscript 
+CONSENT FOR PUBLICATION: Not applicable. COMPETING INTERESTS: The authors do not 
+have any financial or non-financial competing interests to report. Funding to 
+support TD’s work is reported above. PUBLISHER’S NOTE: Springer Nature remains 
+neutral with regard to jurisdictional claims in published maps and institutional 
+affiliations.

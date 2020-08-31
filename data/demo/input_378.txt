@@ -1,0 +1,34 @@
+378. BMC Bioinformatics. 2015;16 Suppl 7(Suppl 7):S6. doi: 
+10.1186/1471-2105-16-S7-S6. Epub 2015 Apr 23.
+
+Self-training in significance space of support vectors for imbalanced biomedical 
+event data.
+
+Munkhdalai T, Namsrai OE, Ryu K.
+
+BACKGROUND: Pairwise relationships extracted from biomedical literature are 
+insufficient in formulating biomolecular interactions. Extraction of complex 
+relations (namely, biomedical events) has become the main focus of the 
+text-mining community. However, there are two critical issues that are seldom 
+dealt with by existing systems. First, an annotated corpus for training a 
+prediction model is highly imbalanced. Second, supervised models trained on only 
+a single annotated corpus can limit system performance. Fortunately, there is a 
+large pool of unlabeled data containing much of the domain background that one 
+can exploit.
+RESULTS: In this study, we develop a new semi-supervised learning method to 
+address the issues outlined above. The proposed algorithm efficiently exploits 
+the unlabeled data to leverage system performance. We furthermore extend our 
+algorithm to a two-phase learning framework. The first phase balances the 
+training data for initial model induction. The second phase incorporates domain 
+knowledge into the event extraction model. The effectiveness of our method is 
+evaluated on the Genia event extraction corpus and a PubMed document pool. Our 
+method can identify a small subset of the majority class, which is sufficient 
+for building a well-generalized prediction model. It outperforms the traditional 
+self-training algorithm in terms of f-measure. Our model, based on the training 
+data and the unlabeled data pool, achieves comparable performance to the 
+state-of-the-art systems that are trained on a larger annotated set consisting 
+of training and evaluation data.
+
+DOI: 10.1186/1471-2105-16-S7-S6
+PMCID: PMC4423724
+PMID: 25952719 [Indexed for MEDLINE]

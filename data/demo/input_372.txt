@@ -1,0 +1,50 @@
+372. J Am Med Inform Assoc. 2013 Dec;20(e2):e341-8. doi: 10.1136/amiajnl-2013-001939. 
+Epub 2013 Nov 4.
+
+Normalization and standardization of electronic health records for 
+high-throughput phenotyping: the SHARPn consortium.
+
+Pathak J(1), Bailey KR, Beebe CE, Bethard S, Carrell DC, Chen PJ, Dligach D, 
+Endle CM, Hart LA, Haug PJ, Huff SM, Kaggal VC, Li D, Liu H, Marchant K, Masanz 
+J, Miller T, Oniki TA, Palmer M, Peterson KJ, Rea S, Savova GK, Stancl CR, Sohn 
+S, Solbrig HR, Suesse DB, Tao C, Taylor DP, Westberg L, Wu S, Zhuo N, Chute CG.
+
+Author information:
+(1)Department of Health Sciences Research, Mayo Clinic, Rochester, Minnesota, 
+USA.
+
+RESEARCH OBJECTIVE: To develop scalable informatics infrastructure for 
+normalization of both structured and unstructured electronic health record (EHR) 
+data into a unified, concept-based model for high-throughput phenotype 
+extraction.
+MATERIALS AND METHODS: Software tools and applications were developed to extract 
+information from EHRs. Representative and convenience samples of both structured 
+and unstructured data from two EHR systems-Mayo Clinic and Intermountain 
+Healthcare-were used for development and validation. Extracted information was 
+standardized and normalized to meaningful use (MU) conformant terminology and 
+value set standards using Clinical Element Models (CEMs). These resources were 
+used to demonstrate semi-automatic execution of MU clinical-quality measures 
+modeled using the Quality Data Model (QDM) and an open-source rules engine.
+RESULTS: Using CEMs and open-source natural language processing and terminology 
+services engines-namely, Apache clinical Text Analysis and Knowledge Extraction 
+System (cTAKES) and Common Terminology Services (CTS2)-we developed a 
+data-normalization platform that ensures data security, end-to-end connectivity, 
+and reliable data flow within and across institutions. We demonstrated the 
+applicability of this platform by executing a QDM-based MU quality measure that 
+determines the percentage of patients between 18 and 75 years with diabetes 
+whose most recent low-density lipoprotein cholesterol test result during the 
+measurement year was <100 mg/dL on a randomly selected cohort of 273 Mayo Clinic 
+patients. The platform identified 21 and 18 patients for the denominator and 
+numerator of the quality measure, respectively. Validation results indicate that 
+all identified patients meet the QDM-based criteria.
+CONCLUSIONS: End-to-end automated systems for extracting clinical information 
+from diverse EHR systems require extensive use of standardized vocabularies and 
+terminologies, as well as robust information models for storing, discovering, 
+and processing that information. This study demonstrates the application of 
+modular and open-source resources for enabling secondary use of EHR data through 
+normalization into standards-based, comparable, and consistent format for 
+high-throughput phenotyping to identify patient cohorts.
+
+DOI: 10.1136/amiajnl-2013-001939
+PMCID: PMC3861933
+PMID: 24190931 [Indexed for MEDLINE]

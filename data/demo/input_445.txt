@@ -1,0 +1,64 @@
+445. Interact J Med Res. 2013 Jul 22;2(2):e13. doi: 10.2196/ijmr.2480.
+
+Scalable decision support at the point of care: a substitutable electronic 
+health record app for monitoring medication adherence.
+
+Bosl W(1), Mandel J, Jonikas M, Ramoni RB, Kohane IS, Mandl KD.
+
+Author information:
+(1)Children's Hospital Informatics Program, Boston Children's Hospital, Harvard 
+Medical School, Boston, MA, United States. william.bosl@childrens.harvard.edu.
+
+BACKGROUND: Non-adherence to prescribed medications is a serious health problem 
+in the United States, costing an estimated $100 billion per year. While poor 
+adherence should be addressable with point of care health information 
+technology, integrating new solutions with existing electronic health records 
+(EHR) systems require customization within each organization, which is difficult 
+because of the monolithic software design of most EHR products.
+OBJECTIVE: The objective of this study was to create a published algorithm for 
+predicting medication adherence problems easily accessible at the point of care 
+through a Web application that runs on the Substitutable Medical Apps, Reusuable 
+Technologies (SMART) platform. The SMART platform is an emerging framework that 
+enables EHR systems to behave as "iPhone like platforms" by exhibiting an 
+application programming interface for easy addition and deletion of third party 
+apps. The app is presented as a point of care solution to monitoring medication 
+adherence as well as a sufficiently general, modular application that may serve 
+as an example and template for other SMART apps.
+METHODS: The widely used, open source Django framework was used together with 
+the SMART platform to create the interoperable components of this app. Django 
+uses Python as its core programming language. This allows statistical and 
+mathematical modules to be created from a large array of Python numerical 
+libraries and assembled together with the core app to create flexible and 
+sophisticated EHR functionality. Algorithms that predict individual adherence 
+are derived from a retrospective study of dispensed medication claims from a 
+large private insurance plan. Patients' prescription fill information is 
+accessed through the SMART framework and the embedded algorithms compute 
+adherence information, including predicted adherence one year after the first 
+prescription fill. Open source graphing software is used to display patient 
+medication information and the results of statistical prediction of future 
+adherence on a clinician-facing Web interface.
+RESULTS: The user interface allows the physician to quickly review all 
+medications in a patient record for potential non-adherence problems. A 
+gap-check and current medication possession ratio (MPR) threshold test are 
+applied to all medications in the record to test for current non-adherence. 
+Predictions of 1-year non-adherence are made for certain drug classes for which 
+external data was available. Information is presented graphically to indicate 
+present non-adherence, or predicted non-adherence at one year, based on early 
+prescription fulfillment patterns. The MPR Monitor app is installed in the SMART 
+reference container as the "MPR Monitor", where it is publically available for 
+use and testing. MPR is an acronym for Medication Possession Ratio, a commonly 
+used measure of adherence to a prescribed medication regime. This app may be 
+used as an example for creating additional functionality by replacing 
+statistical and display algorithms with new code in a cycle of rapid prototyping 
+and implementation or as a framework for a new SMART app.
+CONCLUSIONS: The MPR Monitor app is a useful pilot project for monitoring 
+medication adherence. It also provides an example that integrates several open 
+source software components, including the Python-based Django Web framework and 
+python-based graphics, to build a SMART app that allows complex decision support 
+methods to be encapsulated to enhance EHR functionality.
+
+DOI: 10.2196/ijmr.2480
+PMCID: PMC3815431
+PMID: 23876796
+
+Conflict of interest statement: Conflicts of Interest: None declared.

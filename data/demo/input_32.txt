@@ -1,0 +1,28 @@
+32. Methods Mol Biol. 2017;1526:139-158. doi: 10.1007/978-1-4939-6613-4_8.
+
+Metabolic Pathway Mining.
+
+Czarnecki JM(1), Shepherd AJ(2).
+
+Author information:
+(1)School of Biosciences, Birkbeck, University of London, Malet Street, London, 
+WC1E 7HX, UK.
+(2)Department of Biological Sciences and Institute of Structural and Molecular 
+Biology, Birkbeck, University of London, Malet Street, London, WC1E 7HX, UK. 
+a.shepherd@mail.cryst.bbk.ac.uk.
+
+Understanding metabolic pathways is one of the most important fields in 
+bioscience in the post-genomic era, but curating metabolic pathways requires 
+considerable man-power. As such there is a lack of reliable, experimentally 
+verified metabolic pathways in databases and databases are forced to predict all 
+but the most immediately useful pathways.Text-mining has the potential to solve 
+this problem, but while sophisticated text-mining methods have been developed to 
+assist the curation of many types of biomedical networks, such as 
+protein-protein interaction networks, the mining of metabolic pathways from the 
+literature has been largely neglected by the text-mining community. In this 
+chapter we describe a pipeline for the extraction of metabolic pathways built on 
+freely available open-source components and a heuristic metabolic reaction 
+extraction algorithm.
+
+DOI: 10.1007/978-1-4939-6613-4_8
+PMID: 27896740 [Indexed for MEDLINE]

@@ -1,0 +1,68 @@
+610. Trials. 2019 Dec 11;20(1):706. doi: 10.1186/s13063-019-3847-9.
+
+Electronic health record nested pragmatic randomized controlled trial of a 
+reminder system for serum lithium level monitoring in patients with mood 
+disorder: KONOTORI study protocol.
+
+Seki T(1), Aki M(2), Kawashima H(2)(3), Miki T(2)(3), Tanaka S(4), Kawakami 
+K(1), Furukawa TA(5).
+
+Author information:
+(1)Department of Pharmacoepidemiology, Graduate School of Medicine/School of 
+Public Health, Kyoto University, Kyoto, Japan.
+(2)Department of Psychiatry, Toyooka Hospital, Toyooka, Hyogo, Japan.
+(3)Department of Psychiatry, Kyoto University Hospital, Kyoto, Japan.
+(4)Department of Clinical Biostatistics, Graduate School of Medicine, Kyoto 
+University, Kyoto, Japan.
+(5)Department of Health Promotion and Human Behavior, Graduate School of 
+Medicine/School of Public Health, Kyoto University, Kyoto, Japan. 
+furukawa@kuhp.kyoto-u.ac.jp.
+
+BACKGROUND: The weaknesses of classical explanatory randomized controlled trials 
+(RCTs) include limited generalizability, high cost, and time burden. Pragmatic 
+RCTs nested within electronic health records (EHRs) can be useful to overcome 
+such limitations. Serum lithium monitoring has often been underutilized in 
+real-world practice in Japan. This trial aims to evaluate the effectiveness of 
+the EHR-nested reminder system for serum lithium level monitoring in the 
+maintenance of therapeutic lithium concentration and in the improvement of the 
+quality of care for patients on lithium maintenance therapy.
+METHODS: The Kyoto Toyooka nested controlled trial of reminders (KONOTORI trial) 
+is an EHR-nested, parallel-group, superiority, stratified, permuted 
+block-randomized controlled trial. Screening, random allocation, reminder 
+output, and outcome collection will be conducted automatically by the EHR-nested 
+trial program. Patients with a mood disorder taking lithium carbonate for 
+maintenance therapy will be randomly allocated to the two-step reminder system 
+for serum lithium monitoring or to usual care. The primary outcome is the 
+achievement of therapeutic serum lithium concentration between 0.4 and 1.0 mEq/L 
+at 18 months after informed consent.
+DISCUSSION: The KONOTORI trial uses EHRs to enable the efficient conduct of a 
+pragmatic trial of the reminder system for lithium monitoring. This may 
+contribute to improved quality of care for patients on lithium maintenance 
+therapy.
+TRIAL REGISTRATION: University Hospital Medical Information Network (UMIN) 
+Clinical Trials Registry, UMIN000033633. Registered on 3 July 2018.
+
+DOI: 10.1186/s13063-019-3847-9
+PMCID: PMC6907204
+PMID: 31829279
+
+Conflict of interest statement: TS received a stipend from Pfizer, Inc. ST has 
+received lecture fees from Boehringer Ingelheim, Astra-Zeneca, Taiho 
+Pharmaceutical, Ono Pharmaceutical, and JMDC Inc. He received consultation fees 
+from the Pharmaceuticals and Medical Devices Agency and DeNA Life Science and 
+outsourcing fees from the Public Health Research Foundation. ST has received 
+grants from the Japan Agency for Medical Research and Development, the Japanese 
+Ministry of Health, Labor and Welfare, and the Japanese Ministry of Education, 
+Culture, Sports, Science and Technology. He engaged in a research project of the 
+Japan Agency for Medical Research and Development. KK received honoraria from 
+Shin Nippon Biomedical Laboratories, Ltd.; research funds from Olympus 
+Corporation, Sumitomo Dainippon Pharma Co., Ltd., Bayer Yakuhin Ltd., Stella. 
+Pharma Corporation, Novartis Pharma K.K., CMIC Co., Ltd., Amgen Astellas 
+BioPharma K.K., Suntory Beverage & Food Ltd., and Medical Platform Co., Ltd.; 
+and holds stocks in School Health Record Center Co., Ltd. and Real World Data, 
+Co., Ltd. There are no patent products under development or marketed products to 
+declare that are relevant to those companies. TAF has received lecture fees from 
+Janssen, Meiji, Mitsubishi-Tanabe, MSD, and Pfizer. TAF has received research 
+support from Mitsubishi-Tanabe and Mochida. All other authors report that they 
+have no relationships to disclose that are relevant to the contents of this 
+paper.

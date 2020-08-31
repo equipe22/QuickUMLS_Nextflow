@@ -1,0 +1,46 @@
+342. J Am Med Inform Assoc. 2012 Jul-Aug;19(4):597-603. doi: 
+10.1136/amiajnl-2011-000622. Epub 2012 Mar 17.
+
+The SMART Platform: early experience enabling substitutable applications for 
+electronic health records.
+
+Mandl KD(1), Mandel JC, Murphy SN, Bernstam EV, Ramoni RL, Kreda DA, McCoy JM, 
+Adida B, Kohane IS.
+
+Author information:
+(1)Children's Hospital Informatics Program at Harvard-MIT Health Sciences and 
+Technology, Boston, Massachusetts, USA. kenneth_mandl@harvard.edu
+
+OBJECTIVE: The Substitutable Medical Applications, Reusable Technologies (SMART) 
+Platforms project seeks to develop a health information technology platform with 
+substitutable applications (apps) constructed around core services. The authors 
+believe this is a promising approach to driving down healthcare costs, 
+supporting standards evolution, accommodating differences in care workflow, 
+fostering competition in the market, and accelerating innovation.
+MATERIALS AND METHODS: The Office of the National Coordinator for Health 
+Information Technology, through the Strategic Health IT Advanced Research 
+Projects (SHARP) Program, funds the project. The SMART team has focused on 
+enabling the property of substitutability through an app programming interface 
+leveraging web standards, presenting predictable data payloads, and abstracting 
+away many details of enterprise health information technology systems. 
+Containers--health information technology systems, such as electronic health 
+records (EHR), personally controlled health records, and health information 
+exchanges that use the SMART app programming interface or a portion of 
+it--marshal data sources and present data simply, reliably, and consistently to 
+apps.
+RESULTS: The SMART team has completed the first phase of the project (a) 
+defining an app programming interface, (b) developing containers, and (c) 
+producing a set of charter apps that showcase the system capabilities. A focal 
+point of this phase was the SMART Apps Challenge, publicized by the White House, 
+using http://www.challenge.gov website, and generating 15 app submissions with 
+diverse functionality.
+CONCLUSION: Key strategic decisions must be made about the most effective market 
+for further disseminating SMART: existing market-leading EHR vendors, new 
+entrants into the EHR market, or other stakeholders such as health information 
+exchanges.
+
+DOI: 10.1136/amiajnl-2011-000622
+PMCID: PMC3384120
+PMID: 22427539 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None.

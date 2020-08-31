@@ -1,0 +1,44 @@
+274. J Digit Imaging. 2020 Feb 19. doi: 10.1007/s10278-020-00327-z. Online ahead of 
+print.
+
+Natural Language Processing in Dutch Free Text Radiology Reports: Challenges in 
+a Small Language Area Staging Pulmonary Oncology.
+
+Nobel JM(1)(2), Puts S(3), Bakers FCH(4), Robben SGF(4)(5), Dekker ALAJ(3).
+
+Author information:
+(1)Department of Radiology and Nuclear Medicine, Maastricht University Medical 
+Center+, Postbox 5800, 6202, Maastricht, AZ, Netherlands. martijn.nobel@mumc.nl.
+(2)School of Health Professions Education, Maastricht University, Maastricht, 
+Netherlands. martijn.nobel@mumc.nl.
+(3)Department of Radiation Oncology (MAASTRO), GROW School for Oncology and 
+Developmental Biology, Maastricht University Medical Center+, Maastricht, 
+Netherlands.
+(4)Department of Radiology and Nuclear Medicine, Maastricht University Medical 
+Center+, Postbox 5800, 6202, Maastricht, AZ, Netherlands.
+(5)School of Health Professions Education, Maastricht University, Maastricht, 
+Netherlands.
+
+Reports are the standard way of communication between the radiologist and the 
+referring clinician. Efforts are made to improve this communication by, for 
+instance, introducing standardization and structured reporting. Natural Language 
+Processing (NLP) is another promising tool which can improve and enhance the 
+radiological report by processing free text. NLP as such adds structure to the 
+report and exposes the information, which in turn can be used for further 
+analysis. This paper describes pre-processing and processing steps and 
+highlights important challenges to overcome in order to successfully implement a 
+free text mining algorithm using NLP tools and machine learning in a small 
+language area, like Dutch. A rule-based algorithm was constructed to classify 
+T-stage of pulmonary oncology from the original free text radiological report, 
+based on the items tumor size, presence and involvement according to the 8th TNM 
+classification system. PyContextNLP, spaCy and regular expressions were used as 
+tools to extract the correct information and process the free text. Overall 
+accuracy of the algorithm for evaluating T-stage was 0,83 in the training set 
+and 0,87 in the validation set, which shows that the approach in this pilot 
+study is promising. Future research with larger datasets and external validation 
+is needed to be able to introduce more machine learning approaches and perhaps 
+to reduce required input efforts of domain-specific knowledge. However, a hybrid 
+NLP approach will probably achieve the best results.
+
+DOI: 10.1007/s10278-020-00327-z
+PMID: 32076924

@@ -1,0 +1,29 @@
+272. Conf Proc IEEE Eng Med Biol Soc. 2016 Aug;2016:1991-1994. doi: 
+10.1109/EMBC.2016.7591115.
+
+S2NI: a mobile platform for nutrition monitoring from spoken data.
+
+Hezarjaribi N, Reynolds CA, Miller DT, Chaytor N, Ghasemzadeh H.
+
+Diet and physical activity are important lifestyle and behavioral factors in 
+self-management and prevention of many chronic diseases. Mobile sensors such as 
+accelerometers have been used in the past to objectively measure physical 
+activity or detect eating time. Diet monitoring, however, still relies on 
+self-recorded data by end users where individuals use mobile devices for 
+recording nutrition intake by either entering text or taking images. Such 
+approaches have shown low adherence in technology adoption and achieve only 
+moderate accuracy. In this paper, we propose development and validation of 
+Speech-to-Nutrient-Information (S2NI), a comprehensive nutrition monitoring 
+system that combines speech processing, natural language processing, and text 
+mining in a unified platform to extract nutrient information such as calorie 
+intake from spoken data. After converting the voice data to text, we identify 
+food name and portion size information within the text. We then develop a tiered 
+matching algorithm to search the food name in our nutrition database and to 
+accurately compute calorie intake. Due to its pervasive nature and ease of use, 
+S2NI enables users to report their diet routine more frequently and at anytime 
+through their smartphone. We evaluate S2NI using real data collected with 10 
+participants. Our experimental results show that S2NI achieves 80.6% accuracy in 
+computing calorie intake.
+
+DOI: 10.1109/EMBC.2016.7591115
+PMID: 28268720 [Indexed for MEDLINE]

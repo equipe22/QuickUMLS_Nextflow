@@ -1,0 +1,31 @@
+503. AMIA Jt Summits Transl Sci Proc. 2013 Mar 18;2013:47-9. eCollection 2013.
+
+Standard-based integration profiles for clinical research and patient safety.
+
+Daniel C(1), Erturkmen GB, Sinaci AA, Delaney BC, Curcin V, Bain L.
+
+Author information:
+(1)INSERM UMRS 872eq20, Paris, France; ; AP-HP, Paris France;
+
+EHRs can now be adapted to integrate seamlessly with existing research 
+platforms. However, key challenges need to be overcome in order to provide a 
+platform that functions across many EHR systems. The IHE Quality, Research and 
+Public Health (QRPH) domain addresses the information exchange standards 
+necessary to share information relevant to quality improvement in patient care 
+and clinical research. In collaboration with CDISC's Healthcare Link initiative, 
+IHE QRPH has developed a set of integration profiles that specifically address 
+EHR-enabled research. The panel participants from three European projects will 
+present how subsets of existing IHE QRPH profiles can be pulled together (and 
+extended when necessary) to form a super profile which will standardize and 
+automate the clinical trial process flow. The EHR4CR project is providing 
+adaptable, reusable and scalable tools and services for reusing data from 
+hospital EHRs for Clinical Research. TRANSFoRm is developing an informatics 
+infrastructure to support the learning healthcare system in European Primary 
+Care. SALUS project is providing scalable, standard based interoperability 
+framework for sustainable proactive post market safety studies. Overall, the 
+panel will discuss the key steps towards realizing a joint 
+EHR4CR/TRANSFoRm/SALUS European projectathon demonstrating EHR-enabled clinical 
+research across Europe using standard-based integration and content profiles.
+
+PMCID: PMC3845749
+PMID: 24303234

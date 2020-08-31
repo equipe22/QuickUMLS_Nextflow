@@ -1,0 +1,42 @@
+148. J Am Med Inform Assoc. 2014 Mar-Apr;21(2):299-307. doi: 
+10.1136/amiajnl-2012-001506. Epub 2013 Jun 27.
+
+A sense inventory for clinical abbreviations and acronyms created using clinical 
+notes and medical dictionary resources.
+
+Moon S(1), Pakhomov S, Liu N, Ryan JO, Melton GB.
+
+Author information:
+(1)Institute for Health Informatics, University of Minnesota, Minneapolis, 
+Minnesota, USA.
+
+OBJECTIVE: To create a sense inventory of abbreviations and acronyms from 
+clinical texts.
+METHODS: The most frequently occurring abbreviations and acronyms from 352,267 
+dictated clinical notes were used to create a clinical sense inventory. Senses 
+of each abbreviation and acronym were manually annotated from 500 random 
+instances and lexically matched with long forms within the Unified Medical 
+Language System (UMLS V.2011AB), Another Database of Abbreviations in Medline 
+(ADAM), and Stedman's Dictionary, Medical Abbreviations, Acronyms & Symbols, 4th 
+edition (Stedman's). Redundant long forms were merged after they were lexically 
+normalized using Lexical Variant Generation (LVG).
+RESULTS: The clinical sense inventory was found to have skewed sense 
+distributions, practice-specific senses, and incorrect uses. Of 440 
+abbreviations and acronyms analyzed in this study, 949 long forms were 
+identified in clinical notes. This set was mapped to 17,359, 5233, and 4879 long 
+forms in UMLS, ADAM, and Stedman's, respectively. After merging long forms, only 
+2.3% matched across all medical resources. The UMLS, ADAM, and Stedman's covered 
+5.7%, 8.4%, and 11% of the merged clinical long forms, respectively. The sense 
+inventory of clinical abbreviations and acronyms and anonymized datasets 
+generated from this study are available for public use at 
+http://www.bmhi.umn.edu/ihi/research/nlpie/resources/index.htm ('Sense 
+Inventories', website).
+CONCLUSIONS: Clinical sense inventories of abbreviations and acronyms created 
+using clinical notes and medical dictionary resources demonstrate challenges 
+with term coverage and resource integration. Further work is needed to help with 
+standardizing abbreviations and acronyms in clinical care and biomedicine to 
+facilitate automated processes such as text-mining and information extraction.
+
+DOI: 10.1136/amiajnl-2012-001506
+PMCID: PMC3932450
+PMID: 23813539 [Indexed for MEDLINE]

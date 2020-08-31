@@ -1,0 +1,39 @@
+38. BMC Bioinformatics. 2018 Aug 13;19(Suppl 9):285. doi: 10.1186/s12859-018-2275-2.
+
+Biomedical event extraction based on GRU integrating attention mechanism.
+
+Li L(1), Wan J(2), Zheng J(2), Wang J(2).
+
+Author information:
+(1)School of Computer Science and Technology, Dalian University of Technology, 
+Dalian, China. lilishuang314@163.com.
+(2)School of Computer Science and Technology, Dalian University of Technology, 
+Dalian, China.
+
+BACKGROUND: Biomedical event extraction is a crucial task in biomedical text 
+mining. As the primary forum for international evaluation of different 
+biomedical event extraction technologies, BioNLP Shared Task represents a trend 
+in biomedical text mining toward fine-grained information extraction (IE). The 
+fourth series of BioNLP Shared Task in 2016 (BioNLP-ST'16) proposed three tasks, 
+in which the Bacteria Biotope event extraction (BB) task has been put forward in 
+the earlier BioNLP-ST. Deep learning methods provide an effective way to 
+automatically extract more complex features and achieve notable results in 
+various natural language processing tasks.
+RESULTS: The experimental results show that the presented approach can achieve 
+an F-score of 57.42% in the test set, which outperforms previous 
+state-of-the-art official submissions to BioNLP-ST 2016.
+CONCLUSIONS: In this paper, we propose a novel Gated Recurrent Unit Networks 
+framework integrating attention mechanism for extracting biomedical events 
+between biotope and bacteria from biomedical literature, utilizing the corpus 
+from the BioNLP'16 Shared Task on Bacteria Biotope task. The experimental 
+results demonstrate the potential and effectiveness of the proposed framework.
+
+DOI: 10.1186/s12859-018-2275-2
+PMCID: PMC6101075
+PMID: 30367569 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: Not 
+applicable. CONSENT FOR PUBLICATION: Not applicable. COMPETING INTERESTS: The 
+authors declare that they have no competing interests. PUBLISHER’S NOTE: 
+Springer Nature remains neutral with regard to jurisdictional claims in 
+published maps and institutional affiliations.

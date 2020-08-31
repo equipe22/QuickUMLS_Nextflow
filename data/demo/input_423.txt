@@ -1,0 +1,36 @@
+423. IEEE Trans Biomed Eng. 2015 Dec;62(12):2776-86. doi: 10.1109/TBME.2015.2450181. 
+Epub 2015 Jun 26.
+
+METEOR: An Enterprise Health Informatics Environment to Support Evidence-Based 
+Medicine.
+
+Puppala M, He T, Chen S, Ogunti R, Yu X, Li F, Jackson R, Wong ST.
+
+GOAL: The aim of this paper is to propose the design and implementation of 
+next-generation enterprise analytics platform developed at the Houston Methodist 
+Hospital (HMH) system to meet the market and regulatory needs of the healthcare 
+industry.
+METHODS: For this goal, we developed an integrated clinical informatics 
+environment, i.e., Methodist environment for translational enhancement and 
+outcomes research (METEOR). The framework of METEOR consists of two components: 
+the enterprise data warehouse (EDW) and a software intelligence and analytics 
+(SIA) layer for enabling a wide range of clinical decision support systems that 
+can be used directly by outcomes researchers and clinical investigators to 
+facilitate data access for the purposes of hypothesis testing, cohort 
+identification, data mining, risk prediction, and clinical research training.
+RESULTS: Data and usability analysis were performed on METEOR components as a 
+preliminary evaluation, which successfully demonstrated that METEOR addresses 
+significant niches in the clinical informatics area, and provides a powerful 
+means for data integration and efficient access in supporting clinical and 
+translational research.
+CONCLUSION: METEOR EDW and informatics applications improved outcomes, enabled 
+coordinated care, and support health analytics and clinical research at HMH.
+SIGNIFICANCE: The twin pressures of cost containment in the healthcare market 
+and new federal regulations and policies have led to the prioritization of the 
+meaningful use of electronic health records in the United States. EDW and SIA 
+layers on top of EDW are becoming an essential strategic tool to healthcare 
+institutions and integrated delivery networks in order to support evidence-based 
+medicine at the enterprise level.
+
+DOI: 10.1109/TBME.2015.2450181
+PMID: 26126271 [Indexed for MEDLINE]

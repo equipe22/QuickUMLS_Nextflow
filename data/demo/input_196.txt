@@ -1,0 +1,60 @@
+196. J Biomed Inform. 2018 Apr;80:52-63. doi: 10.1016/j.jbi.2018.02.019. Epub 2018 
+Mar 1.
+
+A clinician friendly data warehouse oriented toward narrative reports: Dr. 
+Warehouse.
+
+Garcelon N(1), Neuraz A(2), Salomon R(3), Faour H(4), Benoit V(4), Delapalme 
+A(4), Munnich A(5), Burgun A(2), Rance B(6).
+
+Author information:
+(1)Institut Imagine, Paris Descartes Université Paris Descartes-Sorbonne Paris 
+Cité, Paris, France; INSERM, Centre de Recherche des Cordeliers, UMR 1138 Equipe 
+22, Université Paris Descartes, Sorbonne Paris Cité, Paris, France. Electronic 
+address: nicolas.garcelon@institutimagine.org.
+(2)INSERM, Centre de Recherche des Cordeliers, UMR 1138 Equipe 22, Université 
+Paris Descartes, Sorbonne Paris Cité, Paris, France; Department of Medical 
+informatics, Hôpital Necker-Enfant Malades, Assistance Publique des Hôpitaux de 
+Paris, Paris, France.
+(3)Institut Imagine, Paris Descartes Université Paris Descartes-Sorbonne Paris 
+Cité, Paris, France; Service de Néphrologie Pédiatrique, Hôpital Necker-Enfants 
+Malades, Assistance Publique-Hôpitaux de Paris (AP-HP), Université Paris 
+Descartes, Sorbonne Paris Cité, France.
+(4)Institut Imagine, Paris Descartes Université Paris Descartes-Sorbonne Paris 
+Cité, Paris, France.
+(5)Institut Imagine, Paris Descartes Université Paris Descartes-Sorbonne Paris 
+Cité, Paris, France; Département de génétique médicale, Hôpital Necker-Enfants 
+Malades, Assistance Publique-Hôpitaux de Paris (AP-HP), Université Paris 
+Descartes, Sorbonne Paris Cité, France; Centre de Référence des Maladies 
+Osseuses Constitutionnelles, INSERM UMR 1163, Laboratoire de bases moléculaires 
+et physiopathologiques de l'ostéochondrodysplasie, Paris Descartes-Sorbonne 
+Paris Cité University, AP-HP, Institut Imagine, 75015 Paris, France.
+(6)INSERM, Centre de Recherche des Cordeliers, UMR 1138 Equipe 22, Université 
+Paris Descartes, Sorbonne Paris Cité, Paris, France; Hôpital Européen Georges 
+Pompidou, Assistance Publique-Hôpitaux de Paris (AP-HP), Université Paris 
+Descartes, Sorbonne Paris Cité, France.
+
+INTRODUCTION: Clinical data warehouses are often oriented toward integration and 
+exploration of coded data. However narrative reports are of crucial importance 
+for translational research. This paper describes Dr. Warehouse®, an open source 
+data warehouse oriented toward clinical narrative reports and designed to 
+support clinicians' day-to-day use.
+METHOD: Dr. Warehouse relies on an original database model to focus on documents 
+in addition to facts. Besides classical querying functionalities, the system 
+provides an advanced search engine and Graphical User Interfaces adapted to the 
+exploration of text. Dr. Warehouse is dedicated to translational research with 
+cohort recruitment capabilities, high throughput phenotyping and patient centric 
+views (including similarity metrics among patients). These features leverage 
+Natural Language Processing based on the extraction of UMLS® concepts, as well 
+as negation and family history detection.
+RESULTS: A survey conducted after 6 months of use at the Necker Children's 
+Hospital shows a high rate of satisfaction among the users (96.6%). During this 
+period, 122 users performed 2837 queries, accessed 4,267 patients' records and 
+included 36,632 patients in 131 cohorts. The source code is available at this 
+github link https://github.com/imagine-bdd/DRWH. A demonstration based on PubMed 
+abstracts is available at https://imagine-plateforme-bdd.fr/dwh_pubmed/.
+
+Copyright © 2018 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jbi.2018.02.019
+PMID: 29501921 [Indexed for MEDLINE]

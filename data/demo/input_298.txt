@@ -1,0 +1,38 @@
+298. Comput Methods Programs Biomed. 2009 May;94(2):190-7. doi: 
+10.1016/j.cmpb.2008.12.006. Epub 2009 Jan 30.
+
+Arrowsmith two-node search interface: a tutorial on finding meaningful links 
+between two disparate sets of articles in MEDLINE.
+
+Smalheiser NR(1), Torvik VI, Zhou W.
+
+Author information:
+(1)Department of Psychiatry and Psychiatric Institute, MC912, University of 
+Illinois at Chicago, 1601W. Taylor Street, Chicago, IL 60612, USA. neils@uic.edu
+
+The Arrowsmith two-node search is a strategy that is designed to assist 
+biomedical investigators in formulating and assessing scientific hypotheses. 
+More generally, it allows users to identify biologically meaningful links 
+between any two sets of articles A and C in PubMed, even when these share no 
+articles or authors in common and represent disparate topics or disciplines. The 
+key idea is to relate the two sets of articles via title words and phrases 
+(B-terms) that they share. We have created a free, public web-based version of 
+the two-node search tool (http://arrowsmith.psych.uic.edu), have described its 
+development and implementation, and have presented analyses of individual 
+two-node searches. In this paper, we provide an updated tutorial intended for 
+end-users, that covers the use of the tool for a variety of potential scientific 
+use case scenarios. For example, one can assess a recent experimental, clinical 
+or epidemiologic finding that connects two disparate fields of 
+inquiry--identifying likely mechanisms to explain the finding, and choosing 
+promising follow-up lines of investigation. Alternatively, one can assess 
+whether the existing scientific literature lends indirect support to a 
+hypothesis posed by the user that has not yet been investigated. One can also 
+employ two-node searches to search for novel hypotheses. Arrowsmith provides a 
+service that cannot be carried out feasibly via standard PubMed searches or by 
+other available text mining tools.
+
+DOI: 10.1016/j.cmpb.2008.12.006
+PMCID: PMC2693227
+PMID: 19185946 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest statement. None declared.
