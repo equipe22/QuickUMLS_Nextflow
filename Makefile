@@ -17,7 +17,10 @@ build: ## Build dinstance
 createNetwork: ## createdocker Network
 	@bash bin/createNetwork.sh
 
-livedemo: ## live demo of quickumls client
+startServer: ## start quickumls server
+	@bash bin/startServer.sh
+
+liveDemo: ## live demo of quickumls client
 	@bash bin/client_demo.sh
 
 generate: ## generate nextflow conf and script files
