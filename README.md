@@ -7,6 +7,24 @@ tested With UMLS2018AA data
 
 Maintainer :  Alice ROGIER <alice.rogier-ext@aphp.fr>
 
+# REQUIREMENTS:
+docker https://docs.docker.com/engine/install/
+
+nextflow https://www.nextflow.io/
+
+
+# Dataset
+located on the data folder:
+are the result of the  pubmed request from 2000 to 2019
+
+("EHR" or "biomedical NLP" or "clinical NLP" or "clinical natural language processing" or
+"natural language processing" OR "NLP" OR "natural language processing") AND
+("system" or "framework" or "tool" or "workflow" or "pipeline" or "architecture")
+and ("text mining" or "platform")
+
+each result is put on a separated file
+
+
 # How to use
 
 ## 1) Download MRSTY.RRF and MRCONSO.RRF in the UMLS folder.
@@ -42,6 +60,6 @@ NB: It will take as input data in folder data
 
 An example of client, server interaction is located on src/quickumls_main.py
 
-    python3 /home/quickumls/src/quickumls_main.py --inputFile demo.txt --serverName quickumlsserver
 
+ python3 /home/quickumls/src/client.py --serverName quickumlsserver --inputFile /home/quickumls/tmp/demo/input_1.txt 
 
