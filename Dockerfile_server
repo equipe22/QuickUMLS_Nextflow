@@ -1,0 +1,29 @@
+FROM python:3.7-slim
+
+MAINTAINER Alice ROGIER <alice.rogier-ext@aphp.fr>
+ENV WD /home/quickumls
+
+RUN apt-get update
+RUN apt-get install -y python3-dev gcc g++
+
+RUN pip install quickumls nltk six
+COPY bin/installstopword.py .
+RUN python3 installstopword.py
+
+# COPYING UMLS FILES
+RUN mkdir /home/quickumls
+
+WORKDIR /home/quickumls
+
+
+RUN mkdir $WD/config
+RUN mkdir $WD/umls_data
+
+COPY UMLS/ umls_data/
+
+RUN python -m quickumls.install -L -U umls_data/ config/
+WORKDIR workdirectory
+EXPOSE 4645
+#https://pythonspeed.com/articles/docker-connection-refused/
+CMD ["python","-m","quickumls.server","/home/quickumls/config/","-P","4645", "-H", "0.0.0.0"]
+
