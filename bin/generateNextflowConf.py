@@ -65,9 +65,13 @@ thisPath= os.getcwd()
 
 resPath=thisPath+"/results"
 dataPath=thisPath+"/data/demo/*txt"
+scriptPath=thisPath+"/nfscript"
 print(resPath)
 if not os.path.exists(resPath):
     os.makedirs(resPath)
+
+if not os.path.exists(scriptPath):
+    os.makedirs(scriptPath)
 
 nextflowConfig = nextflowConfig.replace("RESULTPATH",resPath)
 nextflowScript =nextflowScript.replace("RESULTPATH",resPath).replace("FILESPATH",dataPath)
@@ -77,7 +81,7 @@ configFile.close()
 print("Nextflow config is written")
 
 
-scriptFile=open("src/demo_nlp.nf","w")
+scriptFile=open("nfscript/demo_nlp.nf","w")
 scriptFile.write(nextflowScript)
 scriptFile.close()
 print("Nextflow Script is written")
